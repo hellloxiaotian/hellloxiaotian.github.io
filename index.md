@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to home of Dr. Chunwei Tian
 
-You can use the [editor on GitHub](https://github.com/hellloxiaotian/hellloxiaotian.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Home（首页）
+#### Biography (简介)
+#### Research Interests (研究兴趣)
+#### Main Contributions for Computer Vision (主要贡献)
+#### News（新闻）
+#### Collaborators (合作者)
+#### Cooperation and Communication (合作交流)
+#### Joint Supervisor  for Students (协助指导学生)
+#### Academic Activities （学术活动）
+#### Education （教育背景）
+#### Awards （奖励）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Publications （出版物）
+#### Journal papers (期刊 论文)
+#### Conference papers (会议论文)
+#### Patents (专利)
+#### Software Copyright (软著)
+#### Projects  (项目)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hellloxiaotian/hellloxiaotian.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### News （新闻）

@@ -1,4 +1,3 @@
-## Welcome to home of Dr. Chunwei Tian
 
 ### Home（首页）
 #### Biography (简介)

@@ -375,4 +375,4 @@ Xiaorui Li, Postgraduates, [Harbin University of Science and Technology](http://
 
 
 ### Supporter
-This homepage is supporteC by Menghua Zheng in June, 2021. 
+This homepage is supporte by Menghua Zheng in June, 2021. 

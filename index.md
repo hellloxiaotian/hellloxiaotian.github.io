@@ -294,65 +294,72 @@ ACAIT 2018 (EI)
 ## Team Members (团队成员)
 
 ### Joint Supervisor  for Postgraduates (硕士生)
+<div class="box">
+    <div class="img">
+     <img src="picture/Jiagang Song.jpg" >
+     <div class="desc_blank"> </div>
+     <div class="desc">Jiagang Song, <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
+     <div class="desc_blank_2"> </div> 
+    </div>
 
-<div class="img">
- <img src="picture/Jiagang Song.jpg" >
- <div class="desc_blank"> </div>
- <div class="desc">Jiagang Song, <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
- <div class="desc_blank_2"> </div> 
+    <div class="img">
+                 <img src="picture/Jingyu Xiao.jpg" >
+                 <div class="desc_blank"> </div>
+                 <div class="desc">Jingyu Xiao,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
+                 <div class="desc_blank_2"> </div>
+     </div>
 </div>
 
-<div class="img">
-             <img src="picture/Jingyu Xiao.jpg" >
-             <div class="desc_blank"> </div>
-             <div class="desc">Jingyu Xiao,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
-             <div class="desc_blank_2"> </div>
- </div>
- 
- <div class="img">
-  <img src="picture/Menghua Zheng.jpg" >
-  <div class="desc_blank"> </div>
-  <div class="desc"> Menghua Zheng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  <div class="desc_blank_2"> </div>
- </div>
- 
-<div class="img">
- <img src="picture/Jiaxin Wang.png" >
- <div class="desc_blank"> </div>
- <div class="desc"> Jiaxin Wang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
- <div class="desc_blank_2"> </div>
+<div class="box"> 
+     <div class="img">
+      <img src="picture/Menghua Zheng.jpg" >
+      <div class="desc_blank"> </div>
+      <div class="desc"> Menghua Zheng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+      <div class="desc_blank_2"> </div>
+     </div>
+
+    <div class="img">
+     <img src="picture/Jiaxin Wang.png" >
+     <div class="desc_blank"> </div>
+     <div class="desc"> Jiaxin Wang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+     <div class="desc_blank_2"> </div>
+    </div>
 </div>
- 
-<div class="img">
- <img src="picture/Xuanyu Zhang.png" >
- <div class="desc_blank"> </div>
- <div class="desc">  Xuanyu Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
- <div class="desc_blank_2"> </div>
-</div>
-     
- <div class="img">
-  <img src="picture/Wending Chen.png" >
-  <div class="desc_blank"> </div>
-  <div class="desc"> Wending Chen, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  <div class="desc_blank_2"> </div>
+
+<div class="box">
+  <div class="img">
+   <img src="picture/Xuanyu Zhang.png" >
+   <div class="desc_blank"> </div>
+   <div class="desc">  Xuanyu Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   <div class="desc_blank_2"> </div>
   </div>
  
-### Joint Supervisor for Undergraduates (本科生)
+  <div class="img">
+   <img src="picture/Wending Chen.png" >
+   <div class="desc_blank"> </div>
+   <div class="desc">  Wending Chen, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   <div class="desc_blank_2"> </div>
+  </div>
  
-<div class="img">
- <img src="picture/Tian Cheng Xiong.jpg" >
- <div class="desc_blank"> </div>
- <div class="desc">  Tianchen Xiong, <a href = "http://www.hitsz.edu.cn/index.html">Harbin Institute of Technology, Shenzhen</a>, China</div>
- <div class="desc_blank_2"> </div> 
- </div>
-     
-<div class="img" width = "50%">
- <img src="picture/Zhibo Wang.jpg" >
- <div class="desc_blank"> </div>
- <div class="desc"> Zhibo Wang,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
- <div class="desc_blank_2"> </div>
-</div>
+</div>     
+ 
+### Joint Supervisor for Undergraduates (本科生)
 
+<div class="box">
+    <div class="img">
+     <img src="picture/Tian Cheng Xiong.jpg" >
+     <div class="desc_blank"> </div>
+     <div class="desc">  Tianchen Xiong, <a href = "http://www.hitsz.edu.cn/index.html">Harbin Institute of Technology, Shenzhen</a>, China</div>
+     <div class="desc_blank_2"> </div> 
+     </div>
+
+    <div class="img" width = "50%">
+     <img src="picture/Zhibo Wang.jpg" >
+     <div class="desc_blank"> </div>
+     <div class="desc"> Zhibo Wang,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
+     <div class="desc_blank_2"> </div>
+    </div>
+</div>
 ### Joint supervisor for former students (协助指导-已毕业学生)
 Yibing Tang, Undergraduate, [Harbin Institute of Technology, Shenzhen](http://www.google.com/url?q=http%3A%2F%2Fwww.hitsz.edu.cn%2Findex.html&sa=D&sntz=1&usg=AFQjCNFLsYIQ7qGqKGr_3MzQ5KcRSMkKPQ), China
 

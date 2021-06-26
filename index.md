@@ -293,7 +293,7 @@ ACAIT 2018 (EI)
 
 ## Team Members (团队成员)
 
-### Joint Supervisor  for Postgraduates (硕士生)
+### Supervisor  for Postgraduates (硕士生)
 <div class="box">
     <div class="img">
      <img src="picture/Jiagang Song.jpg" >

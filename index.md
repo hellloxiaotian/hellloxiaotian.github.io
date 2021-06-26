@@ -343,7 +343,7 @@ ACAIT 2018 (EI)
  
 </div>     
  
-### Joint Supervisor for Undergraduates (本科生)
+### Supervisor for Undergraduates (本科生)
 
 <div class="box">
     <div class="img">
@@ -372,3 +372,7 @@ Qi Tang, Master, [Shenzhen Unversity ](https://www.google.com/url?q=https%3A%2F%
 Jidong Wang, Master, [Shenzhen Unversity ](https://www.google.com/url?q=https%3A%2F%2Fen.szu.edu.cn%2F&sa=D&sntz=1&usg=AFQjCNEIPlaNz9hayUPw3Qo8wRX0W5NcUQ), China
 
 Xiaorui Li, Postgraduates, [Harbin University of Science and Technology](http://www.google.com/url?q=http%3A%2F%2Fwww.hrbust.edu.cn%2F&sa=D&sntz=1&usg=AFQjCNF6zAYTGToDM2AoBW0ItJAUdUb2Lw), China
+
+
+### Supporter
+This homepage is supporteC by Menghua Zheng in June, 2021. 

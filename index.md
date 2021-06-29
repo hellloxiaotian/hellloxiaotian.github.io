@@ -27,6 +27,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (新闻)
 
+- **2020-06:** [CFSRCNN](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9105085&sa=D&sntz=1&usg=AFQjCNHwF_ajw6cyVFSOXuPi36HzR4A1Kg) is reported by the  [CCF MM](https://mp.weixin.qq.com/s/-rUmRDFbPvKMjU0EIYV3Rg).  
 - **2020-06:** A journal paper is accepted to  Multimedia Tools and Applications.  
 - **2021-06:** Interview invitation of global talents acquisition specialist of HUAWEI.
 - **2021-06:** An invention patent is authorized by China. 

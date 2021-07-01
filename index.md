@@ -113,7 +113,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 [Bob Zhang](http://www.google.com/url?q=http%3A%2F%2Fwww.cis.umac.mo%2F~bobzhang%2F&sa=D&sntz=1&usg=AFQjCNEeK6VR-9q9pcg07qr6i5KYGbQuDg), Associate Professor, University of Macau, China
 
-[Chen Chen](https://www.google.com/url?q=https%3A%2F%2Fwebpages.uncc.edu%2Fcchen62%2F&sa=D&sntz=1&usg=AFQjCNEnTw8iFyd5jSPKPzC46M0YS2xgOQ),  Assistant Professor,  University of North Carolina at Charlotte, USA 
+[Chen Chen](https://www.google.com/url?q=https%3A%2F%2Fwebpages.uncc.edu%2Fcchen62%2F&sa=D&sntz=1&usg=AFQjCNEnTw8iFyd5jSPKPzC46M0YS2xgOQ),  Assistant Professor,  University of Central Florida, USA 
 
 [Yixuan Yuan](http://www.google.com/url?q=http%3A%2F%2Fwww.ee.cityu.edu.hk%2F~yxyuan%2F&sa=D&sntz=1&usg=AFQjCNH0yllgbV1PMQH9pBTE7ghRqy9FQQ), Assistant Professor, City University of Hong Kong, China
 

@@ -26,7 +26,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 <br/>
 
 ## Recruitment (招生)
-- **2021-07:** Recruiting excellent master students or RA students joins my group. Also, my email is chunweitian@163.com. 
+- **2021-07:** Recruiting excellent master students for 2022, RA students and undergraduates joins my group. Also, my email is chunweitian@163.com. 
 
 ## News (新闻)
 - **2021-06:** [CFSRCNN](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9105085&sa=D&sntz=1&usg=AFQjCNHwF_ajw6cyVFSOXuPi36HzR4A1Kg) is reported by the  [CCF MM](https://mp.weixin.qq.com/s/-rUmRDFbPvKMjU0EIYV3Rg).  

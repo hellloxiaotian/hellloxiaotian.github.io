@@ -10,7 +10,7 @@
 
 ## Reported papers (受报道论文)
 - **Tian C,**  Xu Y,   Zuo W ,  Zhang B , Fei L , Lin C. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia, 23, 1489-1502, 2021.  [[pdf](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D9105085&sa=D&sntz=1&usg=AFQjCNFcz7BySBGHJl0HApsS97YmJ6LqTg)][[code]
-(https://github.com/hellloxiaotian/CFSRCNN)]
+(https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FCFSRCNN&sa=D&sntz=1&usg=AFQjCNHlCxENhg22fZ6xAG21NhNmPyVtNQ)]
 - **Tian C**, Xu Y, Zuo W, Du B, Lin C, Zhang D.  Designing and Training of A Dual CNN for Image Denoising [J].  Knowledge-Based Systems, 226:106949, 2021. [[pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0950705121002124&sa=D&sntz=1&usg=AFQjCNEuCrCiP2SSkX_UblRds3HsfMI54A)][[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FDudeNet&sa=D&sntz=1&usg=AFQjCNFZQCr3RALWLVzISQC0yBjzQsgL5A)] (CCF C/SCI-IF:8.038)
 - **Tian C**, Xu Y, Zuo W, Lin C, Zhang D. Asymmetric CNN for image super-resolution [J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2021. (SCI-IF:13.451)[[pdf](https://ieeexplore.ieee.org/abstract/document/9420448)][[code](https://github.com/hellloxiaotian/ACNet)] (Accepted in 2021)(Acceptance rate of 10%)
 - **Tian C**, Fei L,  Zheng W, Xu Y,  Zuo W,  Lin C. Deep Learning on Image Denoising: An overview[J]. Neural Networks,131, 251-275, 2020.   [[pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608020302665%3Fvia%3Dihub&sa=D&sntz=1&usg=AFQjCNFLJOTu0vrkv7uGnPFyl6JJVIhRxQ)] (CCF B/SCI-IF:8.05) (**Homepage pape**r)

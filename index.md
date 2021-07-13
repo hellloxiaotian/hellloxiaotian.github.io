@@ -26,7 +26,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 <br/>
 
 ## Recruitment (招生)
-- **2021-07:** Recruiting excellent master students for 2022, RA students and undergraduates joins my group. Also, my email is chunweitian@163.com. 
+- **2021-07:** Recruiting excellent master students for 2022, RA students and undergraduates joins my group, which is a joint guidance by the CityU, Harbin Institute of Technology, Center South University and Northwestern Polytechnical University. Also, my email is chunweitian@163.com. 
 
 ## News (新闻)
 - **2021-07:** Codes of [DudeNet](https://github.com/hellloxiaotian/DudeNet) and [ACNet](https://github.com/hellloxiaotian/ACNet) are released by the [GitHub](https://github.com/hellloxiaotian).

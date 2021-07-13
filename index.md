@@ -102,9 +102,9 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 [Wangmeng Zuo](http://www.google.com/url?q=http%3A%2F%2Fhomepage.hit.edu.cn%2Fwangmengzuo&sa=D&sntz=1&usg=AFQjCNGQaE8hhMX2VCb3rqbNohhgCVe1HA), Professor, Harbin Insitute of Technology, China (National Talents)
 
-[Chia-Wen Lin](https://www.google.com/url?q=https%3A%2F%2Fwww.ee.nthu.edu.tw%2Fcwlin%2F&sa=D&sntz=1&usg=AFQjCNElbF2cUwFl9pKODT1zwVKgzigBYA), Professor, IEEE Fellow, National Tsing Hua University, Taiwan 
+[Chia-Wen Lin](https://www.google.com/url?q=https%3A%2F%2Fwww.ee.nthu.edu.tw%2Fcwlin%2F&sa=D&sntz=1&usg=AFQjCNElbF2cUwFl9pKODT1zwVKgzigBYA), Professor, IEEE Fellow, National Tsing Hua University, Taiwan  （International Multimedia Expert）
 
-[David Zhang](http://www.google.com/url?q=http%3A%2F%2Fwww4.comp.polyu.edu.hk%2F~csdzhang%2F&sa=D&sntz=1&usg=AFQjCNGAQCD-bNdmz_OgULN-krgC99ENNg), Professor,   IEEE Life Fellow/IAPR Fellow/ Fellow of Royal Society of Canada (FRSC) , The Chinese University of Hong Kong, Shenzhen , China (National Talents)
+[David Zhang](http://www.google.com/url?q=http%3A%2F%2Fwww4.comp.polyu.edu.hk%2F~csdzhang%2F&sa=D&sntz=1&usg=AFQjCNGAQCD-bNdmz_OgULN-krgC99ENNg), Professor,   IEEE Life Fellow/IAPR Fellow/Fellows of both Royal Societ of Canada and Canadian Academy of Engineering, The Chinese University of Hong Kong, Shenzhen , China (National Talents)
 
 [Jian Yang](https://scholar.google.com/citations?hl=zh-CN&user=6CIDtZQAAAAJ), Professor, IAPR Fellow, Nanjing University of Science and Technology, China (National Talents)
 

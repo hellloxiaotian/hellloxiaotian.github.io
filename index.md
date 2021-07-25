@@ -196,6 +196,8 @@ Artificial Intelligence In Medicine (SCI)
 
 Biomedical Signal Processing and Control (SCI)
 
+BMC Medical Research Methodology (SCI)
+
 Journal of Visual Communication and Image Representation (SCI)
 
 Journal of Central South University （SCI）
@@ -221,7 +223,7 @@ Progress in Artificial Intelligence
 Scientific Reports
 
 ISCAS 2021: International Symposium on Circuits and Systems (EI)
-
+18th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2021) (EI)
 The 4th International Conference on Computer Science and Application Engineering (CSAE 2020) （EI）
 
 18th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2020)  (EI)

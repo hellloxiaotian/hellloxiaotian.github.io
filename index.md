@@ -341,7 +341,6 @@ ACAIT 2018 (EI)
    <div class="desc_blank_2"> </div>
   </div>
  
- <div class="box">
   <div class="img">
    <img src="picture/Jiaxin Wang.png" >
    <div class="desc_blank"> </div>

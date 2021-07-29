@@ -37,9 +37,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2021-06:** An invention patent is authorized by China. 
 - **2021-05:** I am invited as an online reporter at the City University of Hong Kong (CityU), China. 
 - **2021-05:** [ A journal paper](https://www.google.com/url?q=https%3A%2F%2Fwww.journals.elsevier.com%2Fneural-networks%2Fmost-downloaded-articles&sa=D&sntz=1&usg=AFQjCNHi2NET0ceNhKMrg4yHea34kx_UNQ) becomes top five papers on the homepage of the Neural Networks. 
-- **2021-05:** Wending joins my group. 
 - **2021-05:** Xuanyu joins my group. 
-- **2021-05:** Jiaxin joins my group. 
 - **2021-05:** Menghua joins my group. 
 - **2021-05:** Attention-guided CNN for image denoising [(ADNet)](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fabs%2Fpii%2FS0893608019304241&sa=D&sntz=1&usg=AFQjCNFyaeYjBhOvtfck-FBnoaCY3WaVxw) becomes a highly cited paper. 
 - **2021-05:** Codes of two papers ([DudeNet ](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FDudeNet&sa=D&sntz=1&usg=AFQjCNFZQCr3RALWLVzISQC0yBjzQsgL5A)and [ACNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FACNet&sa=D&sntz=1&usg=AFQjCNF4RjRqPzshJRDjuAViMT9981FpQw)) will be released. 

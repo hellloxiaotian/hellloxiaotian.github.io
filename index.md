@@ -366,6 +366,7 @@ ACAIT 2018 (EI)
      <div class="desc_blank_2"> </div>
     </div>
 </div>
+
 ### Joint supervisor for former students (协助指导-已毕业学生)
 Yibing Tang, Undergraduate, [Harbin Institute of Technology, Shenzhen](http://www.google.com/url?q=http%3A%2F%2Fwww.hitsz.edu.cn%2Findex.html&sa=D&sntz=1&usg=AFQjCNFLsYIQ7qGqKGr_3MzQ5KcRSMkKPQ), China
 

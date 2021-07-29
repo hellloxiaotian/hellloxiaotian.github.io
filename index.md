@@ -324,15 +324,7 @@ ACAIT 2018 (EI)
       <div class="desc"> Menghua Zheng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
       <div class="desc_blank_2"> </div>
      </div>
-
-    <div class="img">
-     <img src="picture/Jiaxin Wang.png" >
-     <div class="desc_blank"> </div>
-     <div class="desc"> Jiaxin Wang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-     <div class="desc_blank_2"> </div>
-    </div>
-</div>
-
+ 
 <div class="box">
   <div class="img">
    <img src="picture/Xuanyu Zhang.png" >

@@ -180,6 +180,7 @@ IEEE Transactions on Systems, Man and Cybernetics:  Systems (IEEE TSMC)（SCI）
 IEEE Transactions on Multimedia (IEEE TMM) (SCI)
 
 Neural Networks（SCI）
+Information Fusion (SCI)
 
 Computer Vision and Image Understanding（SCI）
 

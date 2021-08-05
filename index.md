@@ -123,6 +123,12 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## Cooperation and Communication (合作与交流) 
 
+[Yuexian Zhou](http://www.ece.pku.edu.cn/info/1012/1092.htm), Professor, Peking Unversity, China
+
+[Ping Zhong](https://scholar.google.com.hk/citations?hl=en&user=xQWYZn4AAAAJ), Professor, National University of Defense Technology, China 
+
+[Zheng Wang](http://cs.whu.edu.cn/teacherinfo.aspx?id=460), Professor, Wuhan University, China 
+
 [Wenqi Ren](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Frenwenqi888%2Fhome&sa=D&sntz=1&usg=AFQjCNE7LvXLhEjHpCbb-T0RptVd_7k23w),  Associate Professor, [Chinese Academy of Sciences](https://scholar.google.com/citations?view_op=view_org&hl=zh-CN&org=14461968064144864497), China
 
 [Dongwei Ren](https://scholar.google.com/citations?hl=zh-CN&user=pKmdGZgAAAAJ),  Associate Professor, Harbin Institute of Technology, China  
@@ -131,9 +137,17 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 [Keke Huang](http://www.google.com/url?q=http%3A%2F%2Ffaculty.csu.edu.cn%2Fhuangkeke%2Fzh_CN%2Findex.htm&sa=D&sntz=1&usg=AFQjCNHDZc_W2kJcG6l2RTY1mVO_LqW4Fw),   Associate Professor,  Central South University, China 
 
+[Tao Wang](https://teacher.nwpu.edu.cn/twang), Associate Professor,  Northwestern Polytechnical University, China 
+
+[Yayun Cheng](https://scholar.google.com.hk/citations?hl=en&user=clvDxsYAAAAJ), Associate Professor, Harbin Institute of Technology, China
+
+[Chengyuan Zhang](http://csee.hnu.edu.cn/people/zhangchengyuan),  Associate Professor, Hunan University, China 
+
 [Gongning Luo](https://scholar.google.com/citations?user=xclGEuwAAAAJ&hl=en),  Assistant Professor,  Harbin Institute of Technology, China
 
 [Zhiyuan Zha](https://scholar.google.com/citations?hl=zh-CN&user=JgiasCAAAAAJ), Post-Doctor,  Nanyang Technological University,Singapore
+
+[Cong Wang](https://congwang0705.github.io/), Assistant Professor, Northwestern Polytechnical University, China 
 
 Kan Huang,  Post-Doctor,  Peking University and Assistant Professor, Shanghai  Maritime University, China
 

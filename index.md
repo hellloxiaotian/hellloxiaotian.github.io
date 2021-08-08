@@ -29,6 +29,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2021-07:** Recruiting excellent master students for 2022, RA students and undergraduates joins my group, which is a joint guidance by the CityU, Harbin Institute of Technology, Center South University and Northwestern Polytechnical University. Also, my email is chunweitian@163.com or chunweitian@nwpu.edu.cn. 
 
 ## News (消息)
+- **2021-08:** I am invited as a PC by the ACAIT 2021. 
 - **2021-07:** [Attention-guided CNN for image denoising](https://www.sciencedirect.com/science/article/abs/pii/S0893608019304241) is rated as the most cited paper on the homepage by the [Neural Networks](https://www.journals.elsevier.com/neural-networks/most-cited-articles).
 - **2021-07:** Codes of [DudeNet](https://github.com/hellloxiaotian/DudeNet) and [ACNet](https://github.com/hellloxiaotian/ACNet) are released by the [GitHub](https://github.com/hellloxiaotian).
 - **2021-06:** [CFSRCNN](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9105085&sa=D&sntz=1&usg=AFQjCNHwF_ajw6cyVFSOXuPi36HzR4A1Kg) is reported by the  [CCF MM](https://mp.weixin.qq.com/s/-rUmRDFbPvKMjU0EIYV3Rg).  

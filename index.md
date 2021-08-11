@@ -126,7 +126,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## Cooperation and Communication (合作与交流) 
 
-[Yuexian Zhou](http://www.ece.pku.edu.cn/info/1012/1092.htm), Professor, Peking Unversity, China
+[Yuexian Zou](http://www.ece.pku.edu.cn/info/1012/1092.htm), Professor, Peking Unversity, China
 
 [Ping Zhong](https://scholar.google.com.hk/citations?hl=en&user=xQWYZn4AAAAJ), Professor, National University of Defense Technology, China 
 

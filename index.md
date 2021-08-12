@@ -174,7 +174,11 @@ Chaoqun Duan, PhD Candidate,  Harbin Institute of Technology, China
 
 CCF  Member/IEEE  Member/ CAAI Member/SAAI Member
 
+Associate editor for the International Journal of Image and Graphics 
+
 Associate editor for the Journal of Electrical and Elctronic Engineering 
+
+ The 5rd Conference on Artificial Intelligence Technology (ACAIT 2021) PC
 
 The 19th IEEE International Conference on Dependable, Autonomic and  Secure Computing (IEEE DASC 2021) Program committee member 
 

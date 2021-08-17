@@ -67,7 +67,7 @@
 
 ## Projects (项目)
 
-1.  Research on intelligent object detectin system, 2021.09- 
+1.  Research on intelligent object detectin method, 2021.09- 
 2.  National Nature ScienceFoundation of China Gant No. 61876051.
 3.  ShenzhenKey Laboratory of Visual Object Detection and Recognition under Grant No. ZDSYS20190902093015527. 
 4.  Shenzhen Science and technology innovation Commission  under Grant No. JSGG20190220153602271.

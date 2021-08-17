@@ -67,10 +67,11 @@
 
 ## Projects (项目)
 
-1.  National Nature ScienceFoundation of China Gant No. 61876051.
-2.  ShenzhenKey Laboratory of Visual Object Detection and Recognition under Grant No. ZDSYS20190902093015527. 
-3.  Shenzhen Science and technology innovation Commission  under Grant No. JSGG20190220153602271.
-4.  2016.1-2017.02 National Natural Science Foundation of China Youth Fund funded projects (61502123)—Research on Multi-core program complicating error elimination method.
-5.  2015.7-2015.12 Heilongjiang Science Foundation Project (QC2015084)—Research based on Multi-core processor fault  diagnosis method of deterministic repetition.
-6.  2013.12-2015.07 The Cooperation Project of Harbin University of Science and Technology and Beijing Aerospace System Engineering Research—The implementations and design of network flow classification.
-7.  2012.04-2013.10 The Innovative Project of Undergraduate of Heilongjiang Province—The implementations and design of  network down-hole monitoring system.
+1.  Research on intelligent object detectin system, 2021.09- 
+2.  National Nature ScienceFoundation of China Gant No. 61876051.
+3.  ShenzhenKey Laboratory of Visual Object Detection and Recognition under Grant No. ZDSYS20190902093015527. 
+4.  Shenzhen Science and technology innovation Commission  under Grant No. JSGG20190220153602271.
+5.  2016.1-2017.02 National Natural Science Foundation of China Youth Fund funded projects (61502123)—Research on Multi-core program complicating error elimination method.
+6.  2015.7-2015.12 Heilongjiang Science Foundation Project (QC2015084)—Research based on Multi-core processor fault  diagnosis method of deterministic repetition.
+7.  2013.12-2015.07 The Cooperation Project of Harbin University of Science and Technology and Beijing Aerospace System Engineering Research—The implementations and design of network flow classification.
+8.  2012.04-2013.10 The Innovative Project of Undergraduate of Heilongjiang Province—The implementations and design of  network down-hole monitoring system.

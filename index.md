@@ -201,6 +201,7 @@ IEEE Transactions on Systems, Man and Cybernetics:  Systems (IEEE TSMC)（SCI）
 IEEE Transactions on Multimedia (IEEE TMM) (SCI)
 
 Neural Networks（SCI）
+
 Information Fusion (SCI)
 
 Computer Vision and Image Understanding（SCI）
@@ -236,6 +237,8 @@ CAAI Transactions on Intelligence Technology  （EI）
 International Journal of Biometrics
 
 International Journal of Image and Graphics
+
+Bulletin of Electrical Engineering and Informatics
 
 SN Applied Sciences
 

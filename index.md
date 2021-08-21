@@ -128,7 +128,8 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 [Yixuan Yuan](http://www.google.com/url?q=http%3A%2F%2Fwww.ee.cityu.edu.hk%2F~yxyuan%2F&sa=D&sntz=1&usg=AFQjCNH0yllgbV1PMQH9pBTE7ghRqy9FQQ), Assistant Professor, City University of Hong Kong, China
 
-[Jiajie Peng](https://teacher.nwpu.edu.cn/peng.html), Associate Professor,  Northwestern Polytechnical University, China 
+[Jiajie Peng](https://teacher.nwpu.edu.cn/peng.html), Associate Professor,  Northwestern Polytechnical University, China
+
 [Tao Wang](https://teacher.nwpu.edu.cn/twang), Associate Professor,  Northwestern Polytechnical University, China 
 
 <br/>

@@ -388,7 +388,7 @@ ACAIT 2018 (EI)
      <div class="img">
      <img src="picture/Yingpeng Ma.jpg" >
      <div class="desc_blank"> </div>
-     <div class="desc">  Yingpeng Ma.jpg, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+     <div class="desc">  Yingpeng Ma, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
      <div class="desc_blank_2"> </div> 
      </div>
 </div>

@@ -29,6 +29,8 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2021-07:** Recruiting excellent master students for 2022, RA students and undergraduates joins my group, which is a joint guidance by the CityU, Harbin Institute of Technology, Center South University and Northwestern Polytechnical University. Also, my email is chunweitian@163.com or chunweitian@nwpu.edu.cn. 
 
 ## News (消息)
+- **2021-09:** Jian Li joins my group. 
+- **2021-08:** Yingpeng joins my group. 
 - **2021-08:** A journal paper is accepted by Briefing in bioinformatics (IF:11.622).
 - **2021-08:** I am invited to join the project of Video Super Resolution Benchmark.
 - **2021-08:** I am invited as an associate editor （AE） by the *International Journal of Image and Graphics*.
@@ -207,6 +209,8 @@ IEEE Transactions on Industrial Informatics  (IEEE TII)（SCI）
 IEEE Transactions on Systems, Man and Cybernetics:  Systems (IEEE TSMC)（SCI）
 
 IEEE Transactions on Multimedia (IEEE TMM) (SCI)
+
+IEEE Transactions on Asian and Low-Resource Language Information Processing (SCI)
 
 Neural Networks（SCI）
 

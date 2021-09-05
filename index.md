@@ -366,6 +366,13 @@ ACAIT 2018 (EI)
    <div class="desc">  Xuanyu Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
    <div class="desc_blank_2"> </div>
   </div>
+ 
+   <div class="img">
+   <img src="picture/Jian Li.jpg" >
+   <div class="desc_blank"> </div>
+   <div class="desc">  Jian Li, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   <div class="desc_blank_2"> </div>
+  </div>
 </div> 
  
 ### Supervisor for Undergraduates (本科生)

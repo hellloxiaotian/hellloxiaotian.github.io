@@ -68,12 +68,13 @@
 
 ## Projects (项目)
 
-1.  Research on intelligent object detectin method, 2021.09- 
-2.  National Nature ScienceFoundation of China Gant No. 61876051.
-3.  ShenzhenKey Laboratory of Visual Object Detection and Recognition under Grant No. ZDSYS20190902093015527. 
-4.  Shenzhen Science and technology innovation Commission  under Grant No. JSGG20190220153602271.
-5.  2016.1-2017.02 National Natural Science Foundation of China Youth Fund funded projects (61502123)—Research on Multi-core program complicating error elimination method.
-6.  2015.7-2015.12 Heilongjiang Science Foundation Project (QC2015084)—Research based on Multi-core processor fault  diagnosis method of deterministic repetition.
-7.  2013.12-2015.07 The Cooperation Project of Harbin University of Science and Technology and Beijing Aerospace System Engineering Research—The implementations and design of network flow classification.
-8.  2012.04-2013.10 The Innovative Project of Undergraduate of Heilongjiang Province—The implementations and design of  network down-hole monitoring system.
-9.  2021.9-2024.08 The Fundamental Research Funds for the Central Universities
+1.  2021.09-2024.08 The Fundamental Research Funds for the Central Universities.
+2.  2021.09-  Research on intelligent object detectin method.
+3.  2019.01-2022.12 National Nature ScienceFoundation of China Gant No. 61876051.
+4.  2020.01-2021.12 ShenzhenKey Laboratory of Visual Object Detection and Recognition under Grant No. ZDSYS20190902093015527. 
+5.  2019.08-2022.08 Shenzhen Science and technology innovation Commission  under Grant No. JSGG20190220153602271.
+6.  2016.1-2017.02 National Natural Science Foundation of China Youth Fund funded projects (61502123)—Research on Multi-core program complicating error elimination method.
+7.  2015.7-2015.12 Heilongjiang Science Foundation Project (QC2015084)—Research based on Multi-core processor fault  diagnosis method of deterministic repetition.
+8.  2013.12-2015.07 The Cooperation Project of Harbin University of Science and Technology and Beijing Aerospace System Engineering Research—The implementations and design of network flow classification.
+9.  2012.04-2013.10 The Innovative Project of Undergraduate of Heilongjiang Province—The implementations and design of  network down-hole monitoring system.
+

@@ -76,3 +76,4 @@
 6.  2015.7-2015.12 Heilongjiang Science Foundation Project (QC2015084)—Research based on Multi-core processor fault  diagnosis method of deterministic repetition.
 7.  2013.12-2015.07 The Cooperation Project of Harbin University of Science and Technology and Beijing Aerospace System Engineering Research—The implementations and design of network flow classification.
 8.  2012.04-2013.10 The Innovative Project of Undergraduate of Heilongjiang Province—The implementations and design of  network down-hole monitoring system.
+9.  2021.9-2024.08 The Fundamental Research Funds for the Central Universities

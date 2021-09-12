@@ -36,6 +36,7 @@
 
 ## Conference papers (会议论文)
 
+- Y. Deng, L. Fei, S. Zhao, W. Jia, J. Wen, **C. Tian**. Joint Multi-feature Learning for Facical Age Estimation [C]. The 6th Asian Conference on Pattern Recognition(ACPR 2021). (EI)(Accepted)
 - Qin J, Fei L, Zhu J, Wen J, **Tian C**, Wu S. Scalable discriminative disrcrete hashing for large-scale cross-modal retrival [C].  IEEE ICASSP 2021:4330-4334. [[pdf](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9413871%2F&sa=D&sntz=1&usg=AFQjCNH_R8bKyrAt0DoMLcojg8sstTIMig)]  (EI-CCF B)
 - Fei L, Teng S,  Wen J,  **Tian C**, Liu D, Zhang W. Jointly Learning Compact Multi-instance FKP Descriptor [C]. International Joint Conference on Biometrics (IJCB), 2020.  (EI-CCF C)
 - Fei L, Zhang B, Wen J, **Tian C**, Liu P, Zhao S. Joint Learning Multiple Curvature Descriptor for 3D Palmprint Recognition [C]//ICPR, 2020.   [[pdf\]](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9413188&sa=D&sntz=1&usg=AFQjCNF__JMsyRWJrcB0B2UKRfMqxlvAJA) (EI-CCF C)

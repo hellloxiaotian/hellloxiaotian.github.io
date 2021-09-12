@@ -138,7 +138,9 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## Cooperation and Communication (合作与交流) 
 
-[Yuexian Zou](http://www.ece.pku.edu.cn/info/1012/1092.htm), Professor, Peking Unversity, China
+Zhixiang Huang, Professor, Anhui University, China (National Youth Talents)
+
+[Yuexian Zou](http://www.ece.pku.edu.cn/info/1012/1092.htm), Professor, Peking University, China
 
 [Ping Zhong](https://scholar.google.com.hk/citations?hl=en&user=xQWYZn4AAAAJ), Professor, National University of Defense Technology, China 
 
@@ -182,6 +184,8 @@ Chaoqun Duan, PhD Candidate,  Harbin Institute of Technology, China
 
 ## Academic Activities (学术活动)
 
+2021-09: A conference paper was accepted by ACPR
+
 CCF  Member/IEEE  Member/ CAAI Member/SAAI Member
 
 Associate editor for the International Journal of Image and Graphics 
@@ -199,6 +203,8 @@ IJCAI 2019 PC Assistant
 <br/>
 
 ## I serve as a reviewer for the following journals and conferences (审稿人) 
+
+Journal of Internet Technology  (SCI)
 
 IEEE Transactions on Image Processing (IEEE TIP)（SCI）
 
@@ -359,22 +365,15 @@ ACAIT 2018 (EI)
       <div class="desc"> Menghua Zheng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
       <div class="desc_blank_2"> </div>
      </div>
- 
+
   <div class="img">
    <img src="picture/Xuanyu Zhang.png" >
    <div class="desc_blank"> </div>
    <div class="desc">  Xuanyu Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
    <div class="desc_blank_2"> </div>
   </div>
- 
-   <div class="img">
-   <img src="picture/Jian Li.jpg" >
-   <div class="desc_blank"> </div>
-   <div class="desc">  Jian Li, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-   <div class="desc_blank_2"> </div>
-  </div>
 </div> 
- 
+
 ### Supervisor for Undergraduates (本科生)
 
 <div class="box">
@@ -391,13 +390,6 @@ ACAIT 2018 (EI)
      <div class="desc"> Zhibo Wang,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
      <div class="desc_blank_2"> </div>
     </div>
- 
-     <div class="img">
-     <img src="picture/Yingpeng Ma.jpg" >
-     <div class="desc_blank"> </div>
-     <div class="desc">  Yingpeng Ma, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-     <div class="desc_blank_2"> </div> 
-     </div>
 </div>
 
 ### Joint supervisor for former students (协助指导-已毕业学生)

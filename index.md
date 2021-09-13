@@ -118,21 +118,13 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 [Shichao Zhang](https://scholar.google.com/citations?user=heE6vKAAAAAJ&hl=zh-CN&oi=ao), Professor, Central South University, China (National Talents)
 
-[Xuequn Shang](https://teacher.nwpu.edu.cn/Shang.html), Professor,  Northwestern Polytechnical University, China (National Talents)
-
 [Bo Du](http://www.google.com/url?q=http%3A%2F%2Fcs.whu.edu.cn%2Fteacherinfo.aspx%3Fid%3D254&sa=D&sntz=1&usg=AFQjCNFHAo5DbIx8GltxxCrlliHoeTzK2A),  Professor,  Wuhan University, China (National Talents)
 
 [Bob Zhang](http://www.google.com/url?q=http%3A%2F%2Fwww.cis.umac.mo%2F~bobzhang%2F&sa=D&sntz=1&usg=AFQjCNEeK6VR-9q9pcg07qr6i5KYGbQuDg), Associate Professor, University of Macau, China
 
-[Yadong Wang](http://homepage.hit.edu.cn/wangyadong), Professor, Harbin Insitute of Technology, China
-
 [Chen Chen](https://www.google.com/url?q=https%3A%2F%2Fwebpages.uncc.edu%2Fcchen62%2F&sa=D&sntz=1&usg=AFQjCNEnTw8iFyd5jSPKPzC46M0YS2xgOQ),  Assistant Professor,  University of Central Florida, USA 
 
 [Yixuan Yuan](http://www.google.com/url?q=http%3A%2F%2Fwww.ee.cityu.edu.hk%2F~yxyuan%2F&sa=D&sntz=1&usg=AFQjCNH0yllgbV1PMQH9pBTE7ghRqy9FQQ), Assistant Professor, City University of Hong Kong, China
-
-[Jiajie Peng](https://teacher.nwpu.edu.cn/peng.html), Associate Professor,  Northwestern Polytechnical University, China
-
-[Tao Wang](https://teacher.nwpu.edu.cn/twang), Associate Professor,  Northwestern Polytechnical University, China 
 
 <br/>
 
@@ -153,8 +145,6 @@ Zhixiang Huang, Professor, Anhui University, China (National Youth Talents)
 [Kai Zhang](https://scholar.google.com/citations?hl=zh-CN&user=0RycFIIAAAAJ), Post-Doctor, ETH Zürich，Switzerland
 
 [Keke Huang](http://www.google.com/url?q=http%3A%2F%2Ffaculty.csu.edu.cn%2Fhuangkeke%2Fzh_CN%2Findex.htm&sa=D&sntz=1&usg=AFQjCNHDZc_W2kJcG6l2RTY1mVO_LqW4Fw),   Associate Professor,  Central South University, China 
-
-[Yayun Cheng](https://scholar.google.com.hk/citations?hl=en&user=clvDxsYAAAAJ), Associate Professor, Harbin Institute of Technology, China
 
 [Chengyuan Zhang](http://csee.hnu.edu.cn/people/zhangchengyuan),  Associate Professor, Hunan University, China 
 

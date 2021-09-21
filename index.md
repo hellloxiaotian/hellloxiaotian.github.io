@@ -29,7 +29,14 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2021-07:** Recruiting excellent master students for 2022, RA students and undergraduates joins my group, which is a joint guidance by the CityU, Harbin Institute of Technology, Center South University and Northwestern Polytechnical University. Also, my email is chunweitian@163.com or chunweitian@nwpu.edu.cn. 
 
 ## News (消息)
+- **2021-09:** Invited to be the guest editor of the special issue, *Mathematisc*(SCI-IF:2.258, ISSN 2227-7390) about “The Special Issue on Method and Application of Machine Learning”.
+- **2021-09: **Becoming a contributing to international journals reviewer, *Bulletin of Electrical Engineering and Informatics (BEEI)*.
+- **2021-09:** Selected as Shanghai Science and Technology Expert.
 - **2021-09:** Jian Li joins my group. 
+- **2021-08:** A journal paper is accepted by *Briefings in Bioinformatics*.
+- **2021-08: **Invited to join a project, Video Super Resolution Benchmark.
+- **2021-08:** Invited to be the associate editor of important international image processing journals, *International Journal of Image and Graphics*.
+- **2021-08: **An invention patent is authorized.
 - **2021-08:** Yingpeng joins my group. 
 - **2021-08:** A journal paper is accepted by Briefing in bioinformatics (IF:11.622).
 - **2021-08:** I am invited to join the project of Video Super Resolution Benchmark.
@@ -72,12 +79,12 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2020-11:** Outstanding student of Harbin Institute of Technology.
 - **2020-11:** '[Lightweight Image Super-Resolution with Enhanced CNN](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fsubmit%2F3264342&sa=D&sntz=1&usg=AFQjCNGdUAMoOC34c6ku_uxMk4BeBYkoUA)' is reported by [52CV](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnjlAEQXxjXKqFcxM7KYiqA&sa=D&sntz=1&usg=AFQjCNHdZhU9ApQZWJ0iACmKV3tUuSantA).  
 - **2020-10:** [Deep Learning on Image Denoising: An overview](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fpdf%2F1912.13171.pdf&sa=D&sntz=1&usg=AFQjCNHnPbWu9-HEdLT-PJId0dYjmy4vTw)   is pushed on home page of the Neural Networks, which is one of 25 papers on home page of the NN.  
-( Rank:11/25, 25 is  the number of papers on home page of the NN)
+  ( Rank:11/25, 25 is  the number of papers on home page of the NN)
 - **2020-09:** [Image denoising using deep CNN with batch renormalization ](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019302394&sa=D&sntz=1&usg=AFQjCNET0x3XV-DClPi7PYVfgOci4hcPuA)becomes a **highly cited paper**.
 - **2020-07:** One conference paper is accepted to IJCB.
 - **2020-07:** One journal paper paper is accepted to  Neural Networks.  ( Top Journal in Neural Network)
 - **2020-07:** '[BRDNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FBRDNet&sa=D&sntz=1&usg=AFQjCNGouHF2aNT8uC45jr97xNBXeuO8GQ)', '[ADNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FADNet&sa=D&sntz=1&usg=AFQjCNHp0jPjk4NENToVuFvEzxtjIkiF5w)' and '[ECNDNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FECNDNet&sa=D&sntz=1&usg=AFQjCNEnM3mVhlN1Ml6nhLf_gjO3xG2oiQ)' have been rated as the contributing codes by the GitHub in 2020.   
-(GitHub is the largest code platform in the world)
+  (GitHub is the largest code platform in the world)
 - **2020-07:** '[Lightweight Image Super-Resolution with Enhanced CNN](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fsubmit%2F3264342&sa=D&sntz=1&usg=AFQjCNGdUAMoOC34c6ku_uxMk4BeBYkoUA)' is reported by [Cver](https://www.google.com/url?q=https%3A%2F%2Fwx.zsxq.com%2Fmweb%2Fviews%2Ftopicdetail%2Ftopicdetail.html%3Ftopic_id%3D548844222215284%26group_id%3D142181451122%26user_id%3D28514284588581%26from%3Dtimeline&sa=D&sntz=1&usg=AFQjCNGaO3Tbwjgbk9DG_k_Ek7GEwSmd_Q).  
 - **2020-07:** '[Coarse-to-fine CNN for image super-resolution](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9105085&sa=D&sntz=1&usg=AFQjCNHwF_ajw6cyVFSOXuPi36HzR4A1Kg)' is reported by [52CV](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FN5SXUFmqYMN0XQJbVvBPEg&sa=D&sntz=1&usg=AFQjCNFhFeVOQajfqa7U-7ZqXX03DhiNRA).  
 - **2020-07:** '[Designing and training of a dual CNN for image denoising](http://www.google.com/url?q=http%3A%2F%2Farxiv.org%2Fabs%2F2007.03951&sa=D&sntz=1&usg=AFQjCNGmY38pFGKWcaGlRyYMIIHWevsB0A)' is reported by [Cver](https://www.google.com/url?q=https%3A%2F%2Fwx.zsxq.com%2Fmweb%2Fviews%2Ftopicdetail%2Ftopicdetail.html%3Ftopic_id%3D841142121551482%26group_id%3D142181451122%26user_id%3D28514284588581%26from%3Dtimeline&sa=D&sntz=1&usg=AFQjCNEaamgyTWTjuwx9EJoQzIr8wiUVuQ).
@@ -86,11 +93,11 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2020-06:** One conference paper is accepted to ICPR.  ( Known Conference in Pattern Recognition )
 - **2020-05:** One journal paper is accepted to IEEE Transactions on Multimedia (IEEE T-MM). (Top Journal in Multimedia )
 - **2020-04:** '[Attention-guided CNN for Image Denoising](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019304241&sa=D&sntz=1&usg=AFQjCNFGl6briLBrVY6G2rlPfs9lmC8nsg)'  is pushed on home page of the Neural Networks, which is one of 25 papers on homepage of the NN.  
-(Rank:18/25, 25 is  the number of papers on home page of the NN)
+  (Rank:18/25, 25 is  the number of papers on home page of the NN)
 - **2020-03:** [BRDNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FBRDNet&sa=D&sntz=1&usg=AFQjCNGouHF2aNT8uC45jr97xNBXeuO8GQ) technique is collected by the [iHub](https://www.google.com/url?q=https%3A%2F%2Fihub.co.ke%2F&sa=D&sntz=1&usg=AFQjCNEyZDXsop2-D8SJ_WxtlorShH7g1g). （iHub is the largest AI platform in China）
 - **2020-03:** [ECNDNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FECNDNet&sa=D&sntz=1&usg=AFQjCNEnM3mVhlN1Ml6nhLf_gjO3xG2oiQ) technique is collected by the [Profillic](https://www.google.com/url?q=https%3A%2F%2Fwww.catalyzex.com%2Fpaper%2Farxiv%3A1810.11834&sa=D&sntz=1&usg=AFQjCNH0_9oV0njqqIo3O-bP6k4lO_tfKQ).  （[Profillic](https://www.google.com/url?q=https%3A%2F%2Fwww.catalyzex.com%2Fpaper%2Farxiv%3A1810.11834&sa=D&sntz=1&usg=AFQjCNH0_9oV0njqqIo3O-bP6k4lO_tfKQ) is the  the largest collection of machine learning models, papers in the world）
--  **2020-02:** '[Image Denoising Using Deep CNN with Batch Renormalization](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019302394&sa=D&sntz=1&usg=AFQjCNET0x3XV-DClPi7PYVfgOci4hcPuA)'  is pushed on home page of the Neural Networks.  （Rank:6/25, 25 is  the number of papers on home page of the NN)  
--  **2020-02:** [Image Denoising Using Deep CNN with Batch Renormalization](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019302394&sa=D&sntz=1&usg=AFQjCNET0x3XV-DClPi7PYVfgOci4hcPuA) is reported by [52CV](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdSCRx-6QW9bFDYQkDBGdLw&sa=D&sntz=1&usg=AFQjCNE3oAd8l8HYyMvW1h6F3S0Ir7lQAw) and [extrememart](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJk6PlRBYorLI5FSa5xxOkw&sa=D&sntz=1&usg=AFQjCNHcVbsBA4LdGSkXXnRL1OV9jUgRwA).  (Known Wechat Account in China)
+- **2020-02:** '[Image Denoising Using Deep CNN with Batch Renormalization](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019302394&sa=D&sntz=1&usg=AFQjCNET0x3XV-DClPi7PYVfgOci4hcPuA)'  is pushed on home page of the Neural Networks.  （Rank:6/25, 25 is  the number of papers on home page of the NN)  
+- **2020-02:** [Image Denoising Using Deep CNN with Batch Renormalization](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019302394&sa=D&sntz=1&usg=AFQjCNET0x3XV-DClPi7PYVfgOci4hcPuA) is reported by [52CV](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdSCRx-6QW9bFDYQkDBGdLw&sa=D&sntz=1&usg=AFQjCNE3oAd8l8HYyMvW1h6F3S0Ir7lQAw) and [extrememart](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJk6PlRBYorLI5FSa5xxOkw&sa=D&sntz=1&usg=AFQjCNHcVbsBA4LdGSkXXnRL1OV9jUgRwA).  (Known Wechat Account in China)
 - **2020-02:** [Attention-guided CNN for image denoising](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019304241&sa=D&sntz=1&usg=AFQjCNFGl6briLBrVY6G2rlPfs9lmC8nsg) is reported by the [52CV](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDebh7PZSFTBtOVxpFh9yfQ&sa=D&sntz=1&usg=AFQjCNEbGL7GLAEbAaqUHA31yBAMFxahgA) and  [Cver](https://www.google.com/url?q=https%3A%2F%2Fwx.zsxq.com%2Fdweb2%2Flogin&sa=D&sntz=1&usg=AFQjCNG8gmsTmdIzlmuTTezg8DEt-DLxxA).  
 - **2020-01:** [Deep Learning on Image Denoising: An overview](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fpdf%2F1912.13171.pdf&sa=D&sntz=1&usg=AFQjCNHnPbWu9-HEdLT-PJId0dYjmy4vTw) is  reported by several wechat pubic accounts, such as [AI Frontier lecture](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaaaaG5LkyWcJ9dhZ74Cp6A&sa=D&sntz=1&usg=AFQjCNH107bAsLpSJ_maz1_DdT41pKiKPQ)，[Cver](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnmKWJPbedGo1J8-oeIKm2w&sa=D&sntz=1&usg=AFQjCNExScWx5ryfpo9VyhKX0TLT7vDqmA) and  [extrememart](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhPaJssohwTIPx6kzGvp70g&sa=D&sntz=1&usg=AFQjCNGhryvLRHHmIDcFVUx3IuuYityK4w).  (Known Wechat Account in China)
 - **2019-10:** Doctoral National Scholarship
@@ -130,8 +137,6 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## Cooperation and Communication (合作与交流) 
 
-Zhixiang Huang, Professor, Anhui University, China (National Youth Talents)
-
 [Yuexian Zou](http://www.ece.pku.edu.cn/info/1012/1092.htm), Professor, Peking University, China
 
 [Ping Zhong](https://scholar.google.com.hk/citations?hl=en&user=xQWYZn4AAAAJ), Professor, National University of Defense Technology, China 
@@ -156,6 +161,8 @@ Zhixiang Huang, Professor, Anhui University, China (National Youth Talents)
 
 Kan Huang,  Post-Doctor,  Peking University and Assistant Professor, Shanghai  Maritime University, China
 
+Zhixiang Huang, Professor, Anhui University, China (National Youth Talents)
+
 [Zheng Zhu](http://www.google.com/url?q=http%3A%2F%2Fwww.zhengzhu.net%2F&sa=D&sntz=1&usg=AFQjCNHSwdKX0uw8pJ3bo0IBtmjtFPO1Rw),    Post-Doctor, Tsing Hua University, China
 
 [Jingjia Huang](https://scholar.google.com/citations?hl=zh-CN&user=ZOKmWQ4AAAAJ), PhD, Peking University, China
@@ -176,6 +183,20 @@ Chaoqun Duan, PhD Candidate,  Harbin Institute of Technology, China
 
 2021-09: A conference paper was accepted by ACPR
 
+2021-09: Invited to be the guest editor of the special issue, *Mathematisc*(SCI-IF:2.258, ISSN 2227-7390) about “The Special Issue on Method and Application of Machine Learning”.
+
+2021-09: Becoming a contributing to international journals reviewer, *Bulletin of Electrical Engineering and Informatics (BEEI)*.
+
+2021-09: Selected as Shanghai Science and Technology Expert.
+
+2021-08: A journal paper is accepted by *Briefings in Bioinformatics*.
+
+2021-08: Invited to join a project, Video Super Resolution Benchmark.
+
+2021-08: Invited to be the associate editor of important international image processing journals, *International Journal of Image and Graphics*.
+
+2021-08: An invention patent is authorized.
+
 CCF  Member/IEEE  Member/ CAAI Member/SAAI Member
 
 Associate editor for the International Journal of Image and Graphics 
@@ -193,8 +214,6 @@ IJCAI 2019 PC Assistant
 <br/>
 
 ## I serve as a reviewer for the following journals and conferences (审稿人) 
-
-Journal of Internet Technology  (SCI)
 
 IEEE Transactions on Image Processing (IEEE TIP)（SCI）
 
@@ -237,6 +256,8 @@ IEEE Access （SCI）
 Journal of Modern Optics  （SCI）
 
 Multimedia Systems（SCI）
+
+Journal of Internet Technology  (SCI)
 
 Mathematical Biosciences and Engineering （SCI）
 
@@ -325,7 +346,6 @@ ACAIT 2018 (EI)
 
 <div id="h.a4d1eb0f3c9c05f_23" class="hJDwNd-AhqUyc-uQSCkd jXK9ad D2fZ2 OjCsFc wHaque"><div class="jXK9ad-SmKAyb"><div class="tyJCtd baZpAe"><div class="iwQgFb" role="presentation"></div></div></div></div>
 
-
 <br/>
 <br/>
 
@@ -389,7 +409,7 @@ ACAIT 2018 (EI)
      <div class="desc"> Zhibo Wang,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
      <div class="desc_blank_2"> </div>
     </div>
-
+    
      <div class="img" width = "50%">
      <img src="picture/Yingpeng Ma.jpg" >
      <div class="desc_blank"> </div>

@@ -382,7 +382,7 @@ ACAIT 2018 (EI)
 
 2021 A paper is rated as only annual outstanding paper of the CAAI Transactions on Intelligence Technology in 2018 and 2019. 
 
-2021-09 Codes of three papers are rated as contribution codes for the public codes of the GitHub in 2020. 
+2021 Codes of three papers are rated as contribution codes for the public codes of the GitHub in 2020. 
 
 2021 Two paper techniques are integrated on the Chinese high-quality platform (iHub) and international famous machine learning platform (Profillic).
 

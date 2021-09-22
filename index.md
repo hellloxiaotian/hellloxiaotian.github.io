@@ -29,29 +29,15 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Welcome to contact me for undergraduates, masters and RA students, who are interested in artificial intelligence, deep learning and image processing. I have good cooperation with Tsinghua University, Peking University, Harbin Institute of Technology, National University of Defense Technology, Wuhan University, Central South University, Dalian University of Technology, Nankai University , Hunan University, Nanjing University of Technology, Southern University of Science and Technology, Institute of Information Technology, Chinese Academy of Sciences, Shenzhen Advanced Institute of Chinese Academy of Sciences, Pengcheng Laboratory, Chinese University of Hong Kong, City University of Hong Kong, University of Macau, Tsinghua University in Taiwan, Zurich Institute of Technology, Nanyang Technological University in Singapore , University of Central Florida, University of Technology Sydney, Australia, Western Norway University of Applied Sciences and Massey University in New Zealand and other well-known universities, etc. Outstanding students can be recommended to a world-class group for visiting, exchanging or applying PhD degree. Additionally, I have established a good cooperation with BAT, Huawei, Byte, etc. And I can recommend excellent students for visiting in these IT companies of China. My email addresses are chunweitian@163.com and [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn).
 
 ## News (消息)
-- **2021-09:** I am invited as a guest editor of the special journal of Mathematics about the special issue on method and application of machine learning.
-
-- **2021-09:** I am rated as a contribution reviewer of internal journal of Bulletin of Electrical Engineering and Informatics (BEEI). 
-
-- **2021-09:** I am invited as a technical expert of Shanghai. 
-
-- **2021-09:** Two papers become ESI highly cited papers.
-
-- **2021-09:**  A paper is rated as only annual outstanding paper of the CAAI Transactions on Intelligence Technology in 2018 and 2019. 
-
-- **2021-09:** Codes of three papers are rated as contribution codes for the public codes of the GitHub in 2020. 
-
-- **2021-09:** Two paper techniques are integrated on the Chinese high-quality platform (iHub) and international famous machine learning platform (Profillic).
-
 - **2021-09:** Jian Li joins my group. 
 
 - **2021-08:** A journal paper is accepted by *Briefings in Bioinformatics*.
 
-- **2021-08: ** Invited to join a project, Video Super Resolution Benchmark.
+- **2021-08:** Invited to join a project, Video Super Resolution Benchmark.
 
 - **2021-08:** Invited to be the associate editor of important international image processing journals, *International Journal of Image and Graphics*.
 
-- **2021-08: ** An invention patent is authorized.
+- **2021-08:** An invention patent is authorized.
 
 - **2021-08:** Yingpeng joins my group. 
 
@@ -194,6 +180,8 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 [Yong](http://www.google.com/url?q=http%3A%2F%2Fwww.yongxu.org%2F&sa=D&sntz=1&usg=AFQjCNGb5jsLxodkNh2D6QhfAex6HTd4oA) [Xu](http://www.google.com/url?q=http%3A%2F%2Fwww.yongxu.org%2F&sa=D&sntz=1&usg=AFQjCNGb5jsLxodkNh2D6QhfAex6HTd4oA), Professor, Harbin Insitute of Technology, China (National Talents)
 
+[Yanning Zhang](https://teacher.nwpu.edu.cn/ynzhang.html), Professor, Northwestern Polytechnical University (National Talents)
+
 [Wangmeng Zuo](http://www.google.com/url?q=http%3A%2F%2Fhomepage.hit.edu.cn%2Fwangmengzuo&sa=D&sntz=1&usg=AFQjCNGQaE8hhMX2VCb3rqbNohhgCVe1HA), Professor, Harbin Insitute of Technology, China (National Talents)
 
 [Chia-Wen Lin](https://www.google.com/url?q=https%3A%2F%2Fwww.ee.nthu.edu.tw%2Fcwlin%2F&sa=D&sntz=1&usg=AFQjCNElbF2cUwFl9pKODT1zwVKgzigBYA), Professor, IEEE Fellow, National Tsing Hua University, Taiwan  （International Famous Multimedia Expert）
@@ -203,8 +191,6 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 [Jian Yang](https://scholar.google.com/citations?hl=zh-CN&user=6CIDtZQAAAAJ), Professor, IAPR Fellow, Nanjing University of Science and Technology, China (National Talents)
 
 [Hong Liu](https://scholar.google.com/citations?hl=zh-CN&user=4CQKG8oAAAAJ&view_op=list_works&sortby=pubdate), Professor,  CAAI Fellow, Peking University, China (National Talents)
-
-[Yanning Zhang](https://teacher.nwpu.edu.cn/ynzhang.html), Professor, Northwestern Polytechnical University (National Talents)
 
 [Shichao Zhang](https://scholar.google.com/citations?user=heE6vKAAAAAJ&hl=zh-CN&oi=ao), Professor, Central South University, China (National Talents)
 
@@ -286,12 +272,6 @@ Associate editor for the Journal of Electrical and Electronic Engineering
 
 Guest Editor of the Special Journal of Mathematics about the Special Issue on Method and application of machine learning
 
-CCF  Member/IEEE  Member/ CAAI Member/SAAI Member
-
-Associate editor for the International Journal of Image and Graphics 
-
-Associate editor for the Journal of Electrical and Elctronic Engineering 
-
  The 5rd Conference on Artificial Intelligence Technology (ACAIT 2021) PC
 
 The 19th IEEE International Conference on Dependable, Autonomic and  Secure Computing (IEEE DASC 2021) Program committee member 
@@ -310,23 +290,25 @@ European Conference on Computer Vision  (ECCV)（EI）
 
 IEEE Transactions on Industrial Informatics  (IEEE TII)（SCI）
 
-IEEE Transactions on Systems, Man and Cybernetics:  Systems (IEEE TSMC)（SCI）
+IEEE Transactions on Systems, Man and Cybernetics:  Systems (IEEE TSMC) (SCI）
 
 IEEE Transactions on Multimedia (IEEE TMM) (SCI)
 
 IEEE Transactions on Asian and Low-Resource Language Information Processing (SCI)
 
-Neural Networks（SCI）
+Neural Networks (SCI)
 
 Information Fusion (SCI)
 
-Computer Vision and Image Understanding（SCI）
+Computer Vision and Image Understanding (SCI）
 
-Pattern Recognition Letters （SCI）
+Pattern Recognition Letters (SCI）
 
-The Visual Computer （SCI）
+The Visual Computer (SCI）
 
-Nerocomputing  （SCI）
+Nerocomputing (SCI）
+
+Expert Sytems With Applications (SCI)
 
 IEEE Signal Processing Letters （SCI）
 
@@ -344,8 +326,6 @@ IEEE Access （SCI）
 
 Neuro computing (SCI)
 
-Expert Sytems With Applications (SCI)
-
 Journal of Modern Optics  （SCI）
 
 Multimedia Systems（SCI）
@@ -354,7 +334,7 @@ Journal of Internet Technology  (SCI)
 
 Mathematical Biosciences and Engineering （SCI）
 
-CAAI Transactions on Intelligence Technology  （EI）
+CAAI Transactions on Intelligence Technology (EI）
 
 International Journal of Biometrics
 
@@ -391,6 +371,20 @@ ACAIT 2018 (EI)
 <br/>
 
 ## Awards (奖励)
+
+2021 I am invited as a guest editor of the special journal of Mathematics about the special issue on method and application of machine learning.
+
+2021 I am rated as a contribution reviewer of internal journal of Bulletin of Electrical Engineering and Informatics (BEEI). 
+
+2021 I am invited as a technical expert of Shanghai. 
+
+2021 Two papers become ESI highly cited papers.
+
+2021 A paper is rated as only annual outstanding paper of the CAAI Transactions on Intelligence Technology in 2018 and 2019. 
+
+2021-09 Codes of three papers are rated as contribution codes for the public codes of the GitHub in 2020. 
+
+2021 Two paper techniques are integrated on the Chinese high-quality platform (iHub) and international famous machine learning platform (Profillic).
 
 2021 Prize graduate student of Harbin Institute of Technology
 

@@ -374,14 +374,12 @@ ACAIT 2018 (EI)
 <div class="box">
 
     <div class="img">
-                 <img src="picture/Jingyu Xiao.jpg" >
-                 <div class="desc_blank"> </div>
-                 <div class="desc">Jingyu Xiao,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
-                 <div class="desc_blank_2"> </div>
+      <img src="picture/Jingyu Xiao.jpg" >
+      <div class="desc_blank"> </div>
+      <div class="desc">Jingyu Xiao,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
+       <div class="desc_blank_2"> </div>
      </div>
-</div>
 
-<div class="box"> 
      <div class="img">
       <img src="picture/Menghua Zheng.jpg" >
       <div class="desc_blank"> </div>

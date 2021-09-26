@@ -29,9 +29,9 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Welcome to contact me for undergraduates, masters and RA students, who are interested in artificial intelligence, deep learning and image processing. I have good cooperation with Tsinghua University, Peking University, Harbin Institute of Technology, National University of Defense Technology, Wuhan University, Central South University, Dalian University of Technology, Nankai University , Hunan University, Nanjing University of Technology, Southern University of Science and Technology, Institute of Information Technology, Chinese Academy of Sciences, Shenzhen Advanced Institute of Chinese Academy of Sciences, Pengcheng Laboratory, Chinese University of Hong Kong, City University of Hong Kong, University of Macau, Tsinghua University in Taiwan, Zurich Institute of Technology, Nanyang Technological University in Singapore , University of Central Florida, University of Technology Sydney, Australia, Western Norway University of Applied Sciences and Massey University in New Zealand and other well-known universities, etc. Outstanding students can be recommended to a world-class group for visiting, exchanging or applying PhD degree. Additionally, I have established a good cooperation with BAT, Huawei, Byte, etc. And I can recommend excellent students for visiting in these IT companies of China. My email addresses are chunweitian@163.com and [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn).
 
 ## News (消息)
-- **2020-09**: I am invited as a guest editor of the special journal of Mathematics about the special issue on method and application of machine learning.
-- **2020-09**: I am rated as a contribution reviewer of internal journal of Bulletin of Electrical Engineering and Informatics (BEEI). 
-- **2020-09**: I am invited as a technical expert of Shanghai. 
+- **2021-09**: I am invited as a guest editor of the special journal of Mathematics about the special issue on method and application of machine learning.
+- **2021-09**: I am rated as a contribution reviewer of internal journal of Bulletin of Electrical Engineering and Informatics (BEEI). 
+- **2021-09**: I am invited as a technical expert of Shanghai. 
 - **2021-09:** Jian Li joins my group. 
 - **2021-08:** A journal paper is accepted by *Briefings in Bioinformatics*.
 - **2021-08:** Invited to join a project, Video Super Resolution Benchmark.
@@ -61,12 +61,11 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2021-04:** I am invited as a speaker to conduct a report by [extrememart](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyZyiSkmpTMIdBEJUiUF3jw&sa=D&sntz=1&usg=AFQjCNHRCPW3osJL_5NTa5s6yLo_A_NjTw).
 - **2021-04:** [A jounal paper](https://www.google.com/url?q=https%3A%2F%2Fwww.journals.elsevier.com%2Fneural-networks%2Fmost-cited-articles&sa=D&sntz=1&usg=AFQjCNEu5BPFUFk9i3FTvWCenAlafYLuDA) is rated  as the most cited paper and pushed on the home page of the Neural Networks, which is one of 25 papers on homepage of the NN. 
 - **2021-04:** [A paper](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fpdf%2F2103.13634.pdf&sa=D&sntz=1&usg=AFQjCNFcc99FVpskvfnSmgJJV-n2H5Z3bQ) is reported by [52CV ](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtpG663ZfUTTAe_Wm4YmcPQ&sa=D&sntz=1&usg=AFQjCNHVZ3j6LZbaZ8H3CTraUB2GH5PFzQ), [Cver](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFNpurdPInb_trvgDNYpjwQ&sa=D&sntz=1&usg=AFQjCNHegDsUI9oobwZaidQOGlwc6JFBXw), [AI technique](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwBMaU1QCkwL2-3EHETryvw&sa=D&sntz=1&usg=AFQjCNEbJ3c7dB9YUSdUNX0f0AtNX6PFIw), [HappyAIWalker](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzzS16Zxc4WXbXtnH70uBnQ&sa=D&sntz=1&usg=AFQjCNGlrmvWONUIznMmXV8sH71HyYl0sQ)  and [extrememart](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmJaJfsBxO4uUaTdu01r7XA&sa=D&sntz=1&usg=AFQjCNHGUoWwR9nOvQT0Tgc4RbVZlIHTEA).  
-- **2021-04:** Zhibo joins my group. 
 - **2021-03:** [One journal paper](https://www.google.com/url?q=https%3A%2F%2Fwww.theiet.org%2Fpublishing%2Fsubscribe-or-buy-our-content%2Fjournals%2Fiet-premium-awards%2F&sa=D&sntz=1&usg=AFQjCNHj6BGzAJwKyC0lmUcodrPRgjCIpg) is rated as the best paper for all the papers in 2018 and 2019 in the CAAI Transactions on Intelligence Technology. 
 - **2021-03:** One journal paper  is accepted to IEEE Transactions on Neural Networks and Learning Systems. 
 - **2021-03:** One journal  paper is accepted to Knowledge-Based Systems.
 - **2021-03:** I am invited as an action editor by the *Journal of Electrical and Electronic Engineering*.
-- **2021-03:** Jingyu and Jiagang join my group. 
+- **2021-03:** Jingyu join my group. 
 - **2021-02:** One journal paper  is accepted to IEEE Transactions on Systmes, Man, and  Cybernetics: Systems (IEEE TSMC). (Acceptance rate of 10%)
 - **2021-02:** I am invited as a program committee member of IEEE DASC 2021.
 - **2021-01:** One journal paper is accepted to information sciences. 
@@ -373,12 +372,6 @@ ACAIT 2018 (EI)
 
 ### Supervisor  for Postgraduates (硕士生)
 <div class="box">
-    <div class="img">
-     <img src="picture/Jiagang Song.jpg" >
-     <div class="desc_blank"> </div>
-     <div class="desc">Jiagang Song, <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
-     <div class="desc_blank_2"> </div> 
-    </div>
 
     <div class="img">
                  <img src="picture/Jingyu Xiao.jpg" >
@@ -411,31 +404,17 @@ ACAIT 2018 (EI)
   </div>
 
 <div class="img">
-   <img src="picture/Dedong Yang.jpg" >
-   <div class="desc_blank"> </div>
-   <div class="desc">  Dedong Yang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-   <div class="desc_blank_2"> </div>
-  </div>
-
-<div class="img">
    <img src="picture/Hui Zhao.jpg" >
    <div class="desc_blank"> </div>
    <div class="desc">  Hui Zhao, <a href = "https://www.hnu.edu.cn/">Hunan University</a>, China</div>
    <div class="desc_blank_2"> </div>
   </div>
-  
+
 </div> 
 
 ### Supervisor for Undergraduates (本科生)
 
 <div class="box">
-
-    <div class="img" width = "50%">
-     <img src="picture/Zhibo Wang.jpg" >
-     <div class="desc_blank"> </div>
-     <div class="desc"> Zhibo Wang,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
-     <div class="desc_blank_2"> </div>
-    </div>
     
     <div class="img" width = "50%">
      <img src="picture/Yingpeng Ma.jpg" >

@@ -29,11 +29,12 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Welcome to contact me for undergraduates, masters and RA students, who are interested in artificial intelligence, deep learning and image processing. I have good cooperation with Tsinghua University, Peking University, Harbin Institute of Technology, National University of Defense Technology, Wuhan University, Central South University, Dalian University of Technology, Nankai University , Hunan University, Nanjing University of Technology, Southern University of Science and Technology, Institute of Information Technology, Chinese Academy of Sciences, Shenzhen Advanced Institute of Chinese Academy of Sciences, Pengcheng Laboratory, Chinese University of Hong Kong, City University of Hong Kong, University of Macau, Tsinghua University in Taiwan, Zurich Institute of Technology, Nanyang Technological University in Singapore , University of Central Florida, University of Technology Sydney, Australia, Western Norway University of Applied Sciences and Massey University in New Zealand and other well-known universities, etc. Outstanding students can be recommended to a world-class group for visiting, exchanging or applying PhD degree. Additionally, I have established a good cooperation with BAT, Huawei, Byte, etc. And I can recommend excellent students for visiting in these IT companies of China. My email addresses are chunweitian@163.com and [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn).
 
 ## News (消息)
-- **2021-10**: A [jounral paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9105085) becomes a homepage paper of the [IEEE TMM](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6046&isnumber=9296985).
-- **2021-09**: I am invited as a workshop chair of 'International Conference on Computer, Big Data and Artificial Intelligence 2021' (ICCBDAI 2021).
-- **2021-09**: I am invited as a guest editor of the special journal of Mathematics about the special issue on method and application of machine learning.
-- **2021-09**: I am rated as a contribution reviewer of internal journal of Bulletin of Electrical Engineering and Informatics (BEEI). 
-- **2021-09**: I am invited as a technical expert of Shanghai. 
+- **2021-10:** I am invited as a guest edtor of a special journal of Frontiers in Signal Processing. 
+- **2021-10:** A [jounral paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9105085) becomes a homepage paper of the [IEEE TMM](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6046&isnumber=9296985).
+- **2021-09:** I am invited as a workshop chair of 'International Conference on Computer, Big Data and Artificial Intelligence 2021' (ICCBDAI 2021).
+- **2021-09:** I am invited as a guest editor of the special journal of Mathematics about the special issue on method and application of machine learning.
+- **2021-09:** I am rated as a contribution reviewer of internal journal of Bulletin of Electrical Engineering and Informatics (BEEI). 
+- **2021-09:** I am invited as a technical expert of Shanghai. 
 - **2021-09:** Jian Li joins my group. 
 - **2021-08:** A journal paper is accepted by *Briefings in Bioinformatics*.
 - **2021-08:** Invited to join a project, Video Super Resolution Benchmark.
@@ -205,6 +206,8 @@ Associate editor for the International Journal of Image and Graphics
 Associate editor for the Journal of Electrical and Electronic Engineering
 
 Guest Editor of the Special Journal of Mathematics about the Special Issue on Method and application of machine learning
+
+Guest editor of the Special Journal of Frontiers in Signal Processing 
 
  The 5rd Conference on Artificial Intelligence Technology (ACAIT 2021) PC
 

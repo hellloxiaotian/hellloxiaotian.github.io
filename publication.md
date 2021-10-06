@@ -3,6 +3,7 @@
 - **Tian C**,  Xu Y,  Zuo W. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks, 121:461-473, 2020.  [[pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019302394&sa=D&sntz=1&usg=AFQjCNET0x3XV-DClPi7PYVfgOci4hcPuA)] [[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FADNet&sa=D&sntz=1&usg=AFQjCNHp0jPjk4NENToVuFvEzxtjIkiF5w)] (CCF B/SCI-IF:8.05) （**ESI** **Highly cited paper**） 
 
 ## Homepage papers and excellent papers (首页论文和年度优秀论文)
+- P. Wu, L. Fei, S. Li, **C. Tian**, B. Zhang, S. Teng. Towards pen-holding hand pose estimation a new benchmark and  a coarse-to-fine PHHP estimation network[C]. ICASSP 2022. (**Homepage paper/Integrated by the iHub**)
 - **Tian C**, Fei L,  Zheng W, Xu Y,  Zuo W,  Lin C. Deep Learning on Image Denoising: An overview[J]. Neural Networks,131, 251-275, 2020.   [[pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608020302665%3Fvia%3Dihub&sa=D&sntz=1&usg=AFQjCNFLJOTu0vrkv7uGnPFyl6JJVIhRxQ)] (CCF B/SCI-IF:8.05) (**Homepage paper/Integrated by the iHub**)
 -  **Tian C** ,  Xu Y,   Li Z ,  Zuo W,   Fei L,  Liu H. Attention-guided CNN for Image Denoising [J]. Neural Networks,124, 117-129 , 2020.  [[pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019304241&sa=D&sntz=1&usg=AFQjCNFGl6briLBrVY6G2rlPfs9lmC8nsg)] [[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FADNet&sa=D&sntz=1&usg=AFQjCNHp0jPjk4NENToVuFvEzxtjIkiF5w)] (CCF B/SCI-IF:8.05) （**Homepage paper**） 
 - **Tian C**,  Xu Y,  Zuo W. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks, 121:461-473, 2020.  [[pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019302394&sa=D&sntz=1&usg=AFQjCNET0x3XV-DClPi7PYVfgOci4hcPuA)] [[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FADNet&sa=D&sntz=1&usg=AFQjCNHp0jPjk4NENToVuFvEzxtjIkiF5w)] (CCF B/SCI-IF:8.05) （**Homepage paper**） 
@@ -36,6 +37,7 @@
 
 ## Conference papers (会议论文)
 
+- P. Wu, L. Fei, S. Li, **C. Tian**, B. Zhang, S. Teng. Towards pen-holding hand pose estimation a new benchmark and  a coarse-to-fine PHHP estimation network[C]. ICASSP 2022. (Accepted)
 - Y. Deng, L. Fei, S. Zhao, W. Jia, J. Wen, **C. Tian**. Joint Multi-feature Learning for Facical Age Estimation [C]. The 6th Asian Conference on Pattern Recognition(ACPR 2021). (EI)(Accepted)
 - Qin J, Fei L, Zhu J, Wen J, **Tian C**, Wu S. Scalable discriminative disrcrete hashing for large-scale cross-modal retrival [C].  IEEE ICASSP 2021:4330-4334. [[pdf](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9413871%2F&sa=D&sntz=1&usg=AFQjCNH_R8bKyrAt0DoMLcojg8sstTIMig)]  (EI-CCF B)
 - Fei L, Teng S,  Wen J,  **Tian C**, Liu D, Zhang W. Jointly Learning Compact Multi-instance FKP Descriptor [C]. International Joint Conference on Biometrics (IJCB), 2020.  (EI-CCF C)
@@ -56,16 +58,24 @@
 1. **Tian C**, Xu Y. A method and system based neural network for image denoising. Chinese invention patent. 2021. (Authorized) 
 2. **Tian C**, Xu Y. Image restoration methodm, storage medium and system based on an enhanced neural network. Chinese invention patent. 2021.  (Authorized) 
 3. **Tian C**, Yuan Y. An unsupervised neural network for image denoising. Chinese invention patent, 2021.
-4. **Tian C,** Xu Y,  Wen J, Wu J, Liu C. Image denoising method, device, equipment and storagemedium basded on deep learning. Chinese invention patent. 2018.
+4. Xiao J, **Tian C**, Zhang C, Zhang S.  Deformable Convolution Neural Network For Image Denoising. Chinese invention patent, 2021.
+5. **Tian C,** Xu Y,  Wen J, Wu J, Liu C. Image denoising method, device, equipment and storagemedium basded on deep learning. Chinese invention patent. 2018.
 
 
 
 ## Software Copyright (软著) 
 
-1.  **Tian C**, Sun G. Face recognition system. Software Copyright.
-2.  **Tian C**, Sun G. Wechat identification software. Software Copyright.
-3.  **Tian C**, Sun G. Network traffic classification software. Software Copyright.
-4. Sun G, **Tian C.** Network traffic monitoring system. Software Copyright.
+1.  Ma Y, Zhang X, Li J, **Tian C**. Intelligent tracking control system. Software Copyright. 2021. 
+2.  Ma Y, Zheng M, Yang D, **Tian C**. Intelligent vehicle control system. Software Copyright. 2021. 
+3.  Zheng M, Zhang X, Ma Y, **Tian C**. Cruise detection fruit mobile robot system . Software Copyright. 2021. 
+4.  Zhang X, Ma Y, Yang D, **Tian C**. Hotel background management system. Software copyright. 2021. 
+5.  Zhang X, Shi B, Zheng M, **Tian C**. Office-assistant system. Software copyright. 2021.
+6.  Wang Z, Xiao J, Zheng M,Liang X,Han P, **Tian C**.Network flow monitoring system. Software Copyright. 2021.
+7.  Wang Z, Xiao J, Zhang X, Li H, Zhang Y, **Tian C**.Train management system. Software Copyright. 2021. 
+8.  **Tian C**, Sun G. Face recognition system. Software Copyright.
+9.  **Tian C**, Sun G. Wechat identification software. Software Copyright.
+10.  **Tian C**, Sun G. Network traffic classification software. Software Copyright.
+11.  Sun G, **Tian C.** Network traffic monitoring system. Software Copyright.
 
 ## Projects (项目)
 

@@ -70,8 +70,6 @@
 3.  Zheng M, Zhang X, Ma Y, **Tian C**. Cruise detection fruit mobile robot system . Software Copyright. 2021. 
 4.  Zhang X, Ma Y, Yang D, **Tian C**. Hotel background management system. Software copyright. 2021. 
 5.  Zhang X, Shi B, Zheng M, **Tian C**. Office-assistant system. Software copyright. 2021.
-6.  Wang Z, Xiao J, Zheng M,Liang X,Han P, **Tian C**.Network flow monitoring system. Software Copyright. 2021.
-7.  Wang Z, Xiao J, Zhang X, Li H, Zhang Y, **Tian C**.Train management system. Software Copyright. 2021. 
 8.  **Tian C**, Sun G. Face recognition system. Software Copyright.
 9.  **Tian C**, Sun G. Wechat identification software. Software Copyright.
 10.  **Tian C**, Sun G. Network traffic classification software. Software Copyright.

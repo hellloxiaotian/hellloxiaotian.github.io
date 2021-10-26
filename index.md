@@ -158,15 +158,21 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 [Zheng Wang](http://cs.whu.edu.cn/teacherinfo.aspx?id=460), Professor, Wuhan University, China 
 
+[Zheng Zhang](http://faculty.hitsz.edu.cn/zhangzheng), Associate Professor, Harbin Institute of Technology, China
+
 [Wenqi Ren](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Frenwenqi888%2Fhome&sa=D&sntz=1&usg=AFQjCNE7LvXLhEjHpCbb-T0RptVd_7k23w),  Associate Professor, [Chinese Academy of Sciences](https://scholar.google.com/citations?view_op=view_org&hl=zh-CN&org=14461968064144864497), China
 
-[Dongwei Ren](https://scholar.google.com/citations?hl=zh-CN&user=pKmdGZgAAAAJ),  Associate Professor, Harbin Institute of Technology, China  
+[Dongwei Ren](https://scholar.google.com/citations?hl=zh-CN&user=pKmdGZgAAAAJ),  Associate Professor, Harbin Institute of Technology, China
+
+[Lunke Fei](https://yzw.gdut.edu.cn/info/1120/1890.htm), Associate Professor, Guangdong University of Technology, China 
 
 [Kai Zhang](https://scholar.google.com/citations?hl=zh-CN&user=0RycFIIAAAAJ), Post-Doctor, ETH Zürich，Switzerland
 
 [Keke Huang](http://www.google.com/url?q=http%3A%2F%2Ffaculty.csu.edu.cn%2Fhuangkeke%2Fzh_CN%2Findex.htm&sa=D&sntz=1&usg=AFQjCNHDZc_W2kJcG6l2RTY1mVO_LqW4Fw),   Associate Professor,  Central South University, China 
 
-[Chengyuan Zhang](http://csee.hnu.edu.cn/people/zhangchengyuan),  Associate Professor, Hunan University, China 
+[Chengyuan Zhang](http://csee.hnu.edu.cn/people/zhangchengyuan),  Associate Professor, Hunan University, China
+
+[Jie Wen](http://faculty.hitsz.edu.cn/wenjie), Assistant Professor, Harbin Institute of Technology, China
 
 [Gongning Luo](https://scholar.google.com/citations?user=xclGEuwAAAAJ&hl=en),  Assistant Professor,  Harbin Institute of Technology, China
 
@@ -180,7 +186,7 @@ Ping Zong, Professor, National Defense Science and Technology
 
 Jin Zhang, Professor, National Defense Science and Technology
 
-[Zheng Zhu](http://www.google.com/url?q=http%3A%2F%2Fwww.zhengzhu.net%2F&sa=D&sntz=1&usg=AFQjCNHSwdKX0uw8pJ3bo0IBtmjtFPO1Rw),    Post-Doctor, Tsing Hua University, China
+[Zheng Zhu](http://www.google.com/url?q=http%3A%2F%2Fwww.zhengzhu.net%2F&sa=D&sntz=1&usg=AFQjCNHSwdKX0uw8pJ3bo0IBtmjtFPO1Rw), Post-Doctor, Tsing Hua University, China
 
 [Jingjia Huang](https://scholar.google.com/citations?hl=zh-CN&user=ZOKmWQ4AAAAJ), PhD, Peking University, China
 

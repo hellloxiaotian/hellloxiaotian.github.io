@@ -29,9 +29,9 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Welcome to contact me for undergraduates, masters and RA students, who are interested in artificial intelligence, deep learning and image processing. I have good cooperation with Tsinghua University, Peking University, Harbin Institute of Technology, National University of Defense Technology, Wuhan University, Central South University, Dalian University of Technology, Nankai University , Hunan University, Nanjing University of Technology, Southern University of Science and Technology, Institute of Information Technology, Chinese Academy of Sciences, Shenzhen Advanced Institute of Chinese Academy of Sciences, Pengcheng Laboratory, Chinese University of Hong Kong, City University of Hong Kong, University of Macau, Tsinghua University in Taiwan, Zurich Institute of Technology, Nanyang Technological University in Singapore , University of Central Florida, University of Technology Sydney, Australia, Western Norway University of Applied Sciences and Massey University in New Zealand and other well-known universities, etc. Outstanding students can be recommended to a world-class group for visiting, exchanging or applying PhD degree. Additionally, I have established a good cooperation with BAT, Huawei, Byte, etc. And I can recommend excellent students for visiting in these IT companies of China. My email addresses are chunweitian@163.com and [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn).
 
 ## News (消息)
-- **2021-11: ** Invited to give a presentation at the international conference *ICCCBDAI 2021*.
-- **2021-11: ** The thesis of master student Jian Li was selected into the Oral thesis of the international conference *ICCBDAI 2021*.
-- **2021-11: ** The thesis of master student Jingyu Xiao was selected into the Oral thesis of the international conference *ICCBDAI 2021*.
+- **2021-11:** Invited to give a presentation at the international conference *ICCCBDAI 2021*.
+- **2021-11:** The thesis of master student Jian Li was selected into the Oral thesis of the international conference *ICCBDAI 2021*.
+- **2021-11:** The thesis of master student Jingyu Xiao was selected into the Oral thesis of the international conference *ICCBDAI 2021*.
 - **2021-11:** A conference paper was accepted by the international conference *InCoB 2021*.
 - **2021-10:** A journal paper was published on the [Wiley Institute of Technology]([IET编辑精选文章：一种高效神经网络的图像去噪方法 (qq.com)](https://mp.weixin.qq.com/s/UX4wjLk9Im7Nl_AdQZfQuQ)).
 - **2021-10:** A conference paper is accepted to ICASSP.
@@ -426,7 +426,7 @@ ACAIT 2018 (EI)
    <div class="desc">  Jian Li, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
    <div class="desc_blank_2"> </div>
   </div>
-  
+
   <div class="img">
    <img src="picture/Hongcheng Lu.jpg" >
    <div class="desc_blank"> </div>
@@ -460,8 +460,8 @@ ACAIT 2018 (EI)
      <div class="desc"> Bei Shi, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
      <div class="desc_blank_2"> </div>
     </div>
-
-	<div class="img" width = "50%">
+    
+    <div class="img" width = "50%">
      <img src="picture/Jinwen Niu.jpg" >
      <div class="desc_blank"> </div>
      <div class="desc"> Jinwen Niu, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>

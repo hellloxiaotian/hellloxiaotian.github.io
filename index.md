@@ -447,14 +447,14 @@ ACAIT 2018 (EI)
       <div class="desc">Shaodong Xie  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
        <div class="desc_blank_2"> </div>
      </div>
-     
+
 <div class="img">
       <img src="picture/Chao Li.jpg" >
       <div class="desc_blank"> </div>
       <div class="desc">Chao Li,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
        <div class="desc_blank_2"> </div>
      </div>
-  
+
 </div> 
 
 ### Supervisor for Undergraduates (本科生)
@@ -479,6 +479,20 @@ ACAIT 2018 (EI)
      <img src="picture/Jinwen Niu.jpg" >
      <div class="desc_blank"> </div>
      <div class="desc"> Jinwen Niu, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
+     <div class="desc_blank_2"> </div>
+    </div>
+    
+    <div class="img" width = "50%">
+     <img src="picture/Meng Huang.jpg" >
+     <div class="desc_blank"> </div>
+     <div class="desc"> Meng Huang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
+     <div class="desc_blank_2"> </div>
+    </div>
+    
+    <div class="img" width = "50%">
+     <img src="picture/Shijie Sun.jpg" >
+     <div class="desc_blank"> </div>
+     <div class="desc"> Shijie Sun, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
      <div class="desc_blank_2"> </div>
     </div>
 </div>

@@ -421,13 +421,6 @@ ACAIT 2018 (EI)
   </div>
 
   <div class="img">
-   <img src="picture/Jian Li.jpg" >
-   <div class="desc_blank"> </div>
-   <div class="desc">  Jian Li, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-   <div class="desc_blank_2"> </div>
-  </div>
-
-  <div class="img">
    <img src="picture/Hongcheng Lu.jpg" >
    <div class="desc_blank"> </div>
    <div class="desc">  Hongcheng Lu, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>

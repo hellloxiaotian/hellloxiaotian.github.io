@@ -476,13 +476,6 @@ ACAIT 2018 (EI)
     </div>
     
     <div class="img" width = "50%">
-     <img src="picture/Meng Huang.jpg" >
-     <div class="desc_blank"> </div>
-     <div class="desc"> Meng Huang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-     <div class="desc_blank_2"> </div>
-    </div>
-    
-    <div class="img" width = "50%">
      <img src="picture/Shijie Sun.jpg" >
      <div class="desc_blank"> </div>
      <div class="desc"> Shijie Sun, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>

@@ -29,9 +29,9 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Welcome to contact me for undergraduates, masters and RA students, who are interested in artificial intelligence, deep learning and image processing. I have good cooperation with Tsinghua University, Peking University, Harbin Institute of Technology, National University of Defense Technology, Wuhan University, Central South University, Dalian University of Technology, Nankai University , Hunan University, Nanjing University of Technology, Southern University of Science and Technology, Institute of Information Technology, Chinese Academy of Sciences, Shenzhen Advanced Institute of Chinese Academy of Sciences, Pengcheng Laboratory, Chinese University of Hong Kong, City University of Hong Kong, University of Macau, Tsinghua University in Taiwan, Zurich Institute of Technology, Nanyang Technological University in Singapore , University of Central Florida, University of Technology Sydney, Australia, Western Norway University of Applied Sciences and Massey University in New Zealand and other well-known universities, etc. Outstanding students can be recommended to a world-class group for visiting, exchanging or applying PhD degree. Additionally, I have established a good cooperation with BAT, Huawei, Byte, etc. And I can recommend excellent students for visiting in these IT companies of China. My email addresses are chunweitian@163.com and [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn).
 
 ## News (消息)
-- **2021-11**: Invited to be a PC at the 2021 IEEE International Conference on Progress in Informationcis and Computing (PIC 2021).
-- **2021-11**: Two papers were newly selected as ESI highly cited papers.
-- **2021-11**: One paper was selected for Oral paper of ICCBDAI 2021, an international conference.
+- **2021-11:** Invited to be a PC at the 2021 IEEE International Conference on Progress in Informationcis and Computing (PIC 2021).
+- **2021-11:** Two papers were newly selected as ESI highly cited papers.
+- **2021-11:** One paper was selected for Oral paper of ICCBDAI 2021, an international conference.
 - **2021-11:** Two conference papers were accepted by the international conference ICCBDAI 2021.
 - **2021-11:** Invited to give a presentation at the international conference *ICCBDAI 2021*.
 - **2021-11:** The thesis of master student Jingyu Xiao was selected into the Oral thesis of the international conference *ICCBDAI 2021*.

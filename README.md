@@ -1,7 +1,7 @@
 # username.github.io
 
 # Usage
-Fork the repository and than rename the repository by usrname.github.com.
+Fork the repository and than rename the repository by usrname.github.io.
 
 # Update
 If you want to update the site, you had better update files(index.md and publication.md) online, than visit 'username.github.io' URL to ensure the result you want.

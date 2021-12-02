@@ -80,7 +80,8 @@
 ## Projects (项目)
 
 1.  2021.09-2024.08 The Fundamental Research Funds for the Central Universities.
-2.  2021.09-  Research on intelligent object detectin method.
+2.  2021.09- , Research on intelligent ** method.
+2.  2021.09-2023.08, ** Technology Project
 3.  2019.01-2022.12 National Nature ScienceFoundation of China Gant No. 61876051.
 4.  2020.01-2021.12 ShenzhenKey Laboratory of Visual Object Detection and Recognition under Grant No. ZDSYS20190902093015527. 
 5.  2019.08-2022.08 Shenzhen Science and technology innovation Commission  under Grant No. JSGG20190220153602271.

@@ -1,6 +1,6 @@
 ## Biography (简介)
 
-I am an Associate Professor at Software School of Northwestern Polytechnical University (NPU)，China in July, 2021. I was a Researh Fellow at City University of Hong Kong (CityU), China. I  have obtained PhD degree of computer application technology at Harbin Institute of Technology (HIT) , China in Jan, 2021. I pursued PhD degree at HIT from Mar, 2017 to Jan, 2021.  My PhD supervisor is Prof. [Yong Xu](http://www.google.com/url?q=http%3A%2F%2Fwww.yongxu.org%2Fdefault.html&sa=D&sntz=1&usg=AFQjCNFLERhW1jiKlkb2lTtmuiBC62QeaA).   My joint advisor is Prof. [Wangmeng Zuo](http://www.google.com/url?q=http%3A%2F%2Fhomepage.hit.edu.cn%2Fwangmengzuo&sa=D&sntz=1&usg=AFQjCNGQaE8hhMX2VCb3rqbNohhgCVe1HA) and  Prof. [Chia-Wen Lin](https://www.google.com/url?q=https%3A%2F%2Fwww.ee.nthu.edu.tw%2Fcwlin%2F&sa=D&sntz=1&usg=AFQjCNElbF2cUwFl9pKODT1zwVKgzigBYA), IEEE FELLOW. 
+I am an Associate Professor at Software School of Northwestern Polytechnical University (NPU)，China in July, 2021. I was a Researh Fellow at City University of Hong Kong (CityU), China. I  have obtained PhD degree of computer application technology at Harbin Institute of Technology (HIT) , China in Jan, 2021. I pursued PhD degree at HIT from Mar, 2017 to Jan, 2021.  
 
 ## Research Interests (研究兴趣) 
 
@@ -29,11 +29,8 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Welcome to contact me for undergraduates, masters and RA students, who are interested in artificial intelligence, deep learning and image processing. I have good cooperation with Tsinghua University, Peking University, Harbin Institute of Technology, National University of Defense Technology, Wuhan University, Central South University, Dalian University of Technology, Nankai University , Hunan University, Nanjing University of Technology, Southern University of Science and Technology, Institute of Information Technology, Chinese Academy of Sciences, Shenzhen Advanced Institute of Chinese Academy of Sciences, Pengcheng Laboratory, Chinese University of Hong Kong, City University of Hong Kong, University of Macau, Tsinghua University in Taiwan, Zurich Institute of Technology, Nanyang Technological University in Singapore , University of Central Florida, University of Technology Sydney, Australia, Western Norway University of Applied Sciences and Massey University in New Zealand and other well-known universities, etc. Outstanding students can be recommended to a world-class group for visiting, exchanging or applying PhD degree. Additionally, I have established a good cooperation with BAT, Huawei, Byte, etc. And I can recommend excellent students for visiting in these IT companies of China. My email addresses are chunweitian@163.com and [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn).
 
 ## News (消息)
-- **2021-11:** Invited to be a PC at the 2021 IEEE International Conference on Progress in Informationcis and Computing (PIC 2021).
-- **2021-11:** Two papers were newly selected as ESI highly cited papers.
-- **2021-11:** One paper was selected for Oral paper of ICCBDAI 2021, an international conference.
-- **2021-11:** Two conference papers were accepted by the international conference ICCBDAI 2021.
-- **2021-11:** Invited to give a presentation at the international conference *ICCBDAI 2021*.
+- **2021-11:** Invited to give a presentation at the international conference *ICCCBDAI 2021*.
+- **2021-11:** The thesis of master student Jian Li was selected into the Oral thesis of the international conference *ICCBDAI 2021*.
 - **2021-11:** The thesis of master student Jingyu Xiao was selected into the Oral thesis of the international conference *ICCBDAI 2021*.
 - **2021-11:** A conference paper was accepted by the international conference *InCoB 2021*.
 - **2021-10:** A journal paper was published on the [Wiley Institute of Technology]([IET编辑精选文章：一种高效神经网络的图像去噪方法 (qq.com)](https://mp.weixin.qq.com/s/UX4wjLk9Im7Nl_AdQZfQuQ)).
@@ -117,96 +114,6 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2019-08:** One journal paper is accepted to Neural Networks.  ( Top Journal in Neural Network)
 - **2019-05:** 2019 Merit Student of Heilongjiang Province.
 - **2019-04:** 2019 Outstanding student of Harbin Institute of Technology.
-
-<br/>
-
-## Collaborators (合作者) 
-
-[Yong](http://www.google.com/url?q=http%3A%2F%2Fwww.yongxu.org%2F&sa=D&sntz=1&usg=AFQjCNGb5jsLxodkNh2D6QhfAex6HTd4oA) [Xu](http://www.google.com/url?q=http%3A%2F%2Fwww.yongxu.org%2F&sa=D&sntz=1&usg=AFQjCNGb5jsLxodkNh2D6QhfAex6HTd4oA), Professor, Harbin Insitute of Technology, China (National Talents)
-
-[Yanning Zhang](https://teacher.nwpu.edu.cn/ynzhang.html), Professor, Northwestern Polytechnical University (National Talents)
-
-[Wangmeng Zuo](http://www.google.com/url?q=http%3A%2F%2Fhomepage.hit.edu.cn%2Fwangmengzuo&sa=D&sntz=1&usg=AFQjCNGQaE8hhMX2VCb3rqbNohhgCVe1HA), Professor, Harbin Insitute of Technology, China (National Talents)
-
-[Chia-Wen Lin](https://www.google.com/url?q=https%3A%2F%2Fwww.ee.nthu.edu.tw%2Fcwlin%2F&sa=D&sntz=1&usg=AFQjCNElbF2cUwFl9pKODT1zwVKgzigBYA), Professor, IEEE Fellow, National Tsing Hua University, Taiwan  （International Famous Multimedia Expert）
-
-[David Zhang](http://www.google.com/url?q=http%3A%2F%2Fwww4.comp.polyu.edu.hk%2F~csdzhang%2F&sa=D&sntz=1&usg=AFQjCNGAQCD-bNdmz_OgULN-krgC99ENNg), Professor,   IEEE Life Fellow/IAPR Fellow/Fellows of both Royal Societ of Canada and Canadian Academy of Engineering, The Chinese University of Hong Kong, Shenzhen , China (National Talents)
-
-[Jian Yang](https://scholar.google.com/citations?hl=zh-CN&user=6CIDtZQAAAAJ), Professor, IAPR Fellow, Nanjing University of Science and Technology, China (National Talents)
-
-[Hong Liu](https://scholar.google.com/citations?hl=zh-CN&user=4CQKG8oAAAAJ&view_op=list_works&sortby=pubdate), Professor,  CAAI Fellow, Peking University, China (National Talents)
-
-[Shichao Zhang](https://scholar.google.com/citations?user=heE6vKAAAAAJ&hl=zh-CN&oi=ao), Professor, Central South University, China (National Talents)
-
-[Bo Du](http://www.google.com/url?q=http%3A%2F%2Fcs.whu.edu.cn%2Fteacherinfo.aspx%3Fid%3D254&sa=D&sntz=1&usg=AFQjCNFHAo5DbIx8GltxxCrlliHoeTzK2A),  Professor,  Wuhan University, China (National Talents)
-
-[Bob Zhang](http://www.google.com/url?q=http%3A%2F%2Fwww.cis.umac.mo%2F~bobzhang%2F&sa=D&sntz=1&usg=AFQjCNEeK6VR-9q9pcg07qr6i5KYGbQuDg), Associate Professor, University of Macau, China
-
-[Chen Chen](https://www.google.com/url?q=https%3A%2F%2Fwebpages.uncc.edu%2Fcchen62%2F&sa=D&sntz=1&usg=AFQjCNEnTw8iFyd5jSPKPzC46M0YS2xgOQ),  Assistant Professor,  University of Central Florida, USA 
-
-[Yixuan Yuan](http://www.google.com/url?q=http%3A%2F%2Fwww.ee.cityu.edu.hk%2F~yxyuan%2F&sa=D&sntz=1&usg=AFQjCNH0yllgbV1PMQH9pBTE7ghRqy9FQQ), Assistant Professor, City University of Hong Kong, China
-
-<br/>
-
-## Cooperation and Communication (合作与交流) 
-
-[Yuexian Zou](http://www.ece.pku.edu.cn/info/1012/1092.htm), Professor, Peking University, China
-
-[Jianguo Zhang](https://faculty.sustech.edu.cn/zhangjg/), Professor, Southern University of Science and Technology, China (National Talents) 
-
-[Jerry Chun-Wei Lin](http://www.ikelab.net/), IET Fellow, Western Norway University of Applied Sciences, Norway
-
-[Zhixiang Huang](http://icsp.ahu.edu.cn/2016/0707/c4856a37581/page.htm), Professor, Anhui University, China (National Talents)
-
-[Dong Liang](https://www.siat.ac.cn/jgsz2016/jgdh2016/kybm2016/ygs2016/kydw_112345/), Researcher, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, China (Pengcheng Scholar)
-
-[Haijun Zhang](https://www.hitsz.edu.cn/teacher/view/id-745.html), Professor, Harbin Institute of Technology, China (Outstanding Youth of Guangdong Province)
-
-[Ping Zhong](https://scholar.google.com.hk/citations?hl=en&user=xQWYZn4AAAAJ), Professor, National University of Defense Technology, China 
-
-[Zheng Wang](http://cs.whu.edu.cn/teacherinfo.aspx?id=460), Professor, Wuhan University, China 
-
-[Zheng Zhang](http://faculty.hitsz.edu.cn/zhangzheng), Associate Professor, Harbin Institute of Technology, China
-
-[Wenqi Ren](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Frenwenqi888%2Fhome&sa=D&sntz=1&usg=AFQjCNE7LvXLhEjHpCbb-T0RptVd_7k23w),  Associate Professor, [Chinese Academy of Sciences](https://scholar.google.com/citations?view_op=view_org&hl=zh-CN&org=14461968064144864497), China
-
-[Dongwei Ren](https://scholar.google.com/citations?hl=zh-CN&user=pKmdGZgAAAAJ),  Associate Professor, Harbin Institute of Technology, China
-
-[Lunke Fei](https://yzw.gdut.edu.cn/info/1120/1890.htm), Associate Professor, Guangdong University of Technology, China 
-
-[Kai Zhang](https://scholar.google.com/citations?hl=zh-CN&user=0RycFIIAAAAJ), Post-Doctor, ETH Zürich，Switzerland
-
-[Keke Huang](http://www.google.com/url?q=http%3A%2F%2Ffaculty.csu.edu.cn%2Fhuangkeke%2Fzh_CN%2Findex.htm&sa=D&sntz=1&usg=AFQjCNHDZc_W2kJcG6l2RTY1mVO_LqW4Fw),   Associate Professor,  Central South University, China 
-
-[Chengyuan Zhang](http://csee.hnu.edu.cn/people/zhangchengyuan),  Associate Professor, Hunan University, China
-
-[Jie Wen](http://faculty.hitsz.edu.cn/wenjie), Assistant Professor, Harbin Institute of Technology, China
-
-[Gongning Luo](https://scholar.google.com/citations?user=xclGEuwAAAAJ&hl=en),  Assistant Professor,  Harbin Institute of Technology, China
-
-[Zhiyuan Zha](https://scholar.google.com/citations?hl=zh-CN&user=JgiasCAAAAAJ), Post-Doctor,  Nanyang Technological University,Singapore
-
-[Cong Wang](https://congwang0705.github.io/), Assistant Professor, Northwestern Polytechnical University, China 
-
-Kan Huang,  Post-Doctor,  Peking University and Assistant Professor, Shanghai  Maritime University, China
-
-Ping Zong, Professor, National Defense Science and Technology
-
-Jin Zhang, Professor, National Defense Science and Technology
-
-[Zheng Zhu](http://www.google.com/url?q=http%3A%2F%2Fwww.zhengzhu.net%2F&sa=D&sntz=1&usg=AFQjCNHSwdKX0uw8pJ3bo0IBtmjtFPO1Rw), Post-Doctor, Tsing Hua University, China
-
-[Jingjia Huang](https://scholar.google.com/citations?hl=zh-CN&user=ZOKmWQ4AAAAJ), PhD, Peking University, China
-
-[Ming Zong](https://scholar.google.com/citations?hl=zh-CN&user=453uw38AAAAJ),  PhD, Massey University, New Zealand
-
-[Xu Liang](http://www.google.com/url?q=http%3A%2F%2Fxliang.me%2F&sa=D&sntz=1&usg=AFQjCNH4JSL6r1KpYwisQGXL7WbUgbocBQ),  PhD Candidate, Harbin Institute of Technology, China
-
-Chaoqun Duan, PhD Candidate,  Harbin Institute of Technology, China
-
-[Pengju Liu](https://scholar.google.com/citations?user=4WCG2WYAAAAJ&hl=zh-CN&oi=ao), PhD Candidate, Harbin Institute of Technology, China
-
-[Shuo Yang](https://scholar.google.com/citations?hl=zh-CN&user=xLsQ02cAAAAJ), PhD Candiate, University of Technology Sydney, Australia
 
 <br/>
 

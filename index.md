@@ -398,19 +398,19 @@ ACAIT 2018 (EI)
   </div>
 
 <div class="img">
-      <img src="picture/Shaodong Xie.jpg" >
-      <div class="desc_blank"> </div>
-      <div class="desc">Shaodong Xie  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
-       <div class="desc_blank_2"> </div>
-</div>
-
-<div class="img">
-      <img src="picture/Chao Li.jpg" >
-      <div class="desc_blank"> </div>
-      <div class="desc">Chao Li,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
-       <div class="desc_blank_2"> </div>
-</div>
-
+   <img src="picture/Hui Zhao.jpg" >
+   <div class="desc_blank"> </div>
+   <div class="desc">  Hui Zhao, <a href = "https://www.hnu.edu.cn/">Hunan University</a>, China</div>
+   <div class="desc_blank_2"> </div>
+  </div>
+  
+  <div class="img">
+   <img src="picture/Hui Zhao.jpg" >
+   <div class="desc_blank"> </div>
+   <div class="desc">  Hui Zhao, <a href = "https://www.hnu.edu.cn/">Hunan University</a>, China</div>
+   <div class="desc_blank_2"> </div>
+  </div>
+  
 </div> 
 
 ### Supervisor for Undergraduates (本科生)

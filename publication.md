@@ -60,6 +60,9 @@
 1. **Tian C**, Xu Y. A method and system based neural network for image denoising. Chinese invention patent. 2021. (Authorized) 
 2. **Tian C**, Xu Y. Image restoration methodm, storage medium and system based on an enhanced neural network. Chinese invention patent. 2021.  (Authorized) 
 3. **Tian C**, Yuan Y. An unsupervised neural network for image denoising. Chinese invention patent, 2021.
+3. **Tian C**, Zheng M, Zhang X, A method and system based improved ** image blind denoising, 2021.
+3. **Tian C**, Ma Y, Zhang X, Zhang Y. A method based enhancement **blind image denoising, 2021.
+3. **Tian C**, Xu Y. System based on ** fire risk assessment, 2021.
 4. Xiao J, **Tian C**, Zhang C, Zhang S.  Deformable Convolution Neural Network For Image Denoising. Chinese invention patent, 2021.
 5. **Tian C,** Xu Y,  Wen J, Wu J, Liu C. Image denoising method, device, equipment and storagemedium basded on deep learning. Chinese invention patent. 2018.
 
@@ -79,6 +82,9 @@
 
 ## Projects (项目)
 
+1.  2021.10-2024.09 **Province Youth Fund Project.
+1.  2021- Shaanxi Virtual Teaching and Research Office construction project.
+1.  2021- Ministry of Education industry-University-Research Project.
 1.  2021.09-2024.08 The Fundamental Research Funds for the Central Universities.
 2.  2021.09- , Research on intelligent ** method.
 2.  2021.09-2023.08, ** Technology Project

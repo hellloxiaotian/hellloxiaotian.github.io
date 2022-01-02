@@ -28,9 +28,57 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 ## Recruitment (招生)
 - Welcome to contact me for undergraduates, masters and RA students, who are interested in artificial intelligence, deep learning and image processing. I have good cooperation with Tsinghua University, Peking University, Harbin Institute of Technology, National University of Defense Technology, Wuhan University, Central South University, Dalian University of Technology, Nankai University , Hunan University, Nanjing University of Technology, Southern University of Science and Technology, Institute of Information Technology, Chinese Academy of Sciences, Shenzhen Advanced Institute of Chinese Academy of Sciences, Pengcheng Laboratory, Chinese University of Hong Kong, City University of Hong Kong, University of Macau, Tsinghua University in Taiwan, Zurich Institute of Technology, Nanyang Technological University in Singapore , University of Central Florida, University of Technology Sydney, Australia, Western Norway University of Applied Sciences and Massey University in New Zealand and other well-known universities, etc. Outstanding students can be recommended to a world-class group for visiting, exchanging or applying PhD degree. Additionally, I have established a good cooperation with BAT, Huawei, Byte, etc. And I can recommend excellent students for visiting in these IT companies of China. My email addresses are chunweitian@163.com and [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn).
 
+# General introduction（综合介绍）
+
+## Collaborators（合作者）
+
+- Yong Xu, Professor, Harbin Institute of Technology, China (National Talent)
+- Yanning Zhang, Professor, Northwestern Polytechnical University, China(National Talent)
+- Wangmeng Zuo, Professor, Harbin Institute of Technology, China (New century talent of the Ministry of education / internationally renowned computer vision scholar)
+- Chia-Wen Lin, Professor, IEEE fellow, National Tsing Hua University, Taiwan China
+- David Zhang, Professor, Chinese University of Hong Kong, China (Academician of the Royal Academy of Sciences and the Academy of Engineering / IEEE life fellow / IAPR fellow)
+- Jian Yang, Professor, Nanjing University of Science and Technology, China(National Talent / IAPR fellow)
+- Hong Liu, Professor, Peking University, China(National Talent / CAAI fellow)
+- Shichao Zhang, Professor, Central South University, China (National Talent / Former member of the CPPCC National Committee)
+- Bo Du, Professor, Wuhan University, China (National Youth Talent)
+- Jiangbin Zheng, Professor, Northwestern Polytechnical University, China (Member of Software Engineering Teaching Steering Committee of the Ministry of education / Computer professional certification expert)
+- Bob Zhang, Associate Professor, University of Macau, China
+- Chen Chen, Assistant Professor, University of Florida
+- Yixuan yuan, Assistant Professor, City University of Hong Kong, China
+
+## Cooperation and Communication(合作与交流)
+
+- Li Zhiwu,Professor, Xidian University (National talent/IEEE Fellow)
+- Yuexian Zou, Professor, Peking University, China
+- Zhixiang Huang, Professor, Anhui University, China(National Youth talent)
+- Jerry Chun-Wei Lin, Professor, Western Norway University of Applied Sciences(IET Fellow)
+- Jianguo Zhang, Professor, South University of Science and Technology of China, China(National talent)
+- Haijun Zhang, Professor, Harbin Institute of Technology, China
+- Zheng Wang, Professor, Wuhan University, China
+- Ping Zhong, Professor, National University of Defense Technology, China
+- Yong Zhang, Professor, Shenzhen University, China
+- Zhengfu Zhang, Associate Professor, Harbin Institute of Technology, China
+- Dongwei Ren，Associate Professor, Harbin Institute of Technology, China
+- Wenqi Ren, Associate Research Fellow, Institute Of Information Engineering, China
+- Chengyuan Zhang, Associate Professor, Hunan University, China
+- Lunke Fei, Associate Professor, GuangdongUniversity of Technology, China
+- Kai Zhang, Postdoctor, ETH
+- Qing Gao, Associate Research Fellow,  Chinese University of Hong Kong, Shenzhen, China
+- Jie Wen, Assistant Professor, Harbin Institute of  Technology, China
+- Gongning Luo, Assistant Professor, Harbin Institute of Technology, China
+
 ## News (消息)
+
+- Join the CAAI Youth Working Committee.
+- Invited to join BAAI- Qingyuan Association.
+- Join Technical Committee on CSIG-MV.
+- Invited to be the guest editor of the special issue of the international journal *Electronics*.
+- **2021-12:** Invited to be the Workshop Chair of *International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)*
+- **2021-11:** Invited to be the PC of *2021 IEEE International Conference on Progress in Informationcis and Computing (PIC 2021)*.
 - **2021-11:** Invited to give a presentation at the international conference *ICCCBDAI 2021*.
-- **2021-11:** The thesis of master student Jian Li was selected into the Oral thesis of the international conference *ICCBDAI 2021*.
+- **2021-11:** Two papers were newly selected as ESI highly cited papers.
+- **2021-11:** One paper was selected for Oral paper of ICCBDAI 2021, an international conference.
+- **2021-11:** Two conference papers were accepted by the international conference ICCBDAI 2021.
 - **2021-11:** The thesis of master student Jingyu Xiao was selected into the Oral thesis of the international conference *ICCBDAI 2021*.
 - **2021-11:** A conference paper was accepted by the international conference *InCoB 2021*.
 - **2021-10:** A journal paper was published on the [Wiley Institute of Technology]([IET编辑精选文章：一种高效神经网络的图像去噪方法 (qq.com)](https://mp.weixin.qq.com/s/UX4wjLk9Im7Nl_AdQZfQuQ)).
@@ -119,8 +167,6 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## Academic Activities (学术活动)
 
-Workshop chair of 'International Conference on Computer, Big Data and Artificial Intelligence 2021' (ICCBDAI 2021).
-
 CCF Member/IEEE Member/CAAI Member/SAAI Member/SZCCF Member
 
 Technical expert of Shanghai
@@ -131,9 +177,17 @@ Associate editor for the Journal of Electrical and Electronic Engineering
 
 Guest Editor of the Special Journal of Mathematics about the Special Issue on Method and application of machine learning
 
+Guest editor of the Special Journal of Eletronics
+
 Guest editor of the Special Journal of Frontiers in Signal Processing 
 
+Worksop Chair of International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)
+
+Workshop Chair of International Conference on Computer, Big Data and Artificial Intelligence 2021 (ICCBDAI 2021)
+
  The 5rd Conference on Artificial Intelligence Technology (ACAIT 2021) PC
+
+IEEE International Conference on Progress in Informationcis and Computing (PIC 2021) PC
 
 The 19th IEEE International Conference on Dependable, Autonomic and  Secure Computing (IEEE DASC 2021) Program committee member 
 
@@ -220,7 +274,6 @@ ACAIT 2019 (EI)
 2019 International Conference on Artificial Intelligence, Information Processing and Cloud Computing (AIIPC 2019) (EI)
 
 ACAIT 2018 (EI)
-
 
 <br/>
 

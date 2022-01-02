@@ -69,10 +69,10 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
-- Join the CAAI Youth Working Committee.
-- Invited to join BAAI- Qingyuan Association.
-- Join Technical Committee on CSIG-MV.
-- Invited to be the guest editor of the special issue of the international journal *Electronics*.
+- **2021-12:** Join the CAAI Youth Working Committee.
+- **2021-12:** Invited to join BAAI- Qingyuan Association.
+- **2021-12:** Join Technical Committee on CSIG-MV.
+- **2021-12:** Invited to be the guest editor of the special issue of the international journal *Electronics*.
 - **2021-12:** Invited to be the Workshop Chair of *International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)*
 - **2021-11:** Invited to be the PC of *2021 IEEE International Conference on Progress in Informationcis and Computing (PIC 2021)*.
 - **2021-11:** Invited to give a presentation at the international conference *ICCCBDAI 2021*.

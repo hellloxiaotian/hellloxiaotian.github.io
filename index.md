@@ -28,9 +28,9 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 ## Recruitment (招生)
 - Welcome to contact me for undergraduates, masters and RA students, who are interested in artificial intelligence, deep learning and image processing. I have good cooperation with Tsinghua University, Peking University, Harbin Institute of Technology, National University of Defense Technology, Wuhan University, Central South University, Dalian University of Technology, Nankai University , Hunan University, Nanjing University of Technology, Southern University of Science and Technology, Institute of Information Technology, Chinese Academy of Sciences, Shenzhen Advanced Institute of Chinese Academy of Sciences, Pengcheng Laboratory, Chinese University of Hong Kong, City University of Hong Kong, University of Macau, Tsinghua University in Taiwan, Zurich Institute of Technology, Nanyang Technological University in Singapore , University of Central Florida, University of Technology Sydney, Australia, Western Norway University of Applied Sciences and Massey University in New Zealand and other well-known universities, etc. Outstanding students can be recommended to a world-class group for visiting, exchanging or applying PhD degree. Additionally, I have established a good cooperation with BAT, Huawei, Byte, etc. And I can recommend excellent students for visiting in these IT companies of China. My email addresses are chunweitian@163.com and [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn).
 
-# General introduction（综合介绍）
+## General introduction（综合介绍）
 
-## Collaborators（合作者）
+### Collaborators（合作者）
 
 - Yong Xu, Professor, Harbin Institute of Technology, China (National Talent)
 - Yanning Zhang, Professor, Northwestern Polytechnical University, China(National Talent)
@@ -46,7 +46,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Chen Chen, Assistant Professor, University of Florida
 - Yixuan yuan, Assistant Professor, City University of Hong Kong, China
 
-## Cooperation and Communication(合作与交流)
+### Cooperation and Communication(合作与交流)
 
 - Li Zhiwu,Professor, Xidian University (National talent/IEEE Fellow)
 - Yuexian Zou, Professor, Peking University, China
@@ -430,7 +430,12 @@ ACAIT 2018 (EI)
      <div class="desc"> Bei Shi, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
      <div class="desc_blank_2"> </div>
     </div>
-    
+
+</div>
+
+
+<div class="box">
+
     <div class="img" width = "50%">
      <img src="picture/Jinwen Niu.jpg" >
      <div class="desc_blank"> </div>

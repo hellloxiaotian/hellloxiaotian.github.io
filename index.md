@@ -48,11 +48,11 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ### Cooperation and Communication(合作与交流)
 
-- Li Zhiwu,Professor, Xidian University (National talent/IEEE Fellow)
+- Zhiwu Li,Professor, Xidian University (National Talent/IEEE Fellow)
 - Yuexian Zou, Professor, Peking University, China
-- Zhixiang Huang, Professor, Anhui University, China(National Youth talent)
+- Zhixiang Huang, Professor, Anhui University, China(National Youth Talent)
 - Jerry Chun-Wei Lin, Professor, Western Norway University of Applied Sciences(IET Fellow)
-- Jianguo Zhang, Professor, South University of Science and Technology of China, China(National talent)
+- Jianguo Zhang, Professor, South University of Science and Technology of China, China(National Talent)
 - Haijun Zhang, Professor, Harbin Institute of Technology, China
 - Zheng Wang, Professor, Wuhan University, China
 - Ping Zhong, Professor, National University of Defense Technology, China
@@ -414,7 +414,7 @@ ACAIT 2018 (EI)
       <div class="desc">Chao Li,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
        <div class="desc_blank_2"> </div>
 </div>
-  
+
 </div> 
 
 ### Supervisor for Undergraduates (本科生)
@@ -434,7 +434,7 @@ ACAIT 2018 (EI)
      <div class="desc"> Bei Shi, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
      <div class="desc_blank_2"> </div>
     </div>
-
+    
     <div class="img" width = "50%">
      <img src="picture/Jinwen Niu.jpg" >
      <div class="desc_blank"> </div>

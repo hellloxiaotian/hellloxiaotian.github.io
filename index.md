@@ -352,7 +352,18 @@ ACAIT 2018 (EI)
 
 ## Team Members (团队成员)
 
-### Supervisor  for Postgraduates (硕士生)
+### Supervisor for doctorate（博士生）
+<div class="box">
+    <div class="img">
+          <img src="picture/Yuxuan Hu.jpg" >
+          <div class="desc_blank"> </div>
+          <div class="desc">Yuxuan Hu,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
+           <div class="desc_blank_2"> </div>
+     </div>
+
+</div>
+
+### Supervisor for Postgraduates (硕士生)
 <div class="box">
 
     <div class="img">
@@ -401,6 +412,13 @@ ACAIT 2018 (EI)
 
 <div class="box">
 
+<div class="img" width = "50%">
+     <img src="picture/Jiawen Zeng.jpg" >
+     <div class="desc_blank"> </div>
+     <div class="desc"> Jiawen Zeng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
+     <div class="desc_blank_2"> </div>
+    </div>
+    
 <div class="img">
       <img src="picture/Shaodong Xie.jpg" >
       <div class="desc_blank"> </div>
@@ -450,5 +468,29 @@ ACAIT 2018 (EI)
     </div>
 </div>
 
+<div class="box">
+
+<div class="img" width = "50%">
+     <img src="picture/Canwen Li.jpg" >
+     <div class="desc_blank"> </div>
+     <div class="desc"> Canwen Li, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
+     <div class="desc_blank_2"> </div>
+    </div>
+
+<div class="img" width = "50%">
+     <img src="picture/Dingxuan Meng.jpg" >
+     <div class="desc_blank"> </div>
+     <div class="desc"> Dingxuan Meng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
+     <div class="desc_blank_2"> </div>
+    </div>
+
+<div class="img" width = "50%">
+     <img src="picture/Haojie Xin.jpg" >
+     <div class="desc_blank"> </div>
+     <div class="desc"> Haojie Xin, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
+     <div class="desc_blank_2"> </div>
+    </div>
+    
+</div>
 ### Supporter
 This homepage is supported by Mr. Menghua Zheng in June, 2021. 

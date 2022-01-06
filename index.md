@@ -418,7 +418,7 @@ ACAIT 2018 (EI)
      <div class="desc"> Jiawen Zeng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
      <div class="desc_blank_2"> </div>
     </div>
-    
+
 <div class="img">
       <img src="picture/Shaodong Xie.jpg" >
       <div class="desc_blank"> </div>
@@ -466,7 +466,17 @@ ACAIT 2018 (EI)
      <div class="desc"> Shijie Sun, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
      <div class="desc_blank_2"> </div>
     </div>
+
+<div class="img" width = "50%">
+     <img src="picture/Tiancai Jiao.jpg" >
+     <div class="desc_blank"> </div>
+     <div class="desc"> Tiancai Jiao, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
+     <div class="desc_blank_2"> </div>
+    </div>
+
 </div>
+
+
 
 <div class="box">
 
@@ -490,7 +500,7 @@ ACAIT 2018 (EI)
      <div class="desc"> Haojie Xin, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
      <div class="desc_blank_2"> </div>
     </div>
-    
+
 </div>
 ### Supporter
 This homepage is supported by Mr. Menghua Zheng in June, 2021. 

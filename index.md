@@ -474,18 +474,16 @@ ACAIT 2018 (EI)
      <div class="desc_blank_2"> </div>
     </div>
 
-</div>
-
-
-
-<div class="box">
-
 <div class="img" width = "50%">
      <img src="picture/Canwen Li.jpg" >
      <div class="desc_blank"> </div>
      <div class="desc"> Canwen Li, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
      <div class="desc_blank_2"> </div>
     </div>
+    
+</div>
+
+<div class="box">
 
 <div class="img" width = "50%">
      <img src="picture/Dingxuan Meng.jpg" >

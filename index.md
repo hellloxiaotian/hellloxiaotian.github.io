@@ -34,7 +34,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 - Yong Xu, Professor, Harbin Institute of Technology, China (National Talent)
 - Yanning Zhang, Professor, Northwestern Polytechnical University, China(National Talent)
-- Wangmeng Zuo, Professor, Harbin Institute of Technology, China (New century talent of the Ministry of education / internationally renowned computer vision scholar)
+- Wangmeng Zuo, Professor, Harbin Institute of Technology, China (New century talent of the Ministry of education / International recognized computer vision scholar)
 - Chia-Wen Lin, Professor, IEEE fellow, National Tsing Hua University, Taiwan China
 - David Zhang, Professor, Chinese University of Hong Kong, China (Academician of the Royal Academy of Sciences and the Academy of Engineering / IEEE life fellow / IAPR fellow)
 - Jian Yang, Professor, Nanjing University of Science and Technology, China(National Talent / IAPR fellow)

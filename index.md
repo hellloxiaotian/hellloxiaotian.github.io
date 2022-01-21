@@ -50,7 +50,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 - Zhiwu Li,Professor, Xidian University (National Talent/IEEE Fellow)
 - Yuexian Zou, Professor, Peking University, China
-- Zhixiang Huang, Professor, Anhui University, China(National Youth Talent)
+- Zhixiang Huang, Professor, Anhui University, China(National Talent)
 - Jerry Chun-Wei Lin, Professor, Western Norway University of Applied Sciences(IET Fellow)
 - Jianguo Zhang, Professor, South University of Science and Technology of China, China(National Talent)
 - Haijun Zhang, Professor, Harbin Institute of Technology, China
@@ -480,7 +480,7 @@ ACAIT 2018 (EI)
      <div class="desc"> Canwen Li, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
      <div class="desc_blank_2"> </div>
     </div>
-    
+
 </div>
 
 <div class="box">

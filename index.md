@@ -61,10 +61,8 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Dongwei Ren，Associate Professor, Harbin Institute of Technology, China
 - Wenqi Ren, Associate Research Fellow, Institute Of Information Engineering, China
 - Chengyuan Zhang, Associate Professor, Hunan University, China
-- Lunke Fei, Associate Professor, GuangdongUniversity of Technology, China
 - Kai Zhang, Postdoctor, ETH
 - Qing Gao, Associate Research Fellow,  Chinese University of Hong Kong, Shenzhen, China
-- Jie Wen, Assistant Professor, Harbin Institute of  Technology, China
 - Gongning Luo, Assistant Professor, Harbin Institute of Technology, China
 
 ## News (消息)

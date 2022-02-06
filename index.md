@@ -41,7 +41,9 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Hong Liu, Professor, Peking University, China(National Talent / CAAI fellow)
 - Shichao Zhang, Professor, Central South University, China (National Talent / Former member of the CPPCC National Committee)
 - Bo Du, Professor, Wuhan University, China (National Youth Talent)
+- Jerry Chun-Wei Lin, Professor, Western Norway University of Applied Sciences(IET Fellow)
 - Jiangbin Zheng, Professor, Northwestern Polytechnical University, China (Member of Software Engineering Teaching Steering Committee of the Ministry of education / Computer professional certification expert)
+- Jingyong Su, Professor, Harbin Institute of Technology (Tenured Professor, Texas Tech University, USA)
 - Bob Zhang, Associate Professor, University of Macau, China
 - Chen Chen, Assistant Professor, University of Florida
 - Yixuan yuan, Assistant Professor, City University of Hong Kong, China
@@ -51,8 +53,9 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Zhiwu Li,Professor, Xidian University (National Talent/IEEE Fellow)
 - Yuexian Zou, Professor, Peking University, China
 - Zhixiang Huang, Professor, Anhui University, China(National Talent)
-- Jerry Chun-Wei Lin, Professor, Western Norway University of Applied Sciences(IET Fellow)
 - Jianguo Zhang, Professor, South University of Science and Technology of China, China(National Talent)
+- Jiantao Zhou, Associate Professor, University of Macau, China(National Young Talent)
+- Liang Dong, researcher, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences(National Natural Science Foundation of China Reviewer)
 - Haijun Zhang, Professor, Harbin Institute of Technology, China
 - Zheng Wang, Professor, Wuhan University, China
 - Ping Zhong, Professor, National University of Defense Technology, China
@@ -60,10 +63,15 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Zhengfu Zhang, Associate Professor, Harbin Institute of Technology, China
 - Dongwei Ren，Associate Professor, Harbin Institute of Technology, China
 - Wenqi Ren, Associate Research Fellow, Institute Of Information Engineering, China
+- Zhongyun Hua, Associate Professor, Harbin Institute of Technology, China
 - Chengyuan Zhang, Associate Professor, Hunan University, China
+- Kelun Fei, Associate Professor, Guangdong University of Technology
 - Kai Zhang, Postdoctor, ETH
 - Qing Gao, Associate Research Fellow,  Chinese University of Hong Kong, Shenzhen, China
 - Gongning Luo, Assistant Professor, Harbin Institute of Technology, China
+- Peiyi Han, Assistant Researcher, Harbin Institute of Technology(Sub-dean of Qi'anxin Data Security Research Institute, Key members of the Academician Team)
+- Jie Wen, Assistant Professor, Harbin Institute of Technology(Recipients of the Postdoctoral Innovation Talent Support Program, Outstanding Doctoral Students)
+- Kan Huang, Assistant Professor, Shanghai Maritime University(Post-doc at Peking University)
 
 ## News (消息)
 

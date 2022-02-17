@@ -51,8 +51,8 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 ### Cooperation and Communication(合作与交流)
 
 - Zhiwu Li,Professor, Xidian University (National Talent/IEEE Fellow)
-- Yuexian Zou, Professor, Peking University, China
 - Zhixiang Huang, Professor, Anhui University, China(National Talent)
+- Yuexian Zou, Professor, Peking University, China
 - Jianguo Zhang, Professor, South University of Science and Technology of China, China(National Talent)
 - Jiantao Zhou, Associate Professor, University of Macau, China(National Young Talent)
 - Liang Dong, researcher, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences(National Natural Science Foundation of China Reviewer)
@@ -65,8 +65,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Wenqi Ren, Associate Research Fellow, Institute Of Information Engineering, China
 - Zhongyun Hua, Associate Professor, Harbin Institute of Technology, China
 - Chengyuan Zhang, Associate Professor, Hunan University, China
-- Kelun Fei, Associate Professor, Guangdong University of Technology
-- Kai Zhang, Postdoctor, ETH
+- Lunke Fei, Associate Professor, Guangdong University of Technology
 - Qing Gao, Associate Research Fellow,  Chinese University of Hong Kong, Shenzhen, China
 - Gongning Luo, Assistant Professor, Harbin Institute of Technology, China
 - Peiyi Han, Assistant Researcher, Harbin Institute of Technology(Sub-dean of Qi'anxin Data Security Research Institute, Key members of the Academician Team)
@@ -75,6 +74,15 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2022-02:** Invited to be an associate editor of the international journal Jouranl of Artifical Intelligence and Technology.
+- **2022-02:** A **journal paper on educational reform was accepted.
+- **2022-02:** A **journal paper on educational reform was accepted.
+- **2022-02:** Invited to join the International Journal **Development Working Group.
+- **2022-02:** Invited to join the expert team of the **Journal.
+- **2022-02:** A paper was accepted by SCI journal "Applied Sciences".
+- **2022-01:** Invited as the PC of the International Conference on Computer Modeling and Big Data Analytics (CMBDA 2022).
+- **2022-01:** Invited to record a New Year's promo on the famous domestic CV public website "Pole City Platform".
+- **2021-12:** A paper was accepted in the international journal IEE Multimedia.
 - **2021-12:** Join the CAAI Youth Working Committee.
 - **2021-12:** Invited to join BAAI- Qingyuan Association.
 - **2021-12:** Join Technical Committee on CSIG-MV.
@@ -173,9 +181,11 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## Academic Activities (学术活动)
 
-CCF Member/IEEE Member/CAAI Member/SAAI Member/SZCCF Member
+CCF Member/IEEE Member/CAAI Member/SAAI Member/SZCCF Member/CAAI Youth Work Committee Members/CCF and CSIG-MV Special Committee of Jiangsu Artificial Intelligence Society Member/BAAI-Qingyuan Committee Member/International Journal Development Working Group Member/Journal Expert Panel Member
 
 Technical expert of Shanghai
+
+Associate editor for the Journal of Artificial Intelligence and Technology
 
 Associate editor for the International Journal of Image and Graphics
 
@@ -190,6 +200,8 @@ Guest editor of the Special Journal of Frontiers in Signal Processing
 Worksop Chair of International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)
 
 Workshop Chair of International Conference on Computer, Big Data and Artificial Intelligence 2021 (ICCBDAI 2021)
+
+PC: CMBDA 2022
 
  The 5rd Conference on Artificial Intelligence Technology (ACAIT 2021) PC
 

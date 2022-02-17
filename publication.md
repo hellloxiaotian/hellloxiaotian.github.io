@@ -42,7 +42,7 @@
 
 ## Conference papers (会议论文)
 
-- M. Zheng, J. Xu, Y. Shen, **C. Tian***, J. Li, L. Fei, M. Zong, X. Liu. Attention-based CNNs for image classification: A Survey[C].[ The 2nd International Conference on Computer, Big Data and Artificial Intelligence (ICCBDAI 2021)], (EI/Oral paper) (Accepted)
+- M. Zheng, J. Xu, Y. Shen, **C. Tian***, J. Li, L. Fei, M. Zong, X. Liu. Attention-based CNNs for image classification: A Survey[C]. The 2nd International Conference on Computer, Big Data and Artificial Intelligence (ICCBDAI 2021)], (EI/Oral paper) (Accepted)
 - P. Wu, L. Fei, S. Li, **C. Tian**, B. Zhang, S. Teng. Towards pen-holding hand pose estimation a new benchmark and  a coarse-to-fine PHHP estimation network[C]. ICASSP 2022. (Accepted)
 - Y. Deng, L. Fei, S. Zhao, W. Jia, J. Wen, **C. Tian**. Joint Multi-feature Learning for Facical Age Estimation [C]. The 6th Asian Conference on Pattern Recognition(ACPR 2021). (EI)(Accepted)
 - Qin J, Fei L, Zhu J, Wen J, **Tian C**, Wu S. Scalable discriminative disrcrete hashing for large-scale cross-modal retrival [C].  IEEE ICASSP 2021:4330-4334. [[pdf](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9413871%2F&sa=D&sntz=1&usg=AFQjCNH_R8bKyrAt0DoMLcojg8sstTIMig)]  (EI-CCF B)

@@ -74,6 +74,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2022-02:** A paper was accepted by Electronics.
 - **2022-02:** Invited to be an associate editor of the international journal Jouranl of Artifical Intelligence and Technology.
 - **2022-02:** A **journal paper on educational reform was accepted.
 - **2022-02:** A **journal paper on educational reform was accepted.

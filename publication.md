@@ -62,14 +62,14 @@
 
 ## Patents (专利)
 
-1. **Tian C**, Xu Y. A method and system based neural network for image denoising. Chinese invention patent. 2021. (Authorized) 
-2. **Tian C**, Xu Y. Image restoration methodm, storage medium and system based on an enhanced neural network. Chinese invention patent. 2021.  (Authorized) 
-3. **Tian C**, Yuan Y. An unsupervised neural network for image denoising. Chinese invention patent, 2021.
+1. **Tian C**, Xu Y. A method and system based neural network for image denoising. Chinese invention patent. 2021. ZL201810063893.2(Authorized) 
+2. **Tian C**, Xu Y. Image restoration methodm, storage medium and system based on an enhanced neural network. Chinese invention patent. 2021. ZL201810803674.3 (Authorized) 
+3. **Tian C**, Yuan Y. A denoising model and its establishment method and device, image denoising method and device. Chinese invention patent, 2021. 202111112423.9. (Accepted)
 3. **Tian C**, Zheng M, Zhang X, A method and system based improved ** image blind denoising, 2021.
-3. **Tian C**, Ma Y, Zhang X, Zhang Y. A method based enhancement **blind image denoising, 2021.
-3. **Tian C**, Xu Y. System based on ** fire risk assessment, 2021.
-4. Xiao J, **Tian C**, Zhang C, Zhang S.  Deformable Convolution Neural Network For Image Denoising. Chinese invention patent, 2021.
-5. **Tian C,** Xu Y,  Wen J, Wu J, Liu C. Image denoising method, device, equipment and storagemedium basded on deep learning. Chinese invention patent. 2018.
+3. **Tian C**, Ma Y, Zhang X, Zhang Y. A method based enhancement **blind image denoising, 2021.202210032943.7. (Accepted)
+3. **Tian C**, Xu Y. System based on ** fire risk assessment, 2021. 202210163285.5. (Accepted)
+4. Xiao J, **Tian C**, Zhang C, Zhang S.  Deformable Convolution Neural Network For Image Denoising. Chinese invention patent, 2021. 202111039510.6. (Accepted)
+5. **Tian C,** Xu Y,  Wen J, Wu J, Liu C. Image denoising method, device, equipment and storagemedium basded on deep learning. Chinese invention patent. 2019. 201811338660.5.
 
 
 

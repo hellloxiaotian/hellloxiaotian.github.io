@@ -74,19 +74,23 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
-- **2022-02:** A paper was accepted by Electronics.
-- **2022-02:** Invited to be an associate editor of the international journal Jouranl of Artifical Intelligence and Technology.
+- **2022-03:** Invited to be the Special Session Co-Chair, Workshop Chair of the international conference "ICCSI 2022".
+- **2022-03:** Invited to be the SI Chair of the international conference *6th Asian Conference on Artificial Intelligence Technology (ACAIT 2022)*.
+- **2022-03:** Invited to be the PC Chair of the international conference International Conference on *Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)*.
+- **2022-03:** Join the expert group of domestic Chinese core journals **
+- **2022-02:** A paper was accepted by *Electronics*.
+- **2022-02:** Invited to be an associate editor of the international journal, *Jouranl of Artifical Intelligence and Technology*.
 - **2022-02:** A **journal paper on educational reform was accepted.
 - **2022-02:** A **journal paper on educational reform was accepted.
-- **2022-02:** Invited to join the International Journal **Development Working Group.
-- **2022-02:** Invited to join the expert team of the **Journal.
-- **2022-02:** A paper was accepted by SCI journal "Applied Sciences".
-- **2022-01:** Invited as the PC of the International Conference on Computer Modeling and Big Data Analytics (CMBDA 2022).
+- **2022-02:** Invited to join the *International Journal **Development Working Group*.
+- **2022-02:** Invited to join the expert team of the ***Journal*.
+- **2022-02:** A paper was accepted by SCI journal "*Applied Sciences*".
+- **2022-01:** Invited as the PC of the *International Conference on Computer Modeling and Big Data Analytics (CMBDA 2022)*.
 - **2022-01:** Invited to record a New Year's promo on the famous domestic CV public website "Pole City Platform".
-- **2021-12:** A paper was accepted in the international journal IEE Multimedia.
-- **2021-12:** Join the CAAI Youth Working Committee.
-- **2021-12:** Invited to join BAAI- Qingyuan Association.
-- **2021-12:** Join Technical Committee on CSIG-MV.
+- **2021-12:** A paper was accepted in the international journal *IEEE Multimedia*.
+- **2021-12:** Join the *CAAI Youth Working Committee*.
+- **2021-12:** Invited to join *BAAI- Qingyuan Association*.
+- **2021-12:** Join *Technical Committee on CSIG-MV*.
 - **2021-12:** Invited to be the guest editor of the special issue of the international journal *Electronics*.
 - **2021-12:** Invited to be the Workshop Chair of *International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)*
 - **2021-11:** Invited to be the PC of *2021 IEEE International Conference on Progress in Informationcis and Computing (PIC 2021)*.
@@ -182,9 +186,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## Academic Activities (学术活动)
 
-CCF Member/IEEE Member/CAAI Member/SAAI Member/SZCCF Member/CAAI Youth Work Committee Members/CCF and CSIG-MV Special Committee of Jiangsu Artificial Intelligence Society Member/BAAI-Qingyuan Committee Member/International Journal Development Working Group Member/Journal Expert Panel Member
-
-Technical expert of Shanghai
+CCF Member/IEEE Member/CAAI Member/SAAI Member/SZCCF Member/CAAI Youth Work Committee Members/CCF and CSIG-MV Special Committee of Jiangsu Artificial Intelligence Society Member/BAAI-Qingyuan Committee Member/International Journal ** Development Working Group Member/ ** Journal Expert Panel Member/ ** Journal Expert Panel Member
 
 Associate editor for the Journal of Artificial Intelligence and Technology
 
@@ -192,11 +194,21 @@ Associate editor for the International Journal of Image and Graphics
 
 Associate editor for the Journal of Electrical and Electronic Engineering
 
+Technical expert of Shanghai
+
 Guest Editor of the Special Journal of Mathematics about the Special Issue on Method and application of machine learning
 
 Guest editor of the Special Journal of Eletronics
 
 Guest editor of the Special Journal of Frontiers in Signal Processing 
+
+Special Session Co-Chair, Workshop Chair: ICCSI 2022
+
+Expert group: domestic Chinese core journal * *
+
+PC Chair: International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)
+
+SI Co-Chair：The 6th Conference on Artificial Intelligence Technology (ACAIT 2022)
 
 Worksop Chair of International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)
 
@@ -204,7 +216,7 @@ Workshop Chair of International Conference on Computer, Big Data and Artificial 
 
 PC: CMBDA 2022
 
- The 5rd Conference on Artificial Intelligence Technology (ACAIT 2021) PC
+ The 5th Conference on Artificial Intelligence Technology (ACAIT 2021) PC
 
 IEEE International Conference on Progress in Informationcis and Computing (PIC 2021) PC
 
@@ -305,9 +317,21 @@ ACAIT 2018 (EI)
 
 ## Awards (奖励)
 
-2021 I am invited as a guest editor of the special journal of Mathematics about the special issue on method and application of machine learning.
+2022 I am invited to be the Special Session Co-Chair, Workshop Chair of the international conference "ICCSI 2022".
 
-2021 I am rated as a contribution reviewer of internal journal of Bulletin of Electrical Engineering and Informatics (BEEI). 
+2022 I am invited to be the SI Chair of the international conference *6th Asian Conference on Artificial Intelligence Technology (ACAIT 2022)*.
+
+2022 I am invited to be the PC Chair of the international conference *International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)*.
+
+2022 I join the expert group of domestic Chinese core journals **.
+
+2022 I am invited to be the guest editor of the special issue of *Electronics*, an international journal.
+
+2022 I am invited to be the Workshop Chair of the international conference, *International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)*.
+
+2021 I am invited as a guest editor of the special journal of *Mathematics about the special issue on method and application of machine learning*.
+
+2021 I am rated as a contribution reviewer of internal journal of *Bulletin of Electrical Engineering and Informatics* (BEEI). 
 
 2021 I am invited as a technical expert of Shanghai. 
 
@@ -410,13 +434,6 @@ ACAIT 2018 (EI)
    <img src="picture/Xuanyu Zhang.png" >
    <div class="desc_blank"> </div>
    <div class="desc">  Xuanyu Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-   <div class="desc_blank_2"> </div>
-  </div>
-
-  <div class="img">
-   <img src="picture/Hongcheng Lu.jpg" >
-   <div class="desc_blank"> </div>
-   <div class="desc">  Hongcheng Lu, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
    <div class="desc_blank_2"> </div>
   </div>
 

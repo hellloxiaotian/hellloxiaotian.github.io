@@ -52,25 +52,22 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 - Zhiwu Li,Professor, Xidian University (National Talent/IEEE Fellow)
 - Zhixiang Huang, Professor, Anhui University, China(National Talent)
-- Yuexian Zou, Professor, Peking University, China
+- Yuexian Zou, Professor, Peking University, China(Shenzhen High-level Talent)
 - Jianguo Zhang, Professor, South University of Science and Technology of China, China(National Talent)
+- Zheng Wang, Professor, Wuhan University, China(National Young Talent)
 - Jiantao Zhou, Associate Professor, University of Macau, China(National Young Talent)
 - Liang Dong, researcher, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences(National Natural Science Foundation of China Reviewer)
 - Haijun Zhang, Professor, Harbin Institute of Technology, China
-- Zheng Wang, Professor, Wuhan University, China
 - Ping Zhong, Professor, National University of Defense Technology, China
-- Yong Zhang, Professor, Shenzhen University, China
-- Zhengfu Zhang, Associate Professor, Harbin Institute of Technology, China
 - Dongwei Ren，Associate Professor, Harbin Institute of Technology, China
 - Wenqi Ren, Associate Research Fellow, Institute Of Information Engineering, China
+- Zhengfu Zhang, Associate Professor, Harbin Institute of Technology, China
 - Zhongyun Hua, Associate Professor, Harbin Institute of Technology, China
+- Gongning Luo, Assistant Professor, Harbin Institute of Technology, China
 - Chengyuan Zhang, Associate Professor, Hunan University, China
 - Lunke Fei, Associate Professor, Guangdong University of Technology
 - Qing Gao, Associate Research Fellow,  Chinese University of Hong Kong, Shenzhen, China
-- Gongning Luo, Assistant Professor, Harbin Institute of Technology, China
-- Peiyi Han, Assistant Researcher, Harbin Institute of Technology(Sub-dean of Qi'anxin Data Security Research Institute, Key members of the Academician Team)
 - Jie Wen, Assistant Professor, Harbin Institute of Technology(Recipients of the Postdoctoral Innovation Talent Support Program, Outstanding Doctoral Students)
-- Kan Huang, Assistant Professor, Shanghai Maritime University(Post-doc at Peking University)
 
 ## News (消息)
 

@@ -56,7 +56,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Jianguo Zhang, Professor, South University of Science and Technology of China, China(National Talent)
 - Zheng Wang, Professor, Wuhan University, China(National Young Talent)
 - Jiantao Zhou, Associate Professor, University of Macau, China(National Young Talent)
-- Liang Dong, researcher, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences(National Natural Science Foundation of China Reviewer)
+- Liang Dong, researcher, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences
 - Haijun Zhang, Professor, Harbin Institute of Technology, China
 - Ping Zhong, Professor, National University of Defense Technology, China
 - Dongwei Ren，Associate Professor, Harbin Institute of Technology, China
@@ -67,10 +67,12 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Chengyuan Zhang, Associate Professor, Hunan University, China
 - Lunke Fei, Associate Professor, Guangdong University of Technology
 - Qing Gao, Associate Research Fellow,  Chinese University of Hong Kong, Shenzhen, China
-- Jie Wen, Assistant Professor, Harbin Institute of Technology(Recipients of the Postdoctoral Innovation Talent Support Program, Outstanding Doctoral Students)
+- Jie Wen, Assistant Professor, Harbin Institute of Technology
 
 ## News (消息)
 
+- **2022-04:** Apple for a Computer Software Intellectual Property Right Certificate of Registration.
+- **2022-03:** A paper was published in the international journal *Briefings in bioinformatics*.
 - **2022-03:** Invited to be the Special Session Co-Chair, Workshop Chair of the international conference "ICCSI 2022".
 - **2022-03:** Invited to be the SI Chair of the international conference *6th Asian Conference on Artificial Intelligence Technology (ACAIT 2022)*.
 - **2022-03:** Invited to be the PC Chair of the international conference International Conference on *Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)*.
@@ -305,9 +307,23 @@ ACAIT 2018 (EI)
 
 <br/>
 
+
+
+## Work Experience(工作经历)
+2021.07- Associate Professor, Northwestern Polytechnic University
+2020.01-2021. Key member of Shenzhen Key Laboratory of Visual Object Detection and Recognition
+
+<br/>
+<br/>
 ## Education (教育背景)
 
 3/2017~1/2021    PhD   [Harbin Institute of Technology](http://www.google.com/url?q=http%3A%2F%2Fwww.hitsz.edu.cn%2Findex.html&sa=D&sntz=1&usg=AFQjCNFLsYIQ7qGqKGr_3MzQ5KcRSMkKPQ), China.
+
+<br/>
+<br/>
+
+## Education And Teaching
+Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
 
 <br/>
 <br/>
@@ -500,12 +516,6 @@ ACAIT 2018 (EI)
      <div class="desc_blank_2"> </div>
     </div>
 
-<div class="img" width = "50%">
-     <img src="picture/Tiancai Jiao.jpg" >
-     <div class="desc_blank"> </div>
-     <div class="desc"> Tiancai Jiao, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-     <div class="desc_blank_2"> </div>
-    </div>
 
 <div class="img" width = "50%">
      <img src="picture/Canwen Li.jpg" >

@@ -22,8 +22,6 @@
 
 ## Journal papers (期刊论文)
 - J. Song, J. Xiao, **C. Tian\***, Y. Hu, L. You, S. Zhang,  A dual CNN for image super-resolution [J]. Electronics. 2022. (SCI 2.395) (Accepted)
-- **田春伟**，左旺孟. 筑梦校企深度合作构建互惠共享新高地探析[J]. **期刊, 2022(教改论文/录用)
-- **田春伟**，郑江滨，陆伟. 新工科下软件工程人才培养模式研究与探索[J]. **期刊, 2022(教改论文/录用)
 - J. Xiao, J. Xu, **C. Tian\***, P Han, S. Zhang. A Serial Attention Frame for Multi-Label Waste Bottle Classification[J]. *Applied Sciences*, 2022.(SCI-IF 2.679)(Accepted)
 - L. Zhu, C. Zhang, J. Song, S. Zhang, **C. Tian**, X. Zhu. Deep Mult-Graph Hierarchical Enhanced Semantic Representation for Cross-Modal Retrieval [J]. IEEE Multimedia, 2021. (SCI 5.622) (Accepted)
 - Wang T, Liu Y, Yin Q, Geng J, Chen J, Yin X, Wang Y, Shang X, **Tian C\***, Wang Y\*， Peng J\*, Enhancing discoveries of molecular QTL stuides with small smaple size using summary statistic imputation [J]. Briefings in Bioinformatics, 2021. (SCI-IF:11.622) (Accepted)  

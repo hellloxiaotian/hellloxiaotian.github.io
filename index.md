@@ -71,6 +71,8 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2022-04:** A paper was accepted by *Journal of Artificial Intelligence and Technology*. 
+- **2022-04:** Invited to be the Publicity Chair of the international conference *2022 International Conference on Applied Mathmatics and Digital Simulation(AMDS 2022)*.
 - **2022-04:** Apple for a Computer Software Intellectual Property Right Certificate of Registration.
 - **2022-03:** A paper was published in the international journal *Briefings in bioinformatics*.
 - **2022-03:** Invited to be the Special Session Co-Chair, Workshop Chair of the international conference "ICCSI 2022".
@@ -88,7 +90,6 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2022-01:** Invited to record a New Year's promo on the famous domestic CV public website "Pole City Platform".
 - **2021-12:** A paper was accepted in the international journal *IEEE Multimedia*.
 - **2021-12:** Join the *CAAI Youth Working Committee*.
-- **2021-12:** Invited to join *BAAI- Qingyuan Association*.
 - **2021-12:** Join *Technical Committee on CSIG-MV*.
 - **2021-12:** Invited to be the guest editor of the special issue of the international journal *Electronics*.
 - **2021-12:** Invited to be the Workshop Chair of *International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)*
@@ -185,7 +186,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## Academic Activities (学术活动)
 
-CCF Member/IEEE Member/CAAI Member/SAAI Member/SZCCF Member/CAAI Youth Work Committee Members/CCF and CSIG-MV Special Committee of Jiangsu Artificial Intelligence Society Member/BAAI-Qingyuan Committee Member/International Journal ** Development Working Group Member/ ** Journal Expert Panel Member/ ** Journal Expert Panel Member
+CCF Member/IEEE Member/CAAI Member/SAAI Member/SZCCF Member/CAAI Youth Work Committee Members/CCF and CSIG-MV Special Committee of Jiangsu Artificial Intelligence Society Member/International Journal ** Development Working Group Member/ ** Journal Expert Panel Member/ ** Journal Expert Panel Member
 
 Associate editor for the Journal of Artificial Intelligence and Technology
 

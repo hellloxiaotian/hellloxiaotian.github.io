@@ -71,6 +71,10 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2022-04:** Apply for a patent for an invention.
+- **2022-04:** Awarded the outstanding PhD thesis of Shenzhen CCF.
+- **2022-04:** Invited to be a guest editor for the international journal *Mathematical Biosciences and Engineering*.
+- **2022-04:** Awarded as a contributing reviewer for the international journal Frontiers of *Optoelectronics (FOE)* 2021.
 - **2022-04:** A paper was accepted by *Journal of Artificial Intelligence and Technology*. 
 - **2022-04:** Invited to be the Publicity Chair of the international conference *2022 International Conference on Applied Mathmatics and Digital Simulation(AMDS 2022)*.
 - **2022-04:** Apple for a Computer Software Intellectual Property Right Certificate of Registration.
@@ -330,6 +334,10 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
 <br/>
 
 ## Awards (奖励)
+
+
+
+2022 My PhD thesis was awarded as an excellent PhD thesis by Shenzhen CCF.
 
 2022 I am invited to be the Special Session Co-Chair, Workshop Chair of the international conference "ICCSI 2022".
 

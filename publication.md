@@ -86,7 +86,8 @@
 
 ## Software Copyright (软著) 
 
-1.  Jiao T, Tian C, A self-supervised convolutional neural network based image watermarking system, 2022.
+1.  Zhi K, **Tian C**, An Image denoising method based on Convolutional Neural Network, 2022. 
+1.  Jiao T, **Tian C**, A self-supervised convolutional neural network based image watermarking system, 2022.
 1.  Ma Y, Zhang X, Li J, **Tian C**. Intelligent tracking control system. Software Copyright. 2021. 
 2.  Ma Y, Zheng M, Yang D, **Tian C**. Intelligent vehicle control system. Software Copyright. 2021. 
 3.  Zheng M, Zhang X, Ma Y, **Tian C**. Cruise detection fruit mobile robot system . Software Copyright. 2021. 
@@ -99,6 +100,8 @@
 
 ## Projects (项目)
 
+1.  2022.03-2022.12, \*\*Province\*\*Project.
+1.  2021.10-2023.09, Ministry of Education Industry-University-Research Cooperation Collaborative Education Program.
 1.  2021.10-2024.09 **Province Youth Fund Project.
 1.  2021- Shaanxi Virtual Teaching and Research Office construction project.
 1.  2021- Ministry of Education industry-University-Research Project.

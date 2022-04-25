@@ -51,11 +51,13 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 ### Cooperation and Communication(合作与交流)
 
 - Zhiwu Li,Professor, Xidian University (National Talent/IEEE Fellow)
-- Zhixiang Huang, Professor, Anhui University, China(National Talent)
-- Yuexian Zou, Professor, Peking University, China(Shenzhen High-level Talent)
-- Jianguo Zhang, Professor, South University of Science and Technology of China, China(National Talent)
-- Zheng Wang, Professor, Wuhan University, China(National Young Talent)
-- Jiantao Zhou, Associate Professor, University of Macau, China(National Young Talent)
+- Guangming LU, Professor, Harbin Institute of Technology (Shenzhen High-level Talent)
+- Ruifeng Xu, Professor, Harbin Institute of Technology (Shenzhen High-level Talent)
+- Zhixiang Huang, Professor, Anhui University, China (National Talent)
+- Yuexian Zou, Professor, Peking University, China (Shenzhen High-level Talent)
+- Jianguo Zhang, Professor, South University of Science and Technology of China, China (National Talent)
+- Zheng Wang, Professor, Wuhan University, China (National Young Talent)
+- Jiantao Zhou, Associate Professor, University of Macau, China (National Young Talent)
 - Liang Dong, researcher, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences
 - Haijun Zhang, Professor, Harbin Institute of Technology, China
 - Ping Zhong, Professor, National University of Defense Technology, China
@@ -71,6 +73,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2022-04:** Apple for a Computer Software Intellectual Property Right Certificate of Registration.
 - **2022-04:** Apply for a patent for an invention.
 - **2022-04:** Awarded the outstanding PhD thesis of Shenzhen CCF.
 - **2022-04:** Invited to be a guest editor for the international journal *Mathematical Biosciences and Engineering*.
@@ -466,6 +469,13 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
    <div class="desc_blank_2"> </div>
   </div>
 
+  <div class="img">
+   <img src="picture/Keyan Zhi.jpg" >
+   <div class="desc_blank"> </div>
+   <div class="desc">  Keyan Zhi , <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   <div class="desc_blank_2"> </div>
+  </div>
+
 </div>
 
 <div class="box">
@@ -490,6 +500,13 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
       <div class="desc">Chao Li,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
        <div class="desc_blank_2"> </div>
 </div>
+
+  <div class="img">
+   <img src="picture/Lu Wang.jpg" >
+   <div class="desc_blank"> </div>
+   <div class="desc">  Lu Wang , <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   <div class="desc_blank_2"> </div>
+  </div>
 
 </div> 
 

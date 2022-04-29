@@ -21,6 +21,7 @@
 - **Tian C**, Xu Y, et al. Enhanced CNN for image denoising [J].  CAAI Transaction on Intelligence Technology, 4(1), 17– 23, 2019.  [[pdf](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F8674856&sa=D&sntz=1&usg=AFQjCNHBifA-RYT5fi_XEiZZdxNXl8zPRg)] [[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FECNDNet&sa=D&sntz=1&usg=AFQjCNEnM3mVhlN1Ml6nhLf_gjO3xG2oiQ)] (EI) **（The paper technology is invited to integrate and run on Profillic, an internationally renowned machine learning platform）** 
 
 ## Journal papers (期刊论文)
+- C. Tian, X. Zhang, J. Lin, W. Zuo, Y. Zhang. Generative adversarial networks for image super-resolution: a survey [J] . Generative adversarial networks for image super-resolution: a survey. arXiv:2204.13620. 2022. 
 - Zheng M, Zhi K, Zeng J,  **C. Tian\***, et al. A Hybrid CNN for Image Denoising[J]. Journal of Artificial Intelligence and Technology, 2022.
 - J. Song, J. Xiao, **C. Tian\***, Y. Hu, L. You, S. Zhang,  A dual CNN for image super-resolution [J]. Electronics. 2022. (SCI 2.395) (Accepted)
 - J. Xiao, J. Xu, **C. Tian\***, P Han, S. Zhang. A Serial Attention Frame for Multi-Label Waste Bottle Classification[J]. *Applied Sciences*, 2022.(SCI-IF 2.679)(Accepted)

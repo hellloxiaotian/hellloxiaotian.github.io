@@ -73,6 +73,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2022-04:** Awarded 2022 ** Young scientific and technological talents
 - **2022-04:** Apple for a Computer Software Intellectual Property Right Certificate of Registration.
 - **2022-04:** Apply for a patent for an invention.
 - **2022-04:** Awarded the outstanding PhD thesis of Shenzhen CCF.
@@ -337,6 +338,8 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
 ## Awards (奖励)
 
 
+
+2022 ** Young scientific and technological talents
 
 2022 My PhD thesis was awarded as an excellent PhD thesis by Shenzhen CCF.
 

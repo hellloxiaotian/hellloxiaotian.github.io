@@ -1,6 +1,6 @@
 ## Biography (简介)
 
-I am an Associate Professor at Software School of Northwestern Polytechnical University (NPU)，China in July, 2021. I was a Researh Fellow at City University of Hong Kong (CityU), China. I  have obtained PhD degree of computer application technology at Harbin Institute of Technology (HIT) , China in Jan, 2021. I pursued PhD degree at HIT from Mar, 2017 to Jan, 2021.  
+I am an Associate Professor at Software School of Northwestern Polytechnical University (NPU)，China in July, 2021. I am a member of National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology.  I was a Researh Fellow at City University of Hong Kong (CityU), China. Also, I was a member of  Shenzhen Key Laboratory of Visual Object Detection and Recognition, China. I have obtained PhD degree of computer application technology at Harbin Institute of Technology (HIT) , China in Jan, 2021. I pursued PhD degree at HIT from Mar, 2017 to Jan, 2021.
 
 ## Research Interests (研究兴趣) 
 
@@ -323,10 +323,10 @@ ACAIT 2018 (EI)
 ## Education and work experience (教育背景和工作经历)
 
 - **3/2017~1/2021:** PhD   [Harbin Institute of Technology](http://www.google.com/url?q=http%3A%2F%2Fwww.hitsz.edu.cn%2Findex.html&sa=D&sntz=1&usg=AFQjCNFLsYIQ7qGqKGr_3MzQ5KcRSMkKPQ), China.
-- **3/2017~1/2021:** Member, Shenzhen Key Laboratory of Visual Object Detection and Recognition, China. 
-- **3/2017~1/2021:** Research Fellow, [City University of Hong Kong](https://www.cityu.edu.hk/), China.
-- **2021.07-**                 Associate Professor, [Northwestern Polytechnic University](https://www.npu.edu/), China.
-- **2021.09-**                 Member, National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China 
+- $~~~~$$~~~~$$~~~~$$~~~~$$~~~~$$~~~~$$~~~~$Member, Shenzhen Key Laboratory of Visual Object Detection and Recognition, China. 
+- $~~~~$$~~~~$$~~~~$$~~~~$$~~~~$$~~~~$$~~~~$Research Fellow, [City University of Hong Kong](https://www.cityu.edu.hk/), China.
+- **2021.07-**$~~~~$$~~~~$$~~~~$Associate Professor, [Northwestern Polytechnic University](https://www.npu.edu/), China.
+- **2021.09-**$~~~~$$~~~~$$~~~~$Member, National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China 
 
 <br/>
 <br/>

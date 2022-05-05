@@ -325,8 +325,8 @@ ACAIT 2018 (EI)
 - **3/2017~1/2021:** PhD   [Harbin Institute of Technology](http://www.google.com/url?q=http%3A%2F%2Fwww.hitsz.edu.cn%2Findex.html&sa=D&sntz=1&usg=AFQjCNFLsYIQ7qGqKGr_3MzQ5KcRSMkKPQ), China.
 - &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; Member, Shenzhen Key Laboratory of Visual Object Detection and Recognition, China. 
 - &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; Research Fellow, [City University of Hong Kong](https://www.cityu.edu.hk/), China.
-- **2021.07-** &emsp; &emsp; &emsp; Associate Professor, [Northwestern Polytechnic University](https://www.npu.edu/), China.
-- **2021.09-** &emsp; &emsp; &emsp; Member, National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China 
+- **2021.07—**  &emsp; &emsp; Associate Professor, [Northwestern Polytechnic University](https://www.npu.edu/), China.
+- **2021.09—**  &emsp; &emsp; Member, National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China 
 
 <br/>
 <br/>

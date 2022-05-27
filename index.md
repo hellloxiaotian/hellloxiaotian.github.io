@@ -73,7 +73,9 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
-- **2022-04:**  Generative Adversarial Networks for Image Super resolution A Survey is conducted by Chunwei Tian, Xuanyu Zhang, Jerry Chun-Wei Lin, Wangmeng Zuo and Yanning Zhang and it is reported by the [52CV](https://mp.weixin.qq.com/s/VLH57qUJLYgA8FvDdBccZQ), the [AIWalker](https://mp.weixin.qq.com/s/pinf8xr_Ha_jhrpP-56XoA) and the [Cver](https://arxiv.53yu.com/abs/2204.13620).
+- **2022-05:** Invited as an editorial board member of the journal Computer**
+- **2022-05**: Application for three software copyrights.
+- **2022-05:** Generative Adversarial Networks for Image Super resolution A Survey is conducted by Chunwei Tian, Xuanyu Zhang, Jerry Chun-Wei Lin, Wangmeng Zuo and Yanning Zhang and it is reported by the [52CV](https://mp.weixin.qq.com/s/VLH57qUJLYgA8FvDdBccZQ), the [AIWalker](https://mp.weixin.qq.com/s/pinf8xr_Ha_jhrpP-56XoA) and the [Cver](https://arxiv.53yu.com/abs/2204.13620).
 - **2022-04:** A paper released on arXiv.
 - **2022-04:** Awarded 2022 ** Young scientific and technological talents.
 - **2022-04:** Apple for a Computer Software Intellectual Property Right Certificate of Registration.

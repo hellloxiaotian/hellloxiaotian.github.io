@@ -50,14 +50,14 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ### Cooperation and Communication(合作与交流)
 
-- Zhiwu Li,Professor, Xidian University (National Talent/IEEE Fellow)
+- Min Zhang, Professor, Harbin Institute of Technology (National Talent)
+- Zhiwu Li, Professor, Xidian University (National Talent/IEEE Fellow)
 - Guangming LU, Professor, Harbin Institute of Technology (Shenzhen High-level Talent)
 - Ruifeng Xu, Professor, Harbin Institute of Technology (Shenzhen High-level Talent)
 - Zhixiang Huang, Professor, Anhui University, China (National Talent)
 - Yuexian Zou, Professor, Peking University, China (Shenzhen High-level Talent)
 - Jianguo Zhang, Professor, South University of Science and Technology of China, China (National Talent)
 - Zheng Wang, Professor, Wuhan University, China (National Young Talent)
-- Jiantao Zhou, Associate Professor, University of Macau, China (National Young Talent)
 - Liang Dong, researcher, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences
 - Haijun Zhang, Professor, Harbin Institute of Technology, China
 - Ping Zhong, Professor, National University of Defense Technology, China
@@ -69,10 +69,12 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Chengyuan Zhang, Associate Professor, Hunan University, China
 - Lunke Fei, Associate Professor, Guangdong University of Technology
 - Qing Gao, Associate Research Fellow,  Chinese University of Hong Kong, Shenzhen, China
-- Jie Wen, Assistant Professor, Harbin Institute of Technology
 
 ## News (消息)
 
+- **2022-06:** Invited to share technical presentation at The NPU 9th AoXiang Forum for Distinguished Young Scholars School of Software Sub-Forum. 
+- **2022-05:** A paper was accepted by CAAI Transactions on Intelligence Technology, the journal of the Chinese Society for Artificial Intelligence.
+- **2022-05:** Invited Guest Editor of International Journal of Distributed Sensor Networks (SCI-IF:1.640).
 - **2022-05:** Invited as an editorial board member of the journal Computer**
 - **2022-05**: Application for three software copyrights.
 - **2022-05:** Generative Adversarial Networks for Image Super resolution A Survey is conducted by Chunwei Tian, Xuanyu Zhang, Jerry Chun-Wei Lin, Wangmeng Zuo and Yanning Zhang and it is reported by the [52CV](https://mp.weixin.qq.com/s/VLH57qUJLYgA8FvDdBccZQ), the [AIWalker](https://mp.weixin.qq.com/s/pinf8xr_Ha_jhrpP-56XoA) and the [Cver](https://arxiv.53yu.com/abs/2204.13620).

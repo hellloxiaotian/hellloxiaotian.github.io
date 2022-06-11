@@ -23,6 +23,8 @@
 ## Journal papers (期刊论文)
 - **Tian C**, Yuan Y, Zhang S, et al. Image Super-resolution with An Enhanced Group Convolutional Neural Network[J]. arXiv preprint arXiv:2205.14548, 2022.
 - **C. Tian**, X. Zhang, J. Lin, W. Zuo, Y. Zhang. Generative adversarial networks for image super-resolution: a survey [J] . Generative adversarial networks for image super-resolution: a survey. arXiv:2204.13620. 2022. 
+- K. Huang, **C. Tian***, J. Su, J. Lin. Transformer-based  cross reference network for video salient object detection[J]. Pattern Recognition Letters. 2022(Accepted)
+- Q. Zhang, J. Xiao, **C. Tian***, J. Lin, S. Zhang. A robust deformed CNN for image denoising[J]. CAAI Transactions on Intelligence Technology, 2022. (Accepted)
 - Zheng M, Zhi K, Zeng J,  **C. Tian\***, et al. A Hybrid CNN for Image Denoising[J]. Journal of Artificial Intelligence and Technology, 2022.
 - J. Song, J. Xiao, **C. Tian\***, Y. Hu, L. You, S. Zhang,  A dual CNN for image super-resolution [J]. Electronics. 2022. (SCI 2.395) (Accepted)
 - J. Xiao, J. Xu, **C. Tian\***, P Han, S. Zhang. A Serial Attention Frame for Multi-Label Waste Bottle Classification[J]. *Applied Sciences*, 2022.(SCI-IF 2.679)(Accepted)

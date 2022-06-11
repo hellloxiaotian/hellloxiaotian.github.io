@@ -72,6 +72,10 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2022-06:** A paper was accepted in the international journal Pattern Recognition Letters (SCI-IF:3.756).
+- **2022-06:** A paper was tweeted and reported by AIWalker, a well-known computer vision public website in China.
+- **2022-06:** A paper was tweeted and reported by 52CV, a well-known computer vision public website in China.
+- **2022-06:** A paper was accepted by Neural Networks, the journal of the International Society for Neural Networks.
 - **2022-06:** Invited to share technical presentation at The NPU 9th AoXiang Forum for Distinguished Young Scholars School of Software Sub-Forum. 
 - **2022-05:** A paper was accepted by CAAI Transactions on Intelligence Technology, the journal of the Chinese Society for Artificial Intelligence.
 - **2022-05:** Invited Guest Editor of International Journal of Distributed Sensor Networks (SCI-IF:1.640).

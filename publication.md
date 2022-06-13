@@ -21,13 +21,13 @@
 - **Tian C**, Xu Y, et al. Enhanced CNN for image denoising [J].  CAAI Transaction on Intelligence Technology, 4(1), 17– 23, 2019.  [[pdf](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F8674856&sa=D&sntz=1&usg=AFQjCNHBifA-RYT5fi_XEiZZdxNXl8zPRg)] [[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FECNDNet&sa=D&sntz=1&usg=AFQjCNEnM3mVhlN1Ml6nhLf_gjO3xG2oiQ)] (EI) **（The paper technology is invited to integrate and run on Profillic, an internationally renowned machine learning platform）** 
 
 ## Journal papers (期刊论文)
-- **Tian C**, Yuan Y, Zhang S, et al. Image Super-resolution with An Enhanced Group Convolutional Neural Network[J]. arXiv preprint arXiv:2205.14548, 2022.
+- **Tian C**, Yuan Y, Zhang S, et al. Image Super-resolution with An Enhanced Group Convolutional Neural Network[J]. arXiv preprint arXiv:2205.14548, 2022. ( JCR Q1/CCF-B/SCI IF: 8.05)(Accepted )
 - **C. Tian**, X. Zhang, J. Lin, W. Zuo, Y. Zhang. Generative adversarial networks for image super-resolution: a survey [J] . Generative adversarial networks for image super-resolution: a survey. arXiv:2204.13620. 2022. 
-- K. Huang, **C. Tian***, J. Su, J. Lin. Transformer-based  cross reference network for video salient object detection[J]. Pattern Recognition Letters. 2022(Accepted)
+- K. Huang, **C. Tian***, J. Su, J. Lin. Transformer-based  cross reference network for video salient object detection[J]. Pattern Recognition Letters. 2022( JCR Q1/CCF-C/SCI IF: 3.756)(Accepted)
 - Q. Zhang, J. Xiao, **C. Tian***, J. Lin, S. Zhang. A robust deformed CNN for image denoising[J]. CAAI Transactions on Intelligence Technology, 2022. (Accepted)
 - Zheng M, Zhi K, Zeng J,  **C. Tian\***, et al. A Hybrid CNN for Image Denoising[J]. Journal of Artificial Intelligence and Technology, 2022.
 - J. Song, J. Xiao, **C. Tian\***, Y. Hu, L. You, S. Zhang,  A dual CNN for image super-resolution [J]. Electronics. 2022. (SCI 2.395) (Accepted)
-- J. Xiao, J. Xu, **C. Tian\***, P Han, S. Zhang. A Serial Attention Frame for Multi-Label Waste Bottle Classification[J]. *Applied Sciences*, 2022.(SCI-IF 2.679)(Accepted)
+- J. Xiao, J. Xu, **C. Tian\***, P Han, S. Zhang. A Serial Attention Frame for Multi-Label Waste Bottle Classification[J]. *Applied Sciences*, 2022.(JCR Q2/SCI-IF 2.679)(Accepted)
 - L. Zhu, C. Zhang, J. Song, S. Zhang, **C. Tian**, X. Zhu. Deep Mult-Graph Hierarchical Enhanced Semantic Representation for Cross-Modal Retrieval [J]. IEEE Multimedia, 2021. (SCI 5.622) (Accepted)
 - Wang T, Liu Y, Yin Q, Geng J, Chen J, Yin X, Wang Y, Shang X, **Tian C\***, Wang Y\*， Peng J\*, Enhancing discoveries of molecular QTL stuides with small smaple size using summary statistic imputation [J]. Briefings in Bioinformatics, 2021. (SCI-IF:11.622) (Accepted)  
 - Zhang H, **Tian C\***, You L, Li Z, Zong M,  Design and Implementation on Matching between Music and Color [J]. Multimedia Tools and Applications, 2021. (CCF C/SCI-IF:2.757) (Accepted)

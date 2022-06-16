@@ -72,6 +72,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2022-06:** Invited to be the **editorial board member of the international journal \*\* (CAS Region II/SCI Journal)
 - **2022-06:** A paper was accepted in the international journal Pattern Recognition Letters (SCI-IF:3.756).
 - **2022-06:** A paper was tweeted and reported by [AIWalker](https://mp.weixin.qq.com/s/pinf8xr_Ha_jhrpP-56XoA), a well-known computer vision public website in China.
 - **2022-06:** A paper was tweeted and reported by  [52CV](https://mp.weixin.qq.com/s/VLH57qUJLYgA8FvDdBccZQ), a well-known computer vision public website in China.
@@ -205,6 +206,8 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 ## Academic Activities (学术活动)
 
 CCF Member/IEEE Member/CAAI Member/SAAI Member/SZCCF Member/CAAI Youth Work Committee Members/CCF and CSIG-MV Special Committee of Jiangsu Artificial Intelligence Society Member/International Journal ** Development Working Group Member/ ** Journal Expert Panel Member/ ** Journal Expert Panel Member
+
+\*\*editorial board member of the international journal **(CAS Region II/SCI Journal)
 
 Associate editor for the Journal of Artificial Intelligence and Technology
 

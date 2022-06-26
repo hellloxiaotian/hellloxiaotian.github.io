@@ -72,6 +72,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2022-06:** Mayingpeng, a 2019 Undergraduate under my guidance, graduated ahead of schedule and obtained the excellent graduation thesis of 2022.
 - **2022-06:** Selected for the ** City Scientist Spiritual Propaganda Group.
 - **2022-06:** Invited to be an editorial board member of another Chinese journal**.
 - **2022-06:** Invited to be the **editorial board member of the international journal \*\* (CAS Region II/SCI Journal)

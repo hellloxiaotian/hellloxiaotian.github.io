@@ -72,26 +72,27 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
-- **2022-06:** Mayingpeng, a 2019 Undergraduate under my guidance, graduated ahead of schedule and obtained the excellent graduation thesis of 2022.
-- **2022-06:** Selected for the ** City Scientist Spiritual Propaganda Group.
-- **2022-06:** Invited to be an editorial board member of another Chinese journal**.
-- **2022-06:** Invited to be the **editorial board member of the international journal \*\* (CAS Region II/SCI Journal)
+- **2022-06:** I am awarded as the outstanding thesis mentor for undergraduate students.
+- **2022-06:** A 2019 Undergraduate under my guidance, Mayingpeng, graduated ahead of schedule and obtained the excellent graduation thesis of 2022.
+- **2022-06:** I am inducted into the ** City Scientist Spiritual Propaganda Group.
+- **2022-06:** I am invited to be an editorial board member of another Chinese journal**.
+- **2022-06:** I am invited to be the **editorial board member of the international journal \*\* (CAS Region II/SCI Journal)
 - **2022-06:** A paper was accepted in the international journal Pattern Recognition Letters (SCI-IF:3.756).
 - **2022-06:** A paper was tweeted and reported by [AIWalker](https://mp.weixin.qq.com/s/pinf8xr_Ha_jhrpP-56XoA), a well-known computer vision public website in China.
 - **2022-06:** A paper was tweeted and reported by  [52CV](https://mp.weixin.qq.com/s/VLH57qUJLYgA8FvDdBccZQ), a well-known computer vision public website in China.
 - **2022-06:** A paper was accepted by Neural Networks, the journal of the International Society for Neural Networks.
-- **2022-06:** Invited to share technical presentation at The NPU 9th AoXiang Forum for Distinguished Young Scholars School of Software Sub-Forum. 
+- **2022-06:** I am invited to share technical presentation at The NPU 9th AoXiang Forum for Distinguished Young Scholars School of Software Sub-Forum. 
 - **2022-05:** A paper was accepted by CAAI Transactions on Intelligence Technology, the journal of the Chinese Society for Artificial Intelligence.
-- **2022-05:** Invited Guest Editor of International Journal of Distributed Sensor Networks (SCI-IF:1.640).
-- **2022-05:** Invited as an editorial board member of the journal Computer**
+- **2022-05:** I am invited Guest Editor of International Journal of Distributed Sensor Networks (SCI-IF:1.640).
+- **2022-05:** I am invited as an editorial board member of the journal Computer**
 - **2022-05**: Application for three software copyrights.
 - **2022-05:** Generative Adversarial Networks for Image Super resolution A Survey is conducted by Chunwei Tian, Xuanyu Zhang, Jerry Chun-Wei Lin, Wangmeng Zuo and Yanning Zhang and it is reported by the [52CV](https://mp.weixin.qq.com/s/VLH57qUJLYgA8FvDdBccZQ), the [AIWalker](https://mp.weixin.qq.com/s/pinf8xr_Ha_jhrpP-56XoA) and the [Cver](https://arxiv.53yu.com/abs/2204.13620).
 - **2022-04:** A paper released on arXiv.
 - **2022-04:** Awarded 2022 ** Young scientific and technological talents.
-- **2022-04:** Apple for a Computer Software Intellectual Property Right Certificate of Registration.
+- **2022-04:** Apply for a Computer Software Intellectual Property Right Certificate of Registration.
 - **2022-04:** Apply for a patent for an invention.
-- **2022-04:** Awarded the outstanding PhD thesis of Shenzhen CCF.
-- **2022-04:** Invited to be a guest editor for the international journal *Mathematical Biosciences and Engineering*.
+- **2022-04:** I am awarded the outstanding PhD thesis of Shenzhen CCF.
+- **2022-04:** I am invited to be a guest editor for the international journal *Mathematical Biosciences and Engineering*.
 - **2022-04:** Awarded as a contributing reviewer for the international journal Frontiers of *Optoelectronics (FOE)* 2021.
 - **2022-04:** A paper was accepted by *Journal of Artificial Intelligence and Technology*. 
 - **2022-04:** Invited to be the Publicity Chair of the international conference *2022 International Conference on Applied Mathmatics and Digital Simulation(AMDS 2022)*.
@@ -102,21 +103,21 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2022-03:** Invited to be the PC Chair of the international conference International Conference on *Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)*.
 - **2022-03:** Join the expert group of domestic Chinese core journals **
 - **2022-02:** A paper was accepted by *Electronics*.
-- **2022-02:** Invited to be an associate editor of the international journal, *Jouranl of Artifical Intelligence and Technology*.
+- **2022-02:** I am invited to be an associate editor of the international journal, *Jouranl of Artifical Intelligence and Technology*.
 - **2022-02:** A **journal paper on educational reform was accepted.
 - **2022-02:** A **journal paper on educational reform was accepted.
-- **2022-02:** Invited to join the *International Journal **Development Working Group*.
-- **2022-02:** Invited to join the expert team of the ***Journal*.
+- **2022-02:** I am invited to join the *International Journal **Development Working Group*.
+- **2022-02:** I am invited to join the expert team of the ***Journal*.
 - **2022-02:** A paper was accepted by SCI journal "*Applied Sciences*".
-- **2022-01:** Invited as the PC of the *International Conference on Computer Modeling and Big Data Analytics (CMBDA 2022)*.
-- **2022-01:** Invited to record a New Year's promo on the famous domestic CV public website "Pole City Platform".
+- **2022-01:** I am invited as the PC of the *International Conference on Computer Modeling and Big Data Analytics (CMBDA 2022)*.
+- **2022-01:** I am invited to record a New Year's promo on the famous domestic CV public website "Pole City Platform".
 - **2021-12:** A paper was accepted in the international journal *IEEE Multimedia*.
-- **2021-12:** Join the *CAAI Youth Working Committee*.
-- **2021-12:** Join *Technical Committee on CSIG-MV*.
-- **2021-12:** Invited to be the guest editor of the special issue of the international journal *Electronics*.
-- **2021-12:** Invited to be the Workshop Chair of *International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)*
-- **2021-11:** Invited to be the PC of *2021 IEEE International Conference on Progress in Informationcis and Computing (PIC 2021)*.
-- **2021-11:** Invited to give a presentation at the international conference *ICCCBDAI 2021*.
+- **2021-12:** I join the *CAAI Youth Working Committee*.
+- **2021-12:** I join *Technical Committee on CSIG-MV*.
+- **2021-12:** I am invited to be the guest editor of the special issue of the international journal *Electronics*.
+- **2021-12:** I am invited to be the Workshop Chair of *International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)*
+- **2021-11:** I am invited to be the PC of *2021 IEEE International Conference on Progress in Informationcis and Computing (PIC 2021)*.
+- **2021-11:** I am invited to give a presentation at the international conference *ICCCBDAI 2021*.
 - **2021-11:** Two papers were newly selected as ESI highly cited papers.
 - **2021-11:** One paper was selected for Oral paper of ICCBDAI 2021, an international conference.
 - **2021-11:** Two conference papers were accepted by the international conference ICCBDAI 2021.
@@ -132,8 +133,8 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2021-09:** I am invited as a technical expert of Shanghai. 
 - **2021-09:** Jian Li joins my group. 
 - **2021-08:** A journal paper is accepted by *Briefings in Bioinformatics*.
-- **2021-08:** Invited to join a project, Video Super Resolution Benchmark.
-- **2021-08:** Invited to be the associate editor of important international image processing journals, *International Journal of Image and Graphics*.
+- **2021-08:** I am invited to join a project, Video Super Resolution Benchmark.
+- **2021-08:** I am invited to be the associate editor of important international image processing journals, *International Journal of Image and Graphics*.
 - **2021-08:** An invention patent is authorized.
 - **2021-08:** Yingpeng joins my group. 
 - **2021-08:** A journal paper is accepted by Briefing in bioinformatics (IF:11.622).
@@ -484,14 +485,6 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
    <div class="desc">  Hui Zhao, <a href = "https://www.hnu.edu.cn/">Hunan University</a>, China</div>
    <div class="desc_blank_2"> </div>
   </div>
-
-  <div class="img">
-   <img src="picture/Keyan Zhi.jpg" >
-   <div class="desc_blank"> </div>
-   <div class="desc">  Keyan Zhi , <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-   <div class="desc_blank_2"> </div>
-  </div>
-
 </div>
 
 <div class="box">

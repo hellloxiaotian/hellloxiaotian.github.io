@@ -485,10 +485,6 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
    <div class="desc">  Hui Zhao, <a href = "https://www.hnu.edu.cn/">Hunan University</a>, China</div>
    <div class="desc_blank_2"> </div>
   </div>
-</div>
-
-<div class="box">
-
 <div class="img" width = "50%">
      <img src="picture/Jiawen Zeng.jpg" >
      <div class="desc_blank"> </div>
@@ -496,12 +492,16 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
      <div class="desc_blank_2"> </div>
     </div>
 
+</div>
+
+<div class="box">
 <div class="img">
       <img src="picture/Shaodong Xie.jpg" >
       <div class="desc_blank"> </div>
       <div class="desc">Shaodong Xie  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
        <div class="desc_blank_2"> </div>
 </div>
+
 
 <div class="img">
       <img src="picture/Chao Li.jpg" >

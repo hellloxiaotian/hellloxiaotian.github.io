@@ -52,7 +52,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 - Min Zhang, Professor, Harbin Institute of Technology (National Talent)
 - Zhiwu Li, Professor, Xidian University (National Talent/IEEE Fellow)
-- Guangming LU, Professor, Harbin Institute of Technology (Shenzhen High-level Talent)
+- Guangming Lu, Professor, Harbin Institute of Technology (Shenzhen High-level Talent)
 - Ruifeng Xu, Professor, Harbin Institute of Technology (Shenzhen High-level Talent)
 - Zhixiang Huang, Professor, Anhui University, China (National Talent)
 - Yuexian Zou, Professor, Peking University, China (Shenzhen High-level Talent)
@@ -69,13 +69,25 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Chengyuan Zhang, Associate Professor, Hunan University, China
 - Lunke Fei, Associate Professor, Guangdong University of Technology
 - Qing Gao, Associate Research Fellow,  Chinese University of Hong Kong, Shenzhen, China
+- Dr. Ye Wang, B
+- Dr. Shuo Wang, A
+- Dr. Mingming Yang, T
+- Dr.  Chaoqun Duan, JD
+- Dr. Jingjia Huang, Douyin
+- Dr. Feng Li, Sangfor Technologies Inc
+- Dr. Jiayu Xu, Guangdong Gongye Technology Co., Ltd.
+- Dr. Feng Li, HUAWEI TECHNOLOGIES CO., LTD.
 
 ## News (消息)
 
+- **2022-07:** A paper code was included in the open source security community OSCS.
+- **2022-07:** I received the 24th Excellent Doctoral Dissertation of Harbin Institute of Technology.
+- **2022-07:** I am invited to be the Guest Editor of Drones.
+- **2022-07:** I am invited as a Guest Editor for Frontiers in Robotics and AI.
 - **2022-06:** I am awarded as the outstanding thesis mentor for undergraduate students.
 - **2022-06:** A 2019 Undergraduate under my guidance, Mayingpeng, graduated ahead of schedule and obtained the excellent graduation thesis of 2022.
-- **2022-06:** I am inducted into the ** City Scientist Spiritual Propaganda Group.
-- **2022-06:** I am invited to be an editorial board member of another Chinese journal**.
+- **2022-06:** I am inducted into the ** City Spirit Preaching Team.
+- **2022-06:** I am invited to be an editorial board member of Chinese Science and Technology Journal **.
 - **2022-06:** I am invited to be the **editorial board member of the international journal \*\* (CAS Region II/SCI Journal)
 - **2022-06:** A paper was accepted in the international journal Pattern Recognition Letters (SCI-IF:3.756).
 - **2022-06:** A paper was tweeted and reported by [AIWalker](https://mp.weixin.qq.com/s/pinf8xr_Ha_jhrpP-56XoA), a well-known computer vision public website in China.
@@ -93,7 +105,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2022-04:** Apply for a patent for an invention.
 - **2022-04:** I am awarded the outstanding PhD thesis of Shenzhen CCF.
 - **2022-04:** I am invited to be a guest editor for the international journal *Mathematical Biosciences and Engineering*.
-- **2022-04:** Awarded as a contributing reviewer for the international journal Frontiers of *Optoelectronics (FOE)* 2021.
+- **2022-04:** I am awarded as a contributing reviewer for the international journal Frontiers of *Optoelectronics (FOE)* 2021.
 - **2022-04:** A paper was accepted by *Journal of Artificial Intelligence and Technology*. 
 - **2022-04:** Invited to be the Publicity Chair of the international conference *2022 International Conference on Applied Mathmatics and Digital Simulation(AMDS 2022)*.
 - **2022-04:** Apple for a Computer Software Intellectual Property Right Certificate of Registration.
@@ -209,9 +221,13 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## Academic Activities (学术活动)
 
-CCF Member/IEEE Member/CAAI Member/SAAI Member/SZCCF Member/CAAI Youth Work Committee Members/CCF and CSIG-MV Special Committee of Jiangsu Artificial Intelligence Society Member/International Journal ** Development Working Group Member/ ** Journal Expert Panel Member/ ** Journal Expert Panel Member
+CCF Member/IEEE Member/CAAI Member/SAAI Member/SZCCF Member/CAAI Youth Work Committee Members/CCF and CSIG-MV Special Committee of Jiangsu Artificial Intelligence Society Member/International Journal ** Development Working Group Member/ ** Journal Expert Panel Member/ ** Journal Expert Panel Member/ xx Spirit Preaching Team
 
 \*\*editorial board member of the international journal **(CAS Region II/SCI Journal)
+
+Editorial board member of Journal of Computer \*\*
+
+\*\*editorial board member of Chinese Science and Technology Journals \*\*
 
 Associate editor for the Journal of Artificial Intelligence and Technology
 
@@ -221,11 +237,17 @@ Associate editor for the Journal of Electrical and Electronic Engineering
 
 Technical expert of Shanghai
 
-Guest Editor of the Special Journal of Mathematics about the Special Issue on Method and application of machine learning
+Guest editor of the Special Journal of Mathematics(SCI-IF:2.258, ISSN 2227-7390)
 
-Guest editor of the Special Journal of Eletronics
+Guest editor of the Special Journal of Eletronics(SCI-IF:2.379, ISSN 2079-9292)
 
-Guest editor of the Special Journal of Frontiers in Signal Processing 
+Guest editor of the Special Journal of Mathematical Biosciences and Engineering(SCI-IF:2.080)
+
+Guest editor of the Special Journal of Inernational Journal of Distributed Sensor Networks(SCI-IF:1.640)
+
+Guest editor of the Special Journal of Frontiers in Robotics and AI
+
+Guest editor of the Special Journal of Drones(SCI-IF:5.522)
 
 Special Session Co-Chair, Workshop Chair: ICCSI 2022
 
@@ -255,7 +277,11 @@ IJCAI 2019 PC Assistant
 
 ## I serve as a reviewer for the following journals and conferences (审稿人) 
 
-IEEE Transactions on Image Processing (IEEE TIP)（SCI）
+IEEE Transactions on Image Processing (IEEE TIP) (SCI)
+
+IEEE Transactions on Neural Networks and Learning Systems (SCI)
+
+IEEE Transactions on Cybernetics (SCI)
 
 European Conference on Computer Vision  (ECCV)（EI）
 
@@ -264,6 +290,10 @@ IEEE Transactions on Industrial Informatics  (IEEE TII)（SCI）
 IEEE Transactions on Systems, Man and Cybernetics:  Systems (IEEE TSMC) (SCI）
 
 IEEE Transactions on Multimedia (IEEE TMM) (SCI)
+
+IEEE Intelligent Transportation Systems Transactions and Magazine (SCI)
+
+IEEE Transactions on Dependable and Secure Computing(SCI)
 
 IEEE Transactions on Asian and Low-Resource Language Information Processing (SCI)
 
@@ -279,6 +309,10 @@ The Visual Computer (SCI）
 
 Nerocomputing (SCI）
 
+IEEE Journal of Biomedical and Health Informatics
+
+Frontiers of Optoelectronics
+
 Expert Sytems With Applications (SCI)
 
 IEEE Signal Processing Letters （SCI）
@@ -288,6 +322,14 @@ Artificial Intelligence In Medicine (SCI)
 Biomedical Signal Processing and Control (SCI)
 
 BMC Medical Research Methodology (SCI)
+
+ACM Transactions on Asian and Low-Resource Language Information Processing
+
+Journal of Ambient Intelligence and Humanized Computing
+
+Applied Intelligence
+
+Chinese Journal of Electronics
 
 Journal of Visual Communication and Image Representation (SCI)
 
@@ -307,21 +349,51 @@ Mathematical Biosciences and Engineering （SCI）
 
 CAAI Transactions on Intelligence Technology (EI）
 
+Journal of Visual Comunication
+
+International Journal of Biometrics (IJBM)
+
 International Journal of Biometrics
 
 International Journal of Image and Graphics
 
 Bulletin of Electrical Engineering and Informatics
 
+IEA/AIE 2022: International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems
+
+International Conference on Multimedia Information Processing and Retrieval (MIPR)
+
+International Journal of Data Science and Analytics
+
+Scientific Programming
+
+International Journal of Distributed Sensor Networks
+
+The 35th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems
+
+Optics and Laser Technology
+
+Expert Systems
+
 SN Applied Sciences
+
+Asian Journal of Control
+
+International Journal of Speech Technology
 
 Progress in Artificial Intelligence
 
+Evolutionary Intelligence
+
 Scientific Reports
 
+ARR 2022
+
+ICASSP 2022
+
 ISCAS 2021: International Symposium on Circuits and Systems (EI)
-18th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2021) (EI)
-The 4th International Conference on Computer Science and Application Engineering (CSAE 2020) （EI）
+		18th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2021) (EI)
+		The 4th International Conference on Computer Science and Application Engineering (CSAE 2020) （EI）
 
 18th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2020)  (EI)
 
@@ -358,6 +430,30 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
 2022 ** Young scientific and technological talents
 
 2022 My PhD thesis was awarded as an excellent PhD thesis by Shenzhen CCF.
+
+2022 The 24th Excellent Doctoral Dissertation of Harbin Institute of Technology.
+
+2022 I was awarded the Outstanding Dissertation Supervisor for Undergraduate Students.
+
+2022 I am inducted into the ** City Spirit Preaching Team.
+
+2022 I am invited to be the Guest Editor of Drones.
+
+2022 I am invited as a Guest Editor for Frontiers in Robotics and AI.
+
+2022 I am invited to be an editorial board member of SChinese Science and Technology Journal **.
+
+2022 I am invited to be the **editorial board member of the international journal \*\* (CAS Region II/SCI Journal).
+
+2022 I was invited to be a member of the editorial board of *Computer*\*\*.
+
+2022 I am invited Guest Editor of International Journal of *Distributed Sensor Networks* (SCI-IF:1.640).
+
+2022 I am invited to be a guest editor for the international journal *Mathematical Biosciences and Engineering*(SCI-IF:2.080).
+
+2022 I am awarded as a contributing reviewer for the international journal Frontiers of *Optoelectronics (FOE)* 2021.
+
+2022 I am invited to be the Publicity Chair of the international conference *2022 International Conference on Applied Mathmatics and Digital Simulation(AMDS 2022)*.
 
 2022 I am invited to be the Special Session Co-Chair, Workshop Chair of the international conference "ICCSI 2022".
 

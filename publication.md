@@ -106,21 +106,22 @@
 
 ## Projects (项目)
 
-1.  2022.01-2023.12 \*\*Project.
-2.  2022.01-2022.12 **Young Science and Technology Talent Program.
-3.  2022.03-2022.12, \*\*Project.
-4.  2021.10-2023.09, Ministry of Education Industry-University-Research Cooperation Collaborative Education Program.
-5.  2021.10-2024.09 **Province Youth Fund Project.
-6.  2021- Shaanxi Virtual Teaching and Research Office construction project.
-7.  2021- Ministry of Education industry-University-Research Project.
-8.  2021.09-2024.08 The Fundamental Research Funds for the Central Universities.
-9.  2021.09- , Research on intelligent ** method.
-10.  2021.09-2023.08, ** Technology Project
-11.  2019.01-2022.12 National Nature ScienceFoundation of China Gant No. 61876051.
-12.  2020.01-2021.12 ShenzhenKey Laboratory of Visual Object Detection and Recognition under Grant No. ZDSYS20190902093015527. 
-13.  2019.08-2022.08 Shenzhen Science and technology innovation Commission  under Grant No. JSGG20190220153602271.
-14.  2016.1-2017.02 National Natural Science Foundation of China Youth Fund funded projects (61502123)—Research on Multi-core program complicating error elimination method.
-15.  2015.7-2015.12 Heilongjiang Science Foundation Project (QC2015084)—Research based on Multi-core processor fault  diagnosis method of deterministic repetition.
-16.  2013.12-2015.07 The Cooperation Project of Harbin University of Science and Technology and Beijing Aerospace System Engineering Research—The implementations and design of network flow classification.
-9.  2012.04-2013.10 The Innovative Project of Undergraduate of Heilongjiang Province—The implementations and design of  network down-hole monitoring system.
+1.  2022.07-2024.06 \*\*Project.
+2.  2022.01-2023.12 \*\*Project.
+3.  2022.01-2022.12 **Young Science and Technology Talent Program.
+4.  2022.03-2022.12, \*\*Project.
+5.  2021.10-2023.09, Ministry of Education Industry-University-Research Cooperation Collaborative Education Program.
+6.  2021.10-2024.09 **Province Youth Fund Project.
+7.  2021- Shaanxi Virtual Teaching and Research Office construction project.
+8.  2021- Ministry of Education industry-University-Research Project.
+9.  2021.09-2024.08 The Fundamental Research Funds for the Central Universities.
+10.  2021.09- , Research on intelligent ** method.
+11.  2021.09-2023.08, ** Technology Project
+12.  2019.01-2022.12 National Nature ScienceFoundation of China Gant No. 61876051.
+13.  2020.01-2021.12 ShenzhenKey Laboratory of Visual Object Detection and Recognition under Grant No. ZDSYS20190902093015527. 
+14.  2019.08-2022.08 Shenzhen Science and technology innovation Commission  under Grant No. JSGG20190220153602271.
+15.  2016.1-2017.02 National Natural Science Foundation of China Youth Fund funded projects (61502123)—Research on Multi-core program complicating error elimination method.
+16.  2015.7-2015.12 Heilongjiang Science Foundation Project (QC2015084)—Research based on Multi-core processor fault  diagnosis method of deterministic repetition.
+17.  2013.12-2015.07 The Cooperation Project of Harbin University of Science and Technology and Beijing Aerospace System Engineering Research—The implementations and design of network flow classification.
+18.  2012.04-2013.10 The Innovative Project of Undergraduate of Heilongjiang Province—The implementations and design of  network down-hole monitoring system.
 

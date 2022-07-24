@@ -80,11 +80,15 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2022-07:** A paper code was converted by Japanese engineers from python format to CoreML format suitable for mobile ios system.
+- **2022-07:** A paper became the cover paper of CAAI Transaction on Intelligence Technology, the journal of the Chinese Society for Artificial Intelligence.
+- **2022-07:**  A paper became one of the top 10 highly cited papers in the Journal of the Chinese Society for Artificial Intelligence in 2021.
+- **2022-07:** Became a member of CSIG MM and CCF MM special committee.
 - **2022-07:** I received a certificate of appreciation for the outstanding contribution made by the 11th Wu Wenjun Artificial Intelligence Science and Technology Award Ceremony and 2021 China Artificial Intelligence Industry Annual Conference.
 - **2022-07:** I was invited to be a member of the YOCSEF** sub-forum of the Youth Science and Technology Forum of the Chinese Computer Society, In 2022.
 - **2022-07:** I was invited to participate in the 2022 CCF Smart Manufacturing Conference sub-forum: How can digitalization help manufacturing companies reduce costs and increase efficiency?
 - **2022-07:** I was invited to give a presentation at the 11th Wu Wenjun Artificial Intelligence Science and Technology Award Ceremony and 2021 China Artificial Intelligence Industry Annual Meeting - Image Topic, link: https://mp.weixin.qq.com/s/bTZ2KuPm1ecPV5TyXCDQ5w
-- **2022-07:** I was awarded the Outstanding Academic Paper in Natural Science in **Province** in 2022.
+- **2022-07:** I was awarded the Outstanding Academic Paper in Natural Science in \*\*Province \*\*City in 2022.
 - **2022-07:** A paper code was included in the open source security community OSCS.
 - **2022-07:** I received the 24th Excellent Doctoral Dissertation of Harbin Institute of Technology.
 - **2022-07:** I am invited to be the Guest Editor of Drones.

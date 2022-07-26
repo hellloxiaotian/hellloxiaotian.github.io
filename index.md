@@ -78,16 +78,15 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Dr. Jiayu Xu, Guangdong Gongye Technology Co., Ltd.
 - Dr. Feng Li, HUAWEI TECHNOLOGIES CO., LTD.
 
-## Special Issue Information（特刊信息）
-
-1. Mathematics (SI: [Computational Methods and Application in Machine Learning](https://www.mdpi.com/journal/mathematics/special_issues/Computational_Methods_and_Application_in_Machine_Learning)) Deadline: 2022-03-30,SCI-IF: 2.952
-2. Electronics (SI: [Advances in Image Enhancement](https://www.mdpi.com/journal/electronics/special_issues/Image_Enhancement_1)) Deadline: 2022-08-01, SCI-IF: 2.690
-3. Drones (SI: [Intelligent Recognition and Detection for Unmanned Systems](https://www.mdpi.com/journal/drones/special_issues/6BHXE2FU7K)) Deadline: 2023-04-30, SCI-IF: 5.532
-4. Frontiers in Robotics and AI （SI: [Visual Human-Robot Interaction and Applications](https://www.frontiersin.org/research-topics/38210/visual-human-robot-interaction-and-applications)） Abstract Submission Deadline 13 August 2022 Manuscript Submission Deadline 12 October 2022
-5. Mathematical Biosciences and Engineering (SI: [Deep Learning techniques for corrupted image recognition](https://www.aimspress.com/mbe/article/6202/special-articles)) Deadline: 2022-12-31, SCI-IF: 2.194 
-6. International Journal of Distributed Sensor Networks (SI: [Designing Lightweight Networks for Image Restoration](https://journals.sagepub.com/page/dsn/collections/special-issues/designing-lightweight-networks-for-image-restoration)) Deadline: 2022-12-31，SCI-IF: 1.938. 
-
 ## News (消息)
+
+- **2022-07:** We host special issues of 6 international journals and welcome submissions! The specific information of the **SI** is as follows.
+  - Mathematics (SI: [Computational Methods and Application in Machine Learning](https://www.mdpi.com/journal/mathematics/special_issues/Computational_Methods_and_Application_in_Machine_Learning)) Deadline: 2022-03-30,SCI-IF: 2.952
+  - Electronics (SI: [Advances in Image Enhancement](https://www.mdpi.com/journal/electronics/special_issues/Image_Enhancement_1)) Deadline: 2022-08-01, SCI-IF: 2.690
+  - Drones (SI: [Intelligent Recognition and Detection for Unmanned Systems](https://www.mdpi.com/journal/drones/special_issues/6BHXE2FU7K)) Deadline: 2023-04-30, SCI-IF: 5.532
+  - Frontiers in Robotics and AI （SI: [Visual Human-Robot Interaction and Applications](https://www.frontiersin.org/research-topics/38210/visual-human-robot-interaction-and-applications)） Abstract Submission Deadline 13 August 2022 Manuscript Submission Deadline 12 October 2022
+  - Mathematical Biosciences and Engineering (SI: [Deep Learning techniques for corrupted image recognition](https://www.aimspress.com/mbe/article/6202/special-articles)) Deadline: 2022-12-31, SCI-IF: 2.194 
+  - International Journal of Distributed Sensor Networks (SI: [Designing Lightweight Networks for Image Restoration](https://journals.sagepub.com/page/dsn/collections/special-issues/designing-lightweight-networks-for-image-restoration)) Deadline: 2022-12-31，SCI-IF: 1.938. 
 
 - **2022-07:** A paper code was converted by Japanese engineers from python format to CoreML format suitable for mobile ios system.
 - **2022-07:** A paper became the cover paper of CAAI Transaction on Intelligence Technology, the journal of the Chinese Society for Artificial Intelligence.

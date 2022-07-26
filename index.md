@@ -85,7 +85,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 3. Drones (SI: [Intelligent Recognition and Detection for Unmanned Systems](https://www.mdpi.com/journal/drones/special_issues/6BHXE2FU7K)) Deadline: 2023-04-30, SCI-IF: 5.532
 4. Frontiers in Robotics and AI （SI: [Visual Human-Robot Interaction and Applications](https://www.frontiersin.org/research-topics/38210/visual-human-robot-interaction-and-applications)） Abstract Submission Deadline 13 August 2022 Manuscript Submission Deadline 12 October 2022
 5. Mathematical Biosciences and Engineering (SI: [Deep Learning techniques for corrupted image recognition](https://www.aimspress.com/mbe/article/6202/special-articles)) Deadline: 2022-12-31, SCI-IF: 2.194 
-6. International Journal of Distributed Sensor Networks (SI: [Designing Lightweight Networks for Image Restoration](https://journals.sagepub.com/page/dsn/collections/special-issues/call-for-papers)) Deadline: 2022-12-31，SCI-IF: 1.938. 
+6. International Journal of Distributed Sensor Networks (SI: [Designing Lightweight Networks for Image Restoration](https://journals.sagepub.com/page/dsn/collections/special-issues/designing-lightweight-networks-for-image-restoration)) Deadline: 2022-12-31，SCI-IF: 1.938. 
 
 ## News (消息)
 

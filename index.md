@@ -80,7 +80,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
-- **2022-07:** We host special issues of 6 international journals and welcome submissions! The specific information of the **SI** is as follows.
+- **2022-07:** We host special issues of 6 international journals. Welcome to submit articles to our journal! The specific information of the **SI** is as follows.
   - Mathematics (SI: [Computational Methods and Application in Machine Learning](https://www.mdpi.com/journal/mathematics/special_issues/Computational_Methods_and_Application_in_Machine_Learning)) Deadline: 2022-03-30,SCI-IF: 2.952
   - Electronics (SI: [Advances in Image Enhancement](https://www.mdpi.com/journal/electronics/special_issues/Image_Enhancement_1)) Deadline: 2022-08-01, SCI-IF: 2.690
   - Drones (SI: [Intelligent Recognition and Detection for Unmanned Systems](https://www.mdpi.com/journal/drones/special_issues/6BHXE2FU7K)) Deadline: 2023-04-30, SCI-IF: 5.532

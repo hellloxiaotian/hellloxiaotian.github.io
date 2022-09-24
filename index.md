@@ -82,15 +82,15 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 - **2022-09:** I am invited to be the PC Chair and Workshop Chair of the international conference "ICCBDAI 2022".
 - **2022-09:** ADNet technique is purchased commercially by American Imaging Corporation**.
-- **2022-09: **One journal paper is accepted to IEEE TNNLS, the top international journal in artificial intelligence.
+- **2022-09:**One journal paper is accepted to IEEE TNNLS, the top international journal in artificial intelligence.
 - **2022-09:** One journal paper is accepted to Pattern Recognition(PR), the journal of the International Society for Pattern Recognition.
 - **2022-09:** I join editorial board member of CAAI Transactions on Intelligence Technology (Region I/SCI-IF: 7.985), the journal of the Chinese Society for Artificial Intelligence.
-- **2022-09: ** 2022** High-level talents in the province.
+- **2022-09:** 2022** High-level talents in the province.
 - **2022-09:** One granted invention patent.
 - **2022-09:** I became a reviewer for the National Natural Science Foundation of China.
 - **2022-09:** I am awarded the '**Talent in Science and Technology' trophy on Teacher's Day, 2022.
 - **2022-08:** I am invited to participate in the super-resolution benchmark production task held by MSU's Graphics & Media Lab, an internationally renowned video quality evaluation lab.
-- **2022-08: **I became the first batch of experts in **city network security and information technology expert pool.
+- **2022-08:** I became the first batch of experts in **city network security and information technology expert pool.
 - **2022-08:** Three papers were ranked among the eight highly cited papers selected by the international journal Neural Networks in three years.
 - **2022-07:** One granted invention patent.
 - **2022-07:** We host special issues of 6 international journals. Welcome to submit articles to our journal! The specific information of the **SI** is as follows.

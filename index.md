@@ -80,6 +80,19 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2022-09:** I am invited to be the PC Chair and Workshop Chair of the international conference "ICCBDAI 2022".
+- **2022-09:** ADNet technique is purchased commercially by American Imaging Corporation**.
+- **2022-09: **One journal paper is accepted to IEEE TNNLS, the top international journal in artificial intelligence.
+- **2022-09:** One journal paper is accepted to Pattern Recognition(PR), the journal of the International Society for Pattern Recognition.
+- **2022-09:** I join editorial board member of CAAI Transactions on Intelligence Technology (Region I/SCI-IF: 7.985), the journal of the Chinese Society for Artificial Intelligence.
+- **2022-09: ** 2022** High-level talents in the province.
+- **2022-09:** One granted invention patent.
+- **2022-09:** I became a reviewer for the National Natural Science Foundation of China.
+- **2022-09:** I am awarded the '**Talent in Science and Technology' trophy on Teacher's Day, 2022.
+- **2022-08:** I am invited to participate in the super-resolution benchmark production task held by MSU's Graphics & Media Lab, an internationally renowned video quality evaluation lab.
+- **2022-08: **I became the first batch of experts in **city network security and information technology expert pool.
+- **2022-08:** Three papers were ranked among the eight highly cited papers selected by the international journal Neural Networks in three years.
+- **2022-07:** One granted invention patent.
 - **2022-07:** We host special issues of 6 international journals. Welcome to submit articles to our journal! The specific information of the **SI** is as follows.
   - Mathematics (SI: [Computational Methods and Application in Machine Learning](https://www.mdpi.com/journal/mathematics/special_issues/Computational_Methods_and_Application_in_Machine_Learning)) Deadline: 2022-03-30,SCI-IF: 2.952
   - Electronics (SI: [Advances in Image Enhancement](https://www.mdpi.com/journal/electronics/special_issues/Image_Enhancement_1)) Deadline: 2022-08-01, SCI-IF: 2.690
@@ -87,7 +100,6 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
   - Frontiers in Robotics and AI （SI: [Visual Human-Robot Interaction and Applications](https://www.frontiersin.org/research-topics/38210/visual-human-robot-interaction-and-applications)） Abstract Submission Deadline 13 August 2022 Manuscript Submission Deadline 12 October 2022
   - Mathematical Biosciences and Engineering (SI: [Deep Learning techniques for corrupted image recognition](https://www.aimspress.com/mbe/article/6202/special-articles)) Deadline: 2022-12-31, SCI-IF: 2.194 
   - International Journal of Distributed Sensor Networks (SI: [Designing Lightweight Networks for Image Restoration](https://journals.sagepub.com/page/dsn/collections/special-issues/designing-lightweight-networks-for-image-restoration)) Deadline: 2022-12-31，SCI-IF: 1.938. 
-
 - **2022-07:** A paper code was converted by Japanese engineers from python format to CoreML format suitable for mobile ios system.
 - **2022-07:** A paper became the cover paper of CAAI Transaction on Intelligence Technology, the journal of the Chinese Society for Artificial Intelligence.
 - **2022-07:**  A paper became one of the top 10 highly cited papers in the Journal of the Chinese Society for Artificial Intelligence in 2021.
@@ -444,9 +456,15 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
 
 
 
+2022 **Province High-level Talent
+
 2022 ** Young scientific and technological talents
 
 2022 My PhD thesis was awarded as an excellent PhD thesis by Shenzhen CCF.
+
+2022 China**
+
+2022 Trophy for local scientific and technological talents
 
 2022 The 24th Excellent Doctoral Dissertation of Harbin Institute of Technology.
 

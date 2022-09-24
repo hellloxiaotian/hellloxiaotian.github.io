@@ -24,6 +24,8 @@
 - **Tian C**, Y. Yuan, S. Zhang, C. Lin, W. Zuo, D. Zhang. Image Super-resolution with An Enhanced Group Convolutional Neural Network[J]. Neural Newworks, 2022. (CCF B/SCI-IF:9.657)[[pdf](https://arxiv.org/pdf/2205.14548.pdf)] \[[code](https://github.com/hellloxiaotian/ESRGCNN)](Open source security community OSCS collection)
 
 ## Journal papers (期刊论文)
+- **C. Tian**, M. Zheng , W. Zuo, B. Zhang , Y. Zhang, D. Zhang. Multi-stage image denoising with the wavelet transform[J]. Pattern Recognition. 2022. (JCR Q1/SCI-IF:8.518)（Accepted）
+- **C. Tian**, Y. Zhang, W. Zuo, C. Lin, D. Zhang, Y. Yuan. A heterogenous group CNN for image super-resolution [J]. IEEE Transactions on Neural Networks and Learning Systems. 2022.　(JCR Q1/ CCF B/SCI-IF:14.255）
 - **Tian C**, Yuan Y, Zhang S, et al. Image Super-resolution with An Enhanced Group Convolutional Neural Network[J]. arXiv preprint arXiv:2205.14548, 2022. ( JCR Q1/CCF-B/SCI IF: 8.05)(Accepted )
 - **C. Tian**, X. Zhang, J. Lin, W. Zuo, Y. Zhang. Generative adversarial networks for image super-resolution: a survey [J] . Generative adversarial networks for image super-resolution: a survey. arXiv:2204.13620. 2022. 
 - K. Huang, **C. Tian***, J. Su, J. Lin. Transformer-based  cross reference network for video salient object detection[J]. Pattern Recognition Letters. 2022( JCR Q1/CCF-C/SCI IF: 3.756)(Accepted)
@@ -108,22 +110,26 @@
 
 ## Projects (项目)
 
-1.  2022.07-2024.06 \*\*Project.
-2.  2022.01-2023.12 \*\*Project.
-3.  2022.01-2022.12 **Young Science and Technology Talent Program.
-4.  2022.03-2022.12, \*\*Project.
-5.  2021.10-2023.09, Ministry of Education Industry-University-Research Cooperation Collaborative Education Program.
-6.  2021.10-2024.09 **Province Youth Fund Project.
-7.  2021- Shaanxi Virtual Teaching and Research Office construction project.
-8.  2021- Ministry of Education industry-University-Research Project.
-9.  2021.09-2024.08 The Fundamental Research Funds for the Central Universities.
-10.  2021.09- , Research on intelligent ** method.
-11.  2021.09-2023.08, ** Technology Project
-12.  2019.01-2022.12 National Nature ScienceFoundation of China Gant No. 61876051.
-13.  2020.01-2021.12 ShenzhenKey Laboratory of Visual Object Detection and Recognition under Grant No. ZDSYS20190902093015527. 
-14.  2019.08-2022.08 Shenzhen Science and technology innovation Commission  under Grant No. JSGG20190220153602271.
-15.  2016.1-2017.02 National Natural Science Foundation of China Youth Fund funded projects (61502123)—Research on Multi-core program complicating error elimination method.
-16.  2015.7-2015.12 Heilongjiang Science Foundation Project (QC2015084)—Research based on Multi-core processor fault  diagnosis method of deterministic repetition.
-17.  2013.12-2015.07 The Cooperation Project of Harbin University of Science and Technology and Beijing Aerospace System Engineering Research—The implementations and design of network flow classification.
-18.  2012.04-2013.10 The Innovative Project of Undergraduate of Heilongjiang Province—The implementations and design of  network down-hole monitoring system.
+1.  2023.01- National Natural Science Foundation of China.
+2.  2022.09- **Provincial High-Level Talent Program.
+3.  2022.07- *\*Project.
+4.  2022.07- *\*Project.
+5.  2022.05- *\*Project.
+6.  2022.01-2023.12 \*\*Project.
+7.  2022.01-2022.12 **Young Science and Technology Talent Program.
+8.  2022.03-2022.12, \*\*Project.
+9.  2021.10-2023.09, Ministry of Education Industry-University-Research Cooperation Collaborative Education Program.
+10.  2021.10-2024.09 **Province Youth Fund Project.
+11.  2021- Shaanxi Virtual Teaching and Research Office construction project.
+12.  2021- Ministry of Education industry-University-Research Project.
+13.  2021.09-2024.08 The Fundamental Research Funds for the Central Universities.
+14.  2021.09- , Research on intelligent ** method.
+15.  2021.09-2023.08, ** Technology Project
+16.  2019.01-2022.12 National Nature ScienceFoundation of China Gant No. 61876051.
+17.  2020.01-2021.12 ShenzhenKey Laboratory of Visual Object Detection and Recognition under Grant No. ZDSYS20190902093015527. 
+18.  2019.08-2022.08 Shenzhen Science and technology innovation Commission  under Grant No. JSGG20190220153602271.
+19.  2016.1-2017.02 National Natural Science Foundation of China Youth Fund funded projects (61502123)—Research on Multi-core program complicating error elimination method.
+20.  2015.7-2015.12 Heilongjiang Science Foundation Project (QC2015084)—Research based on Multi-core processor fault  diagnosis method of deterministic repetition.
+21.  2013.12-2015.07 The Cooperation Project of Harbin University of Science and Technology and Beijing Aerospace System Engineering Research—The implementations and design of network flow classification.
+22.  2012.04-2013.10 The Innovative Project of Undergraduate of Heilongjiang Province—The implementations and design of  network down-hole monitoring system.
 

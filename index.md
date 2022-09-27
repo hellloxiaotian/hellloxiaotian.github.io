@@ -601,7 +601,7 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
      <div class="img">
       <img src="picture/Menghua Zheng.jpg" >
       <div class="desc_blank"> </div>
-      <div class="desc"> <a href = "https://www.nwpu.edu.cn">NPU</a>, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+      <div class="desc"> <a href = "https://scholar.google.com/citations?hl=en&user=ocy7acsAAAAJ&view_op=list_works&gmla=AJsN-F68U1UklGZDjmuesBv3yirregvxFAaTTQ7hGPTAoi4DYMZOz3PlkvLD0nTzGEafqkd7HOWADzBTkTIKNG93iO0b1QjuRF1DtBp434i9Eea6kCNQPg4">Menghua Zheng</a>, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
       <div class="desc_blank_2"> </div>
      </div>
 

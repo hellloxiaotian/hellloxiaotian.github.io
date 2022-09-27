@@ -601,7 +601,7 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
      <div class="img">
       <img src="picture/Menghua Zheng.jpg" >
       <div class="desc_blank"> </div>
-      <div class="desc"> <a href = "https://www.nwpu.edu.cn">Menghua Zheng</a>Menghua Zheng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+      <div class="desc"> <a href = "https://www.nwpu.edu.cn">NPU</a>, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
       <div class="desc_blank_2"> </div>
      </div>
 

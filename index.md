@@ -1,3 +1,5 @@
+
+
 ## Biography (简介)
 
 I am an Associate Professor at Software School of Northwestern Polytechnical University (NPU)，China in July, 2021. I am a member of National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology.  Also, I was a member of  Shenzhen Key Laboratory of Visual Object Detection and Recognition, China. I have obtained PhD degree of computer application technology at Harbin Institute of Technology (HIT) , China in Jan, 2021. I pursued PhD degree at HIT from Mar, 2017 to Jan, 2021.
@@ -640,11 +642,24 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
       <div class="desc">Chao Li,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
        <div class="desc_blank_2"> </div>
 </div>
-
   <div class="img">
    <img src="picture/Lu Wang.jpg" >
    <div class="desc_blank"> </div>
    <div class="desc">  Lu Wang , <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   <div class="desc_blank_2"> </div>
+  </div>
+
+  <div class="img">
+   <img src="picture/Jichao Ma.jpg" >
+   <div class="desc_blank"> </div>
+   <div class="desc">  Jichao Ma, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   <div class="desc_blank_2"> </div>
+  </div>
+
+  <div class="img">
+   <img src="picture/Haoyang Gao.jpg" >
+   <div class="desc_blank"> </div>
+   <div class="desc">  Haoyang Gao, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
    <div class="desc_blank_2"> </div>
   </div>
 
@@ -693,20 +708,6 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
 </div>
 
 <div class="box">
-
-<div class="img" width = "50%">
-     <img src="picture/Dingxuan Meng.jpg" >
-     <div class="desc_blank"> </div>
-     <div class="desc"> Dingxuan Meng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-     <div class="desc_blank_2"> </div>
-    </div>
-
-<div class="img" width = "50%">
-     <img src="picture/Haojie Xin.jpg" >
-     <div class="desc_blank"> </div>
-     <div class="desc"> Haojie Xin, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-     <div class="desc_blank_2"> </div>
-    </div>
 
 </div>
 ### Supporter

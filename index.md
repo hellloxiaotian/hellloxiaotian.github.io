@@ -578,6 +578,13 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
           <div class="desc">Yuxuan Hu,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
            <div class="desc_blank_2"> </div>
      </div>
+     
+    <div class="img">
+          <img src="picture/Jiagang Song.jpg" >
+          <div class="desc_blank"> </div>
+          <div class="desc">Jiagang Song,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
+          <div class="desc_blank_2"> </div>
+     </div>
 
 </div>
 
@@ -591,12 +598,6 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
        <div class="desc_blank_2"> </div>
      </div>
      
-     <div class="img">
-      <img src="picture/Jiagang Song.jpg" >
-      <div class="desc_blank"> </div>
-      <div class="desc">Jiagang Song,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
-       <div class="desc_blank_2"> </div>
-     </div>
     
      <div class="img">
       <img src="picture/Menghua Zheng.jpg" >

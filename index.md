@@ -82,7 +82,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
-- **2022-10:** A paper was reported by AlWalker on the wechat official account of "JiShi Platform".
+- **2022-10:** A paper was tweeted and reported by AIWalker, a well-known computer vision public website in China.
 - **2022-09:** I am invited to be the PC Chair and Workshop Chair of the international conference "ICCBDAI 2022".
 - **2022-09:** ADNet technique is purchased commercially by American Imaging Corporation**.
 - **2022-09:**One journal paper is accepted to IEEE TNNLS, the top international journal in artificial intelligence.

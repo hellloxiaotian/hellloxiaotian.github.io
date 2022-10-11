@@ -25,7 +25,7 @@
 
 ## Journal papers (期刊论文)
 - **C. Tian**, M. Zheng , W. Zuo, B. Zhang , Y. Zhang, D. Zhang. Multi-stage image denoising with the wavelet transform[J]. Pattern Recognition. 2022. (JCR Q1/SCI-IF:8.518)（Accepted）
-- **C. Tian**, Y. Zhang, W. Zuo, C. Lin, D. Zhang, Y. Yuan. A heterogenous group CNN for image super-resolution [J]. IEEE Transactions on Neural Networks and Learning Systems. 2022.　(JCR Q1/ CCF B/SCI-IF:14.255）
+- **C. Tian**, Y. Zhang, W. Zuo, C. Lin, D. Zhang, Y. Yuan. A heterogenous group CNN for image super-resolution [J]. IEEE Transactions on Neural Networks and Learning Systems. 2022.　(JCR Q1/ CCF B/SCI-IF:14.255）（reported by AlWalker）[[report](https://mp.weixin.qq.com/s/3zjTZuHF2uJ-ihi07O8b5g.)]
 - **Tian C**, Yuan Y, Zhang S, et al. Image Super-resolution with An Enhanced Group Convolutional Neural Network[J]. arXiv preprint arXiv:2205.14548, 2022. ( JCR Q1/CCF-B/SCI IF: 8.05)(Accepted )
 - **C. Tian**, X. Zhang, J. Lin, W. Zuo, Y. Zhang. Generative adversarial networks for image super-resolution: a survey [J] . Generative adversarial networks for image super-resolution: a survey. arXiv:2204.13620. 2022. 
 - K. Huang, **C. Tian***, J. Su, J. Lin. Transformer-based  cross reference network for video salient object detection[J]. Pattern Recognition Letters. 2022( JCR Q1/CCF-C/SCI IF: 3.756)(Accepted)

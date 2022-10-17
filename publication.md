@@ -100,16 +100,19 @@
 ## Software Copyright (软著) 
 
 1.  Zhi K, **Tian C**, An Image denoising method based on Convolutional Neural Network, 2022. 
-1.  Jiao T, **Tian C**, A self-supervised convolutional neural network based image watermarking system, 2022.
-1.  Ma Y, Zhang X, Li J, **Tian C**. Intelligent tracking control system. Software Copyright. 2021. 
-2.  Ma Y, Zheng M, Yang D, **Tian C**. Intelligent vehicle control system. Software Copyright. 2021. 
-3.  Zheng M, Zhang X, Ma Y, **Tian C**. Cruise detection fruit mobile robot system . Software Copyright. 2021. 
-4.  Zhang X, Ma Y, Yang D, **Tian C**. Hotel background management system. Software copyright. 2021. 
-5.  Zhang X, Shi B, Zheng M, **Tian C**. Office-assistant system. Software copyright. 2021.
-8.  **Tian C**, Sun G. Face recognition system. Software Copyright.
-9.  **Tian C**, Sun G. Wechat identification software. Software Copyright.
-10.  **Tian C**, Sun G. Network traffic classification software. Software Copyright.
-11.  Sun G, **Tian C.** Network traffic monitoring system. Software Copyright.
+2.  Jiao T, **Tian C**, A self-supervised convolutional neural network based image watermarking system, 2022.
+3.  Fu Y, **Tian C**. Dark light image enhancement algorithm based on Retinex model. Software Copyright. 2022.
+4.  Fu Y, **Tian C**. Dark light image enhancement algorithm based on residual dense network. Software Copyright. 2022.
+5.  Ma Y, Zhang X, Li J, **Tian C**. Intelligent tracking control system. Software Copyright. 2021. 
+6.  Ma Y, Zheng M, Yang D, **Tian C**. Intelligent vehicle control system. Software Copyright. 2021. 
+7.  Zheng M, Zhang X, Ma Y, **Tian C**. Cruise detection fruit mobile robot system . Software Copyright. 2021. 
+8.  Zhang X, Ma Y, Yang D, **Tian C**. Hotel background management system. Software copyright. 2021. 
+9.  Zhang X, Shi B, Zheng M, **Tian C**. Office-assistant system. Software copyright. 2021.
+10.  **Tian C**, Sun G. Face recognition system. Software Copyright.
+11.  **Tian C**, Sun G. Wechat identification software. Software Copyright.
+12.  **Tian C**, Sun G. Network traffic classification software. Software Copyright.
+13.  Sun G, **Tian C.** Network traffic monitoring system. Software Copyright.
+
 
 ## Projects (项目)
 

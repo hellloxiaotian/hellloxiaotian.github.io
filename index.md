@@ -661,6 +661,28 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
    <div class="desc">  Haoyang Gao, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
    <div class="desc_blank_2"> </div>
   </div>
+  
+  <div class="img">
+   <img src="picture/Wenbo Wang.jpg" >
+   <div class="desc_blank"> </div>
+   <div class="desc">  Wenbo Wang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   <div class="desc_blank_2"> </div>
+  </div>
+  
+  <div class="img">
+   <img src="picture/Qingbin Zhang.jpg" >
+   <div class="desc_blank"> </div>
+   <div class="desc">  Qingbin Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   <div class="desc_blank_2"> </div>
+  </div>
+  
+    <div class="img">
+   <img src="picture/Hongpeng Cai.jpg" >
+   <div class="desc_blank"> </div>
+   <div class="desc">  Hongpeng Cai, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   <div class="desc_blank_2"> </div>
+  </div>
+  
 
 </div> 
 

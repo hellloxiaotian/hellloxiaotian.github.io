@@ -82,6 +82,18 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2022-12:** Xuanyu Zhang, master student of 2021, won the Best Paper of ICCBDAI 2022
+- **2022-12:** Awarded Excellent Workshop Chair at ICCBDAI 2022
+- **2022-12:** Three English teaching reform papers were accepted by EI Conference
+- **2022-12:** Guide 4 master/PhD students to be invited to give English Oral at ICCBDAI 2022
+- **2022-12:** Two of my papers were awarded the second Excellent Scientific and Technological Academic Papers of Shenzhen
+- **2022-11:** Hongpeng CAI, postgraduate student of Grade 23 (Master's offer/ TOEFL 107 from National University of Singapore/Jilin University/National University of Singapore) was invited to host ICCSI 2022 Workshop
+- **2022-11:** Get the Chinese * 
+- **2022-11:** Invited to become the second Chinese Academy of Sciences /JCR first area SCI international journal AE
+- **2022-11:** A paper has been accepted by the international journal Electronics
+- **2022-11:** Named to Stanford University's 2022 ranking of the world's top 2% of leading scientists
+- **2022-10:** Invited to give an academic report on the Polar City platform
+- **2022-10:** Awarded the 2022 Wiley High Contribution Author of Open Science in China
 - **2022-10:** Invited to become Editor of an international SCI journal (AE)
 - **2022-10:** Selected as digital * expert in * city of * province
 - **2022-10:** A paper was tweeted and reported by AIWalker, a well-known computer vision public website in China.
@@ -460,6 +472,9 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
 ## Awards (奖励)
 
 
+2022 Two of my papers were awarded the second Excellent Scientific and Technological Academic Papers of Shenzhen
+
+2022 Awarded the 2022 Wiley High Contribution Author of Open Science in China
 
 2022 **Province High-level Talent
 

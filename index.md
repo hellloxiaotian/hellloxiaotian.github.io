@@ -129,6 +129,10 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2023-01:** 1 paper was selected as ESI hot papers
+- **2022-12:** As the keynote speaker, I was awarded the outstanding activity of 2022 National Science Popularization Day by the China Association for Science and Technology
+- **2022-12:** Become a member of the special Committee of CAA-PRMI
+- **2022-12:** Become a member of the special Committee of CSIG-BVD
 - **2022-12:** Xuanyu Zhang, master student of 2021, won the Best Paper of ICCBDAI 2022
 - **2022-12:** Awarded Excellent Workshop Chair at ICCBDAI 2022
 - **2022-12:** Three English teaching reform papers were accepted by EI Conference
@@ -146,7 +150,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2022-10:** A paper was tweeted and reported by AIWalker, a well-known computer vision public website in China.
 - **2022-09:** I am invited to be the PC Chair and Workshop Chair of the international conference "ICCBDAI 2022".
 - **2022-09:** ADNet technique is purchased commercially by American Imaging Corporation**.
-- **2022-09:**One journal paper is accepted to IEEE TNNLS, the top international journal in artificial intelligence.
+- **2022-09:** One journal paper is accepted to IEEE TNNLS, the top international journal in artificial intelligence.
 - **2022-09:** One journal paper is accepted to Pattern Recognition(PR), the journal of the International Society for Pattern Recognition.
 - **2022-09:** I join editorial board member of CAAI Transactions on Intelligence Technology (Region I/SCI-IF: 7.985), the journal of the Chinese Society for Artificial Intelligence.
 - **2022-09:** 2022** High-level talents in the province.

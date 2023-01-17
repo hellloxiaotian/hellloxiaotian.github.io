@@ -27,6 +27,35 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 <br/>
 
+## Academic Achievements (学术成果) 
+
+### Highly Cited Papers（高被引论文）
+
+- C. Tian, Y. Xu, W. Zuo, B. Zhang, L. Fei, C. Lin. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia,23,1489-1502,2021. （Top international journal in multimedia field/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:8.182）(ESI highly cited papers)
+- C. Tian, Y. Xu, W. Zuo. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks,121:461-473,2020.(Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （ESI highly cited papers）
+- C. Tian, Y. Xu, Z. Li, W. Zuo, L. Fei, H. Liu. Attention-guided CNN for Image Denoising[J]. Neural Networks,124,117-129,2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （ESI highly cited papers）
+- C. Tian, L. Fei, W. Zheng, Y. Xu,  W. Zuo, C. Lin. Deep Learning on Image Denoising: An overview[J]. Neural Networks,131,251-275 2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （ESI highly cited papers）
+
+
+### Cover paper, Annual excellent paper and Municipal Excellent paper on Natural science and technology（封面论文、年度优秀论文和市自然科技优秀论文）
+
+- C. Tian, Y. Xu, W.  Zuo, B. Zhang, L. Fei, C.  Lin. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia,  23, 1489-1502, 2021. （Top international journal in multimedia field/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:8.182）(Cover paper/ Excellent scientific and technological academic papers of a city) 
+- C. Tian C, Y. Xu, W. Zuo. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks, 121:461-473, 2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （Cover paper）
+- C. Tian, Y. Xu, Z. Li, W. Zuo, L. Fei, H. Liu. Attention-guided CNN for Image Denoising[J]. Neural Networks, 124,117-129, 2020.  (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （Cover paper）
+- C. Tian, L. Fei, W. Zheng, Y. Xu,  W. Zuo C. Lin. Deep Learning on Image Denoising: An overview[J]. Neural Networks,131,251-275 2020.  (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （Cover paper）
+
+- C. Tian, Y. Xu, et al. Enhanced CNN for image denoising [J],CAAI Transaction on Intelligence Technology, 4(1), 17– 23, 2019. (Journal of Chinese Society for Artificial Intelligence/First district of JRC /SCI-IF:7.985) （Excellent paper of the Year in 2020）
+- C. Tian, Y. Xu, et al. Enhanced CNN for image denoising [J],CAAI Transaction on Intelligence Technology, 4(1), 17– 23, 2019. (Journal of Chinese Society for Artificial Intelligence/First district of JRC/SCI-IF:7.985) （Top 10 cited papers of journals in 2021）
+- C. Tian, Y. Xu, W. Zuo, C. Lin, D. Zhang.  Asymmetric CNN for image super-resolution [J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022. (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:11.471) （Top international journal of automation and control systems and computer control）(Excellent Natural Science Paper of a City/Excellent Science and technology academic paper of a City in 2022)
+- Q. Zhang, J. Xiao, C. Tian, J. Lin, S. Zhang. A robust deformed CNN for image denoising [J]. CAAI Transactions on Intelligence Technology, 2022. （Journal of Chinese Society for Artificial Intelligence/First district of JRC/SCI-IF:7.985）（Second quarter 2022 "Wiley High Contribution Author of Open Science in China"）
+
+
+
+
+
+<br/>
+
+
 ## Recruitment (招生)
 - Welcome to contact me for undergraduates, masters and RA students, who are interested in artificial intelligence, deep learning and image processing. I have good cooperation with Tsinghua University, Peking University, Harbin Institute of Technology, National University of Defense Technology, Wuhan University, Central South University, Dalian University of Technology, Nankai University , Hunan University, Nanjing University of Technology, Southern University of Science and Technology, Institute of Information Technology, Chinese Academy of Sciences, Shenzhen Advanced Institute of Chinese Academy of Sciences, Pengcheng Laboratory, Chinese University of Hong Kong, City University of Hong Kong, University of Macau, Tsinghua University in Taiwan, Zurich Institute of Technology, Nanyang Technological University in Singapore , University of Central Florida, University of Technology Sydney, Australia, Western Norway University of Applied Sciences and Massey University in New Zealand and other well-known universities, etc. Outstanding students can be recommended to a world-class group for visiting, exchanging or applying PhD degree. Additionally, I have established a good cooperation with BAT, Huawei, Byte, etc. And I can recommend excellent students for visiting in these IT companies of China. My email addresses are chunweitian@163.com and [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn).
 

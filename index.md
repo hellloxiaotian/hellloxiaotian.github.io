@@ -63,13 +63,15 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - C. Tian, Y. Yuan, S. Zhang, C. Lin, W. Zuo, D. Zhang. Image Super-resolution with An Enhanced Group Convolutional Neural Network[J]. Neural Networks, 2022.  (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) (Proceedings of the International Society for Neural Networks) （Open source security community OSCS included）
 - C. Tian, G. Zhu, Z. Wu, Y. Xu, W. Zuo, C. Chen, C. Lin. Lightweight Image Super-Resolution with Enhanced CNN[J].Knowledge-based systems, 2020:106235. (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:8.139 ) （Journal of Chinese Society for Artificial Intelligence）（CoreML code for Apple -ios system adapted for mobile terminals by Japanese engineers）
 - C. Tian, Y. Xu, Z. Li, W. Zuo, L. Fei, H. Liu. Attention-guided CNN for Image Denoising[J]. Neural Networks, 124,117-129, 2020.  (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) (The paper technology was purchased commercially by an American medical imaging company)
+- C. Tian, Y. Xu, W.  Zuo, B. Zhang, L. Fei, C.  Lin. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia,  23, 1489-1502, 2021. (Top Journal in International Multimedia Field/District I of Chinese Academy of Sciences/District I of JCR /SCI-IF:8.182)（The open source security community OSCS collects and tests code as secure and reliable）
+
 
 
 ### Invited by MSU's Graphics& Media Lab to participate in the production of international Super-resolution benchmark（受MSU’s Graphics& Media Lab邀请参加国际Super-resolution benchmark的制作）
 
-- C. Tian, Y. Xu, W.  Zuo, B. Zhang, L. Fei, C.  Lin. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia,  23, 1489-1502, 2021. （Top international journal in multimedia field/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:8.182）(The production of international Super-Resolution Benchmark) 
 - C. Tian, Y. Yuan, S. Zhang, C. Lin, W. Zuo, D. Zhang. Image Super-resolution with An Enhanced Group Convolutional Neural Network[J]. Neural Networks, 2022.  (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) (Proceedings of the International Society for Neural Networks) （The production of international Super-Resolution Benchmark)
 - C. Tian, Y. Zhang, W. Zuo, C. Lin, D. Zhang, Y. Yuan. A heterogenous group CNN for image super-resolution [J].  IEEE Transactions on Neural Networks and Learning Systems. 2022.　(First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:14.255) （The production of international Super-Resolution Benchmark)
+
 
 <br/>
 
@@ -129,6 +131,14 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+
+- **2023-02:** Elected to the youth editorial board of a university journal
+- **2023-02:** Wiley 2021-2022 Highly Cited Paper (2023)
+- **2023-02:** Excellent doctoral dissertation of a provincial Artificial Intelligence Society in 2022
+- **2023-02:** Special Issue of the new Electronics(SCI-IF:2.690)
+- **2023-01:** CFSRCNN Work is invited by the IEEE Signal Processing Society to produce SPS Webinar or SPS Blog
+- **2023-01:** Invited to be on the CSI-2023 Program Committee
+- **2023-01:** A paper code is included in the open source software supply chain security community OCSC
 - **2023-01:** 1 paper was selected as ESI hot papers
 - **2022-12:** As the keynote speaker, I was awarded the outstanding activity of 2022 National Science Popularization Day by the China Association for Science and Technology
 - **2022-12:** Become a member of the special Committee of CAA-PRMI

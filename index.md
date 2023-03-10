@@ -132,6 +132,16 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 ## News (消息)
 
 
+- **2023-03:** Serves as the Area Editor of the international SCI journal **
+- **2023-03:** Invited Publicity Chair for international conferences AMDS 2023 and AMMSA 2023
+- **2023-03:** Invited to become the international SCI journal "Electronics" AE
+- **2023-03:** Dr. Yuxuan, a student in the group, was invited to serve as PC member of the international conference "MLCCIM"
+- **2023-02:** Lunch Talk with students Xuan Yu and Meng Hua in the group
+- **2023-02:** Invited Hebei recruitment team to Hongwen Middle School to carry out the popular science lecture "Flying Dream and helping Sail"
+- **2023-02:** Invited to be the Area Chair of the international conference ACAIT 2023
+- **2023-02:** Invited to the international journal Mathmatical Bioscience and Engineering (SCI-IF:2.194/ Region III /JCR Region IV)
+- **2023-02:** Invited to be PC Chair and Workshop Chair for the international conference MLCCIM 2023
+- **2023-02:** Invited to become SS Co-Chair for ICCSI 2023
 - **2023-02:** Elected to the youth editorial board of a university journal
 - **2023-02:** Wiley 2021-2022 Highly Cited Paper (2023)
 - **2023-02:** Excellent doctoral dissertation of a provincial Artificial Intelligence Society in 2022

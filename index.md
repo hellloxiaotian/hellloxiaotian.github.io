@@ -132,6 +132,13 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 ## News (消息)
 
 
+- **2023-04:** Advanced Worker of Science Popularization of Image and Graphics Society of China in 2022 (2023)
+- **2023-04:** Dr. Yuxuan of the research group authorized 1 invention patent
+- **2023-04:** Elected board member of Suzhou Artificial Intelligence Association
+- **2023-04:** Three papers were included in the International Super-resolution Bechmark List
+- **2023-04:** Encourage the freshmen to participate in the application of cute innovation project, reward each USB disk. The sky is high and the sea is wide.
+- **2023-04:** Zhui Feng Vision research group to carry out a small range of team building
+- **2023-03:** Two years after graduation, I received the final gift of my PhD. Thank you for 10 years of university, and thank you for Huawei Global talented young interview invitation.
 - **2023-03:** Serves as the Area Editor of the international SCI journal **
 - **2023-03:** Invited Publicity Chair for international conferences AMDS 2023 and AMMSA 2023
 - **2023-03:** Invited to become the international SCI journal "Electronics" AE

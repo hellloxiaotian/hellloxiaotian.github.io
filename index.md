@@ -35,6 +35,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - C. Tian, Y. Xu, W. Zuo. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks,121:461-473,2020.(Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （ESI highly cited papers）
 - C. Tian, Y. Xu, Z. Li, W. Zuo, L. Fei, H. Liu. Attention-guided CNN for Image Denoising[J]. Neural Networks,124,117-129,2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （ESI highly cited papers）
 - C. Tian, L. Fei, W. Zheng, Y. Xu,  W. Zuo, C. Lin. Deep Learning on Image Denoising: An overview[J]. Neural Networks,131,251-275 2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （ESI highly cited papers）
+- C. Tian, M. Zheng , W. Zuo, B. Zhang , Y. Zhang, D. Zhang. Multi-stage image denoising with the wavelet transform[J]. Pattern Recognition. 134:109050, 2023. (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:8.518)  (Proceedings of the International Association for Pattern Recognition/Top Journal of Computer Science Recognized by the Chinese Academy of Sciences)
 
 
 ### Cover paper, Annual excellent paper and Municipal Excellent paper on Natural science and technology（封面论文、年度优秀论文和市自然科技优秀论文）
@@ -71,6 +72,9 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 - C. Tian, Y. Yuan, S. Zhang, C. Lin, W. Zuo, D. Zhang. Image Super-resolution with An Enhanced Group Convolutional Neural Network[J]. Neural Networks, 2022.  (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) (Proceedings of the International Society for Neural Networks) （The production of international Super-Resolution Benchmark)
 - C. Tian, Y. Zhang, W. Zuo, C. Lin, D. Zhang, Y. Yuan. A heterogenous group CNN for image super-resolution [J].  IEEE Transactions on Neural Networks and Learning Systems. 2022.　(First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:14.255) （The production of international Super-Resolution Benchmark)
+- C. Tian, Y. Xu, W. Zuo, B. Zhang, L. Fei, C. Lin. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia, 23, 1489-1502, 2021. （The production of international Super-Resolution Benchmark)
+- C. Tian, Y. Xu, W. Zuo, C. Lin, D. Zhang.  Asymmetric CNN for image super-resolution [J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2021. （The production of international Super-Resolution Benchmark)
+- C. Tian, G. Zhu, Z. Wu, Y. Xu, W. Zuo, C. Chen, C. Lin. Lightweight Image Super-Resolution with Enhanced CNN[J].Knowledge-based systems, 2020:106235. （The production of international Super-Resolution Benchmark)
 
 
 <br/>
@@ -131,7 +135,22 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
-
+- **2023-07:** A robust deformable convolutional neural network image denoising method developed by Xiao Jingyu of the research group was reported by the official - account of "Journal of Intelligence", link https://mp.weixin.qq.com/s/hLcqRaugQwnAjRB1oUzHpw?jump_from=1_05_37_01, Congratulations to Xiao Jingyu;
+- **2023-07:** Obtained the Excellent Undergraduate Thesis Advisor of Northwestern Polytechnical University
+- **2023-07:** Congratulations to Wang Pengwei, who supervised the undergraduate, for winning the excellent undergraduate graduation thesis of Northwestern Polytechnical University
+- **2023-06:** Congratulations to the 6 undergraduates who have successfully graduated from the 23rd session, including 2 graduate students (recommended to 985 - universities), 3 overseas prestigious universities (National University of Singapore, University of Melbourne, University of Bristol, UK), and 1 international student (planning Go to Canada or Australia to work), I wish you a bright future, and welcome you to visit your alma mater often
+- **2023-06:** One paper was accepted by IEEE Transactions on Geoscience and Remote Sensing(First district of Chinese Academy of Sciences/SCI-IF:8.125)
+- **2023-06:** One paper was accepted by International Journal of Remote Sensing Remote Sensing Letters(Second district of Chinese Academy of Sciences/SCI-IF:3.531)
+- **2023-06:** One paper accepted by FL-IJCAI'23
+- **2023-06:** Obtained the Outstanding Individual Member of Jiangsu Computer Society
+- **2023-06:** Support master and doctoral students to go to Wuxi to participate in the Valse exchange meeting and play for 4 days
+- **2023-06:** Some graduate students in the research group will be rewarded with mechanical keyboards and bluetooth headsets, and they will be accompanied by audio in their research life
+- **2023-06:** Reward each person participating in the innovation and entrepreneurship training program for college students with a mouse
+- **2023-06:** One paper was accepted by Journal of Cyber-Physical Social Intelligence
+- **2023-06:** One paper was accepted by Expert Systems with Applications(First district of Chinese Academy of Sciences/SCI-IF:8.665)
+- **2023-05:** Congratulations on the successful graduation of Master's student Xiao Jingyu, and I also wish the group a smooth PhD program and a bright future!
+- **2023-05:** One paper was accepted by Expert Systems with Applications(First district of Chinese Academy of Sciences/SCI-IF:8.665)
+- **2023-05:** One paper selected as ESI Highly Cited Paper
 - **2023-04:** Advanced Worker of Science Popularization of Image and Graphics Society of China in 2022 (2023)
 - **2023-04:** Dr. Yuxuan of the research group authorized 1 invention patent
 - **2023-04:** Elected board member of Suzhou Artificial Intelligence Association

@@ -737,7 +737,6 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
       		<div class="desc_blank_2"> </div>
 	</div>
 
-
 	<div class="img">
       		<img src="picture/Chao Li.jpg" >
      		<div class="desc_blank"> </div>
@@ -745,9 +744,6 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
     		<div class="desc_blank_2"> </div>
 	</div>
   
-
- 
-
   	<div class="img">
    		<img src="picture/Haoyang Gao.jpg" >
    		<div class="desc_blank"> </div>
@@ -759,6 +755,69 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
    		<img src="picture/Wenbo Wang.jpeg" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Wenbo Wang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+   
+  	 <div class="img">
+   		<img src="picture/Ali Mansab.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Ali Mansab, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+   
+   	<div class="img">
+   		<img src="picture/Cong Tan.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Cong Tan, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+   
+   	<div class="img">
+   		<img src="picture/Hongxin Wang.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Hongxin Wang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+   
+  	 <div class="img">
+   		<img src="picture/Hui Zhao.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Hui Zhao, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+
+    	<div class="img">
+   		<img src="picture/Noor Tahir .jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Noor Tahir , <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+
+   	<div class="img">
+   		<img src="picture/Ruichen Zeng.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Ruichen Zeng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+
+   	<div class="img">
+   		<img src="picture/Taiyong Yang.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Taiyong Yang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+
+   	<div class="img">
+   		<img src="picture/Wenhui Sun.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Wenhui Sun, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+
+   	<div class="img">
+   		<img src="picture/Yaozehua Yuan.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Yaozehua Yuan, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
   
@@ -806,7 +865,7 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
 
 </div>
 
-### Supervisor for Undergraduates (已毕业学生)
+### Supervisor for Graduate students (已毕业学生)
 <div class="box">
 	
    	<div class="img" width = "50%">

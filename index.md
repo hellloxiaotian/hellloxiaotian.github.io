@@ -701,11 +701,6 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
           <div class="desc_blank_2"> </div>
      </div>
 
-</div>
-
-### Supervisor for Postgraduates (硕士生)
-<div class="box">
-
     <div class="img">
       <img src="picture/Jingyu Xiao.jpg" >
       <div class="desc_blank"> </div>
@@ -713,6 +708,10 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
        <div class="desc_blank_2"> </div>
      </div>
      
+</div>
+
+### Supervisor for Postgraduates (硕士生)
+<div class="box">
     
      <div class="img">
       <img src="picture/Menghua Zheng.jpg" >
@@ -729,12 +728,7 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
   </div>
 
   
-<div class="img" width = "50%">
-     <img src="picture/Jiawen Zeng.jpg" >
-     <div class="desc_blank"> </div>
-     <div class="desc"> Jiawen Zeng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-     <div class="desc_blank_2"> </div>
-    </div>
+
 
 </div>
 
@@ -753,19 +747,9 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
       <div class="desc">Chao Li,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
        <div class="desc_blank_2"> </div>
 </div>
-  <div class="img">
-   <img src="picture/Lu Wang.jpg" >
-   <div class="desc_blank"> </div>
-   <div class="desc">  Lu Wang , <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-   <div class="desc_blank_2"> </div>
-  </div>
+  
 
-  <div class="img">
-   <img src="picture/Jichao Ma.jpg" >
-   <div class="desc_blank"> </div>
-   <div class="desc">  Jichao Ma, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-   <div class="desc_blank_2"> </div>
-  </div>
+ 
 
   <div class="img">
    <img src="picture/Haoyang Gao.jpg" >
@@ -781,19 +765,7 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
    <div class="desc_blank_2"> </div>
   </div>
   
-  <div class="img">
-   <img src="picture/Qingbin Zhang.jpeg" >
-   <div class="desc_blank"> </div>
-   <div class="desc">  Qingbin Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-   <div class="desc_blank_2"> </div>
-  </div>
-  
-    <div class="img">
-   <img src="picture/Hongpeng Cai.jpeg" >
-   <div class="desc_blank"> </div>
-   <div class="desc">  Hongpeng Cai, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-   <div class="desc_blank_2"> </div>
-  </div>
+ 
   
 
 </div> 
@@ -840,8 +812,44 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
 
 </div>
 
+### Supervisor for Undergraduates (已毕业学生)
 <div class="box">
+	
+   <div class="img" width = "50%">
+   <img src="picture/Jiawen Zeng.jpg" >
+   <div class="desc_blank"> </div>
+   <div class="desc"> Jiawen Zeng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
+   <div class="desc_blank_2"> </div>
+   </div>
 
+   <div class="img">
+   <img src="picture/Lu Wang.jpg" >
+   <div class="desc_blank"> </div>
+   <div class="desc">  Lu Wang , <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   <div class="desc_blank_2"> </div>
+   </div>
+
+   <div class="img">
+   <img src="picture/Jichao Ma.jpg" >
+   <div class="desc_blank"> </div>
+   <div class="desc">  Jichao Ma, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   <div class="desc_blank_2"> </div>
+   </div>
+
+   <div class="img">
+   <img src="picture/Qingbin Zhang.jpeg" >
+   <div class="desc_blank"> </div>
+   <div class="desc">  Qingbin Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   <div class="desc_blank_2"> </div>
+   </div>
+  
+   <div class="img">
+   <img src="picture/Hongpeng Cai.jpeg" >
+   <div class="desc_blank"> </div>
+   <div class="desc">  Hongpeng Cai, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   <div class="desc_blank_2"> </div>
+   </div>
+   
 </div>
 ### Supporter
 This homepage is supported by Mr. Menghua Zheng in June, 2021. 

@@ -687,168 +687,162 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
 
 ### Supervisor for doctorate（博士生）
 <div class="box">
-    <div class="img">
-          <img src="picture/Yuxuan Hu.jpg" >
-          <div class="desc_blank"> </div>
-          <div class="desc">Yuxuan Hu,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
-           <div class="desc_blank_2"> </div>
-     </div>
+	<div class="img">
+		<img src="picture/Yuxuan Hu.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">Yuxuan Hu,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
      
-    <div class="img">
-          <img src="picture/Jiagang Song.jpg" >
-          <div class="desc_blank"> </div>
-          <div class="desc">Jiagang Song,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
-          <div class="desc_blank_2"> </div>
-     </div>
+	<div class="img">
+          	<img src="picture/Jiagang Song.jpg" >
+          	<div class="desc_blank"> </div>
+          	<div class="desc">Jiagang Song,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
+          	<div class="desc_blank_2"> </div>
+   	</div>
 
-    <div class="img">
-      <img src="picture/Jingyu Xiao.jpg" >
-      <div class="desc_blank"> </div>
-      <div class="desc">Jingyu Xiao,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
-       <div class="desc_blank_2"> </div>
-     </div>
+  	 <div class="img">
+      		<img src="picture/Jingyu Xiao.jpg" >
+      		<div class="desc_blank"> </div>
+      		<div class="desc">Jingyu Xiao,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
+      		<div class="desc_blank_2"> </div>
+    	 </div>
      
 </div>
 
 ### Supervisor for Postgraduates (硕士生)
 <div class="box">
     
-     <div class="img">
-      <img src="picture/Menghua Zheng.jpg" >
-      <div class="desc_blank"> </div>
-      <div class="desc"> <a href = "https://scholar.google.com/citations?hl=en&user=ocy7acsAAAAJ&view_op=list_works&gmla=AJsN-F68U1UklGZDjmuesBv3yirregvxFAaTTQ7hGPTAoi4DYMZOz3PlkvLD0nTzGEafqkd7HOWADzBTkTIKNG93iO0b1QjuRF1DtBp434i9Eea6kCNQPg4">Menghua Zheng</a>, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-      <div class="desc_blank_2"> </div>
-     </div>
+	<div class="img">
+      		<img src="picture/Menghua Zheng.jpg" >
+      		<div class="desc_blank"> </div>
+      		<div class="desc"> <a href = "https://scholar.google.com/citations?hl=en&user=ocy7acsAAAAJ&view_op=list_works&gmla=AJsN-			 F68U1UklGZDjmuesBv3yirregvxFAaTTQ7hGPTAoi4DYMZOz3PlkvLD0nTzGEafqkd7HOWADzBTkTIKNG93iO0b1QjuRF1DtBp434i9Eea6kCNQPg4">Menghua Zheng</a>, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+      		<div class="desc_blank_2"> </div>
+     	</div>
 
-  <div class="img">
-   <img src="picture/Xuanyu Zhang.png" >
-   <div class="desc_blank"> </div>
-   <div class="desc">  Xuanyu Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-   <div class="desc_blank_2"> </div>
-  </div>
-
-  
-
+  	<div class="img">
+   		<img src="picture/Xuanyu Zhang.png" >
+   		<div class="desc_blank"> </div>
+   		<div class="desc">  Xuanyu Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+ 	 </div>
 
 </div>
 
 <div class="box">
-<div class="img">
-      <img src="picture/Shaodong Xie.jpg" >
-      <div class="desc_blank"> </div>
-      <div class="desc">Shaodong Xie  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
-       <div class="desc_blank_2"> </div>
-</div>
+	<div class="img">
+      		<img src="picture/Shaodong Xie.jpg" >
+     		<div class="desc_blank"> </div>
+      		<div class="desc">Shaodong Xie  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
+      		<div class="desc_blank_2"> </div>
+	</div>
 
 
-<div class="img">
-      <img src="picture/Chao Li.jpg" >
-      <div class="desc_blank"> </div>
-      <div class="desc">Chao Li,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
-       <div class="desc_blank_2"> </div>
-</div>
+	<div class="img">
+      		<img src="picture/Chao Li.jpg" >
+     		<div class="desc_blank"> </div>
+     		<div class="desc">Chao Li,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
+    		<div class="desc_blank_2"> </div>
+	</div>
   
 
  
 
-  <div class="img">
-   <img src="picture/Haoyang Gao.jpg" >
-   <div class="desc_blank"> </div>
-   <div class="desc">  Haoyang Gao, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-   <div class="desc_blank_2"> </div>
-  </div>
+  	<div class="img">
+   		<img src="picture/Haoyang Gao.jpg" >
+   		<div class="desc_blank"> </div>
+  		<div class="desc">  Haoyang Gao, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+ 	</div>
   
-  <div class="img">
-   <img src="picture/Wenbo Wang.jpeg" >
-   <div class="desc_blank"> </div>
-   <div class="desc">  Wenbo Wang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-   <div class="desc_blank_2"> </div>
-  </div>
+  	<div class="img">
+   		<img src="picture/Wenbo Wang.jpeg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Wenbo Wang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
   
- 
-  
-
 </div> 
 
 ### Supervisor for Undergraduates (本科生)
 
 <div class="box">
 
-    <div class="img" width = "50%">
-     <img src="picture/Yingpeng Ma.jpg" >
-     <div class="desc_blank"> </div>
-     <div class="desc"> Yingpeng Ma, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-     <div class="desc_blank_2"> </div>
-    </div>
+    	<div class="img" width = "50%">
+     		<img src="picture/Yingpeng Ma.jpg" >
+    		<div class="desc_blank"> </div>
+     		<div class="desc"> Yingpeng Ma, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
+     		<div class="desc_blank_2"> </div>
+    	</div>
     
-    <div class="img" width = "50%">
-     <img src="picture/Bei Shi.jpg" >
-     <div class="desc_blank"> </div>
-     <div class="desc"> Bei Shi, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-     <div class="desc_blank_2"> </div>
-    </div>
+    	<div class="img" width = "50%">
+     		<img src="picture/Bei Shi.jpg" >
+     		<div class="desc_blank"> </div>
+     		<div class="desc"> Bei Shi, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
+     		<div class="desc_blank_2"> </div>
+    	</div>
     
-    <div class="img" width = "50%">
-     <img src="picture/Jinwen Niu.jpg" >
-     <div class="desc_blank"> </div>
-     <div class="desc"> Jinwen Niu, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-     <div class="desc_blank_2"> </div>
-    </div>
+    	<div class="img" width = "50%">
+     		<img src="picture/Jinwen Niu.jpg" >
+     		<div class="desc_blank"> </div>
+     		<div class="desc"> Jinwen Niu, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
+     		<div class="desc_blank_2"> </div>
+    	</div>
     
-    <div class="img" width = "50%">
-     <img src="picture/Shijie Sun.jpg" >
-     <div class="desc_blank"> </div>
-     <div class="desc"> Shijie Sun, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-     <div class="desc_blank_2"> </div>
-    </div>
+    	<div class="img" width = "50%">
+     		<img src="picture/Shijie Sun.jpg" >
+     		<div class="desc_blank"> </div>
+     		<div class="desc"> Shijie Sun, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
+     		<div class="desc_blank_2"> </div>
+   	</div>
 
 
-<div class="img" width = "50%">
-     <img src="picture/Canwen Li.jpg" >
-     <div class="desc_blank"> </div>
-     <div class="desc"> Canwen Li, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-     <div class="desc_blank_2"> </div>
-    </div>
+	<div class="img" width = "50%">
+     		<img src="picture/Canwen Li.jpg" >
+     		<div class="desc_blank"> </div>
+     		<div class="desc"> Canwen Li, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
+     		<div class="desc_blank_2"> </div>
+    	</div>
 
 </div>
 
 ### Supervisor for Undergraduates (已毕业学生)
 <div class="box">
 	
-   <div class="img" width = "50%">
-   <img src="picture/Jiawen Zeng.jpg" >
-   <div class="desc_blank"> </div>
-   <div class="desc"> Jiawen Zeng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-   <div class="desc_blank_2"> </div>
-   </div>
+   	<div class="img" width = "50%">
+   		<img src="picture/Jiawen Zeng.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc"> Jiawen Zeng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
+   		<div class="desc_blank_2"> </div>
+   	</div>
 
-   <div class="img">
-   <img src="picture/Lu Wang.jpg" >
-   <div class="desc_blank"> </div>
-   <div class="desc">  Lu Wang , <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-   <div class="desc_blank_2"> </div>
-   </div>
+   	<div class="img">
+   		<img src="picture/Lu Wang.jpg" >
+   		<div class="desc_blank"> </div>
+   		<div class="desc">  Lu Wang , <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc_blank_2"> </div>
+   	</div>
 
-   <div class="img">
-   <img src="picture/Jichao Ma.jpg" >
-   <div class="desc_blank"> </div>
-   <div class="desc">  Jichao Ma, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-   <div class="desc_blank_2"> </div>
-   </div>
+   	<div class="img">
+   		<img src="picture/Jichao Ma.jpg" >
+   		<div class="desc_blank"> </div>
+   		<div class="desc">  Jichao Ma, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc_blank_2"> </div>
+   	</div>
 
-   <div class="img">
-   <img src="picture/Qingbin Zhang.jpeg" >
-   <div class="desc_blank"> </div>
-   <div class="desc">  Qingbin Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-   <div class="desc_blank_2"> </div>
-   </div>
+   	<div class="img">
+   		<img src="picture/Qingbin Zhang.jpeg" >
+   		<div class="desc_blank"> </div>
+   		<div class="desc">  Qingbin Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+   	</div>
   
-   <div class="img">
-   <img src="picture/Hongpeng Cai.jpeg" >
-   <div class="desc_blank"> </div>
-   <div class="desc">  Hongpeng Cai, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-   <div class="desc_blank_2"> </div>
-   </div>
+   	<div class="img">
+   		<img src="picture/Hongpeng Cai.jpeg" >
+   		<div class="desc_blank"> </div>
+   		<div class="desc">  Hongpeng Cai, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc_blank_2"> </div>
+   	</div>
    
 </div>
 ### Supporter

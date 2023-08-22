@@ -50,7 +50,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - Q. Zhang, J. Xiao, C. Tian, J. Lin, S. Zhang. A robust deformed CNN for image denoising [J]. CAAI Transactions on Intelligence Technology, 2022. （Journal of Chinese Society for Artificial Intelligence/First district of JRC/SCI-IF:7.985）（Second quarter 2022 "Wiley High Contribution Author of Open Science in China"）
 
 
-### Cover paper, Annual excellent paper and Municipal Excellent paper on Natural science and technology（封面论文、年度优秀论文和市自然科技优秀论文）
+### GitHub 2020 with contributed paper code（GitHub 2020年具有贡献论文代码）
 
 - C. Tian C, Y. Xu, W. Zuo. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks, 121:461-473, 2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （Paper code rated as the largest international open source code platform GitHub 2020 has contributed code）
 - C. Tian, Y. Xu, Z. Li, W. Zuo, L. Fei, H. Liu. Attention-guided CNN for Image Denoising[J]. Neural Networks, 124,117-129, 2020.  (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) (Paper code rated as the largest international open source code platform GitHub 2020 has contributed code)
@@ -135,22 +135,22 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
-- **2023-07:** A robust deformable convolutional neural network image denoising method developed by Xiao Jingyu of the research group was reported by the official - account of "Journal of Intelligence", link https://mp.weixin.qq.com/s/hLcqRaugQwnAjRB1oUzHpw?jump_from=1_05_37_01, Congratulations to Xiao Jingyu;
+- **2023-07:** A robust deformable convolutional neural network image denoising method developed by Xiao Jingyu of the research group was reported by the official - account of "Journal of Intelligence", [link](https://mp.weixin.qq.com/s/hLcqRaugQwnAjRB1oUzHpw?jump_from=1_05_37_01), Congratulations to Xiao Jingyu;
 - **2023-07:** Obtained the Excellent Undergraduate Thesis Advisor of Northwestern Polytechnical University
 - **2023-07:** Congratulations to Wang Pengwei, who supervised the undergraduate, for winning the excellent undergraduate graduation thesis of Northwestern Polytechnical University
 - **2023-06:** Congratulations to the 6 undergraduates who have successfully graduated from the 23rd session, including 2 graduate students (recommended to 985 - universities), 3 overseas prestigious universities (National University of Singapore, University of Melbourne, University of Bristol, UK), and 1 international student (planning Go to Canada or Australia to work), I wish you a bright future, and welcome you to visit your alma mater often
-- **2023-06:** One paper was accepted by IEEE Transactions on Geoscience and Remote Sensing(First district of Chinese Academy of Sciences/SCI-IF:8.125)
-- **2023-06:** One paper was accepted by International Journal of Remote Sensing Remote Sensing Letters(Second district of Chinese Academy of Sciences/SCI-IF:3.531)
-- **2023-06:** One paper accepted by FL-IJCAI'23
+- **2023-06:** A paper was accepted by IEEE Transactions on Geoscience and Remote Sensing(First district of Chinese Academy of Sciences/SCI-IF:8.125)
+- **2023-06:** A paper was accepted by International Journal of Remote Sensing Remote Sensing Letters(Second district of Chinese Academy of Sciences/SCI-IF:3.531)
+- **2023-06:** A paper accepted by FL-IJCAI'23
 - **2023-06:** Obtained the Outstanding Individual Member of Jiangsu Computer Society
 - **2023-06:** Support master and doctoral students to go to Wuxi to participate in the Valse exchange meeting and play for 4 days
 - **2023-06:** Some graduate students in the research group will be rewarded with mechanical keyboards and bluetooth headsets, and they will be accompanied by audio in their research life
 - **2023-06:** Reward each person participating in the innovation and entrepreneurship training program for college students with a mouse
-- **2023-06:** One paper was accepted by Journal of Cyber-Physical Social Intelligence
-- **2023-06:** One paper was accepted by Expert Systems with Applications(First district of Chinese Academy of Sciences/SCI-IF:8.665)
+- **2023-06:** A paper was accepted by Journal of Cyber-Physical Social Intelligence
+- **2023-06:** A paper was accepted by Expert Systems with Applications(First district of Chinese Academy of Sciences/SCI-IF:8.665)
 - **2023-05:** Congratulations on the successful graduation of Master's student Xiao Jingyu, and I also wish the group a smooth PhD program and a bright future!
-- **2023-05:** One paper was accepted by Expert Systems with Applications(First district of Chinese Academy of Sciences/SCI-IF:8.665)
-- **2023-05:** One paper selected as ESI Highly Cited Paper
+- **2023-05:** A paper was accepted by Expert Systems with Applications(First district of Chinese Academy of Sciences/SCI-IF:8.665)
+- **2023-05:** A paper selected as ESI Highly Cited Paper
 - **2023-04:** Advanced Worker of Science Popularization of Image and Graphics Society of China in 2022 (2023)
 - **2023-04:** Dr. Yuxuan of the research group authorized 1 invention patent
 - **2023-04:** Elected board member of Suzhou Artificial Intelligence Association

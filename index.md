@@ -568,6 +568,21 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
 
 ## Awards (奖励)
 
+2022 Included in the list of top 2% top scientists in the world released by Stanford University
+
+2022 Provincial high-level talents
+
+2022 Municipal Youth Science and Technology Talents
+
+2022 Municipal Science and Technology Think Tank Young Talents
+
+2022 China**
+
+2022 Local Science and Technology Talent Trophy
+
+2022 Outstanding Individual Member of Jiangsu Computer Society
+
+2022 Outstanding Doctoral Dissertation of Provincial Artificial Intelligence Society
 
 2022 Two of my papers were awarded the second Excellent Scientific and Technological Academic Papers of Shenzhen
 

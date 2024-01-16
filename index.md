@@ -855,7 +855,7 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
   		<div class="desc_blank_2"> </div>
   	</div>
    	<div class="img">
-   		<img src="" >
+   		<img src="picture/Jiarui Ding.jpg" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Jiarui Ding, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>

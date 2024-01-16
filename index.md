@@ -85,6 +85,19 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2023-11:** The research group accepted a paper in the CCF B Chinese journal Computer Engineering
+- **2023-11:** Canwen Li, a 20-level undergraduate student in our group, won the S Award of the American Collegiate Mathematical Contest in Modeling
+- **2023-11:** One paper in CCF Class C journal "Multimedia Tools and Applications" (SCI-IF: 3.1) was accepted
+- **2023-11:** One paper becomes an ESI Highly Cited Paper
+- **2023-11:** One paper became an ESI hot paper
+- **2023-10:** One paper was accepted by IEEE Transactions on Intelligent Vehicles (IEEE TIV, SCI-IF: 8.2), a well-known international journal in the field of transportation.
+- **2023-10:** Selected as one of the world's top 2% top scientists in 2023;
+- **2023-10:** My 2021 master's student, Zheng Menghua, won the National Scholarship for Master's Students with the first place;
+- **2023-10:** One Information Fusion (SCI-IF: 18.6) paper published;
+- **2023-09:** Outstanding Teacher of School of Software, Northwestern Polytechnical University;
+- **2023-09:** Accepted a journal of the Chinese Society of Artificial Intelligence/the top journal in the field of Chinese artificial intelligence, "CAAI Transactions on Intelligence Technology" (SCI paper in the second region of the Chinese Academy of Sciences);
+- **2023-08:** Congratulations to Xuan Yu for accepting a SCI paper;
+- **2023-08:** Congratulations to Jiawen Zeng, a 20-level master, for working at Guangzhou Business School;
 - **2023-07:** A robust deformable convolutional neural network image denoising method developed by Xiao Jingyu of the research group was reported by the official - account of "Journal of Intelligence", [link](https://mp.weixin.qq.com/s/hLcqRaugQwnAjRB1oUzHpw?jump_from=1_05_37_01), Congratulations to Xiao Jingyu;
 - **2023-07:** Obtained the Excellent Undergraduate Thesis Advisor of Northwestern Polytechnical University
 - **2023-07:** Congratulations to Wang Pengwei, who supervised the undergraduate, for winning the excellent undergraduate graduation thesis of Northwestern Polytechnical University

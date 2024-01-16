@@ -325,6 +325,77 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 <br/>
 
+## SOCIAL APPOINTMENTS（社会兼职）
+
+1. Youth Editorial Board: CAAI Transactions on Intelligence Technology, Journal of Chinese Society of Artificial Intelligence (Zone 1/SCI-IF: 7.985)
+
+2. Young Editorial Board: Denfence Technology (SCI-IF: 4.035/JCR Zone 1/CAS Zone 2)
+
+3. Guest Editor: Guest Editor of IEEE Transactions on Fuzzy Systems (TFS);
+
+4. Guest Editor Special Issue of Drones (SCI-IF: 5.532).
+
+Reviewer：
+
+《IEEE Transactions on Pattern Analysis and Machine Intelligence》
+
+《IEEE Transactions on Image Processing》
+
+《IEEE Transactions on Neural Networks and Learning Systems》
+
+《IEEE Transactions on Cybernetics》
+
+《IEEE Transaction on Knowledge and Data Engineering》
+
+《IEEE  Transactions on Industrial Informatics》
+
+《IEEE Transactions on Systems, Man, and Cybernetics: Systems》
+
+《IEEE Transactions on Multimedia》
+
+《IEEE Intelligent Transportation Systems Transactions and Magazine》
+
+《IEEE Transactions on Dependable and Secure Computing》
+
+《IEEE Transactions on Cognitive and Developmental Systems》
+
+《IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems》
+
+《IEEE Transactions on Geoscience and Remote Sensing》
+
+《IEEE Transactions on Circuits and Systems for Video Technology》
+
+ 《Neural  Networks》
+
+《Computer Vision and Image Understanding》
+
+《Information Fusion》
+
+《Information Sciences》
+
+《Expert Sytems With Applications》
+
+《Neurocomputing》
+
+《IEEE Journal of Biomedical and Health Informatics》
+
+
+《ACM Transaction on Knowledge Discovery from Data》
+
+《Frontiers of Optoelectronics》
+
+《CAAI Transactions on Intelligence Technology》
+
+《Pattern Recognition Letters》
+
+《IEEE Signal Processing Letters》
+
+《AAAI 2023》
+
+《ICASSP 2023》
+
+《ICASSP 2022》
+
 ## Academic Activities (学术活动)
 
 CCF Member/IEEE Member/CAAI Member/SAAI Member/SZCCF Member/CAAI Youth Work Committee Members/CCF and CSIG-MV Special Committee of Jiangsu Artificial Intelligence Society Member/International Journal ** Development Working Group Member/ ** Journal Expert Panel Member/ ** Journal Expert Panel Member/ xx Spirit Preaching Team
@@ -728,13 +799,6 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
   		<div class="desc">  Haoyang Gao, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
  	</div>
-  
-  	<div class="img">
-   		<img src="picture/Wenbo Wang.jpeg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Wenbo Wang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
    
   	 <div class="img">
    		<img src="picture/Ali Mansab.jpg" >
@@ -779,26 +843,29 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
   	</div>
 
    	<div class="img">
-   		<img src="picture/Taiyong Yang.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Taiyong Yang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-
-   	<div class="img">
-   		<img src="picture/Wenhui Sun.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Wenhui Sun, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-
-   	<div class="img">
    		<img src="picture/Yaozehua Yuan.jpg" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Yaozehua Yuan, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
-  
+  	<div class="img">
+   		<img src="" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Junjian Yang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+   	<div class="img">
+   		<img src="" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Jiarui Ding, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+   	<div class="img">
+   		<img src="" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Muhan Chen, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
 </div> 
 
 ### Supervisor for Undergraduates (本科生)

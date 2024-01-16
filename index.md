@@ -849,7 +849,7 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
   		<div class="desc_blank_2"> </div>
   	</div>
   	<div class="img">
-   		<img src="" >
+   		<img src="picture/Junjian Yang.jpg" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Junjian Yang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
@@ -861,7 +861,7 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
   		<div class="desc_blank_2"> </div>
   	</div>
    	<div class="img">
-   		<img src="" >
+   		<img src="picture/Muhan Chen.jpg" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Muhan Chen, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>

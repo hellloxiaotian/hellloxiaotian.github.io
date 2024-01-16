@@ -36,7 +36,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - C. Tian, Y. Xu, Z. Li, W. Zuo, L. Fei, H. Liu. Attention-guided CNN for Image Denoising[J]. Neural Networks,124,117-129,2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （ESI highly cited papers）
 - C. Tian, L. Fei, W. Zheng, Y. Xu,  W. Zuo, C. Lin. Deep Learning on Image Denoising: An overview[J]. Neural Networks,131,251-275 2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （ESI highly cited papers）
 - C. Tian, M. Zheng , W. Zuo, B. Zhang , Y. Zhang, D. Zhang. Multi-stage image denoising with the wavelet transform[J]. Pattern Recognition. 134:109050, 2023. (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:8.518)  (Proceedings of the International Association for Pattern Recognition/Top Journal of Computer Science Recognized by the Chinese Academy of Sciences)
-
+- Q. Zhang, J. Xiao, C. Tian*, J. Lin, S. Zhang. A robust deformed CNN for image denoising [J]. CAAI Transactions on Intelligence Technology, 2022. (Journal of the Chinese Society of Artificial Intelligence/First district of JRC/SCI-IF:7.985) (2022 Q2 "Wiley China Open Science High Contribution Author") (ESI Highly Cited Paper)
 
 ### Cover paper, Annual excellent paper and Municipal Excellent paper on Natural science and technology（封面论文、年度优秀论文和市自然科技优秀论文）
 
@@ -834,21 +834,21 @@ Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
 ### Supervisor for Graduate students (已毕业学生)
 <div class="box">
 	
-   	<div class="img" width = "50%">
+  	 <div class="img" width = "50%">
    		<img src="picture/Jiawen Zeng.jpg" >
   		<div class="desc_blank"> </div>
    		<div class="desc"> Jiawen Zeng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
    		<div class="desc_blank_2"> </div>
-   	</div>
+  	 </div>
 
    	<div class="img" width = "50%">
      		<img src="picture/Yingpeng Ma.jpg" >
     		<div class="desc_blank"> </div>
      		<div class="desc"> Yingpeng Ma, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
      		<div class="desc_blank_2"> </div>
-    	</div>
+	</div>
     
-    	<div class="img" width = "50%">
+   	 <div class="img" width = "50%">
      		<img src="picture/Bei Shi.jpg" >
      		<div class="desc_blank"> </div>
      		<div class="desc"> Bei Shi, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>

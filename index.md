@@ -85,6 +85,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2024-02:** A paper is accepted by the Neural Networks.
 - **2023-12:** The research group accepted a Video top journal "IEEE Transactions on Circuits and Systems for Video Technology" (SCI-IF:8.4)
 - **2023-11:** The research group accepted a paper in the CCF B Chinese journal Computer Engineering
 - **2023-11:** Canwen Li, a 20-level undergraduate student in our group, won the S Award of the American Collegiate Mathematical Contest in Modeling

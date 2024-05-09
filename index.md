@@ -85,7 +85,12 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
-- **2024-02:** A paper is accepted by the Neural Networks.
+- **2024-03:** A new paper is selected as ESI hot paper
+- **2024-03:** Congratulations to Zheng Menghua and Zhang Xuanyu, the first batch of master's students who have completed their supervision, for receiving outstanding graduates from Northwestern Polytechnical University.
+- **2024-03:** The research team accepted an article from IEEE TGRS (SCI-IF: 8.8), a top journal in the field of international remote sensing.
+- **2024-03:** The research team accepted an article from the top international video journal "IEEE Transactions on Circuits and Systems for Video Technology" (SCI-IF:8.4)
+- **2024-02:** The research team accepted an article from the top international journal in the field of neural networks "Neural Networks" (SCI-IF: 7.8)
+- **2024-01:** A Grade 21 master's student won the second prize in the graph convolution reasoning optimization competition (Central-Southern Division)
 - **2023-12:** The research group accepted a Video top journal "IEEE Transactions on Circuits and Systems for Video Technology" (SCI-IF:8.4)
 - **2023-11:** The research group accepted a paper in the CCF B Chinese journal Computer Engineering
 - **2023-11:** Canwen Li, a 20-level undergraduate student in our group, won the S Award of the American Collegiate Mathematical Contest in Modeling

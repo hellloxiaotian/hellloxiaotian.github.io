@@ -82,6 +82,13 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2024-06:** Online Presentation on Image Super-Resolution Based on Dynamic Networks.
+- **2024-06:** The research group has been granted an invention patent.
+- **2024-05:** The CSIG Imaging Detection and Perception Committee held the fourteenth "AI Young Scholars Forum" academic event - Report: Research on Image Denoising Methods Based on Saliency Structure Information.
+- **2024-05:** The research group has had two SCI papers accepted (Neurocomputing, WWW).
+- **2024-05:** The research group has had a paper accepted by the top international journal "Neural Networks" (SCI-IF: 9.657).
+- **2024-04:** Cheng Tongtong, an undergraduate student from the class of 2021 in the research group, won an award in the Mathematical Contest in Modeling (MCM).
+- **2024-04:** Song Mingjian, an undergraduate student from the class of 2022 in the research group, has had an SCI paper accepted.
 - **2024-03:** A new paper is selected as ESI hot paper
 - **2024-03:** Congratulations to Zheng Menghua and Zhang Xuanyu, the first batch of master’s students who have completed their supervision, for receiving outstanding graduates from Northwestern Polytechnical University.
 - **2024-03:** The research team accepted an article from IEEE TGRS (SCI-IF: 8.8), a top journal in the field of international remote sensing.

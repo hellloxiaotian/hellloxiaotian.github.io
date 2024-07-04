@@ -451,6 +451,7 @@ ACAIT 2018 (EI)
 ## Education And Teaching
 Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
 
+Undergraduate Course "Principles and Applications of Big Data Technology" (Spring)
 <br/>
 <br/>
 

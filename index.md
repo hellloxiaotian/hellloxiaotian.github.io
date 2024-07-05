@@ -412,57 +412,7 @@ Reviewer：
 
 ## Academic Activities (学术活动)
 
-CCF Member/IEEE Member/CAAI Member/SAAI Member/SZCCF Member/CAAI Youth Work Committee Members/CCF and CSIG-MV Special Committee of Jiangsu Artificial Intelligence Society Member/International Journal ** Development Working Group Member/ ** Journal Expert Panel Member/ ** Journal Expert Panel Member/ xx Spirit Preaching Team
-
-\*\*editorial board member of the international journal **(CAS Region II/SCI Journal)
-
-Editorial board member of Journal of Computer \*\*
-
-\*\*editorial board member of Chinese Science and Technology Journals \*\*
-
-Associate editor for the Journal of Artificial Intelligence and Technology
-
-Associate editor for the International Journal of Image and Graphics
-
-Associate editor for the Journal of Electrical and Electronic Engineering
-
-Technical expert of Shanghai
-
-Guest editor of the Special Journal of Mathematics(SCI-IF:2.258, ISSN 2227-7390)
-
-Guest editor of the Special Journal of Eletronics(SCI-IF:2.379, ISSN 2079-9292)
-
-Guest editor of the Special Journal of Mathematical Biosciences and Engineering(SCI-IF:2.080)
-
-Guest editor of the Special Journal of Inernational Journal of Distributed Sensor Networks(SCI-IF:1.640)
-
-Guest editor of the Special Journal of Frontiers in Robotics and AI
-
-Guest editor of the Special Journal of Drones(SCI-IF:5.522)
-
-Special Session Co-Chair, Workshop Chair: ICCSI 2022
-
-Expert group: domestic Chinese core journal * *
-
-PC Chair: International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)
-
-SI Co-Chair：The 6th Conference on Artificial Intelligence Technology (ACAIT 2022)
-
-Worksop Chair of International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)
-
-Workshop Chair of International Conference on Computer, Big Data and Artificial Intelligence 2021 (ICCBDAI 2021)
-
-PC: CMBDA 2022
-
- The 5th Conference on Artificial Intelligence Technology (ACAIT 2021) PC
-
-IEEE International Conference on Progress in Informationcis and Computing (PIC 2021) PC
-
-The 19th IEEE International Conference on Dependable, Autonomic and  Secure Computing (IEEE DASC 2021) Program committee member 
-
-The 18th IEEE International Conference on Dependable, Autonomic and Secure Computing (IEEE DASC 2020)  PC
-
-IJCAI 2019 PC Assistant 
+- **2019-04:** Outstanding Student of Harbin Institute of Technology in 2019.
 
 <br/>
 

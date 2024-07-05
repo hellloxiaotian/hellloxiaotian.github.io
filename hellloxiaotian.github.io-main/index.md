@@ -545,6 +545,8 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
 
 
 
+2022 Included in the list of top 2% top scientists in the world released by Stanford University
+
 2022 **Province High-level Talent
 
 2022 ** Young scientific and technological talents

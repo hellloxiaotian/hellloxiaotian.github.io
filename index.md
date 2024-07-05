@@ -412,6 +412,14 @@ Reviewer：
 
 ## Academic Activities (学术活动)
 
+- **2020-02:** "Image Denoising Using Deep CNN with Batch Renormalization" was promoted and reported by 52CV and Extrememart.
+- **2020-02:** "Attention-guided CNN for Image Denoising" was promoted and reported by 52CV and Cver.
+- **2020-01:** "Deep Learning on Image Denoising: An Overview" was promoted and reported by AI Frontier Lecture, Cver, and Extrememart.
+- **2019-10:** Doctoral National Scholarship.
+- **2019-10:** A journal paper has been accepted by Neural Networks.
+- **2019-08:** A journal paper has been accepted by Pattern Recognition Letters.
+- **2019-08:** A journal paper has been accepted by Neural Networks.
+- **2019-05:** Three Good Student of Heilongjiang Province in 2019.
 - **2019-04:** Outstanding Student of Harbin Institute of Technology in 2019.
 
 <br/>

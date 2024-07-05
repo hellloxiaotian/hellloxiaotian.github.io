@@ -85,17 +85,24 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
-- **2024-03:** A new paper is selected as ESI hot paper
+- **2024-06:** Online Presentation on Image Super-Resolution Based on Dynamic Networks.
+- **2024-06:** The research group has been granted an invention patent.
+- **2024-05:** The CSIG Imaging Detection and Perception Committee held the fourteenth "AI Young Scholars Forum" academic event - Report: Research on Image Denoising Methods Based on Saliency Structure Information.
+- **2024-05:** The research group has had two SCI papers accepted (Neurocomputing, WWW).
+- **2024-05:** The research group has had a paper accepted by the top international journal "Neural Networks" (SCI-IF: 9.657).
+- **2024-04:** Cheng Tongtong, an undergraduate student from the class of 2021 in the research group, won an award in the Mathematical Contest in Modeling (MCM).
+- **2024-04:** Song Mingjian, an undergraduate student from the class of 2022 in the research group, has had an SCI paper accepted.
+- **2024-03:** A new paper is selected as ESI hot paper.
 - **2024-03:** Congratulations to Zheng Menghua and Zhang Xuanyu, the first batch of master's students who have completed their supervision, for receiving outstanding graduates from Northwestern Polytechnical University.
 - **2024-03:** The research team accepted an article from IEEE TGRS (SCI-IF: 8.8), a top journal in the field of international remote sensing.
-- **2024-03:** The research team accepted an article from the top international video journal "IEEE Transactions on Circuits and Systems for Video Technology" (SCI-IF:8.4)
-- **2024-02:** The research team accepted an article from the top international journal in the field of neural networks "Neural Networks" (SCI-IF: 7.8)
-- **2024-01:** A Grade 21 master's student won the second prize in the graph convolution reasoning optimization competition (Central-Southern Division)
-- **2023-12:** The research group accepted a Video top journal "IEEE Transactions on Circuits and Systems for Video Technology" (SCI-IF:8.4)
-- **2023-11:** The research group accepted a paper in the CCF B Chinese journal Computer Engineering
-- **2023-11:** Canwen Li, a 20-level undergraduate student in our group, won the S Award of the American Collegiate Mathematical Contest in Modeling
-- **2023-11:** One paper in CCF Class C journal "Multimedia Tools and Applications" (SCI-IF: 3.1) was accepted
-- **2023-11:** One paper becomes an ESI Highly Cited Paper
+- **2024-03:** The research team accepted an article from the top international video journal "IEEE Transactions on Circuits and Systems for Video Technology" (SCI-IF:8.4).
+- **2024-02:** The research team accepted an article from the top international journal in the field of neural networks "Neural Networks" (SCI-IF: 7.8).
+- **2024-01:** A Grade 21 master's student won the second prize in the graph convolution reasoning optimization competition (Central-Southern Division).
+- **2023-12:** The research group accepted a Video top journal "IEEE Transactions on Circuits and Systems for Video Technology" (SCI-IF:8.4).
+- **2023-11:** The research group accepted a paper in the CCF B Chinese journal Computer Engineering.
+- **2023-11:** Canwen Li, a 20-level undergraduate student in our group, won the S Award of the American Collegiate Mathematical Contest in Modeling.
+- **2023-11:** One paper in CCF Class C journal "Multimedia Tools and Applications" (SCI-IF: 3.1) was accepted.
+- **2023-11:** One paper becomes an ESI Highly Cited Paper.
 - **2023-11:** One paper became an ESI hot paper
 - **2023-10:** One paper was accepted by IEEE Transactions on Intelligent Vehicles (IEEE TIV, SCI-IF: 8.2), a well-known international journal in the field of transportation.
 - **2023-10:** Selected as one of the world's top 2% top scientists in 2023;

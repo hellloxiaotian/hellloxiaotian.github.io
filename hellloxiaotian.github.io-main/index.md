@@ -91,7 +91,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2024-04:** Song Mingjian, an undergraduate student from the class of 2022 in the research group, has had an SCI paper accepted.
 - **2024-03:** A new paper is selected as ESI hot paper
 - **2024-03:** Congratulations to Zheng Menghua and Zhang Xuanyu, the first batch of master’s students who have completed their supervision, for receiving outstanding graduates from Northwestern Polytechnical University.
-- **2024-03:** The research team accepted an article from IEEE TGRS (SCI-IF: 8.8), a top journal in the field of international remote sensing.
+- **2024-03:** The research team accepted an article from *IEEE TGRS (SCI-IF: 8.8)*, a top journal in the field of international remote sensing.
 - **2024-03:** The research team accepted an article from the top international video journal “IEEE Transactions on Circuits and Systems for Video Technology” (SCI-IF:8.4)
 - **2024-02:** The research team accepted an article from the top international journal in the field of neural networks “Neural Networks” (SCI-IF: 7.8)
 - **2024-01:** A Grade 21 master’s student won the second prize in the graph convolution reasoning optimization competition (Central-Southern Division)
@@ -101,7 +101,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2023-11:** One paper in CCF Class C journal “Multimedia Tools and Applications” (SCI-IF: 3.1) was accepted
 - **2023-11:** One paper becomes an ESI Highly Cited Paper
 - **2023-11:** One paper became an ESI hot paper
-- **2023-10:** One paper was accepted by IEEE Transactions on Intelligent Vehicles (IEEE TIV, SCI-IF: 8.2), a well-known international journal in the field of transportation.
+- **2023-10:** One paper was accepted by *IEEE Transactions on Intelligent Vehicles (IEEE TIV, SCI-IF: 8.2)*, a well-known international journal in the field of transportation.
 - **2023-10:** Selected as one of the world’s top 2% top scientists in 2023;
 - **2023-10:** My 2021 master’s student, Zheng Menghua, won the National Scholarship for Master’s Students with the first place;
 - **2023-10:** One Information Fusion (SCI-IF: 18.6) paper published; 
@@ -113,9 +113,9 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2023-07:** Obtained the Excellent Undergraduate Thesis Advisor of Northwestern Polytechnical University
 - **2023-07:** Congratulations to Wang Pengwei, who supervised the undergraduate, for winning the excellent undergraduate graduation thesis of Northwestern Polytechnical University
 - **2023-06:** Congratulations to the 6 undergraduates who have successfully graduated from the 23rd session, including 2 graduate students (recommended to 985 - universities), 3 overseas prestigious universities (National University of Singapore, University of Melbourne, University of Bristol, UK), and 1 international student (planning Go to Canada or Australia to work), I wish you a bright future, and welcome you to visit your alma mater often
-- **2023-06:** A paper was accepted by IEEE Transactions on Geoscience and Remote Sensing(First district of Chinese Academy of Sciences/SCI-IF:8.125)
-- **2023-06:** A paper was accepted by International Journal of Remote Sensing Remote Sensing Letters(Second district of Chinese Academy of Sciences/SCI-IF:3.531)
-- **2023-06:** A paper accepted by FL-IJCAI’23
+- **2023-06:** A paper was accepted by *IEEE Transactions on Geoscience and Remote Sensing(First district of Chinese Academy of Sciences/SCI-IF:8.125)*.
+- **2023-06:** A paper was accepted by *International Journal of Remote Sensing Remote Sensing Letters(Second district of Chinese Academy of Sciences/SCI-IF:3.531)*
+- **2023-06:** A paper accepted by *FL-IJCAI’23*.
 - **2023-06:** Obtained the Outstanding Individual Member of Jiangsu Computer Society
 - **2023-06:** Support master and doctoral students to go to Wuxi to participate in the Valse exchange meeting and play for 4 days
 - **2023-06:** Some graduate students in the research group will be rewarded with mechanical keyboards and bluetooth headsets, and they will be accompanied by audio in their research life
@@ -138,40 +138,40 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2023-03:** Dr. Yuxuan, a student in the group, was invited to serve as PC member of the international conference “MLCCIM”
 - **2023-02:** Lunch Talk with students Xuan Yu and Meng Hua in the group
 - **2023-02:** Invited Hebei recruitment team to Hongwen Middle School to carry out the popular science lecture “Flying Dream and helping Sail”
-- **2023-02:** Invited to be the Area Chair of the international conference ACAIT 2023
-- **2023-02:** Invited to the international journal Mathmatical Bioscience and Engineering (SCI-IF:2.194/ Region III /JCR Region IV)
-- **2023-02:** Invited to be PC Chair and Workshop Chair for the international conference MLCCIM 2023
-- **2023-02:** Invited to become SS Co-Chair for ICCSI 2023
+- **2023-02:** Invited to be the Area Chair of the international conference *ACAIT 2023*.
+- **2023-02:** Invited to the international journal *Mathmatical Bioscience and Engineering (SCI-IF:2.194/ Region III /JCR Region IV)*.
+- **2023-02:** Invited to be PC Chair and Workshop Chair for the international conference *MLCCIM 2023*.
+- **2023-02:** Invited to become SS Co-Chair for *ICCSI 2023*.
 - **2023-02:** Elected to the youth editorial board of a university journal
 - **2023-02:** Wiley 2021-2022 Highly Cited Paper (2023)
 - **2023-02:** Excellent doctoral dissertation of a provincial Artificial Intelligence Society in 2022
-- **2023-02:** Special Issue of the new Electronics(SCI-IF:2.690)
+- **2023-02:** Special Issue of the new *Electronics(SCI-IF:2.690)*.
 - **2023-01:** CFSRCNN Work is invited by the IEEE Signal Processing Society to produce SPS Webinar or SPS Blog
 - **2023-01:** Invited to be on the CSI-2023 Program Committee
 - **2023-01:** A paper code is included in the open source software supply chain security community OCSC
 - **2023-01:** 1 paper was selected as ESI hot papers
 - **2022-12:** As the keynote speaker, I was awarded the outstanding activity of 2022 National Science Popularization Day by the China Association for Science and Technology
-- **2022-12:** Become a member of the special Committee of CAA-PRMI
-- **2022-12:** Become a member of the special Committee of CSIG-BVD
-- **2022-12:** Xuanyu Zhang, master student of 2021, won the Best Paper of ICCBDAI 2022
-- **2022-12:** Awarded Excellent Workshop Chair at ICCBDAI 2022
-- **2022-12:** Three English teaching reform papers were accepted by EI Conference
-- **2022-12:** Guide 4 master/PhD students to be invited to give English Oral at ICCBDAI 2022
-- **2022-12:** Two of my papers were awarded the second Excellent Scientific and Technological Academic Papers of Shenzhen
-- **2022-11:** Hongpeng CAI, postgraduate student of Grade 23 (Master’s offer/ TOEFL 107 from National University of Singapore/Jilin University/National University of Singapore) was invited to host ICCSI 2022 Workshop
-- **2022-11:** Get the Chinese *
-- **2022-11:** Invited to become the second Chinese Academy of Sciences /JCR first area SCI international journal AE
-- **2022-11:** A paper has been accepted by the international journal Electronics
-- **2022-11:** Named to Stanford University’s 2022 ranking of the world’s top 2% of leading scientists
-- **2022-10:** Invited to give an academic report on the Polar City platform
-- **2022-10:** Awarded the 2022 Wiley High Contribution Author of Open Science in China
-- **2022-10:** Invited to become Editor of an international SCI journal (AE)
-- **2022-10:** Selected as digital Consulting expert in * city of * province
+- **2022-12:** Become a member of the special Committee of CAA-PRMI.
+- **2022-12:** Become a member of the special Committee of CSIG-BVD.
+- **2022-12:** Xuanyu Zhang, master student of 2021, won the Best Paper of *ICCBDAI 2022*.
+- **2022-12:** Awarded Excellent Workshop Chair at *ICCBDAI 2022*.
+- **2022-12:** Three English teaching reform papers were accepted by EI Conference.
+- **2022-12:** Guide 4 master/PhD students to be invited to give English Oral at *ICCBDAI 2022*.
+- **2022-12:** Two of my papers were awarded the second Excellent Scientific and Technological Academic Papers of Shenzhen.
+- **2022-11:** Hongpeng CAI, postgraduate student of Grade 23 (Master’s offer/ TOEFL 107 from National University of Singapore/Jilin University/National University of Singapore) was invited to host ICCSI 2022 Workshop.
+- **2022-11:** Get the Chinese *.
+- **2022-11:** Invited to become the second Chinese Academy of Sciences /JCR first area SCI international journal AE.
+- **2022-11:** A paper has been accepted by the international journal *Electronics*.
+- **2022-11:** Named to Stanford University’s 2022 ranking of the world’s top 2% of leading scientists.
+- **2022-10:** Invited to give an academic report on the Polar City platform.
+- **2022-10:** Awarded the 2022 Wiley High Contribution Author of Open Science in China.
+- **2022-10:** Invited to become Editor of an international SCI journal (AE).
+- **2022-10:** Selected as digital Consulting expert in * city of * province.
 - **2022-10:** A paper was tweeted and reported by AIWalker, a well-known computer vision public website in China.
 - **2022-09:** I am invited to be the PC Chair and Workshop Chair of the international conference "ICCBDAI 2022".
 - **2022-09:** ADNet technique is purchased commercially by American Imaging Corporation**.
-- **2022-09:**One journal paper is accepted to IEEE TNNLS, the top international journal in artificial intelligence.
-- **2022-09:** One journal paper is accepted to Pattern Recognition(PR), the journal of the International Society for Pattern Recognition.
+- **2022-09:** One journal paper is accepted to *IEEE TNNLS*, the top international journal in artificial intelligence.
+- **2022-09:** One journal paper is accepted to *Pattern Recognition(PR)*, the journal of the International Society for Pattern Recognition.
 - **2022-09:** I join editorial board member of CAAI Transactions on Intelligence Technology (Region I/SCI-IF: 7.985), the journal of the Chinese Society for Artificial Intelligence.
 - **2022-09:** 2022** High-level talents in the province.
 - **2022-09:** One granted invention patent.

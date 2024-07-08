@@ -412,6 +412,76 @@ Reviewer：
 
 ## Academic Activities (学术活动)
 
+- **2021-12:** A paper has been accepted by the international journal "IEEE Multimedia".
+- **2021-12:** I have joined the CAAI (Chinese Association for Artificial Intelligence) Youth Working Committee.
+- **2021-12:** I have joined the CSIG-MV (China Society of Image and Graphics - Machine Vision) Committee.
+- **2021-12:** Invited to serve as a guest editor for a special issue of the international journal "Electronics" (SCI-IF: 2.69).
+- **2021-12:** Invited to serve as the Workshop Chair for the International Conference on Machine Learning, Cloud Computing, and Intelligent Mining (MLCCIM 2022).
+- **2021-11:** Invited to serve as a Program Committee (PC) member for the 2021 IEEE International Conference on Progress in Informatics and Computing (PIC 2021).
+- **2021-11:** Two papers have been newly selected as ESI Highly Cited Papers.
+- **2021-11:** Invited to give a presentation at the International Conference on Computer, Big Data, and Artificial Intelligence 2021 (ICCBDAI 2021).
+- **2021-11:** A paper has been selected for oral presentation at the International Conference on Computer, Big Data, and Artificial Intelligence 2021 (ICCBDAI 2021).
+- **2021-11:** The master's thesis of student Xiao Jingyu, guided by you, has been selected as an oral presentation at the International Conference on Computer, Big Data, and Artificial Intelligence 2021 (ICCBDAI 2021).
+- **2021-11:** Two conference papers have been accepted by the International Conference on Computer, Big Data, and Artificial Intelligence 2021 (ICCBDAI 2021).
+- **2021-11:** A conference paper has been accepted by the international conference InCoB 2021.
+- **2021-10:** A journal paper has been promoted and reported by the Wiley Engineering community.
+- **2021-10:** A conference paper has been accepted by ICASSP 2022, a top-tier conference in the field of speech processing.
+- **2021-10:** Invited to serve as a guest editor for the special issue of "Frontiers in Signal Processing".
+- **2021-10:** A journal paper became the cover paper of the top international multimedia journal IEEE Transactions on Multimedia (IEEE TMM), ranked 11/50.
+- **2021-09:** Invited to serve as the Workshop Chair for the International Conference on Computer, Big Data, and Artificial Intelligence 2021 (ICCBDAI 2021).
+- **2021-09:** Invited to serve as a guest editor for the special issue on "Method and Application of Machine Learning" in the journal "Mathematics" (SCI-IF: 2.258, ISSN 2227-7390).
+- **2021-09:** Recognized as a contributing reviewer for the international journal "Bulletin of Electrical Engineering and Informatics (BEEI)".
+- **2021-09:** Selected as a technology expert in Shanghai.
+- **2021-09:** A conference paper has been accepted by ACPR (Asian Conference on Pattern Recognition).
+- **2021-08:** A journal paper has been accepted by "Briefings in Bioinformatics".
+- **2021-08:** Invited to join the Video Super Resolution Benchmark project.
+- **2021-08:** Invited to become an Associate Editor of the prestigious international journal "International Journal of Image and Graphics Processing".
+- **2021-08:** An invention patent has been granted.
+- **2021-07:** Invited to be a Program Committee (PC) member for the Asian Conference on Artificial Intelligence Technology (ACAIT) 2021.
+- **2021-07:** The codes for DudeNet and ACNet have been released on my GitHub.
+- **2021-06:** "CFSRCNN" was reported by CCF MM.
+- **2021-06:** A journal paper has been accepted by Multimedia Tools and Applications.
+- **2021-06:** Received an interview invitation for the Huawei Genius Youth program.
+- **2021-06:** An invention patent has been granted.
+- **2021-05:** Invited to give an online presentation at City University of Hong Kong.
+- **2021-05:** A journal paper became the cover paper of Neural Networks, ranked 5th.
+- **2021-05:** "Attention-guided CNN for Image Denoising (ADNet)" became an ESI Highly Cited Journal Paper.
+- **2021-05:** Recommended by Extrememart as an outstanding young scholar for the May Fourth Youth Award.
+- **2021-05:** Invited to give a presentation at Central South University.
+- **2021-04:** Invited to give a presentation at Harbin Institute of Technology (Shenzhen).
+- **2021-04:** Invited to give an online presentation at Extrememart.
+- **2021-04:** A journal paper was recognized as a Highly Cited Paper by Neural Networks and was ranked 1/25 on the homepage.
+- **2021-04:** A journal paper has been promoted and reported by 52CV, Cver, AI Technique, HappyAIWalker, and Extrememart.
+- **2021-03:** A paper was recognized as an Outstanding Paper by CAAI Transactions on Intelligence Technology in 2018 and 2019.
+- **2021-03:** A paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems.
+- **2021-03:** A paper has been accepted by Knowledge-Based Systems.
+- **2021-03:** Became an Associate Editor of the Journal of Electrical and Electronic Engineering.
+- **2021-02:** A paper has been accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE TSMC) with an acceptance rate of 10%.
+- **2021-02:** Invited to become a member of the organizing committee for IEEE DASC 2021.
+- **2021-01:** A paper has been accepted by Information Sciences.
+- **2021-01:** A paper has been accepted by ICASSP (International Conference on Acoustics, Speech, and Signal Processing).
+- **2021-01:** Invited by Prof. Bob Fisher, an IAPR Fellow, to join the internationally renowned platform Cvonline: Image Databases.
+- **2021-01:** Recognized as a spokesperson for the School of Computer Science and Technology at Harbin Institute of Technology (Shenzhen). The link is here.
+- **2020-12:** Recognized as an Outstanding Graduate of Harbin Institute of Technology in 2021.
+- **2020-12:** "Coarse-to-fine CNN for Image Super-Resolution" became an IEEE TMM Early Access Highly Cited Paper, ranked 11/312.
+- **2020-11:** Recognized as an Outstanding Student of Harbin Institute of Technology.
+- **2020-11:** "Lightweight Image Super-Resolution with Enhanced CNN" was promoted and reported by 52CV.
+- **2020-10:** "Deep Learning on Image Denoising: An Overview" was featured on the cover of Neural Networks, ranked 11/25.
+- **2020-09:** "Image Denoising Using Deep CNN with Batch Renormalization" has become an ESI Highly Cited Paper.
+- **2020-07:** A conference paper has been accepted by IJCB (International Joint Conference on Biometrics).
+- **2020-07:** A journal paper has been accepted by Neural Networks.
+- **2020-07:** "BRDNet," "ADNet," and "ECNDNet" were recognized as contributing codes on GitHub, the largest international open-source platform, in 2020.
+- **2020-07:** "Lightweight Image Super-Resolution with Enhanced CNN" was promoted and reported by 52CV.
+- **2020-07:** "Coarse-to-fine CNN for Image Super-Resolution" was promoted and reported by 52CV.
+- **2020-07:** "Designing and Training of a Dual CNN for Image Denoising" was recommended and reported by Cver.
+- **2020-07:** A paper has been published on arXiv.
+- **2020-07:** A journal paper has been accepted by Knowledge-Based Systems.
+- **2020-06:** A conference paper has been accepted by ICPR (a well-known conference in pattern recognition).
+- **2020-05:** A journal paper has been accepted by the top international journal in the field of multimedia, IEEE Transactions on Multimedia (IEEE T-MM).
+- **2020-04:** "Attention-guided CNN for Image Denoising" was featured on the homepage of Neural Networks, ranked 18/25.
+- **2020-03:** The BRDNet technology was invited to be integrated into iHub, the largest AI platform in China.
+- **2020-03:** ECNDNet technique is collected by the Profillic（Profillic is the the largest collection of machine learning models, papers in the world）
+- **2020-02:** "Image Denoising Using Deep CNN with Batch Renormalization" became the cover paper of Neural Networks, ranked 6/25.
 - **2020-02:** "Image Denoising Using Deep CNN with Batch Renormalization" was promoted and reported by 52CV and Extrememart.
 - **2020-02:** "Attention-guided CNN for Image Denoising" was promoted and reported by 52CV and Cver.
 - **2020-01:** "Deep Learning on Image Denoising: An Overview" was promoted and reported by AI Frontier Lecture, Cver, and Extrememart.

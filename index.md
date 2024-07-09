@@ -412,7 +412,118 @@ Reviewer：
 
 ## Academic Activities (学术活动)
 
-
+- **2024-06:** Make an online report on image super-resolution based on dynamic networks.
+- **2024-06:** The research group has authorized an invention patent.  
+- **2024-05:** The Special Committee of Imaging Detection and Perception of CSIG held the 14th academic activity of "AI New Youth Forum" - Report: Research on Image Denoising Method Based on Salient Structural Information. 
+- **2024-05:** The research group has accepted two SCI papers (Neurocomputing, WWW).  
+- **2024-05:** The research group has accepted a paper in the top international neural networks journal "Neural Networks" (SCI-IF: 9.657). 
+- **2024-04:** Cheng Tongtong, an undergraduate student of grade 21 in the research group, won an award in the Mathematical Contest in Modeling of the United States.  
+- **2024-04:** Song Mingjian, an undergraduate student of grade 22 in the research group, has had a SCI paper accepted.  
+- **2024-03:** A new paper has been selected as an ESI hot paper.  
+- **2024-03:** Congratulations to the first batch of master's students, Zheng Menghua and Zhang Xuanyu, who were guided by you and have been awarded as outstanding graduates of Northwestern Polytechnical University.  
+- **2024-03:** The research group has accepted a paper in the top international journal in the field of remote sensing, IEEE TGRS (SCI-IF: 8.8)  
+- **2024-03:** The research group has accepted a paper in the top international journal in the field of video, "IEEE Transactions on Circuits and Systems for Video Technology" (SCI-IF: 8.4)  
+- **2024-02:** The research group has accepted a paper in the top journal in the field of international neural networks, "Neural Networks" (SCI-IF: 7.8). 
+- **2024-01:** The 21st-grade master's student won the second prize in the Graph Convolution Inference Optimization Competition (Central and South Division)  
+- **2023-12:** The research group has accepted a paper in the top video journal "IEEE Transactions on Circuits and Systems for Video Technology" (SCI-IF: 8.4). 
+- **2023-11:** The research group has accepted a paper in the CCF Class B Chinese journal "Computer Engineering".  
+- **2023-11:** Li Canwen and other 20th-grade undergraduates of the research group won the S Award of the Mathematical Contest in Modeling for Undergraduate Students in the United States. 
+- **2023-11:** The research group has accepted a paper in the CCF Class C journal "Multimedia Tools and Applications" (SCI-IF: 3.1).
+- **2023-11:** A paper has become an ESI highly cited paper.
+- **2023-11:** A paper has become an ESI hot paper.  
+- **2023-10:** A paper has been accepted by the well-known international journal in the field of transportation, "IEEE Transactions on Intelligent Vehicles" (IEEE TIV, SCI-IF: 8.2) 
+- **2023-10:** Selected as one of the top 2% scientists in the world in 2023.
+- **2023-10:** My 2021-level master's student, Zheng Menghua, won the National Scholarship for Postgraduate Students as the first place.
+- **2023-10:** A paper of Information Fusion (SCI-IF: 18.6) was published.
+- **2023-09:** Awarded as an Excellent Teacher by the School of Software, Northwestern Polytechnical University.
+- **2023-09:** Congratulations to Xuan Yu on getting a paper accepted by 'CAAI Transactions on Intelligence Technology', a top journal in the field of artificial intelligence in China and a publication of the Chinese Association for Artificial Intelligence (CAAI), which is classified as a Tier 2 journal by the Chinese Academy of Sciences and indexed by SCI.
+- **2023-08:** Congratulations to Xuan Yu on getting a SCI paper accepted!
+- **2023-08:** Congratulations to 2020-level master's graduate Zeng Jiawen on starting your new job at Guangzhou Business School!
+- **2023-07:** Congratulations to Xiao Jingyu from our research group! Your robust deformable convolutional neural network image denoising method has been reported by the "Journal of Intelligence" official account. Here is the link: https://mp.weixin.qq.com/s/hLcqRaugQwnAjRB1oUzHpw?jump_from=1_05_37_01. Great job!
+- **2023-07:** Awarded as an Excellent Undergraduate Thesis Guiding Teacher by Northwestern Polytechnical University.
+- **2023-07:** Congratulations to Wang Pengwei, an undergraduate student under my guidance, on winning the "Excellent Undergraduate Thesis" award from Northwestern Polytechnical University!
+- **2023-06:** Congratulations to the six undergraduate students from the 23rd class on your successful graduation! Among you, two have been recommended for postgraduate studies at top-tier 985 universities, three will further their studies at renowned overseas universities (National University of Singapore, University of Melbourne in Australia, and University of Bristol in the UK), and one is planning to work in Canada or Australia as an international student. I wish you all a bright future and welcome you to visit our alma mater anytime.
+- **2023-06:** One paper has been accepted by "IEEE Transactions on Geoscience and Remote Sensing" (Tier 1 in the Chinese Academy of Sciences / SCI-IF: 8.125).
+- **2023-06:** One paper has been accepted by "International Journal of Remote Sensing Remote Sensing Letters" (Tier 2 in the Chinese Academy of Sciences / SCI-IF: 3.531).
+- **2023-06:** One paper has been accepted by FL-IJCAI'23.
+- **2023-06:** Received the "Excellent Individual Member" award from the Jiangsu Computer Society.
+- **2023-06:** Supported master's and doctoral students to attend the VALSE exchange meeting in Wuxi.
+- **2023-06:** Awarded some graduate students within the research group with mechanical keyboards and Bluetooth headphones, hoping that their research life will be accompanied by sound.
+- **2023-06:** Awarded each member of the major innovation and beginner innovation teams with a mouse.
+- **2023-06:** One paper has been accepted by the top journal in computer science recognized by the Chinese Academy of Sciences, 'Expert Systems with Applications' (Tier 1 in the Chinese Academy of Sciences / SCI-IF: 8.665).
+- **2023-05:** Congratulations to Master's student Xiao Jingyu on your successful graduation! Also, I wish all the doctoral students in our group smooth progress in their research and a bright future!
+- **2023-05:** One paper accepted by the top journal in computer science recognized by the Chinese Academy of Sciences, 'Expert Systems with Applications' (Tier 1 in the Chinese Academy of Sciences / SCI-IF: 8.665).
+- **2023-05:** "One paper selected as a Highly Cited Paper in ESI."
+- **2023-04:** "2022 Outstanding Scientific Worker" awarded by the China Society of Image and Graphics, a first-tier academic society in China.
+- **2023-04:** Dr. Yuxuan from our research group has been granted one invention patent.
+- **2023-04:** Member of the Board of Directors of the Suzhou Artificial Intelligence Society.
+- **2023-04:** Three papers selected for the international Super-resolution Benchmark List.
+- **2023-04:** Awarded each freshman student who participated in the Mengchuang research project under my guidance with a USB flash drive, hoping that they will have boundless opportunities like birds flying in the sky and fish leaping in the ocean.
+- **2023-04:** A small-scale team-building event with snacks for the research group.
+- **2023-03:** Serving as a Guest Editor for the international journal "IEEE Transactions on Fuzzy Systems" (TFS).
+- **2023-03:** Serving as an Area Editor for the international SCI journal "**".
+- **2023-03:** Invited to serve as the Publicity Chair for the international conferences AMDS 2023 and AMMSA 2023.
+- **2023-03:** Invited to serve as an Associate Editor (AE) for the international SCI journal "Electronics".
+- **2023-03:** PhD candidate Yuxuan from our team has been invited to serve as a PC member for the international conference "MLCCIM".
+- **2023-02:** Lunch Talk with team members Xuanyu and Menghua.
+- **2023-02:** Invited to join the Hebei Recruitment Team to conduct a science lecture titled "Embrace Dreams and Assist in Launching" at Hongwen Middle School.
+- **2023-02:** Invited to serve as the Area Chair for the International Conference "ACAIT 2023".
+- **2023-02:** Invited to serve as an Associate Editor (AE) for the international journal "Mathematical Bioscience and Engineering" (SCI-IF: 2.194 / Chinese Academy of Sciences Tier 3 / JCR Tier 4).
+- **2023-02:** Invited to serve as the PC Chair and Workshop Chair of the International Conference "MLCCIM 2023".
+- **2023-02:** Invited to serve as the SS Co-Chair of the International Conference "ICCSI 2023".
+- **2023-02:** Invited to become a Youth Editorial Board Member of "** University Journal".
+- **2023-02:** Wiley 2021-2022 Highly Cited Paper.
+- **2023-02:** Awarded the "Excellent Doctoral Dissertation" by the ** Provincial Association of Artificial Intelligence.
+- **2023-02:** Invited to serve as the Guest Editor for the Special Issue (SI) of "Electronics" (SCI-IF: 2.690).
+- **2023-01:** "CFSRCNN" (Tian Chunwei, Xu Yong, Zuo Wangmeng, Zhang Bob, Fei Lunke, Lin Chia-Wen. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia, 2020, 23: 1489-1502.) was invited by the IEEE Signal Processing Society to create an SPS Webinar or SPS Blog.
+- **2023-01:** The code from a paper was included in the Open Source Software Supply Chain Security Community (OCSC) and was verified by Murphy Security as reliable and secure code.
+- **2023-01:** The Mengchuang project, guided by you and involving undergraduate student Song Mingjian (class of 2022) and others, was recognized as a key project.
+- **2023-01:** A paper was selected as an ESI Hot Paper.
+- **2022-12:** As a keynote speaker in science popularization activities for primary and secondary schools (focused on image processing knowledge), recognized as an Outstanding Activity in the 2022 National Science Popularization Day by the China Association for Science and Technology.
+- **2022-12:** Member of the CSIG-BVD (China Society of Image and Graphics - Big Visual Data) Committee.
+- **2022-12:** Member of the CAA-PRMI (China Association for Artificial Intelligence - Pattern Recognition and Machine Intelligence) Committee.
+- **2022-12:** Received the Outstanding Workshop Chair award at the International Conference on Computer, Big Data, and Artificial Intelligence 2022 (ICCBDAI 2022).
+- **2022-12:** Guided the master's student Zhang Xuanyu (class of 2021) to win the Best Paper Award at the International Conference on Computer, Big Data, and Artificial Intelligence 2022 (ICCBDAI 2022).
+- **2022-12:** Four graduate students from the research group (Hu Yuxuan, Xiao Jingyu, Zheng Menghua, and Zhang Xuanyu) were invited to give oral presentations at the International Conference on Computer, Big Data, and Artificial Intelligence 2022 (ICCBDAI 2022).
+- **2022-12:** Two first-author papers were selected as Outstanding Scientific and Technological Academic Papers in ** City.
+- **2022-11:** Received the China ** award.
+- **2022-11:** Invited to serve as an Associate Editor (AE) for the international SCI journal "**" (SCI/JCR Q2, Chinese Academy of Sciences Q1).
+- **2022-11:** A paper has been accepted by the international journal "Electronics".
+- **2022-10:** Selected for the 2022 Stanford University list of the world's top 2% scientists.
+- **2022-10:** Awarded the Wiley China Open Science High Contribution Author for the second quarter of 2022.
+- **2022-10:** Invited to give a live academic report on the JiShi platform.
+- **2022-10:** Invited to serve as an Associate Editor (AE) for the international SCI journal "**" (SCI/JCR Q3, Chinese Academy of Sciences Q4).
+- **2022-10:** Selected as a ** City Digital ** Consulting Expert (September 2022 - Present).
+- **2022-10:** A paper has been promoted and reported by AIWalker.
+- **2022-09:** Invited to serve as a guest editor for the international journal "Applied Sciences" (SCI-IF: 2.838).
+- **2022-09:** Invited to serve as a decision editor for an international journal.
+- **2022-09:** Invited to participate in the CSIG Science Popularization Program for primary and secondary schools.
+- **2022-09:** Invited to serve as the PC Chair and Workshop Chair for the International Conference on Computer, Big Data, and Artificial Intelligence 2022 (ICCBDAI 2022).
+- **2022-09:** A paper has been accepted by the international journal "Pattern Recognition," the official journal of the International Association for Pattern Recognition.
+- **2022-09:** Selected as a Youth Editorial Board Member for the journal "CAAI Transactions on Intelligence Technology" (Q1, SCI-IF: 7.985), the official journal of the Chinese Association for Artificial Intelligence.
+- **2022-09:** Selected as a high-level talent in ** Province.
+- **2022-09:** A paper has been accepted by the top international journal in the field of artificial intelligence, IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS).
+- **2022-09:** An invention patent has been granted.
+- **2022-09:** Awarded the 'Local Science and Technology Talent' trophy.
+- **2022-08:** Invited to participate in the super-resolution benchmark creation task organized by MSU's Graphics & Media Lab, an internationally renowned video quality assessment laboratory.
+- **2022-08:** Selected as one of the first experts in the ** City Network Security and Informatization Expert Database.
+- **2022-08:** Three papers were selected among the eight highly cited papers within three years in the international journal "Neural Networks".
+- **2022-07:** Received the 2022 China **.
+- **2022-07:** An invention patent has been granted.
+- **2022-07:** The technology from a paper was converted by Japanese engineers from Python format to CoreML format suitable for the iOS mobile system.
+- **2022-07:** A paper became the cover paper of the Chinese Association for Artificial Intelligence journal "CAAI Transactions on Intelligence Technology".
+- **2022-07:** A first-author paper became one of the top 10 highly cited papers in the journal of the Chinese Association for Artificial Intelligence in 2021.
+- **2022-07:** Selected as a committee member of the CSIG MM (China Society of Image and Graphics - Multimedia) and CCF MM (China Computer Federation - Multimedia) Committees.
+- **2022-07:** Received a Certificate of Appreciation for Outstanding Contribution at the 11th Wu Wenjun Artificial Intelligence Science and Technology Award Ceremony and the 2021 China Artificial Intelligence Industry Annual Conference.
+- **2022-07:** Appointed as a committee member of the CCF YOCSEF ** sub-forum.
+- **2022-07:** Invited to participate in the 2022 CCF Intelligent Manufacturing Conference sub-forum titled "How Digitalization Can Help Manufacturing Enterprises Reduce Costs and Increase Efficiency?"
+- **2022-07:** Invited to give a presentation at the 11th Wu Wenjun Artificial Intelligence Science and Technology Award Ceremony and the 2021 China Artificial Intelligence Industry Annual Conference - Image Session.
+- **2022-07:** Selected for the 2022 Outstanding Natural Science Paper in ** City, ** Province.
+- **2022-07:** Received the Outstanding Doctoral Dissertation Award from Harbin Institute of Technology (HIT), and it was reported by HIT (Shenzhen) and the School of Computer Science at HIT (Shenzhen).
+- **2022-07:** Invited to serve as an **editorial board member for the international journal "**".
+- **2022-07:** Received the Outstanding Doctoral Dissertation Award from Harbin Institute of Technology in 2022.
+- **2022-07:** A paper's code has been included in the Open Source Security Community (OSCS).
+- **2022-07:** Invited to serve as a guest editor for the journal "Drones".
 - **2022-07:** Invited to serve as a guest editor for "Frontiers in Robotics and AI".
 - **2022-06:** Recognized as an Outstanding Thesis Advisor for undergraduate students.
 - **2022-06:** Congratulations to your undergraduate student Ma Yingpeng for receiving the Outstanding Graduation Thesis award.

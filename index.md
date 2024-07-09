@@ -412,6 +412,44 @@ Reviewer：
 
 ## Academic Activities (学术活动)
 
+
+- **2022-07:** Invited to serve as a guest editor for "Frontiers in Robotics and AI".
+- **2022-06:** Recognized as an Outstanding Thesis Advisor for undergraduate students.
+- **2022-06:** Congratulations to your undergraduate student Ma Yingpeng for receiving the Outstanding Graduation Thesis award.
+- **2022-06:** Selected for the ** City Scientist Spirit Lecture Team.
+- **2022-06:** Invited to serve as an **editorial board member for the Chinese scientific journal "**".
+- **2022-06:** Invited to serve as an **editorial board member for the international journal "**" (SCI/JCR Q1, Chinese Academy of Sciences Q2).
+- **2022-06:** A paper has been accepted by the journal "Pattern Recognition Letters" (SCI-IF: 4.757), the official journal of the International Association for Pattern Recognition.
+- **2022-06:** A paper has been promoted and reported by the well-known computer vision platform AIWalker.
+- **2022-06:** A paper has been promoted and reported by the well-known computer vision platform 52CV.
+- **2022-06:** A paper has been accepted by the journal "Neural Networks," the official journal of the International Neural Network Society.
+- **2022-06:** Invited to give a presentation at the Software College Sub-forum of the 9th Soaring Young Scholars Forum at Northwestern Polytechnical University.
+- **2022-05:** A paper has been accepted by the journal "CAAI Transactions on Intelligence Technology" (SCI-IF: 7.985), the official journal of the Chinese Association for Artificial Intelligence.
+- **2022-05:** Invited to serve as a guest editor for the international journal "International Journal of Distributed Sensor Networks" (SCI-IF: 1.938).
+- **2022-05:** Invited to serve as an editorial board member for the journal "Computer **".
+- **2022-05:** Applied for three software copyrights.
+- **2022-05:** A paper has been promoted and reported by the well-known computer vision platforms Cver, 52CV, and HappyWalker.
+- **2022-04:** A paper has been published on arXiv.
+- **2022-04:** Selected for the 2022 ** City Youth Science and Technology Talent Program.
+- **2022-04:** Applied for a software copyright.
+- **2022-04:** Applied for an invention patent.
+- **2022-04:** Received the 2021 CCF Outstanding Doctoral Dissertation Award in Shenzhen.
+- **2022-04:** Invited to serve as a guest editor for the international journal "Mathematical Biosciences and Engineering" (SCI-IF: 2.194).
+- **2022-04:** Recognized as a contributing reviewer for the international journal "Frontiers of Optoelectronics (FOE)" in 2021.
+- **2022-04:** A paper has been accepted by the "Journal of Artificial Intelligence and Technology".
+- **2022-04:** Invited to serve as the Publicity Chair for the 2022 International Conference on Applied Mathematics and Digital Simulation (AMDS 2022).
+- **2022-04:** Applied for a software copyright.
+- **2022-03:** Invited to serve as the Special Session Co-Chair and Workshop Chair for the International Conference on Communications, Signal Processing, and Information Technology (ICCSI 2022).
+- **2022-03:** Invited to serve as the Special Issue (SI) Chair for the 6th Asian Conference on Artificial Intelligence Technology (ACAIT 2022).
+- **2022-03:** Invited to serve as the PC Chair for the International Conference on Machine Learning, Cloud Computing, and Intelligent Mining (MLCCIM 2022).
+- **2022-03:** Joined the expert group of the core Chinese journal "**".
+- **2022-02:** A paper has been accepted by the journal "Electronics".
+- **2022-02:** Invited to become the Associate Editor of the international journal "Journal of Artificial Intelligence and Technology".
+- **2022-02:** Invited to join the development working group of the international journal **.
+- **2022-02:** Invited to join the expert team of the journal "**Journal".
+- **2022-02:** A paper has been accepted by the SCI journal "Applied Sciences".
+- **2022-01:** Invited to serve as a Program Committee (PC) member for the 2022 International Conference on Computer Modeling and Big Data Analytics (CMBDA 2022).
+- **2022-01:** Invited to record a New Year promotional video for the well-known CV platform "Ji Market Platform" in China.
 - **2021-12:** A paper has been accepted by the international journal "IEEE Multimedia".
 - **2021-12:** I have joined the CAAI (Chinese Association for Artificial Intelligence) Youth Working Committee.
 - **2021-12:** I have joined the CSIG-MV (China Society of Image and Graphics - Machine Vision) Committee.

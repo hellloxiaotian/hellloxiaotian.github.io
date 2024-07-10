@@ -934,20 +934,22 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
 		<div class="desc_blank"> </div>
 		<div class="desc">Jiang Su,  <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
 		<div class="desc_blank_2"> </div>
+	</div>
 	<div class="img">
           	<img src="picture/Yuwei Ding.jpg" >
           	<div class="desc_blank"> </div>
           	<div class="desc">Yuwei Ding,  <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
           	<div class="desc_blank_2"> </div>
    	</div>
-
+</div>
+		
+<div class="box">
   	 <div class="img">
       		<img src="picture/Yichun Wu.jpg" >
       		<div class="desc_blank"> </div>
       		<div class="desc">Yichun Wu,  <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
       		<div class="desc_blank_2"> </div>
     	 </div>
-
          <div class="img">
       		<img src="picture/Kai Liu.jpg" >
       		<div class="desc_blank"> </div>
@@ -955,6 +957,7 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
       		<div class="desc_blank_2"> </div>
     	 </div>
 
+<div class="box">
          <div class="img">
       		<img src="picture/Runbing Wu.jpg" >
       		<div class="desc_blank"> </div>

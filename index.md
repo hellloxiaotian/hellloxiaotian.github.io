@@ -927,7 +927,19 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
 
 ## Team Members (团队成员)
 
+### Supervisor for postdoc（博士后）
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Jing Fang.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">Jing Fang,  <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
 ### Supervisor for doctorate（博士生）
+
 <div class="box">
 	<div class="img">
 		<img src="picture/Jiang Su.jpg" >
@@ -1018,6 +1030,23 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
   	</div>
 </div> 
 
+### Supervisor for Visiting students (交换生)
+
+<div class="box">
+        <div class="img">
+   		<img src="picture/Zhixin Xu.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Zhixin Xu, <a href = "https://www.bistu.edu.cn/">Beijing Information Science and Technology University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+   <div class="img">
+   		<img src="picture/Peixian Su.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Peixian Su, <a href = "https://www.szu.edu.cn/">Shenzhen University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+</div>
+	
 ### Supervisor for Undergraduates (本科生)
 
 <div class="box">

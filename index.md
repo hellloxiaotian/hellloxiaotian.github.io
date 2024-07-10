@@ -7,6 +7,12 @@ As the first Ph.D. graduate (ahead of schedule) from the Computing Department ac
 My research interests lie in video/image restoration and recognition, image generation, and deep learning. I have published over 70 papers in prestigious international journals and conferences such as IEEE TNNLS, IEEE TMM, IEEE TSMC, IEEE TGRS, IEEE TCSVT, IEEE TIV, Pattern Recognition, Neural Networks, Information Sciences, Information Fusion, and ICASSP. Among these, six are ESI highly cited papers, three are ESI hot papers, four are cover papers in top journals, and five are included in the Benchmark List of the international super-resolution field. Notably, the technology described in one of my papers has been purchased for commercial use by an American medical imaging company, and the technology in another paper has been applied to Apple phones by Japanese engineers.
 Furthermore, I serve as an editorial board member for several SCI journals, including CAAI Transaction on Intelligence Technology and Dense Technology. I am also a reviewer for the National Natural Science Foundation of China, a technology expert in Shanghai, a digital economy development expert in Qingyang, Gansu, a network and information expert in Suzhou, a council member of the Suzhou Artificial Intelligence Society, and an expert in the National Graduate Education Evaluation and Monitoring Expert Database.
 
+## Work Experience (工作经历)
+
+Associate Professor, Northwestern Polytechnical University
+
+Member, National Engineering Laboratory for Integrated Big Data Application Technologies in Air, Space, Earth, and Sea
+
 ## Research Interests (研究兴趣) 
 
 Computer Vision: Image Restoration, Video Restoration, Medical Image Processing, Image Recognition 

@@ -971,21 +971,18 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
 ### Supervisor for Postgraduates (硕士生)
 
 <div class="box">
-	
   	<div class="img">
    		<img src="picture/Haoyang Gao.jpg" >
    		<div class="desc_blank"> </div>
   		<div class="desc">  Haoyang Gao, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
  	</div>
-   
   	<div class="img">
    		<img src="picture/Ali Mansab.jpg" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Ali Mansab, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
-
    </div>
 
 <div class="box">
@@ -995,14 +992,12 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
    		<div class="desc">  Noor Tahir , <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
-
    	<div class="img">
    		<img src="picture/Ruichen Zeng.jpg" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Ruichen Zeng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
-
    	<div class="img">
    		<img src="picture/Yaozehua Yuan.jpg" >
   		<div class="desc_blank"> </div>
@@ -1015,7 +1010,6 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
    		<div class="desc">  Junjian Yang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
-   	
    	<div class="img">
    		<img src="picture/Muhan Chen.jpg" >
   		<div class="desc_blank"> </div>
@@ -1027,32 +1021,65 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
 ### Supervisor for Undergraduates (本科生)
 
 <div class="box">
-
-    	
-    
-    	<div class="img" width = "50%">
-     		<img src="picture/Jinwen Niu.jpg" >
-     		<div class="desc_blank"> </div>
-     		<div class="desc"> Jinwen Niu, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-     		<div class="desc_blank_2"> </div>
-    	</div>
-    
-    	<div class="img" width = "50%">
-     		<img src="picture/Shijie Sun.jpg" >
-     		<div class="desc_blank"> </div>
-     		<div class="desc"> Shijie Sun, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-     		<div class="desc_blank_2"> </div>
-   	</div>
-
-
-	<div class="img" width = "50%">
-     		<img src="picture/Canwen Li.jpg" >
-     		<div class="desc_blank"> </div>
-     		<div class="desc"> Canwen Li, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-     		<div class="desc_blank_2"> </div>
-    	</div>
-
+        <div class="img">
+   		<img src="picture/Mingjian Song.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Mingjian Song, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+        <div class="img">
+   		<img src="picture/Zhe Zhang.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Zhe Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
 </div>
+
+<div class="box">
+        <div class="img">
+   		<img src="picture/Lading Ying.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Lading Ying, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+        <div class="img">
+   		<img src="picture/Zhuowei Yang.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Zhuowei Yang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+</div>
+
+<div class="box">
+        <div class="img">
+   		<img src="picture/Haobo Yang.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Haobo Yang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+        <div class="img">
+   		<img src="picture/Zhuoqun Fu.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Zhuoqun Fu, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+</div>
+
+<div class="box">
+        <div class="img">
+   		<img src="picture/Yuxuan Li.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Yuxuan Li, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+        <div class="img">
+   		<img src="picture/Qi Meng.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Qi Meng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+</div>
+
 
 ### Supervisor for Graduate students (已毕业学生)
 <div class="box">

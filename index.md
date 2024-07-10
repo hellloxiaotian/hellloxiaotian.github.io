@@ -956,6 +956,7 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
       		<div class="desc">Kai Liu,  <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
       		<div class="desc_blank_2"> </div>
     	 </div>
+</div>
 
 <div class="box">
          <div class="img">
@@ -968,23 +969,6 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
 </div>
 
 ### Supervisor for Postgraduates (硕士生)
-<div class="box">
-    
-	<div class="img">
-      		<img src="picture/Menghua Zheng.jpg" >
-      		<div class="desc_blank"> </div>
-      		<div class="desc"> <a href = "https://scholar.google.com/citations?hl=en&user=ocy7acsAAAAJ&view_op=list_works&gmla=AJsN-			 F68U1UklGZDjmuesBv3yirregvxFAaTTQ7hGPTAoi4DYMZOz3PlkvLD0nTzGEafqkd7HOWADzBTkTIKNG93iO0b1QjuRF1DtBp434i9Eea6kCNQPg4">Menghua Zheng</a>, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-      		<div class="desc_blank_2"> </div>
-     	</div>
-
-  	<div class="img">
-   		<img src="picture/Xuanyu Zhang.png" >
-   		<div class="desc_blank"> </div>
-   		<div class="desc">  Xuanyu Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
- 	 </div>
-
-</div>
 
 <div class="box">
 	
@@ -1072,7 +1056,22 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
 
 ### Supervisor for Graduate students (已毕业学生)
 <div class="box">
-	
+
+ <div class="box">
+	<div class="img">
+      		<img src="picture/Menghua Zheng.jpg" >
+      		<div class="desc_blank"> </div>
+      		<div class="desc"> <a href = "https://scholar.google.com/citations?hl=en&user=ocy7acsAAAAJ&view_op=list_works&gmla=AJsN-			 F68U1UklGZDjmuesBv3yirregvxFAaTTQ7hGPTAoi4DYMZOz3PlkvLD0nTzGEafqkd7HOWADzBTkTIKNG93iO0b1QjuRF1DtBp434i9Eea6kCNQPg4">Menghua Zheng</a>, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+      		<div class="desc_blank_2"> </div>
+     	</div>
+  	<div class="img">
+   		<img src="picture/Xuanyu Zhang.png" >
+   		<div class="desc_blank"> </div>
+   		<div class="desc">  Xuanyu Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+ 	 </div>
+</div>
+
   	 <div class="img" width = "50%">
    		<img src="picture/Jiawen Zeng.jpg" >
   		<div class="desc_blank"> </div>
@@ -1093,6 +1092,7 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
      		<div class="desc"> Bei Shi, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
      		<div class="desc_blank_2"> </div>
     	</div>
+     
 </div>
 ### Supporter
 This homepage is supported by Mr. Menghua Zheng in June, 2021. 

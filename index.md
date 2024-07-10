@@ -930,9 +930,9 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
 ### Supervisor for doctorate（博士生）
 <div class="box">
 	<div class="img">
-		<img src="picture/Yuxuan Hu.jpg" >
+		<img src="picture/Jiang Su.jpg" >
 		<div class="desc_blank"> </div>
-		<div class="desc">Yuxuan Hu,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
+		<div class="desc">Jiang Su,  <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
 		<div class="desc_blank_2"> </div>
 	</div>
      

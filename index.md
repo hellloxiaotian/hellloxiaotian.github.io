@@ -937,16 +937,30 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
 	</div>
      
 	<div class="img">
-          	<img src="picture/Jiagang Song.jpg" >
+          	<img src="picture/Yuwei Ding.jpg" >
           	<div class="desc_blank"> </div>
-          	<div class="desc">Jiagang Song,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
+          	<div class="desc">Yuwei Ding,  <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
           	<div class="desc_blank_2"> </div>
    	</div>
 
   	 <div class="img">
-      		<img src="picture/Jingyu Xiao.jpg" >
+      		<img src="picture/Yichun Wu.jpg" >
       		<div class="desc_blank"> </div>
-      		<div class="desc">Jingyu Xiao,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
+      		<div class="desc">Yichun Wu,  <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+      		<div class="desc_blank_2"> </div>
+    	 </div>
+
+         <div class="img">
+      		<img src="picture/Kai Liu.jpg" >
+      		<div class="desc_blank"> </div>
+      		<div class="desc">Kai Liu,  <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+      		<div class="desc_blank_2"> </div>
+    	 </div>
+
+         <div class="img">
+      		<img src="picture/Runbing Wu.jpg" >
+      		<div class="desc_blank"> </div>
+      		<div class="desc">Runbing Wu,  <a href = "https://www.hainanu.edu.cn/">Hainan University</a>, China</div>
       		<div class="desc_blank_2"> </div>
     	 </div>
      
@@ -970,21 +984,6 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
  	 </div>
 
 </div>
-
-<div class="box">
-	<div class="img">
-      		<img src="picture/Shaodong Xie.jpg" >
-     		<div class="desc_blank"> </div>
-      		<div class="desc">Shaodong Xie  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
-      		<div class="desc_blank_2"> </div>
-	</div>
-
-	<div class="img">
-      		<img src="picture/Chao Li.jpg" >
-     		<div class="desc_blank"> </div>
-     		<div class="desc">Chao Li,  <a href = "http://www.csu.edu.cn/">Central South University</a>, China</div>
-    		<div class="desc_blank_2"> </div>
-	</div>
   
   	<div class="img">
    		<img src="picture/Haoyang Gao.jpg" >
@@ -997,27 +996,6 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
    		<img src="picture/Ali Mansab.jpg" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Ali Mansab, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-   
-   	<div class="img">
-   		<img src="picture/Cong Tan.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Cong Tan, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-   
-   	<div class="img">
-   		<img src="picture/Hongxin Wang.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Hongxin Wang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-   
-  	 <div class="img">
-   		<img src="picture/Hui Zhao.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Hui Zhao, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
 

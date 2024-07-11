@@ -759,9 +759,9 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
 
 <div class="box">
   	<div class="img">
-   		<img src="picture/Haoyang Gao.jpg" >
+   		<img src="picture/Tasnime Mockbel.jpg" >
    		<div class="desc_blank"> </div>
-  		<div class="desc">  Haoyang Gao, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc">  Tasnime Mockbel, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
  	</div>
   	<div class="img">
@@ -803,6 +803,36 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
    		<div class="desc">  Muhan Chen, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
+   	<div class="img">
+   		<img src="picture/Weiqiang Xin.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Weiqiang Xin, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+	<div class="img">
+   		<img src="picture/Zhiyuan Liu.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Zhiyuan Liu, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+	<div class="img">
+   		<img src="picture/Jingyuan Xie.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Jingyuan Xie, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+	<div class="img">
+   		<img src="picture/Shuqi Qiu.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Shuqi Qiu, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+	<div class="img">
+   		<img src="picture/Xi Chen.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Xi Chen, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
 </div> 
 
 ### Supervisor for Visiting students (交换生)
@@ -818,6 +848,12 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
    		<img src="picture/Peixian Su.jpg" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Peixian Su, <a href = "https://www.szu.edu.cn/">Shenzhen University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+        <div class="img">
+   		<img src="picture/Kaiwen Zha.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Kaiwen Zha, <a href = "https://www.szu.edu.cn/">Shenzhen University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
 </div>

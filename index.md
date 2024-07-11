@@ -914,13 +914,7 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
      		<div class="desc"> Yingpeng Ma, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
      		<div class="desc_blank_2"> </div>
 	</div>
-   	 <div class="img" width = "50%">
-     		<img src="picture/Bei Shi.jpg" >
-     		<div class="desc_blank"> </div>
-     		<div class="desc"> Bei Shi, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-     		<div class="desc_blank_2"> </div>
-    	</div>
-     
+
 </div>
 ### Supporter
 This homepage is supported by Mr. Menghua Zheng in June, 2021. 

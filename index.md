@@ -91,6 +91,14 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2024-07:** Congratulations to our team member, Tong Tong, for being reported on the WeChat public platform regarding his research work.
+- **2024-07:** A project team member has been accepted by an international journal, IEEE Transactions on Systems, Man, and Cybernetics: Systems (SCI-IF: 8.6)
+- **2024-06:** Congratulations to the project team member, Tong Tong, for winning the Excellent Undergraduate Thesis Award at Northwestern Polytechnical University. Wishing the team member success in their future studies and life.
+- **2024-06:** A project team member has been accepted by an SCI journal.
+- **2024-06:** A project team member has won the Excellent Thesis Award of Natural Science.
+- **2024-06:** One invention patent has been granted.
+- **2024-06:** Congratulations to the project team member, Tong Tong, for winning the Outstanding Undergraduate Thesis Award at Northwestern Polytechnical University (third place). The team has consecutively won this award for three years from 2022 to 2024. Wishing Tong Tong and the project team great success in their future research endeavors!
+- **2024-06:** A project team member has published a first-author paper in a Q1 JCR journal, congratulations to Tong Tong.
 - **2024-06:** Online Presentation on Image Super-Resolution Based on Dynamic Networks.
 - **2024-06:** The research group has been granted an invention patent.
 - **2024-05:** The CSIG Imaging Detection and Perception Committee held the fourteenth "AI Young Scholars Forum" academic event - Report: Research on Image Denoising Methods Based on Saliency Structure Information.

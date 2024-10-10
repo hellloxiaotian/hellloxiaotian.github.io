@@ -93,7 +93,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 - **2024-07:** Congratulations to our team member, Tong Tong, for being reported on the WeChat public platform regarding his research work.
 - **2024-07:** A project team member has been accepted by an international journal, IEEE Transactions on Systems, Man, and Cybernetics: Systems (SCI-IF: 8.6)
-- **2024-06:** Congratulations to the project team member, Tong Tong, for winning the Excellent Undergraduate Thesis Award at Northwestern Polytechnical University. Wishing the team member success in their future studies and life.
+- **2024-06:** Congratulations to the project team member, Xin Weiqiang, for winning the Excellent Undergraduate Thesis Award at Northwestern Polytechnical University. Wishing the team member success in their future studies and life.
 - **2024-06:** A project team member has been accepted by an SCI journal.
 - **2024-06:** A project team member has won the Excellent Thesis Award of Natural Science.
 - **2024-06:** One invention patent has been granted.

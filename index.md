@@ -133,6 +133,14 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 ## News (消息)
 
+- **2024-09:** Granted an invention patent.
+- **2024-09:** Accepted a paper in IEEE Transactions on Instrumentation & Measurement.
+- **2024-08:** Four papers authored by undergraduate students from our research group have been accepted as Oral presentations.
+- **2024-08:** The students in our research group won a national award in one of the three major competitions.
+- **2024-08:** Our research group has had a paper accepted by *Drones*, a journal classified as a Q2 journal by the Chinese Academy of Sciences.
+- **2024-08:** Our research group has been granted an invention patent.
+- **2024-08:** The students in our research group won a provincial bronze award in one of the three major competitions.
+- **2024-07:** Our research group has had a paper accepted by the top-tier journal in the field of computer control, IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 - **2024-07:** Congratulations to our team member, Tong Tong, for being reported on the WeChat public platform regarding his research work.
 - **2024-07:** A project team member has been accepted by an international journal, IEEE Transactions on Systems, Man, and Cybernetics: Systems (SCI-IF: 8.6)
 - **2024-06:** Congratulations to the project team member, Xin Weiqiang, for winning the Excellent Undergraduate Thesis Award at Northwestern Polytechnical University. Wishing the team member success in their future studies and life.

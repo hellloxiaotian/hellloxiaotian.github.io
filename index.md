@@ -167,7 +167,7 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - **2023-11:** Canwen Li, a 20-level undergraduate student in our group, won the S Award of the American Collegiate Mathematical Contest in Modeling.
 - **2023-11:** One paper in CCF Class C journal "Multimedia Tools and Applications" (SCI-IF: 3.1) was accepted.
 - **2023-11:** One paper becomes an ESI Highly Cited Paper.
-- **2023-11:** One paper became an ESI hot paper
+- **2023-11:** One paper became an ESI hot paper.
 - **2023-10:** One paper was accepted by IEEE Transactions on Intelligent Vehicles (IEEE TIV, SCI-IF: 8.2), a well-known international journal in the field of transportation.
 - **2023-10:** Selected as one of the world's top 2% top scientists in 2023;
 - **2023-10:** My 2021 master's student, Zheng Menghua, won the National Scholarship for Master's Students with the first place;

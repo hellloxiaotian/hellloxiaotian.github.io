@@ -965,27 +965,19 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
 
 <div class="box">
         <div class="img">
-   		<img src="picture/Yuxuan Li.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Yuxuan Li, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-        <div class="img">
    		<img src="picture/Qi Meng.jpg" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Qi Meng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
-</div>
-
-<div class="box">
-        <div class="img">
+	<div class="img">
    		<img src="picture/Tongtong Cheng.jpg" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Tongtong Cheng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
 </div>
+
 
 ### Supervisor for Graduate students (已毕业学生)
 <div class="box">

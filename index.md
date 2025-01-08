@@ -129,7 +129,20 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 
 ## Recruitment (招生)
-- Welcome to contact me for undergraduates, masters and RA students, who are interested in artificial intelligence, deep learning and image processing. I have good cooperation with Tsinghua University, Peking University, Harbin Institute of Technology, National University of Defense Technology, Wuhan University, Central South University, Dalian University of Technology, Nankai University , Hunan University, Nanjing University of Technology, Southern University of Science and Technology, Institute of Information Technology, Chinese Academy of Sciences, Shenzhen Advanced Institute of Chinese Academy of Sciences, Pengcheng Laboratory, Chinese University of Hong Kong, City University of Hong Kong, University of Macau, Tsinghua University in Taiwan, Zurich Institute of Technology, Nanyang Technological University in Singapore , University of Central Florida, University of Technology Sydney, Australia, Western Norway University of Applied Sciences and Massey University in New Zealand and other well-known universities, etc. Outstanding students can be recommended to a world-class group for visiting, exchanging or applying PhD degree. Additionally, I have established a good cooperation with BAT, Huawei, Byte, etc. And I can recommend excellent students for visiting in these IT companies of China. My email addresses are chunweitian@163.com and [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn).
+1. Basic Admission Requirements:
+1）Have a strong sense of national and social responsibility.
+2）Be honest and trustworthy.
+3）Be punctual and value time.
+4）Have a clear and firm goal.
+5）Have perseverance and determination.
+6）Be serious, hardworking, and eager to learn.
+7）Have a strong interest in scientific research and a spirit of exploration. Priority will be given to like-minded individuals with common research goals, and those interested in pursuing a PhD.
+8）Students who are only seeking a degree or those joining the group just to try it out should not contact me.
+2. Application Requirements:
+1）Students majoring in Computer Science, Software Engineering, or Cybersecurity will be given priority, especially those with recommendation for direct admission.
+2）Undergraduate students who have performed well in the research group will be given preference. Each year, 5-7 master's students are recruited (with priority for those interested in pursuing a PhD). The group also enrolls about 4 PhD students each year. For PhD applicants, please read a recent TPAMI journal paper or a top CVPR conference paper, and prepare a document containing your thoughts, research interests, research background, and PhD plans, along with your resume. Send these materials to my email for review, and if approved, further steps will be arranged. For the 2025 intake, we expect to recruit around 4 master's students and 4-5 PhD students. Postdoctoral positions are always available. You may also refer to my official faculty page at https://teacher.nwpu.edu.cn/chunweitian.html (Northwestern Polytechnical University personal page) and https://www.scholat.com/chunweitian (Scholar personal page). My email addresses are chunweitian@nwpu.edu.cn and chunweitian@163.com.
+3. Research Group Mission:
+Aim high, stand firm, change the world, be rigorous, and progress steadily. If you have the courage, drive, and goals to change the world and contribute to the advancement of social and technological progress, please contact me!
 
 ## News (消息)
 

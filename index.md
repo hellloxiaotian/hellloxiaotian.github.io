@@ -129,20 +129,48 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 
 
 ## Recruitment (招生)
-1. Basic Admission Requirements<br>
-1）Have a strong sense of national and social responsibility.<br>
-2）Be honest and trustworthy.<br>
-3）Be punctual and value time.<br>
-4）Have a clear and firm goal.<br>
-5）Have perseverance and determination.<br>
-6）Be serious, hardworking, and eager to learn.<br>
-7）Have a strong interest in scientific research and a spirit of exploration. Priority will be given to like-minded individuals with common research goals, and those interested in pursuing a PhD.<br>
-8）Students who are only seeking a degree or those joining the group just to try it out should not contact me.<br>
-2. Application Requirements:<br>
-1）Students majoring in Computer Science, Software Engineering, or Cybersecurity will be given priority, especially those with recommendation for direct admission.<br>
-2）Undergraduate students who have performed well in the research group will be given preference. Each year, 5-7 master's students are recruited (with priority for those interested in pursuing a PhD). The group also enrolls about 4 PhD students each year. For PhD applicants, please read a recent TPAMI journal paper or a top CVPR conference paper, and prepare a document containing your thoughts, research interests, research background, and PhD plans, along with your resume. Send these materials to my email for review, and if approved, further steps will be arranged. For the 2025 intake, we expect to recruit around 4 master's students and 4-5 PhD students. Postdoctoral positions are always available. You may also refer to my official faculty page at https://teacher.nwpu.edu.cn/chunweitian.html (Northwestern Polytechnical University personal page) and https://www.scholat.com/chunweitian (Scholar personal page). My email addresses are [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn) and [chunweitian@163.com](mailto:chunweitian@163.com).
-3. Research Group Mission:<br>
-Aim high, stand firm, change the world, be rigorous, and progress steadily. If you have the courage, drive, and goals to change the world and contribute to the advancement of social and technological progress, please contact me!
+### 1. Basic Admission Requirements
+1. **Have a strong sense of national and social responsibility.**
+2. **Be honest and trustworthy.**
+3. **Be punctual and value time.**
+4. **Have a clear and firm goal.**
+5. **Have perseverance and determination.**
+6. **Be serious, hardworking, and eager to learn.**
+7. **Have a strong interest in scientific research and a spirit of exploration.** Priority will be given to like-minded individuals with common research goals, and those interested in pursuing a PhD.
+8. **Students who are only seeking a degree or those joining the group just to try it out should not contact me.**
+
+---
+
+### 2. Application Requirements
+1. **Students majoring in Computer Science, Software Engineering, or Cybersecurity** will be given priority, especially those with recommendation for direct admission.
+2. **Undergraduate students who have performed well in the research group** will be given preference.  
+   - Each year, **5-7 master's students** are recruited (with priority for those interested in pursuing a PhD).  
+   - The group also enrolls about **4 PhD students each year**.  
+   - For PhD applicants:  
+     - Please read a recent TPAMI journal paper or a top CVPR conference paper.  
+     - Prepare a document containing:
+       - Your thoughts,
+       - Research interests,
+       - Research background, and
+       - PhD plans.  
+     - Along with your resume, send these materials to my email for review.  
+   - If approved, further steps will be arranged.
+   - For the **2025 intake**, we expect to recruit:
+     - **4 master's students**, and  
+     - **4-5 PhD students**.  
+   - **Postdoctoral positions** are always available.
+   - You may also refer to my official faculty pages:  
+     - [Northwestern Polytechnical University personal page](https://teacher.nwpu.edu.cn/chunweitian.html), and  
+     - [Scholar personal page](https://www.scholat.com/chunweitian).
+   - My email addresses are:
+     - [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn), and  
+     - [chunweitian@163.com](mailto:chunweitian@163.com).
+
+---
+
+### 3. Research Group Mission
+**Aim high, stand firm, change the world, be rigorous, and progress steadily.**  
+If you have the courage, drive, and goals to change the world and contribute to the advancement of social and technological progress, please contact me!
 
 ## News (消息)
 

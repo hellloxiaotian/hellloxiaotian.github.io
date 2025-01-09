@@ -845,16 +845,16 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
 </div>
 
 <div class="box">
-  	<div class="img">
-   		<img src="picture/Lading Ying.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Lading Ying, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
         <div class="img">
    		<img src="picture/Yinghao Xia.jpg" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Yinghao Xia, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+	<div class="img">
+   		<img src="picture/Tongtong Cheng.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Tongtong Cheng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
 </div>
@@ -996,6 +996,12 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
    		<div class="desc">  Zhuowei Yang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
+  	<div class="img">
+   		<img src="picture/Lading Ying.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Lading Ying, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
 </div>
 
 <div class="box">
@@ -1018,12 +1024,6 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
    		<img src="picture/Qi Meng.jpg" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Qi Meng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-	<div class="img">
-   		<img src="picture/Tongtong Cheng.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Tongtong Cheng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
 </div>

@@ -854,7 +854,7 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
         <div class="img">
    		<img src="picture/Yinghao Xia.jpg" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Lading Ying, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc">  Yinghao Xia, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
 </div>

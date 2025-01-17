@@ -14,9 +14,9 @@ Member, National Engineering Laboratory for Integrated Big Data Application Tech
 
 Image/Video Restoration and Recognition, Video/Image Generation, Industrial Vision Defect Detection, Intelligent Transportation, Multimodal and Large Models.
 
-**Email Address**: [chunweitian@163.com](mailto:chunweitian@163.com) or [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn) &nbsp; &nbsp;&nbsp; &nbsp;   [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F6Z9paElRVrB57ZE6jnc1sux0rOfl5ysETTVs5VvLqZc5FF-Gm_3ARkrv5EJVY9rb7jb5nIL_QosJ4fRH_yADHx6aEJvmJtaAHLlgwndKsuFIAJGVI&user=XGDP6QwAAAAJ)/ [GitHub](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian&sa=D&sntz=1&usg=AFQjCNHNxUH6jjCswBQHRvflSJS7687TIg)/ [ResearchGate](https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FChunwei_Tian%3Fev%3Dhdr_xprf%26_sg%3DI19Smn8Fj7YcKeCtPZJ9f4Q3ttDzpqWpqz-fn_2AvvBGcIigq2wlIt2rDW96FBtI1bHBptRVZgEEZII8TU3jJzly&sa=D&sntz=1&usg=AFQjCNFljCUnvWlIx42EZTjjFe5Fl9K3mg) / [中文主页](https://teacher.nwpu.edu.cn/chunweitian.html)
-**English homepage**: [https://hellloxiaotian.github.io](https://hellloxiaotian.github.io)
-**Personal Code Homepage**:[https://github.com/hellloxiaotian](https://github.com/hellloxiaotian)
+**Email Address**: [chunweitian@163.com](mailto:chunweitian@163.com) or [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn) &nbsp; &nbsp;&nbsp; &nbsp;   [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F6Z9paElRVrB57ZE6jnc1sux0rOfl5ysETTVs5VvLqZc5FF-Gm_3ARkrv5EJVY9rb7jb5nIL_QosJ4fRH_yADHx6aEJvmJtaAHLlgwndKsuFIAJGVI&user=XGDP6QwAAAAJ)/ [GitHub](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian&sa=D&sntz=1&usg=AFQjCNHNxUH6jjCswBQHRvflSJS7687TIg)/ [ResearchGate](https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FChunwei_Tian%3Fev%3Dhdr_xprf%26_sg%3DI19Smn8Fj7YcKeCtPZJ9f4Q3ttDzpqWpqz-fn_2AvvBGcIigq2wlIt2rDW96FBtI1bHBptRVZgEEZII8TU3jJzly&sa=D&sntz=1&usg=AFQjCNFljCUnvWlIx42EZTjjFe5Fl9K3mg) / [中文主页](https://teacher.nwpu.edu.cn/chunweitian.html)<br>
+**English homepage**: [https://hellloxiaotian.github.io](https://hellloxiaotian.github.io)<br>
+**Personal Code Homepage**:[https://github.com/hellloxiaotian](https://github.com/hellloxiaotian)<br>
 
 <br/>
 

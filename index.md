@@ -125,9 +125,6 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 - C. Tian, G. Zhu, Z. Wu, Y. Xu, W. Zuo, C. Chen, C. Lin. Lightweight Image Super-Resolution with Enhanced CNN[J].Knowledge-based systems, 2020:106235. （The production of international Super-Resolution Benchmark)
 
 
-<br/>
-
-
 ## Recruitment (招生)
 ### 1. Basic Admission Requirements
 1. **Have a strong sense of national and social responsibility.**
@@ -139,34 +136,10 @@ Major Research Project:  Noise Tolerance Computing and Flexible Low-Level Vision
 7. **Have a strong interest in scientific research and a spirit of exploration.** Priority will be given to like-minded individuals with common research goals, and those interested in pursuing a PhD.
 8. **Students who are only seeking a degree or those joining the group just to try it out should not contact me.**
 
----
 
 ### 2. Application Requirements
 1. **Students majoring in Computer Science, Software Engineering, or Cybersecurity** will be given priority, especially those with recommendation for direct admission.
-2. **Undergraduate students who have performed well in the research group** will be given preference.  
-   - Each year, **5-7 master's students** are recruited (with priority for those interested in pursuing a PhD).  
-   - The group also enrolls about **4 PhD students each year**.  
-   - For PhD applicants:  
-     - Please read a recent TPAMI journal paper or a top CVPR conference paper.  
-     - Prepare a document containing:
-       - Your thoughts,
-       - Research interests,
-       - Research background, and
-       - PhD plans.  
-     - Along with your resume, send these materials to my email for review.  
-   - If approved, further steps will be arranged.
-   - For the **2025 intake**, we expect to recruit:
-     - **4 master's students**, and  
-     - **4-5 PhD students**.  
-   - **Postdoctoral positions** are always available.
-   - You may also refer to my official faculty pages:  
-     - [Northwestern Polytechnical University personal page](https://teacher.nwpu.edu.cn/chunweitian.html), and  
-     - [Scholar personal page](https://www.scholat.com/chunweitian).
-   - My email addresses are:
-     - [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn), and  
-     - [chunweitian@163.com](mailto:chunweitian@163.com).
-
----
+2. **Undergraduate students who have performed well in the research group** will be given preference. Undergraduates who perform well in our research group will be given priority. We recruit 5-7 master's students annually (priority given to those interested in pursuing a PhD). We recruit about 4 PhD students annually. For those applying for the PhD program, please select a recent paper from TPAMI journal or a top CVPR conference, and prepare a document covering your reading reflections, research interests, research background, and PhD research plan. Send this along with your resume to my email for review. Once approved, we will proceed with the next steps. For the 2025 class, we expect to admit about 4 master's students and 4-5 PhD students, and we are always recruiting postdoctoral researchers. You can also refer to my official faculty homepage at [Northwestern Polytechnical University personal page](https://teacher.nwpu.edu.cn/chunweitian.html), and  [Scholar personal page](https://www.scholat.com/chunweitian). My email addresses are [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn), and  [chunweitian@163.com](mailto:chunweitian@163.com).
 
 ### 3. Research Group Mission
 **Aim high, stand firm, change the world, be rigorous, and progress steadily.**  

@@ -6,7 +6,7 @@
 
 ## Work Experience (工作经历)
 
-Associate Professor, Northwestern Polytechnical University
+Associate Professor and PHD supervisor, Northwestern Polytechnical University
 
 Member, National Engineering Laboratory for Integrated Big Data Application Technologies in Air, Space, Earth, and Sea
 

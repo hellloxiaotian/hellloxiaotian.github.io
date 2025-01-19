@@ -145,6 +145,14 @@ If you have the courage, drive, and goals to change the world and contribute to 
 
 ## News (消息)
 
+- **2024-11:** Congratulations to the undergraduate students of the research team for winning the first prize at the provincial level in the competition, and best of luck as they aim for the national award!
+- **2024-11:** The undergraduate students of the research team have won the second prize in the provincial competition of the National Artificial Intelligence Application Scenarios Innovation Challenge and are now preparing for the national competition.
+- **2024-11:** Congratulations to the direct Ph.D. student (the top undergraduate student from Northwestern Polytechnical University) for receiving the National Scholarship!
+- **2024-11:** Welcome to the students from the Class of 2025 who have been accepted for direct graduate admission, and congratulations on joining the research team to pursue their master's degree.
+- **2024-10:** Congratulations to master's students Chen Muhan and Yang Junjian from the Class of 2023 for receiving the university's First-Class Scholarship, ranking within the top 10% of their cohort.
+- **2024-10:** The research team has had a paper accepted by the top journal in the international remote sensing field, *IEEE Transactions on Geoscience and Remote Sensing*.
+- **2024-10:** The research team has had a paper accepted by the *Journal of the Franklin Institute*.
+- **2024-09:** The top undergraduate student from Northwestern Polytechnical University (NPU) with the highest rank has joined the research team for direct Ph.D. admission.
 - **2024-09:** Granted an invention patent.
 - **2024-09:** Accepted a paper in IEEE Transactions on Instrumentation & Measurement.
 - **2024-08:** Four papers authored by undergraduate students from our research group have been accepted as Oral presentations.

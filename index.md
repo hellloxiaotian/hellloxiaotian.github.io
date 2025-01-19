@@ -55,6 +55,7 @@ Image/Video Restoration and Recognition, Video/Image Generation, Industrial Visi
 
 ### Published over 70 academic papers, with some of the papers listed as follows:
 
+- Tian C, Zhang X, Zhang Q, et al. Image super‐resolution via dynamic network[J]. CAAI Transactions on Intelligence Technology, 2024, 9(4): 837-849.(Accepted by a top international journal in the field of Artificial Intelligence and Intelligent Systems / Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.4)
 - C.Tian, M.Zheng, C.Lin, Z.Li, D.Zhang. Heterogeneous window transformer for image denoising[J].IEEE Transactions on Systems, Man, and Cybernetics:Systems. 2024.(Accepted by a top international journal in the field of computer control / Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.6)
 - C.Tian, M.Zheng, T.Jiao, W.Zuo, Y.Zhang, C.Lin.A Self-supervised CNN for image watermark removal[J].IEEE Transactions on Circuits and Systems for Video Technology, 2024.(Accepted by a top international journal in the field of video / Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.4)
 - C.Tian,J.Xiao, B. Zhang, W. Zuo, Y. Zhang, C. Lin. A self-supervised network for image denoising and watermark removal[J]. Neural Networks, 2024.(Accepted by a top international journal in the field of neuroscience / Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 7.8)
@@ -86,6 +87,7 @@ Image/Video Restoration and Recognition, Video/Image Generation, Industrial Visi
 
 ### Some collaborative papers
 
+- Hu Y, Tian C, Zhang J, et al. Efficient image denoising with heterogeneous kernel-based CNN[J]. Neurocomputing, 2024, 592: 127799.(Accepted by a top international journal in the field of neural networks / Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 5.4)
 - K. Yang, Q. Li, C. Tian, H. Zhang, A. Shi, J. Li. Defort: Deformable Transformer for Visual Tracking [J]. Neural Networks. 2024.(Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 9.657) (Official journal of the International Neural Network Society / Top international journal in the field of neural networks)
 - Z.Hao, G. Wang, C. Tian,  B.Zhang. A distributed computation model based on federated learning integrates heterogenous models and consortium blockchain  for sovling time-varying problems. International Workshop on Trustworthy Federated Learning in Conjunction with IJCAI 2023.(CCF A / Accepted)
 - T. Wang, Y. Liu, Q. Yin, J. Geng, J. Chen, X. Yin, Y. Wang, X. Shang, C. Tian, Y. Wang.. Correction to: Enhancing discoveries of molecular QTL studies with small sample size using summary statistic imputation[J]. Briefings in Bioinformatics, 2022, 23(3): bbac139.(Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 11.622)

@@ -1010,6 +1010,7 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
 </div>
 
 
+<!--
 ### Supervisor for Graduate students (已毕业学生)
 <div class="box">
 
@@ -1041,5 +1042,7 @@ Undergraduate Course "Principles and Applications of Big Data Technology" (Sprin
 	</div>
 
 </div>
+-->
+
 ### Supporter
 This homepage is supported by Mr. Menghua Zheng in June, 2021. 

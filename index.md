@@ -135,11 +135,10 @@ Image/Video Restoration and Recognition, Video/Image Generation, Industrial Visi
 6. **Be serious, hardworking, and eager to learn.**
 7. **Have a strong interest in scientific research and a spirit of exploration.** Priority will be given to like-minded individuals with common research goals, and those interested in pursuing a PhD.
 8. **Students who are only seeking a degree or those joining the group just to try it out should not contact me.**
-9. **It is recommended to exercise at least twice a week, with each session lasting no less than 40 minutes.**
-Stand tall and firm, change the world; be rigorous and pragmatic, forge ahead. If you have the vision, drive, and ambition to change the world and contribute to the advancement of society and technology, please contact me!<br>  
+9. **It is recommended to exercise at least twice a week, with each session lasting no less than 40 minutes.**<br>
+Stand tall and firm, change the world; be rigorous and pragmatic, forge ahead. If you have the vision, drive, and ambition to change the world and contribute to the advancement of society and technology, please contact me!<br>
 Our research group is quite busy, but those who are dedicated to scientific research usually achieve good results. Please ensure you carefully read the basic admission requirements and application guidelines before contacting me to avoid unnecessary inefficiencies!<br>
-## Research Group Collaborating Faculty Members
-
+Research Group Collaborating Faculty Members
 - **Shuai Wu**, Xidian University of Electronic Science and Technology  
 - **Di Yuan**, Xidian University of Electronic Science and Technology  
 - **Pengju Liu**, Harbin Institute of Technology  

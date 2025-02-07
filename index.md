@@ -83,7 +83,7 @@ Image/Video Restoration and Recognition, Video/Image Generation, Industrial Visi
 - C. Tian, G. Zhu, Z. Wu, Y. Xu, W. Zuo, C. Chen, C. Lin. Lightweight Image Super-Resolution with Enhanced CNN[J].Knowledge-based systems, 2020:106235.(Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.139) (Renowned international journal in the field of artificial intelligence / Converted by Japanese engineers into CoreML code suitable for Apple's iOS mobile platform / Selected for the International Super-Resolution Benchmark List)
 - C Tian, Y. Xu, W. Zuo, B. Du, C. Lin, D. Zhang. Designing and Training of A Dual CNN for Image Denoising[J].Knowledge-based systems, 2021: 226, 106949.(Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.139) (Renowned international journal in the field of artificial intelligence)
 - C Tian, Y. Xu, et al. Enhanced CNN for image denoising [J],CAAI Transaction on Intelligence Technology, 4(1), 17– 23, 2019. (Chinese Academy of Sciences Tier 2 / Official journal of the Chinese Association for Artificial Intelligence / SCI Impact Factor: 7.985) (2022 Journal Outstanding Paper / 2021 Top 10 Most Cited Papers in the Journal / Integrated with Profillic)
-- Y. Hu, H. Wang, C. Jin, B. Li, C. Tian*. A diffusion model with a FFT for image inpainting [J].  Journal of Cyber-Physical-Social Intelligence. 2023.
+- Y. Hu, H. Wang, C. Jin, B. Li, C. Tian*. A diffusion model with a FFT for image inpainting [J].  Journal of Cyber-Physical-Social Intelligence. 2023
 
 ### Some collaborative papers
 

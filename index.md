@@ -138,7 +138,7 @@ Image/Video Restoration and Recognition, Video/Image Generation, Industrial Visi
 9. **It is recommended to exercise at least twice a week, with each session lasting no less than 40 minutes.**<br>
 Stand tall and firm, change the world; be rigorous and pragmatic, forge ahead. If you have the vision, drive, and ambition to change the world and contribute to the advancement of society and technology, please contact me!<br>
 Our research group is quite busy, but those who are dedicated to scientific research usually achieve good results. Please ensure you carefully read the basic admission requirements and application guidelines before contacting me to avoid unnecessary inefficiencies!<br>
-Research Group Collaborating Faculty Members
+### Research Group Collaborating Faculty Members
 - **Shuai Wu**, Xidian University of Electronic Science and Technology  
 - **Di Yuan**, Xidian University of Electronic Science and Technology  
 - **Pengju Liu**, Harbin Institute of Technology  
@@ -153,9 +153,7 @@ Research Group Collaborating Faculty Members
 1. **Students majoring in Computer Science, Software Engineering, or Cybersecurity** will be given priority, especially those with recommendation for direct admission.
 2. **Undergraduate students who have performed well in the research group** will be given preference. Undergraduates who perform well in our research group will be given priority. We recruit 5-7 master's students annually (priority given to those interested in pursuing a PhD). We recruit about 4 PhD students annually. For those applying for the PhD program, please select a recent paper from TPAMI journal or a top CVPR conference, and prepare a document covering your reading reflections, research interests, research background, and PhD research plan. Send this along with your resume to my email for review. Once approved, we will proceed with the next steps. For the 2025 class, we expect to admit about 4 master's students and 4-5 PhD students, and we are always recruiting postdoctoral researchers. You can also refer to my official faculty homepage at [Northwestern Polytechnical University personal page](https://teacher.nwpu.edu.cn/chunweitian.html), and  [Scholar personal page](https://www.scholat.com/chunweitian). My email addresses are [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn), and  [chunweitian@163.com](mailto:chunweitian@163.com).
 
-### 3. Research Group Mission
-**Aim high, stand firm, change the world, be rigorous, and progress steadily.**  
-If you have the courage, drive, and goals to change the world and contribute to the advancement of social and technological progress, please contact me!
+
 
 ## News (消息)
 

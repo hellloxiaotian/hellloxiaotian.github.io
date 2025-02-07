@@ -135,7 +135,20 @@ Image/Video Restoration and Recognition, Video/Image Generation, Industrial Visi
 6. **Be serious, hardworking, and eager to learn.**
 7. **Have a strong interest in scientific research and a spirit of exploration.** Priority will be given to like-minded individuals with common research goals, and those interested in pursuing a PhD.
 8. **Students who are only seeking a degree or those joining the group just to try it out should not contact me.**
+9. **It is recommended to exercise at least twice a week, with each session lasting no less than 40 minutes.**
+Stand tall and firm, change the world; be rigorous and pragmatic, forge ahead. If you have the vision, drive, and ambition to change the world and contribute to the advancement of society and technology, please contact me!<br>  
+Our research group is quite busy, but those who are dedicated to scientific research usually achieve good results. Please ensure you carefully read the basic admission requirements and application guidelines before contacting me to avoid unnecessary inefficiencies!<br>
+## Research Group Collaborating Faculty Members
 
+- **Shuai Wu**, Xidian University of Electronic Science and Technology  
+- **Di Yuan**, Xidian University of Electronic Science and Technology  
+- **Pengju Liu**, Harbin Institute of Technology  
+- **Yuzhu Ji**, Guangdong University of Technology  
+- **Weiqi Zhang**, Xi'an University of Architecture and Technology  
+- **Lingjun Li**, Zhengzhou University of Light Industry  
+- **Jing Fang**, Northwestern Polytechnical University (NPU)  
+- **Kan Huang**, Shanghai Maritime University  
+- **Fei Huang**, Shanghai University  
 
 ### 2. Application Requirements
 1. **Students majoring in Computer Science, Software Engineering, or Cybersecurity** will be given priority, especially those with recommendation for direct admission.
@@ -632,7 +645,7 @@ ACAIT 2018 (EI)
 
 ## Education and work experience (教育背景和工作经历)
 
-- **3/2017~1/2021:** PhD   [Harbin Institute of Technology](http://www.google.com/url?q=http%3A%2F%2Fwww.hitsz.edu.cn%2Findex.html&sa=D&sntz=1&usg=AFQjCNFLsYIQ7qGqKGr_3MzQ5KcRSMkKPQ), China.
+- **2017.03~2021.01:** PhD   [Harbin Institute of Technology](http://www.google.com/url?q=http%3A%2F%2Fwww.hitsz.edu.cn%2Findex.html&sa=D&sntz=1&usg=AFQjCNFLsYIQ7qGqKGr_3MzQ5KcRSMkKPQ), China.
 - &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; Member, Shenzhen Key Laboratory of Visual Object Detection and Recognition, China. 
 - **2021.07—**  &emsp; &emsp; Associate Professor, [Northwestern Polytechnic University](https://www.npu.edu/), China.
 - **2021.09—**  &emsp; &emsp; Member, National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China 

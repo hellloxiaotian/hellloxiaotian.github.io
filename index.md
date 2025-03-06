@@ -204,7 +204,7 @@ My emails are [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn) and [chu
 - **2023-11:** One paper became an ESI hot paper.
 - **2023-10:** One paper was accepted by IEEE Transactions on Intelligent Vehicles (IEEE TIV, SCI-IF: 8.2), a well-known international journal in the field of transportation.
 - **2023-10:** Selected as one of the world's top 2% top scientists in 2023;
-- **2023-10:** My 2021 master's student, Zheng Menghua, won the National Scholarship for Master's Students with the first place;
+- **2023-10:** My 2021 master's student, Zheng Menghua, won the National Scholarship for Master's Students with the first place.
 - **2023-10:** One Information Fusion (SCI-IF: 18.6) paper published;
 - **2023-09:** Outstanding Teacher of School of Software, Northwestern Polytechnical University;
 - **2023-09:** Accepted a journal of the Chinese Society of Artificial Intelligence/the top journal in the field of Chinese artificial intelligence, "CAAI Transactions on Intelligence Technology" (SCI paper in the second region of the Chinese Academy of Sciences);

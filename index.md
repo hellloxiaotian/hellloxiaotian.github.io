@@ -655,12 +655,11 @@ ACAIT 2018 (EI)
 
 
 
-## Education and work experience (教育背景和工作经历)
+## Education  (教育背景)
 
 - **2017.03~2021.01:** PhD   [Harbin Institute of Technology](http://www.google.com/url?q=http%3A%2F%2Fwww.hitsz.edu.cn%2Findex.html&sa=D&sntz=1&usg=AFQjCNFLsYIQ7qGqKGr_3MzQ5KcRSMkKPQ), China.
 - &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; Member, Shenzhen Key Laboratory of Visual Object Detection and Recognition, China. 
-- **2021.07—**  &emsp; &emsp; Associate Professor, [Northwestern Polytechnic University](https://www.npu.edu/), China.
-- **2021.09—**  &emsp; &emsp; Member, National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China 
+
 
 <br/>
 <br/>

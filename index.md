@@ -6,9 +6,33 @@
 
 ## Work Experience (工作经历)
 
-Associate Professor and PHD supervisor, Northwestern Polytechnical University
+Affiliation
+Harbin Institute of Technology, School of Computing
+Position/Title
+Professor / Doctoral Supervisor
+Duration
+2025 - Present
 
-Member, National Engineering Laboratory for Integrated Big Data Application Technologies in Air, Space, Earth, and Sea
+Affiliation
+Northwestern Polytechnical University, School of Computer Science
+Position/Title
+Postdoctoral Researcher (Co-supervised by Professor Yan Ning Zhang)
+Duration
+June 2022 - December 2024
+
+Affiliation
+Northwestern Polytechnical University
+Position/Title
+Associate Professor / Doctoral Supervisor
+Duration
+July 2021 - 2025
+
+Affiliation
+City University of Hong Kong
+Position/Title
+Research Fellow
+Duration
+February 2021 - July 2021
 
 ## Research Interests (研究兴趣) 
 

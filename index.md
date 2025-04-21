@@ -164,10 +164,9 @@ Our research group is quite busy, but those who are dedicated to scientific rese
 
 ### 2. Application Requirements
 1. **Students majoring in Computer Science, Software Engineering, or Cybersecurity** will be given priority, especially those with recommendation for direct admission.
-2. **Undergraduate students who have performed well in the research group** will be given preference. Undergraduates who perform well in our research group will be given priority. We are recruiting postdoctoral researchers year-round in the fields of **Computer Vision (CV)** and **Natural Language Processing (NLP)**.(Annual Salary: ¥450,000)
-3. **For Master's degree applicants**, those who meet the university’s application or recommendation admission requirements and have a solid academic background are encouraged to apply. Preferably, applicants should have: First-author achievements in top competitions such as ACM National-level contests, MCM, CVPR/ECCV/ICCV/ACM MM/AAAI/IJCAI/WWW/ICME/ICCASP, Alibaba Tianchi Cup, etc. (Top 2 rankings in programming challenges), or First-author publications (or supervisor as first author and student as second author) in SCI journals from the Chinese Academy of Sciences (CAS) Area 3 or higher, or at least one paper published in a CCF-recommended A/B class English conference and two CCF C-class papers.
-4. **For PhD degree applicants**,those who meet the university's application/Direct PhD admission requirements and have a solid academic background are encouraged to apply. Applicants should have already published: At least two first-author papers (or supervisor as first author and student as second author) in CAS Area 2 or higher journals, or one paper in a CAS Area 1/CCF A/B English journal and A-class conferences.Students who have performed well in our research group during their undergraduate or Master's studies are not restricted by these conditions.Before applying to the university, please choose one recent paper from TPAMI journal or CVPR top conference, and provide a summary of your reading, research interests, research background, and PhD research plan. Please send this along with your resume to my email. After the review, further steps will be arranged.For those applying for a PhD position in our research group, it is generally required to complete at least six months of offline internship. You can also refer to my official faculty homepage [here](https://teacher.nwpu.edu.cn/chunweit).
-My emails are [chunweitian@nwpu.edu.cn](mailto:chunweitian@nwpu.edu.cn) and [chunweitian@163.com](mailto:chunweitian@163.com).
+2. **Undergraduate students who have performed well in the research group** will be given preference. Undergraduates who perform well in our research group will be given priority. 
+3. **For Master's degree applicants**, Be self-driven and focus on setting clear goals. It is recommended to conduct good research during your master's program, publish high-quality papers, and develop independent problem-solving thinking, which will be beneficial for both employment and further studies.
+4. **For PhD degree applicants**,Meet the requirements for the school’s application/Direct PhD admission, with a strong academic background. Before applying to the school, please select a recent paper from top journals such as TPAMI/TIP or conferences like CVPR/ICCV/ECCV/IJCAI/ACM MM/AAAI, or journals like PR/NN/Information Fusion, and prepare a document summarizing your reading insights, research interests, research foundation, and proposed PhD research plan. Please send this document along with your resume to my email. After the review, I will arrange the next steps. You can also refer to the official faculty page at [https://homepage.hit.edu.cn/tianchunwei](https://homepage.hit.edu.cn/tianchunwei). My emails are [chunweitian@hit.edu.cn and chunweitian@163.com](chunweitian@hit.edu.cn and chunweitian@163.com).
    
 
 ## News (消息)
@@ -662,142 +661,32 @@ ACAIT 2018 (EI)
 
 
 <br/>
-<br/>
 
-## Education And Teaching
-Graduate Course "Cloud Oriented Big Data Technologies" (Spring)
-
-Undergraduate Course "Principles and Applications of Big Data Technology" (Spring)
-
-<br/>
 <br/>
 
 ## Awards (奖励)
 
-2022 Included in the list of top 2% top scientists in the world released by Stanford University
+Second Prize of the Natural Science Award from the China Society of Image and Graphics. 2024. (Ranked 1st, Provincial-Level)
 
-2022 Provincial high-level talents
+Best Paper Award from the top journal Pattern Recognition in the field of international pattern recognition. 2024. (Ranked 1st)
 
-2022 Municipal Youth Science and Technology Talents
+2022-2024: Ranked among the Top 2% of Global Scientists for three consecutive years. (Ranked 1st)
 
-2022 Municipal Science and Technology Think Tank Young Talents
+4 Benchmark Papers in the field of international image super-resolution.
 
-2022 China**
+4 Cover Papers in top international journals.
 
-2022 Local Science and Technology Talent Trophy
+One paper applied in the purchase and application of CT machines by a U.S. medical imaging company.
 
-2022 Outstanding Individual Member of Jiangsu Computer Society
+Three Excellent Doctoral Dissertations from the Heilongjiang Artificial Intelligence Society, CCF Shenzhen Chapter, and Harbin Institute of Technology.
 
-2022 Outstanding Doctoral Dissertation of Provincial Artificial Intelligence Society
+Huawei Genius Special Interview Invitation.
 
-2022 Two of my papers were awarded the second Excellent Scientific and Technological Academic Papers of Shenzhen
+Outstanding Graduate of Harbin Institute of Technology.
 
-2022 Awarded the 2022 Wiley High Contribution Author of Open Science in China
+Four National Scholarships during undergraduate, master's, and doctoral studies.
 
-2022 **Province High-level Talent
-
-2022 ** Young scientific and technological talents
-
-2022 My PhD thesis was awarded as an excellent PhD thesis by Shenzhen CCF.
-
-2022 China**
-
-2022 Trophy for local scientific and technological talents
-
-2022 The 24th Excellent Doctoral Dissertation of Harbin Institute of Technology.
-
-2022 I was awarded the Outstanding Dissertation Supervisor for Undergraduate Students.
-
-2022 I am inducted into the ** City Spirit Preaching Team.
-
-2022 I am invited to be the Guest Editor of Drones.
-
-2022 I am invited as a Guest Editor for Frontiers in Robotics and AI.
-
-2022 I am invited to be an editorial board member of SChinese Science and Technology Journal **.
-
-2022 I am invited to be the **editorial board member of the international journal \*\* (CAS Region II/SCI Journal).
-
-2022 I was invited to be a member of the editorial board of *Computer*\*\*.
-
-2022 I am invited Guest Editor of International Journal of *Distributed Sensor Networks* (SCI-IF:1.640).
-
-2022 I am invited to be a guest editor for the international journal *Mathematical Biosciences and Engineering*(SCI-IF:2.080).
-
-2022 I am awarded as a contributing reviewer for the international journal Frontiers of *Optoelectronics (FOE)* 2021.
-
-2022 I am invited to be the Publicity Chair of the international conference *2022 International Conference on Applied Mathmatics and Digital Simulation(AMDS 2022)*.
-
-2022 I am invited to be the Special Session Co-Chair, Workshop Chair of the international conference "ICCSI 2022".
-
-2022 I am invited to be the SI Chair of the international conference *6th Asian Conference on Artificial Intelligence Technology (ACAIT 2022)*.
-
-2022 I am invited to be the PC Chair of the international conference *International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)*.
-
-2022 I join the expert group of domestic Chinese core journals **.
-
-2022 I am invited to be the guest editor of the special issue of *Electronics*, an international journal.
-
-2022 I am invited to be the Workshop Chair of the international conference, *International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)*.
-
-2021 I am invited as a guest editor of the special journal of *Mathematics about the special issue on method and application of machine learning*.
-
-2021 I am rated as a contribution reviewer of internal journal of *Bulletin of Electrical Engineering and Informatics* (BEEI). 
-
-2021 I am invited as a technical expert of Shanghai. 
-
-2021 Two papers become ESI highly cited papers.
-
-2021 A paper is rated as only annual outstanding paper of the CAAI Transactions on Intelligence Technology in 2018 and 2019. 
-
-2021 Codes of three papers are rated as contribution codes for the public codes of the GitHub in 2020. 
-
-2021 Two paper techniques are integrated on the Chinese high-quality platform (iHub) and international famous machine learning platform (Profillic).
-
-2021 Prize graduate student of Harbin Institute of Technology
-
-2020  Outstanding student of Harbin Institute of Technology
-
-2019 Outstanding student of Harbin Institute of Technology
-
-**2019 PhD degree candidate National Scholarship** 
-
-**2019 Merit Student of Heilongjiang Province**
-
-2018 Outstanding student of Harbin Institute of Technology
-
- 2017 Outstanding Graduate paper for master
-
-2017 Outstanding Graduates of master
-
-2017 Prize for The Creative Academia for master
-
-2016 Advanced Individual of Master
-
-**2016 Master degree candidate National Scholarship** 
-
-**2015 Merit Student of Heilongjiang Province**
-
-2015 Advanced Individual of Master
-
-**2015 Master degree candidate National Scholarship**
-
-2014-2017 The First Prize Scholarship of Master for forth  
-
-2014 Outstanding Graduate paper for undergraduate
-
-**2013** **Merit Student** **of Heilongjiang Province**
-
-**2012 National Scholarship**
-
-2011-2013 The First Prize Scholarship for **six** times 
-
-2010-2012 Editorial minister for English club and plan the ninth and tenth foreign  language cultural art festival
-
-2010.09-2011.01 The Third Prize Scholarship  for once 
-
-2010-2013 Merit student for **three** times
-
+Three "Outstanding Student" awards from Heilongjiang Province during undergraduate, master's, and doctoral studies.
 
 <div id="h.a4d1eb0f3c9c05f_23" class="hJDwNd-AhqUyc-uQSCkd jXK9ad D2fZ2 OjCsFc wHaque"><div class="jXK9ad-SmKAyb"><div class="tyJCtd baZpAe"><div class="iwQgFb" role="presentation"></div></div></div></div>
 

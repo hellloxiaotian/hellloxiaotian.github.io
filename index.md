@@ -4,35 +4,24 @@
 
 <wbr>Chunwei Tian, Ph.D., is a Professor and Doctoral Supervisor at the School of Computing, Harbin Institute of Technology. He has been listed among the World's Top 2% Scientists by Stanford University from 2022 to 2024 and is recognized as a high-level talent at the provincial level. His research interests include video/image restoration and recognition, image generation, speech process and intelligent transportation. Dr. Tian has published over 80 papers in leading international journals such as IEEE Transactions, Pattern Recognition, Neural Networks, and Information Fusion. He is the author of one monograph and one textbook. His work includes six ESI Highly Cited Papers (three of which are Hot Papers), four cover papers in top-tier journals, and four benchmark papers in the field of image super-resolution. One of his research papers has been applied in the purchase and application of CT machines by a U.S. medical imaging company. He is the recipient of the Best Paper Award from Pattern Recognition, a top international journal in pattern recognition (ranked 1st author), and the Second Prize of the Natural Science Award from the China Society of Image and Graphics (ranked 1st). Dr. Tian serves as an editorial board member or guest editor for several SCI journals, including CAAI Transactions on Intelligence Technology, IEEE Transactions on Fuzzy Systems (TFS), and IEEE Transactions on Consumer Electronics (TCE). Throughout his academic journey (bachelor's, master's, and Ph.D. studies), he has received four National Scholarships, three "Outstanding Student" awards from Heilongjiang Province, and was honored with the Excellent Doctoral Dissertation Awards by the Heilongjiang Artificial Intelligence Society, CCF Shenzhen Chapter, and Harbin Institute of Technology.<wbr>
 
-## Work Experience (工作经历)
+### Work Experience
 
-Affiliation
-Harbin Institute of Technology, School of Computing
-Position/Title
-Professor / Doctoral Supervisor
-Duration
-2025 - Present
+#### Harbin Institute of Technology, School of Computing
+- **Position/Title**: Professor / Doctoral Supervisor
+- **Duration**: 2025 - Present
 
-Affiliation
-Northwestern Polytechnical University, School of Computer Science
-Position/Title
-Postdoctoral Researcher (Co-supervised by Professor Yan Ning Zhang)
-Duration
-June 2022 - December 2024
+#### Northwestern Polytechnical University, School of Computer Science
+- **Position/Title**: Postdoctoral Researcher (Co-supervised by Professor Yan Ning Zhang)
+- **Duration**: June 2022 - December 2024
 
-Affiliation
-Northwestern Polytechnical University
-Position/Title
-Associate Professor / Doctoral Supervisor
-Duration
-July 2021 - 2025
+#### Northwestern Polytechnical University
+- **Position/Title**: Associate Professor / Doctoral Supervisor
+- **Duration**: July 2021 - 2025
 
-Affiliation
-City University of Hong Kong
-Position/Title
-Research Fellow
-Duration
-February 2021 - July 2021
+#### City University of Hong Kong
+- **Position/Title**: Research Fellow
+- **Duration**: February 2021 - July 2021
+
 
 ## Research Interests (研究兴趣) 
 

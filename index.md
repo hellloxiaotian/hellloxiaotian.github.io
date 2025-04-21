@@ -171,6 +171,18 @@ Our research group is quite busy, but those who are dedicated to scientific rese
 
 ## News (消息)
 
+- **2025-03:** A paper from the research group has been accepted in Information Fusion.
+- **2025-03:** A paper from the research group has been accepted in CAAI Transactions on Intelligence Technology (SCI-IF: 8.4).
+- **2025-03:** Congratulations to Chen Xi from the Class of 2024 for having their first-author SCI paper accepted.
+- **2025-03:** Congratulations to Cheng Tongtong, an undergraduate student from the research group, who received an offer from the Chinese University of Hong Kong. This will be a joint training program, and further achievements are expected in the master's and doctoral stages.
+- **2025-02:** A paper from the research group has been accepted in the China Artificial Intelligence Society (CAAI) A Journal.
+- **2025-02:** A paper from the research group has been accepted in a CCF B journal by undergraduate student Mingjian Ben from the Class of 2022.
+- **2025-02:** A paper from the research group has been accepted in Neurocomputing.
+- **2025-02:** Congratulations to undergraduate student Shi Boxuan for further studies at Carnegie Mellon University in the U.S.
+- **2025-02:** Welcome to Huang Dejun, a graduate student from Shenzhen University, who will join the research group for a visit and study.
+- **2025-02:** Welcome to Ma Yukun, Liu Xingyu, Tang Yufeng, and Wang Yansong, top-tier undergraduate students from the Class of 2024 in the Software Engineering program, who will join the research group for study.
+- **2025-02:** Welcome to the undergraduate student from Waseda University, Japan, who will visit the research group for study.
+- **2025-02:** Congratulations to three Class of 2025 thesis students: Xia Yinghao (direct PhD at our university, ranked 1st in the university), Wu Zi'ang (pursuing further studies at the Hong Kong University of Science and Technology), and Liang Yunfeng (retaining the master’s position at our university).
 - **2024-11:** Congratulations to the undergraduate students of the research team for winning the first prize at the provincial level in the competition, and best of luck as they aim for the national award!
 - **2024-11:** The undergraduate students of the research team have won the second prize in the provincial competition of the National Artificial Intelligence Application Scenarios Innovation Challenge and are now preparing for the national competition.
 - **2024-11:** Congratulations to the direct Ph.D. student (the top undergraduate student from Northwestern Polytechnical University) for receiving the National Scholarship!

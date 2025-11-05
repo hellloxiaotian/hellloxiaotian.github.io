@@ -66,8 +66,17 @@ Image/Video Restoration and Recognition, Video/Image Generation, Industrial Visi
 - C. Tian, Y. Xu, W. Zuo, C. Lin, D. Zhang.  Asymmetric CNN for image super-resolution [J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022. (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:11.471) （Top international journal of automation and control systems and computer control）(Excellent Natural Science Paper of a City/Excellent Science and technology academic paper of a City in 2022)
 - Q. Zhang, J. Xiao, C. Tian, J. Lin, S. Zhang. A robust deformed CNN for image denoising [J]. CAAI Transactions on Intelligence Technology, 2022. （Journal of Chinese Society for Artificial Intelligence/First district of JRC/SCI-IF:7.985）（Second quarter 2022 "Wiley High Contribution Author of Open Science in China"）
 
-### Published over 70 academic papers, with some of the papers listed as follows:
+### Published over 100 academic papers, with some of the papers listed as follows:
 
+- Tian Yonglin, Lin Fei, Li Yiduo, Zhang Tengchao, Zhang Qiyao, Fu Xuan, Huang Jun, Dai Xingyuan, Wang Yutong, Tian Chunwei, Lie Bai, Lv Yisheng, Kovacs Levente, Wang Fei-Yue. UAVs Meet LLMs: Overviews and Perspectives Toward Agentic Low-Altitude Mobility [J]. Information Fusion, 2025, 122:103158. (Top journal in Artificial Intelligence / CAS Q1 / SCI Impact Factor: 18.6)
+- Li Shengrong, Zhu Qi, Tian Chunwei, Shao Wei, Zhang Daoqiang. Interpretable Dynamic Brain Network Analysis with Functional and Structural Priors [J]. IEEE Transactions on Medical Imaging, 2025. (Top journal in Medical Imaging / CAS Q1 / SCI Impact Factor: 9.8)
+- Li Shengrong, Tian Chunwei, Zhu Qi, Zhang Daoqiang. HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning [C]. ACM MM, 2025. (Top conference in Multimedia / CCF Tier A)
+- Zhao Yang, Chen Ziyang, He Junling, Li Wenting, Xiao Yao, Tian Chunwei, Zhang Yongjun. GIP-Stereo: Geometry-Aware Information Propagation Network for Stereo Matching [J]. Knowledge-Based Systems, 2025:114062. (CAS Q1 / SCI Impact Factor: 7.2)
+- Song Chao, Li Hao, Li Bo, Wang Jiacun, Tian Chunwei. Distributed Robust Data-Driven Event-Triggered Control for QUAVs under Stochastic Disturbances [J]. Defence Technology, 2025. (CAS Q2 / SCI Impact Factor: 4.035)
+- Zhu Qi, Tian Chunwei, Zhang Daoqiang. Spatio-Temporal Evolutionary Graph Learning for Brain Network Analysis using Medical Imaging [J]. IEEE Transactions on Image Processing, 2025. (CAS Q1 / SCI Impact Factor: 13.7 / CCF Tier A)
+- Li Shengrong, Zhu Qi, Tian Chunwei, Zhang Xinyang, Shao Wei, Wen Jie, Zhang Daoqiang. NeuroH-TGL: Neuro-Heterogeneity Guided Temporal Graph Learning Strategy for Brain Disease Diagnosis [C]. NeurIPS 2025. (CCF Tier A)
+- Wu Shuai, Tian Chunwei, Liu Ruyi, Wei Hang, Xu Yong. An Effective Interval Normalization Weighting Method for Accurate Object Detection [J]. IEEE Transactions on Systems, Man and Cybernetics: Systems, 2025. (Top journal in Computer and Cybernetics / CAS Q1 / Benchmark paper in Super-Resolution / SCI Impact Factor: 8.7)
+- Zeng Kun, Wu Yuntao, Li Zuoyong, Hu Rong, Tian Chunwei. DSCIL: Dynamic Selected Contrastive Instance Learning for Weakly Supervised Video Anomaly Detection [J]. Pattern Recognition, 2025. (CAS Q1 / SCI Impact Factor: 7.6)
 - Tian C, Zhang X, Zhang Q, et al. Image super‐resolution via dynamic network[J]. CAAI Transactions on Intelligence Technology, 2024, 9(4): 837-849.(Accepted by a top international journal in the field of Artificial Intelligence and Intelligent Systems / Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.4)
 - C.Tian, M.Zheng, C.Lin, Z.Li, D.Zhang. Heterogeneous window transformer for image denoising[J].IEEE Transactions on Systems, Man, and Cybernetics:Systems. 2024.(Accepted by a top international journal in the field of computer control / Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.6)
 - C.Tian, M.Zheng, T.Jiao, W.Zuo, Y.Zhang, C.Lin.A Self-supervised CNN for image watermark removal[J].IEEE Transactions on Circuits and Systems for Video Technology, 2024.(Accepted by a top international journal in the field of video / Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.4)
@@ -166,11 +175,48 @@ Our research group is quite busy, but those who are dedicated to scientific rese
 1. **Students majoring in Computer Science, Software Engineering, or Cybersecurity** will be given priority, especially those with recommendation for direct admission.
 2. **Undergraduate students who have performed well in the research group** will be given preference. Undergraduates who perform well in our research group will be given priority. 
 3. **For Master's degree applicants**, Be self-driven and focus on setting clear goals. It is recommended to conduct good research during your master's program, publish high-quality papers, and develop independent problem-solving thinking, which will be beneficial for both employment and further studies.
-4. **For PhD degree applicants**,Meet the requirements for the school’s application/Direct PhD admission, with a strong academic background. Before applying to the school, please select a recent paper from top journals such as TPAMI/TIP or conferences like CVPR/ICCV/ECCV/IJCAI/ACM MM/AAAI, or journals like PR/NN/Information Fusion, and prepare a document summarizing your reading insights, research interests, research foundation, and proposed PhD research plan. Please send this document along with your resume to my email. After the review, I will arrange the next steps. You can also refer to the official faculty page at [https://homepage.hit.edu.cn/tianchunwei](https://homepage.hit.edu.cn/tianchunwei). My emails are [chunweitian@hit.edu.cn and chunweitian@163.com](chunweitian@hit.edu.cn and chunweitian@163.com).
+4. **For PhD degree applicants**,Meet the requirements for the school’s application/Direct PhD admission, with a strong academic background. Before applying to the school, please select a recent paper from top journals such as TPAMI/TIP or conferences like CVPR/ICCV/ECCV/IJCAI/ACM MM/AAAI, or journals like PR/NN/Information Fusion, and prepare a document summarizing your reading insights, research interests, research foundation, and proposed PhD research plan. 
+5. For Direct PhD degree applicants,please ensure you have published at least one paper in a CAS Tier-2 (or higher) journal or a CCF-A conference before contacting me.
+For applicants who already hold a master’s degree and wish to pursue a PhD, please have at least two publications prior to contacting me, in which you are either the first author or the second author (with your advisor as first author), and both papers must be in CAS Tier-2 (or higher) journals—including one in a CAS Tier-1 journal—or in CCF-A conferences.
+Please send this document along with your resume to my email. After the review, I will arrange the next steps. You can also refer to the official faculty page at [https://homepage.hit.edu.cn/tianchunwei](https://homepage.hit.edu.cn/tianchunwei). My emails are [chunweitian@hit.edu.cn and chunweitian@163.com](chunweitian@hit.edu.cn and chunweitian@163.com).
    
 
 ## News (消息)
 
+- **2025-10:** A paper from the research group was accepted by Pattern Recognition.  
+- **2025-10:** A paper from the research group was accepted by IEEE TSMC. 
+- **2025-09:** Three group members—Xin Weiqiang, Chen Xi, and Meng Qi—were awarded the National Scholarship.  
+- **2025-09:** Two invention patents were granted to the research group.  
+- **2025-09:** Undergraduate students Song Mingjian and Kai Wen were admitted to the direct Ph.D. program at Harbin Institute of Technology (HIT).  
+- **2025-09:** A paper from the research group was accepted to NeurIPS(a CCF-A conference).  
+- **2025-09:** An invention patent was granted to the research group.  
+- **2025-08:** A paper from the research group was accepted by IEEE TIP (a CCF-A journal).  
+- **2025-08:** An invention patent was granted to the research group.  
+- **2025-08:** Undergraduate students mentored by the research group were awarded the Third Prize in the National Final of the China Software Cup.  
+- **2025-08:** A paper from the research group was accepted by an SCI-indexed journal with an impact factor of 13.9.  
+- **2025-08:** A paper from the research group with a graduate student as first author was accepted by an SCI-indexed journal.  
+- **2025-08:** Two papers from the research group with graduate students as first authors were accepted by SCI-indexed journals.  
+- **2025-07:** An invention patent was granted to the research group.  
+- **2025-07:** A paper from the research group was accepted to ACM MM,a CCF-A conference.  
+- **2025-07:** The research work of Dr. Jing Fang, a postdoctoral fellow in our group, was featured by a WeChat public account.  
+- **2025-07:** Graduate students from universities in Hong Kong, Macau, Beijing, Shenzhen, Shanghai, Xi’an, and Harbin are undertaking in-person research assistantships with the HIT research group.  
+- **2025-07:** Appointed Chair of the Youth Working Committee of the Heilongjiang Artificial Intelligence Society.  
+- **2025-06:** A paper from the research group, authored by a junior undergraduate, was accepted by IJIG.
+- **2025-06:** A paper from the research group was accepted by IEEE TMI.  
+- **2025-06:** Congratulations to Ziang Wu on receiving the Outstanding Undergraduate Thesis Award! Since its establishment, the research group has produced four outstanding thesis awardees:  
+  - Yingpeng Ma (Class of 2022): pursuing an integrated master's degree/Ph.D. at the University of Macau  
+  - Pengwei Wang (Class of 2023): master's degree at the National University of Singapore; Ph.D. at the Medical University of Vienna  
+  - Weiqiang Xin (Class of 2024): master's degree at Harbin Institute of Technology  
+  - Ziang Wu (Class of 2025): master's degree at The Hong Kong University of Science and Technology  
+  Additionally, Tongtong Cheng (Class of 2025) will pursue a master's degree. at The Chinese University of Hong Kong, and Yunfeng Liang (Class of 2025) will continue his master’s studies at HIT. Best wishes to all graduates—may your futures be as vast as the stars and seas, and may your hard work lead to brilliant achievements!  
+- **2025-05:** Congratulations to Ziang Wu, a 2025 undergraduate from our group, on being named an Outstanding Graduate of Northwestern Polytechnical University (NPU). He will pursue a master's degree at The Hong Kong University of Science and Technology.  
+- **2025-05:** A CCF-C-ranked SCI paper with Peixian Su, a visiting student from Shenzhen University, as first author was accepted.  
+- **2025-05:** A first-author paper by a visiting student from Beijing Information Science & Technology University was accepted by Expert Systems with Applications, an SCI-indexed journal in CAS Tier 1.  
+- **2025-05:** A CCF-C-ranked SCI paper with an undergraduate from the research group as first author was accepted.
+- **2025-05:** Delivered a presentation at CSIG 2025 in Changsha.
+- **2025-05:** A paper from the research group has been accepted in IEEE TCE.
+- **2025-05:** A paper from the research group has been accepted in IEEE TIM.
+- **2025-04:** Two papers form the research group have been accepted in IEEE Transactions on Consumer Electronics.
 - **2025-03:** A paper from the research group has been accepted in Information Fusion.
 - **2025-03:** A paper from the research group has been accepted in CAAI Transactions on Intelligence Technology (SCI-IF: 8.4).
 - **2025-03:** Congratulations to Chen Xi from the Class of 2024 for having their first-author SCI paper accepted.

@@ -2,7 +2,11 @@
 
 ## Biography (简介)
 
-<wbr>Tian Chunwei, Professor in the Department of Computer Science at Harbin Institute of Technology, doctoral supervisor. He obtained his Ph.D. in January 2021 from Harbin Institute of Technology (Shenzhen), majoring in Computer Application Technology, under the guidance of Professor Xu Yong, a national-level talent. Ranked among the top 2% of scientists worldwide from 2022 to 2024, and recognized as a provincial-level talent multiple times. His research focuses on video/image restoration and recognition, image generation, and related areas. He has published over 80 papers in international journals such as IEEE Transactions, Pattern Recognition, Neural Networks, and Information Fusion. He has authored 1 monograph and 1 textbook. Among his publications, 7 papers are highly cited ESI papers (including 3 hot papers), and 4 papers have appeared on the covers of top journals. He received the Best Paper Award from the top journal Pattern Recognition in the field of international pattern recognition. He was awarded the Second Prize of the Natural Science Award by the China Society of Image and Graphics (ranking first), and the First Prize of the Guangdong Province Natural Science Award. He serves as an editorial board member and guest editor for multiple SCI journals including CAAI Transactions on Intelligence Technology, IEEE TFS, and IEEE TCE. <wbr>
+<wbr>Chunwei Tian, a Professor at the School of Computer Science and Technology, Harbin Institute of Technology, a doctoral supervisor, and a Shenzhou Scholar. He received his Ph.D. degree in Computer Application Technology from Harbin Institute of Technology in March 2021, under the supervision of Prof. Xu Yong, a national distinguished scholar. His postdoctoral co-advisor was Prof. Zhang Yanning  (IEEE Fellow), Vice President of Northwestern Polytechnical University and a nationally recognized expert. He is currently with the Machine Learning Center at Harbin Institute of Technology, led by Prof. Zuo Wangmeng , a globally Highly Cited Researcher.From 2022 to 2025, he was listed among the World’s Top 2% Scientists by Stanford University. He was also invited to the Huawei “Genius Youth” interview program. His research interests include Image/Video Restoration and Recognition, Image Generation, Speech Processing ,Intelligent Transportation, Multimodal and Large Models.
+
+He has published more than 100 papers in leading international journals such as the IEEE Transactions series, Pattern Recognition, Neural Networks, and Information Fusion. He has authored one monograph and one textbook. His publications include seven ESI Highly Cited Papers (including three Hot Papers), four cover papers in top-tier journals, and four benchmark papers in the international field of image super-resolution. One of his research achievements has been applied in CT imaging systems of a U.S. medical imaging company, and another has been adopted in Apple’s iOS camera system.
+
+He received the Best Paper Award from Pattern Recognition, one of the top international journals in pattern recognition (ranked first author). He also serves as an editorial board member or guest editor for several international SCI journals, including CAAI Transactions on Intelligence Technology, IEEE Transactions on Fuzzy Systems (TFS), and IEEE Transactions on Consumer Electronics (TCE), among others. <wbr>
 
 ### Work Experience
 
@@ -43,109 +47,6 @@ Image/Video Restoration and Recognition, Video/Image Generation, Industrial Visi
 - '[ACNet](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2103.13634&sa=D&sntz=1&usg=AFQjCNH1a719RoneuRvLf6NYx5qBcbL5lA)' uses a model for SISR task of a certain scale, blind SR and blind SR with blind noise. Also, it enhances  the effect of local key features to accelerate the training speed and improve the SR performance.  (That is accepted by the IEEE TSMC, 2021)
 
 <br/>
-
-## Academic Achievements (学术成果) 
-
-### Highly Cited Papers（高被引论文）
-
-- C. Tian, Y. Xu, W. Zuo, B. Zhang, L. Fei, C. Lin. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia,23,1489-1502,2021. （Top international journal in multimedia field/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:8.182）(ESI highly cited papers)
-- C. Tian, Y. Xu, W. Zuo. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks,121:461-473,2020.(Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （ESI highly cited papers）
-- C. Tian, Y. Xu, Z. Li, W. Zuo, L. Fei, H. Liu. Attention-guided CNN for Image Denoising[J]. Neural Networks,124,117-129,2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （ESI highly cited papers）
-- C. Tian, L. Fei, W. Zheng, Y. Xu,  W. Zuo, C. Lin. Deep Learning on Image Denoising: An overview[J]. Neural Networks,131,251-275 2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （ESI highly cited papers）
-- C. Tian, M. Zheng , W. Zuo, B. Zhang , Y. Zhang, D. Zhang. Multi-stage image denoising with the wavelet transform[J]. Pattern Recognition. 134:109050, 2023. (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:8.518)  (Proceedings of the International Association for Pattern Recognition/Top Journal of Computer Science Recognized by the Chinese Academy of Sciences)
-- Q. Zhang, J. Xiao, C. Tian*, J. Lin, S. Zhang. A robust deformed CNN for image denoising [J]. CAAI Transactions on Intelligence Technology, 2022. (Journal of the Chinese Society of Artificial Intelligence/First district of JRC/SCI-IF:7.985) (2022 Q2 "Wiley China Open Science High Contribution Author") (ESI Highly Cited Paper)
-
-### Cover paper, Annual excellent paper and Municipal Excellent paper on Natural science and technology（封面论文、年度优秀论文和市自然科技优秀论文）
-
-- C. Tian, Y. Xu, W.  Zuo, B. Zhang, L. Fei, C.  Lin. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia,  23, 1489-1502, 2021. （Top international journal in multimedia field/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:8.182）(Cover paper/ Excellent scientific and technological academic papers of a city) 
-- C. Tian C, Y. Xu, W. Zuo. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks, 121:461-473, 2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （Cover paper）
-- C. Tian, Y. Xu, Z. Li, W. Zuo, L. Fei, H. Liu. Attention-guided CNN for Image Denoising[J]. Neural Networks, 124,117-129, 2020.  (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （Cover paper）
-- C. Tian, L. Fei, W. Zheng, Y. Xu,  W. Zuo C. Lin. Deep Learning on Image Denoising: An overview[J]. Neural Networks,131,251-275 2020.  (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （Cover paper）
-- C. Tian, Y. Xu, et al. Enhanced CNN for image denoising [J],CAAI Transaction on Intelligence Technology, 4(1), 17– 23, 2019. (Journal of Chinese Society for Artificial Intelligence/First district of JRC /SCI-IF:7.985) （Excellent paper of the Year in 2020）
-- C. Tian, Y. Xu, et al. Enhanced CNN for image denoising [J],CAAI Transaction on Intelligence Technology, 4(1), 17– 23, 2019. (Journal of Chinese Society for Artificial Intelligence/First district of JRC/SCI-IF:7.985) （Top 10 cited papers of journals in 2021）
-- C. Tian, Y. Xu, W. Zuo, C. Lin, D. Zhang.  Asymmetric CNN for image super-resolution [J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022. (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:11.471) （Top international journal of automation and control systems and computer control）(Excellent Natural Science Paper of a City/Excellent Science and technology academic paper of a City in 2022)
-- Q. Zhang, J. Xiao, C. Tian, J. Lin, S. Zhang. A robust deformed CNN for image denoising [J]. CAAI Transactions on Intelligence Technology, 2022. （Journal of Chinese Society for Artificial Intelligence/First district of JRC/SCI-IF:7.985）（Second quarter 2022 "Wiley High Contribution Author of Open Science in China"）
-
-### Published over 100 academic papers, with some of the papers listed as follows:
-
-- Tian Yonglin, Lin Fei, Li Yiduo, Zhang Tengchao, Zhang Qiyao, Fu Xuan, Huang Jun, Dai Xingyuan, Wang Yutong, Tian Chunwei, Lie Bai, Lv Yisheng, Kovacs Levente, Wang Fei-Yue. UAVs Meet LLMs: Overviews and Perspectives Toward Agentic Low-Altitude Mobility [J]. Information Fusion, 2025, 122:103158. (Top journal in Artificial Intelligence / CAS Q1 / SCI Impact Factor: 18.6)
-- Li Shengrong, Zhu Qi, Tian Chunwei, Shao Wei, Zhang Daoqiang. Interpretable Dynamic Brain Network Analysis with Functional and Structural Priors [J]. IEEE Transactions on Medical Imaging, 2025. (Top journal in Medical Imaging / CAS Q1 / SCI Impact Factor: 9.8)
-- Li Shengrong, Tian Chunwei, Zhu Qi, Zhang Daoqiang. HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning [C]. ACM MM, 2025. (Top conference in Multimedia / CCF Tier A)
-- Zhao Yang, Chen Ziyang, He Junling, Li Wenting, Xiao Yao, Tian Chunwei, Zhang Yongjun. GIP-Stereo: Geometry-Aware Information Propagation Network for Stereo Matching [J]. Knowledge-Based Systems, 2025:114062. (CAS Q1 / SCI Impact Factor: 7.2)
-- Song Chao, Li Hao, Li Bo, Wang Jiacun, Tian Chunwei. Distributed Robust Data-Driven Event-Triggered Control for QUAVs under Stochastic Disturbances [J]. Defence Technology, 2025. (CAS Q2 / SCI Impact Factor: 4.035)
-- Zhu Qi, Tian Chunwei, Zhang Daoqiang. Spatio-Temporal Evolutionary Graph Learning for Brain Network Analysis using Medical Imaging [J]. IEEE Transactions on Image Processing, 2025. (CAS Q1 / SCI Impact Factor: 13.7 / CCF Tier A)
-- Li Shengrong, Zhu Qi, Tian Chunwei, Zhang Xinyang, Shao Wei, Wen Jie, Zhang Daoqiang. NeuroH-TGL: Neuro-Heterogeneity Guided Temporal Graph Learning Strategy for Brain Disease Diagnosis [C]. NeurIPS 2025. (CCF Tier A)
-- Wu Shuai, Tian Chunwei, Liu Ruyi, Wei Hang, Xu Yong. An Effective Interval Normalization Weighting Method for Accurate Object Detection [J]. IEEE Transactions on Systems, Man and Cybernetics: Systems, 2025. (Top journal in Computer and Cybernetics / CAS Q1 / Benchmark paper in Super-Resolution / SCI Impact Factor: 8.7)
-- Zeng Kun, Wu Yuntao, Li Zuoyong, Hu Rong, Tian Chunwei. DSCIL: Dynamic Selected Contrastive Instance Learning for Weakly Supervised Video Anomaly Detection [J]. Pattern Recognition, 2025. (CAS Q1 / SCI Impact Factor: 7.6)
-- Tian C, Zhang X, Zhang Q, et al. Image super‐resolution via dynamic network[J]. CAAI Transactions on Intelligence Technology, 2024, 9(4): 837-849.(Accepted by a top international journal in the field of Artificial Intelligence and Intelligent Systems / Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.4)
-- C.Tian, M.Zheng, C.Lin, Z.Li, D.Zhang. Heterogeneous window transformer for image denoising[J].IEEE Transactions on Systems, Man, and Cybernetics:Systems. 2024.(Accepted by a top international journal in the field of computer control / Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.6)
-- C.Tian, M.Zheng, T.Jiao, W.Zuo, Y.Zhang, C.Lin.A Self-supervised CNN for image watermark removal[J].IEEE Transactions on Circuits and Systems for Video Technology, 2024.(Accepted by a top international journal in the field of video / Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.4)
-- C.Tian,J.Xiao, B. Zhang, W. Zuo, Y. Zhang, C. Lin. A self-supervised network for image denoising and watermark removal[J]. Neural Networks, 2024.(Accepted by a top international journal in the field of neuroscience / Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 7.8)
-- C. Tian, M. Zheng, B. Li, Y. Zhang, S. Zhang, D. Zhang. Perceptive self-supervised learning network for noisy image watermark removal [J]. IEEE Transactions on Circuits and Systems for Video Technology, 2024.(Top international journal in the field of video / Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.4)
-- K. Huang, N. Li, J. Huang, C. Tian*. Exploiting Memory-based Cross-Image Contexts for Salient Object Detection in Optical Remote Sensing Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.(Top international journal in the field of remote sensing / Chinese Academy of Sciences Tier 1 / SCI Impact Factor: 8.8)
-- C. Tian, X. Zhang, X. Liang, B. Li, Y. Sun, S. Zhang. Knowledge distillation with fast CNN for license plate detection [J]. IEEE Transactions on Intellgent Vehicles. 2023. (Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.2) (Renowned international journal in the field of transportation)
-- C.Tian, M. Zheng, W. Zuo, S. Zhang, Y. Zhang, C. Lin. A cross Transformer for image denoising[J]. Information Fusion. 2024.(Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 18.6) (Top international journal in the field of computer science and artificial intelligence)
-- C. Tian, M. Zheng , W. Zuo, B. Zhang , Y. Zhang, D. Zhang. Multi-stage image denoising with the wavelet transform[J]. Pattern Recognition. 134:109050, 2023.(Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.518) (Official journal of the International Association for Pattern Recognition / Top journal in computer science as recognized by the Chinese Academy of Sciences)
-- C. Tian, Y. Zhang, W. Zuo, C. Lin, D. Zhang, Y. Yuan. A heterogenous group CNN for image super-resolution [J].  IEEE Transactions on Neural Networks and Learning Systems. 2022.(Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 14.255) (Top international journal in the field of artificial intelligence) (Accepted) (Featured and reported by JiShi platform and AIWalker / Selected for the International Super-Resolution Benchmark List)
-- C. Tian, Y. Yuan, S. Zhang, C. Lin, W. Zuo, D. Zhang. Image Super-resolution with An Enhanced Group Convolutional Neural Network[J]. Neural Networks, 153：373-385.2022. (Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 9.657) (Official journal of the International Neural Network Society / Included in the Open Source Security Community (OSCS) and verified as secure and reliable code / Selected for the International Super-Resolution Benchmark List)
-- C. Tian, X. Zhang, J. Lin, W. Zuo, Y. Zhang. Generative adversarial networks for image super-resolution: a survey [J] . Generative adversarial networks for image super-resolution: a survey. arXiv:2204.13620. 2022
-- C. Tian, X. Zhang,  Q. Zhang, M. Yang, Z. Ju. Image Super-resolution via dynamic network [J]. CAAI Transactions on Intelligence Technology, 2023.(Chinese Academy of Sciences Tier 2 / Official journal of the Chinese Association for Artificial Intelligence / SCI Impact Factor: 7.985 / Accepted)
-- K. Huang, C. Tian*, C. Lin. Progressive Context-aware Dynamic Network for Salient Object Detection in Optical Remote Sensing Images [J]. IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS). 2023. (SCI Impact Factor: 8.125 / Chinese Academy of Sciences Tier 1 / Top international journal in the field of remote sensing / Accepted)
-- K. Huang#. C. Tian#, G. Li.  Bidirectional Mutual Guidance Transformer for Salient Object Detection in Optical Remote Sensing Images [J]. International Journal of Remote Sensing Remote Sensing Letters. 2023. (SCI Impact Factor: 3.531 / Chinese Academy of Sciences Tier 2 / Accepted)
-- Q. Zhang, J. Xiao, C. Tian*, J. Xu, S. Zhang, C. Lin. A parallel and serial denoising network [J]. Expert Systems with Applications. 2023. (Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.665 / Top journal in computer science as recognized by the Chinese Academy of Sciences)
-- K. Huang, C. Tian*, Z. Xu, N. Li, J. Lin. Motion Context Guided Edge-preserving Network for Video Salient Object Detection [J]. Expert Systems with Applications. 2023. (Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.665 / Top journal in computer science as recognized by the Chinese Academy of Sciences)
-- K. Huang, C. Tian*, J. Su, J. Lin. Transformer-based cross reference network for video salient object detection [J]. Pattern Recognition Letters. 2022 (Chinese Academy of Sciences Tier 3 / JCR Tier 1 / SCI Impact Factor: 4.757) (Official journal of the International Association for Pattern Recognition)
-- Q. Zhang, J. Xiao, C. Tian*, J. Lin, S. Zhang. A robust deformed CNN for image denoising [J]. CAAI Transactions on Intelligence Technology, 2022. (Chinese Academy of Sciences Tier 2 / Official journal of the Chinese Association for Artificial Intelligence / SCI Impact Factor: 7.985)
-- T. Wang, Y. Liu, Q. Yin, J. Geng, J. Chen, X. Yin, Y. Wang, X. Shang, C. Tian*, Y. Wang, J. Peng. Enhancing discoveries of molecular QTL studies with small sample size using summary statistic imputation [J]. Briefing in Bioinformatics, 2021.(Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 11.622)
-- C. Tian, Y. Xu, W. Zuo, C. Lin, D. Zhang.  Asymmetric CNN for image super-resolution [J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2021.(Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 11.471) (Top international journal in the field of automation and control systems, computer control / **City Outstanding Scientific Paper / **City Outstanding Scientific Paper / Selected for the International Super-Resolution Benchmark List)
-- C. Tian, Y. Xu, W.  Zuo, B. Zhang, L. Fei, C.  Lin. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia,  23, 1489-1502, 2021. (Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.182) (Top international journal in the field of multimedia / ESI Highly Cited Paper / Cover Paper / *City Outstanding Scientific Paper / Invited by IEEE Signal Processing Society to produce an SPS Webinar or SPS Blog / Included in the Open Source Security Community (OSCS) and verified as secure and reliable code / Selected for the International Super-Resolution Benchmark List)
-- C Tian, Y.  Xu, W. Zuo. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks, 121:461-47, 2020. (Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 9.657) (Official journal of the International Neural Network Society / ESI Highly Cited Paper / Cover Paper / Contributed code on GitHub in 2020 / Integrated with iHub)
-- C Tian, Y. Xu, Z. Li, W. Zuo, L. Fei, H. Liu. Attention-guided CNN for Image Denoising [J], Neural Networks,124:117-129, 2020.(Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 9.657) (Official journal of the International Neural Network Society / ESI Highly Cited Paper / Cover Paper / Contributed code on GitHub in 2020 / Commercial use by a U.S. medical imaging company)
-- C. Tian, L. Fei, W. Zheng, Y. Xu,  W. Zuo C. Lin. Deep Learning on Image Denoising: An overview[J]. Neural Networks,131,251-275 2020. (Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 9.657) (Official journal of the International Neural Network Society / ESI Hot Paper / ESI Highly Cited Paper / Contributed code on GitHub in 2020 / Cover Paper)
-- C. Tian, G. Zhu, Z. Wu, Y. Xu, W. Zuo, C. Chen, C. Lin. Lightweight Image Super-Resolution with Enhanced CNN[J].Knowledge-based systems, 2020:106235.(Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.139) (Renowned international journal in the field of artificial intelligence / Converted by Japanese engineers into CoreML code suitable for Apple's iOS mobile platform / Selected for the International Super-Resolution Benchmark List)
-- C Tian, Y. Xu, W. Zuo, B. Du, C. Lin, D. Zhang. Designing and Training of A Dual CNN for Image Denoising[J].Knowledge-based systems, 2021: 226, 106949.(Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.139) (Renowned international journal in the field of artificial intelligence)
-- C Tian, Y. Xu, et al. Enhanced CNN for image denoising [J],CAAI Transaction on Intelligence Technology, 4(1), 17– 23, 2019. (Chinese Academy of Sciences Tier 2 / Official journal of the Chinese Association for Artificial Intelligence / SCI Impact Factor: 7.985) (2022 Journal Outstanding Paper / 2021 Top 10 Most Cited Papers in the Journal / Integrated with Profillic)
-- Y. Hu, H. Wang, C. Jin, B. Li, C. Tian*. A diffusion model with a FFT for image inpainting [J].  Journal of Cyber-Physical-Social Intelligence. 2023
-
-### Some collaborative papers
-
-- Hu Y, Tian C, Zhang J, et al. Efficient image denoising with heterogeneous kernel-based CNN[J]. Neurocomputing, 2024, 592: 127799.(Accepted by a top international journal in the field of neural networks / Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 5.4)
-- K. Yang, Q. Li, C. Tian, H. Zhang, A. Shi, J. Li. Defort: Deformable Transformer for Visual Tracking [J]. Neural Networks. 2024.(Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 9.657) (Official journal of the International Neural Network Society / Top international journal in the field of neural networks)
-- Z.Hao, G. Wang, C. Tian,  B.Zhang. A distributed computation model based on federated learning integrates heterogenous models and consortium blockchain  for sovling time-varying problems. International Workshop on Trustworthy Federated Learning in Conjunction with IJCAI 2023.(CCF A / Accepted)
-- T. Wang, Y. Liu, Q. Yin, J. Geng, J. Chen, X. Yin, Y. Wang, X. Shang, C. Tian, Y. Wang.. Correction to: Enhancing discoveries of molecular QTL studies with small sample size using summary statistic imputation[J]. Briefings in Bioinformatics, 2022, 23(3): bbac139.(Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 11.622)
-- L. Fei, B. Zhang, C. Tian, S. Teng, J. Wen, D. Zhang. Jointly Learning Multi-instance Hand-based Biometric Descriptor[J]. Information Sciences, 562:1-12, 2021.(Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 8.233)
-- J. Qin, L. Fei, J. Zhu, J. Wen, C. Tian, S. Wu. Scalable Discriminative Discrete Hashing For Large-scale Cross-model Retrieval [J]. 2021 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2021，4330-4334, 2021. (EI/CCF B)
-- L. Fei, Z. Zhang, Y. Xu, R. Imad, C. Tian, D. Zhang. Jointly Heterogeneous Palmprint Discriminant Feature Learning[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021. (Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 4.255)
-- Y. Xu, Z. Li, C. Tian, J. Yang. Multiple vector representations of images and robust dictionary learning [J], Pattern Recognition Letters, 128:131-136, 2019. (Chinese Academy of Sciences Tier 3 / JCR Tier 1 / SCI Impact Factor: 4.757)
-- L. Fei, B. Zhang, S. Teng, Z. Gan, C. Tian, W Zhang. Learning Discriminative Finger-knuckle-print Descriptor [C], ICASSP, 2137-2141, 2019.  (EI/CCF B)
-- J. Wen, X. Fang, Y. Xu, C. Tian, L. Fei. Low-rank representation with adaptive graph regularization [J]. Neural Networks,2018, 108: 83-96. (Chinese Academy of Sciences Tier 1 / JCR Tier 1 / SCI Impact Factor: 9.657) (Official journal of the International Neural Network Society)
-
-### GitHub 2020 with contributed paper code（GitHub 2020年具有贡献论文代码）
-
-- C. Tian C, Y. Xu, W. Zuo. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks, 121:461-473, 2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （Paper code rated as the largest international open source code platform GitHub 2020 has contributed code）
-- C. Tian, Y. Xu, Z. Li, W. Zuo, L. Fei, H. Liu. Attention-guided CNN for Image Denoising[J]. Neural Networks, 124,117-129, 2020.  (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) (Paper code rated as the largest international open source code platform GitHub 2020 has contributed code)
-- C. Tian, L. Fei, W. Zheng, Y. Xu,  W. Zuo C. Lin. Deep Learning on Image Denoising: An overview[J]. Neural Networks,131,251-275 2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) (Paper code rated as the largest international open source code platform GitHub 2020 has contributed code)
-
-
-### Paper landing technique（论文落地技术）
-
-- C. Tian C, Y. Xu, W. Zuo. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks, 121:461-473, 2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （The paper technology is invited to integrate and run on iHub, a high-quality artificial intelligence platform in China affiliated to National Laboratory (Pengcheng Laboratory)）
-- C Tian, Y. Xu, et al. Enhanced CNN for image denoising [J],CAAI Transaction on Intelligence Technology, 4(1), 17– 23, 2019. (Journal of Chinese Society for Artificial Intelligence /SCI-IF:7.985) （Paper technology is invited to integrate and run on Profillic, an internationally renowned machine learning platform）
-- C. Tian, Y. Yuan, S. Zhang, C. Lin, W. Zuo, D. Zhang. Image Super-resolution with An Enhanced Group Convolutional Neural Network[J]. Neural Networks, 2022.  (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) (Proceedings of the International Society for Neural Networks) （Open source security community OSCS included）
-- C. Tian, G. Zhu, Z. Wu, Y. Xu, W. Zuo, C. Chen, C. Lin. Lightweight Image Super-Resolution with Enhanced CNN[J].Knowledge-based systems, 2020:106235. (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:8.139 ) （Journal of Chinese Society for Artificial Intelligence）（CoreML code for Apple -ios system adapted for mobile terminals by Japanese engineers）
-- C. Tian, Y. Xu, Z. Li, W. Zuo, L. Fei, H. Liu. Attention-guided CNN for Image Denoising[J]. Neural Networks, 124,117-129, 2020.  (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) (The paper technology was purchased commercially by an American medical imaging company)
-- C. Tian, Y. Xu, W.  Zuo, B. Zhang, L. Fei, C.  Lin. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia,  23, 1489-1502, 2021. (Top Journal in International Multimedia Field/District I of Chinese Academy of Sciences/District I of JCR /SCI-IF:8.182)（The open source security community OSCS collects and tests code as secure and reliable）
-
-
-
-### Invited by MSU's Graphics& Media Lab to participate in the production of international Super-resolution benchmark（受MSU’s Graphics& Media Lab邀请参加国际Super-resolution benchmark的制作）
-
-- C. Tian, Y. Yuan, S. Zhang, C. Lin, W. Zuo, D. Zhang. Image Super-resolution with An Enhanced Group Convolutional Neural Network[J]. Neural Networks, 2022.  (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) (Proceedings of the International Society for Neural Networks) （The production of international Super-Resolution Benchmark)
-- C. Tian, Y. Zhang, W. Zuo, C. Lin, D. Zhang, Y. Yuan. A heterogenous group CNN for image super-resolution [J].  IEEE Transactions on Neural Networks and Learning Systems. 2022.　(First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:14.255) （The production of international Super-Resolution Benchmark)
-- C. Tian, Y. Xu, W. Zuo, B. Zhang, L. Fei, C. Lin. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia, 23, 1489-1502, 2021. （The production of international Super-Resolution Benchmark)
-- C. Tian, Y. Xu, W. Zuo, C. Lin, D. Zhang.  Asymmetric CNN for image super-resolution [J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2021. （The production of international Super-Resolution Benchmark)
-- C. Tian, G. Zhu, Z. Wu, Y. Xu, W. Zuo, C. Chen, C. Lin. Lightweight Image Super-Resolution with Enhanced CNN[J].Knowledge-based systems, 2020:106235. （The production of international Super-Resolution Benchmark)
-
 
 ## Recruitment (招生)
 ### 1. Basic Admission Requirements
@@ -582,6 +483,20 @@ Reviewer：
 
 ## I serve as a reviewer for the following journals and conferences (审稿人) 
 
+IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI) (SCI)
+
+International Journal of Computer Vision (IJCV) (SCI)
+
+Computer Vision and Pattern Recongnition (CVPR)
+
+International Conference on Computer Vision (ICCV)
+
+AAAI Conference on Artificial Intelligence (AAAI)
+
+ACM International Conference on Multimedia (ACM MM)
+
+International Joint Conference on Artificial Intelligence (IJCAI)
+
 IEEE Transactions on Image Processing (IEEE TIP) (SCI)
 
 IEEE Transactions on Neural Networks and Learning Systems (SCI)
@@ -710,18 +625,6 @@ ACAIT 2018 (EI)
 
 <br/>
 
-
-
-## Education  (教育背景)
-
-- **2017.03~2021.01:** PhD   [Harbin Institute of Technology](http://www.google.com/url?q=http%3A%2F%2Fwww.hitsz.edu.cn%2Findex.html&sa=D&sntz=1&usg=AFQjCNFLsYIQ7qGqKGr_3MzQ5KcRSMkKPQ), China.
-- &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; Member, Shenzhen Key Laboratory of Visual Object Detection and Recognition, China. 
-
-
-<br/>
-
-<br/>
-
 ## Awards (奖励)
 
 Second Prize of the Natural Science Award from the China Society of Image and Graphics. 2024. (Ranked 1st, Provincial-Level)
@@ -768,41 +671,21 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
 
 <div class="box">
 	<div class="img">
-		<img src="picture/Jiang Su.jpg" >
+		<img src="picture/Chen Shi.png" >
 		<div class="desc_blank"> </div>
-		<div class="desc">Jiang Su,  <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+		<div class="desc">Chen Shi,  <a href = "https://www.hrbmu.edu.cn/">Harbin Medical University</a>, China</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
-          	<img src="picture/Yuwei Ding.jpg" >
+          	<img src="picture/Ziang Wu.png" >
           	<div class="desc_blank"> </div>
-          	<div class="desc">Yuwei Ding,  <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+          	<div class="desc">Ziang Wu,  <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
           	<div class="desc_blank_2"> </div>
    	</div>
 </div>
 		
-<div class="box">
-  	 <div class="img">
-      		<img src="picture/Yichun Wu.jpg" >
-      		<div class="desc_blank"> </div>
-      		<div class="desc">Yichun Wu,  <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-      		<div class="desc_blank_2"> </div>
-    	 </div>
-         <div class="img">
-      		<img src="picture/Kai Liu.jpg" >
-      		<div class="desc_blank"> </div>
-      		<div class="desc">Kai Liu,  <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-      		<div class="desc_blank_2"> </div>
-    	 </div>
-</div>
 
 <div class="box">
-        <div class="img">
-   		<img src="picture/Yinghao Xia.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Yinghao Xia, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
 	<div class="img">
    		<img src="picture/Tongtong Cheng.jpg" >
   		<div class="desc_blank"> </div>
@@ -811,38 +694,28 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
   	</div>
 </div>
 
-<div class="box">
-         <div class="img">
-      		<img src="picture/Runbing Wu.jpg" >
-      		<div class="desc_blank"> </div>
-      		<div class="desc">Runbing Wu,  <a href = "https://www.hainanu.edu.cn/">Hainan University</a>, China</div>
-      		<div class="desc_blank_2"> </div>
-    	 </div>
-     
-</div>
-
 ### Supervisor for Postgraduates (硕士生)
 
 <div class="box">
   	<div class="img">
-   		<img src="picture/Tasnime Mockbel.jpg" >
+   		<img src="picture/Yu Deng.png" >
    		<div class="desc_blank"> </div>
-  		<div class="desc">  Tasnime Mockbel, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc">  Yu Deng, <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
  	</div>
   	<div class="img">
-   		<img src="picture/Ali Mansab.jpg" >
+   		<img src="picture/Le Hu.png" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Ali Mansab, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc">  Le Hu, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
-   </div>
+</div>
 
 <div class="box">
-    	<div class="img">
-   		<img src="picture/Noor Tahir .jpg" >
+    <div class="img">
+   		<img src="picture/Wenjie Liu.png" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Noor Tahir , <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc">  Wenjie Liu , <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
    	<div class="img">
@@ -872,31 +745,43 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
    	<div class="img">
    		<img src="picture/Weiqiang Xin.jpg" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Weiqiang Xin, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc">  Weiqiang Xin, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
 	<div class="img">
-   		<img src="picture/Zhiyuan Liu.jpg" >
+   		<img src="picture/Yang Xiao.png" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Zhiyuan Liu, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc">  Yang Xiao, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
 	<div class="img">
    		<img src="picture/Jingyuan Xie.jpg" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Jingyuan Xie, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc">  Jingyuan Xie, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
 	<div class="img">
-   		<img src="picture/Shuqi Qiu.jpg" >
+   		<img src="picture/Mengyuan Wei.png" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Shuqi Qiu, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc">  Mengyuan Wei, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
 	<div class="img">
    		<img src="picture/Xi Chen.jpg" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Xi Chen, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc">  Xi Chen, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+	<div class="img">
+   		<img src="picture/Kun Wen.png" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Kun Wen, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+		<div class="img">
+   		<img src="picture/Zihao Zhao.png" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Zihao Zhao, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
 </div> 
@@ -904,16 +789,16 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
 ### Supervisor for Visiting students (交换生)
 
 <div class="box">
-        <div class="img">
-   		<img src="picture/Zhixin Xu.jpg" >
+    <div class="img">
+   		<img src="picture/Huinian Li.png" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Zhixin Xu, <a href = "https://www.bistu.edu.cn/">Beijing Information Science and Technology University</a>, China</div>
+   		<div class="desc">  Huinian Li, <a href = "https://www.must.edu.mo/#/">Macau University of Science and Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
    <div class="img">
-   		<img src="picture/Peixian Su.jpg" >
+   		<img src="picture/Yingbiao Hu.png" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Peixian Su, <a href = "https://www.szu.edu.cn/">Shenzhen University</a>, China</div>
+   		<div class="desc">  Yingbiao Hu, <a href = "https://www.mpu.edu.mo/research/zh/index.php#/">Macao Polytechnic University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
         <div class="img">
@@ -927,36 +812,36 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
 ### Supervisor for Undergraduates (本科生)
 
 <div class="box">
-        <div class="img">
+    <div class="img">
    		<img src="picture/Mingjian Song.jpg" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Mingjian Song, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc">  Mingjian Song, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
-        <div class="img">
-   		<img src="picture/Zhe Zhang.jpg" >
+    <div class="img">
+   		<img src="picture/Yuchen Li.png" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Zhe Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc">  Yuchen Li, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
 </div>
 
 <div class="box">
-        <div class="img">
-   		<img src="picture/Zhuowei Yang.jpg" >
+    <div class="img">
+   		<img src="picture/Xueyou Lu.png" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Zhuowei Yang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc">  Xueyou Lu, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
   	<div class="img">
-   		<img src="picture/Lading Ying.jpg" >
+   		<img src="picture/Yuelei Wang.JPG" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Lading Ying, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc">  Yuelei Wang, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
 </div>
 
-<div class="box">
+<!-- <div class="box">
         <div class="img">
    		<img src="picture/Haobo Yang.jpg" >
   		<div class="desc_blank"> </div>
@@ -969,13 +854,13 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
    		<div class="desc">  Zhuoqun Fu, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
-</div>
+</div> -->
 
 <div class="box">
         <div class="img">
-   		<img src="picture/Qi Meng.jpg" >
+   		<img src="picture/Qi Meng.png" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Qi Meng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc">  Qi Meng, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
 </div>

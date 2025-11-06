@@ -704,7 +704,7 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
   		<div class="desc_blank_2"> </div>
  	</div>
   	<div class="img">
-   		<img src="picture/Le Hu.png" >
+   		<img src="picture/Le Hu.jpg" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Le Hu, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
@@ -828,7 +828,7 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
 
 <div class="box">
     <div class="img">
-   		<img src="picture/Xueyou Lu.png" >
+   		<img src="picture/Xueyou Lu.jpg" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Xueyou Lu, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
@@ -902,4 +902,5 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
 
 ### Supporter
 This homepage is supported by Mr. Menghua Zheng in June, 2021. 
+
 

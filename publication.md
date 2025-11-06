@@ -1,32 +1,135 @@
-## High cited papers (高被引论文)
--  **Tian C,**  Xu Y,   Zuo W ,  Zhang B , Fei L , Lin C. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia, 23, 1489-1502, 2021.  [[pdf](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D9105085&sa=D&sntz=1&usg=AFQjCNFcz7BySBGHJl0HApsS97YmJ6LqTg)][[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FCFSRCNN&sa=D&sntz=1&usg=AFQjCNHlCxENhg22fZ6xAG21NhNmPyVtNQ)]\[[video](https://user-images.githubusercontent.com/25679314/195232045-00905658-826a-4e41-bd68-3dcab32b0bdb.mp4)](CCF B/SCI-IF:8.182) (**ESI Highly cited paper**)
--  **Tian C**, Fei L,  Zheng W, Xu Y,  Zuo W,  Lin C. Deep Learning on Image Denoising: An overview[J]. Neural Networks,131, 251-275, 2020.   [[pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608020302665%3Fvia%3Dihub&sa=D&sntz=1&usg=AFQjCNFLJOTu0vrkv7uGnPFyl6JJVIhRxQ)] (CCF B/SCI-IF:9.657) (**ESI Highly cited paper**)
--  **Tian C** ,  Xu Y,   Li Z ,  Zuo W,   Fei L,  Liu H. Attention-guided CNN for Image Denoising [J]. Neural Networks,124, 117-129 , 2020.  [[pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019304241&sa=D&sntz=1&usg=AFQjCNFGl6briLBrVY6G2rlPfs9lmC8nsg)] [[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FADNet&sa=D&sntz=1&usg=AFQjCNHp0jPjk4NENToVuFvEzxtjIkiF5w)] (CCF B/SCI-IF:9.657) （**ESI** **Highly cited paper**） 
-- **Tian C**,  Xu Y,  Zuo W. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks, 121:461-473, 2020.  [[pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019302394&sa=D&sntz=1&usg=AFQjCNET0x3XV-DClPi7PYVfgOci4hcPuA)] [[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FADNet&sa=D&sntz=1&usg=AFQjCNHp0jPjk4NENToVuFvEzxtjIkiF5w)] (CCF B/SCI-IF:9.657) （**ESI Highly cited paper**） 
+## Academic Achievements (学术成果) 
 
-## Homepage papers and excellent papers (首页论文和年度优秀论文)
-- **Tian C,**  Xu Y,   Zuo W ,  Zhang B , Fei L , Lin C. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia, 23, 1489-1502, 2021.  [[pdf](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D9105085&sa=D&sntz=1&usg=AFQjCNFcz7BySBGHJl0HApsS97YmJ6LqTg)][[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FCFSRCNN&sa=D&sntz=1&usg=AFQjCNHlCxENhg22fZ6xAG21NhNmPyVtNQ)]  (CCF B/SCI-IF:8.182) (**Homepage paper**)
-- **Tian C**, Fei L,  Zheng W, Xu Y,  Zuo W,  Lin C. Deep Learning on Image Denoising: An overview[J]. Neural Networks,131, 251-275, 2020.   [[pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608020302665%3Fvia%3Dihub&sa=D&sntz=1&usg=AFQjCNFLJOTu0vrkv7uGnPFyl6JJVIhRxQ)] (CCF B/SCI-IF:9.657) (**Homepage paper/Integrated by the iHub**)
-- **Tian C** ,  Xu Y,   Li Z ,  Zuo W,   Fei L,  Liu H. Attention-guided CNN for Image Denoising [J]. Neural Networks,124, 117-129 , 2020.  [[pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019304241&sa=D&sntz=1&usg=AFQjCNFGl6briLBrVY6G2rlPfs9lmC8nsg)] [[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FADNet&sa=D&sntz=1&usg=AFQjCNHp0jPjk4NENToVuFvEzxtjIkiF5w)] (CCF B/SCI-IF:9.657) （**Homepage paper**） 
-- **Tian C**,  Xu Y,  Zuo W. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks, 121:461-473, 2020.  [[pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019302394&sa=D&sntz=1&usg=AFQjCNET0x3XV-DClPi7PYVfgOci4hcPuA)] [[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FADNet&sa=D&sntz=1&usg=AFQjCNHp0jPjk4NENToVuFvEzxtjIkiF5w)] (CCF B/SCI-IF:9.657) （**Homepage paper**） 
-- **Tian C**, Xu Y, et al. Enhanced CNN for image denoising [J].  CAAI Transaction on Intelligence Technology, 4(1), 17– 23, 2019. (SCI-IF: 7.985) [[pdf](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F8674856&sa=D&sntz=1&usg=AFQjCNHBifA-RYT5fi_XEiZZdxNXl8zPRg)] [[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FECNDNet&sa=D&sntz=1&usg=AFQjCNEnM3mVhlN1Ml6nhLf_gjO3xG2oiQ)] **(Excellent paper for 2018 and 2019/Integrated by the Profillic)** 
-- **Tian C**, Xu Y, et al. Enhanced CNN for image denoising [J].  CAAI Transaction on Intelligence Technology, 4(1), 17– 23, 2019. (SCI-IF: 7.985) [[pdf](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F8674856&sa=D&sntz=1&usg=AFQjCNHBifA-RYT5fi_XEiZZdxNXl8zPRg)] [[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FECNDNet&sa=D&sntz=1&usg=AFQjCNEnM3mVhlN1Ml6nhLf_gjO3xG2oiQ)]  **(Outstanding Paper of 2020)**
-- **Tian C**, Xu Y, et al. Enhanced CNN for image denoising [J].  CAAI Transaction on Intelligence Technology, 4(1), 17– 23, 2019. (SCI-IF: 7.985) [[pdf](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F8674856&sa=D&sntz=1&usg=AFQjCNHBifA-RYT5fi_XEiZZdxNXl8zPRg)] [[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FECNDNet&sa=D&sntz=1&usg=AFQjCNEnM3mVhlN1Ml6nhLf_gjO3xG2oiQ)]  **(Top 10 Cited Papers in Journals 2021)**
-- **Tian C**, Xu Y, et al. Asymmetric CNN for image super-resolution [J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022. (SCI-IF: 11.471) [[pdf](https://ieeexplore.ieee.org/abstract/document/9420448)] [[code](https://github.com/hellloxiaotian/ACNet)]**(Excellent paper of Natural science of a city in 2022)**
+### Highly Cited Papers（高被引论文）
 
-## The most contributed code of 2020 by Github（GitHub 2020年具有贡献论文代码）
-- **Tian C**,  Xu Y,  Zuo W. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks, 121:461-473, 2020.  [[pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019302394&sa=D&sntz=1&usg=AFQjCNET0x3XV-DClPi7PYVfgOci4hcPuA)] [[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FADNet&sa=D&sntz=1&usg=AFQjCNHp0jPjk4NENToVuFvEzxtjIkiF5w)] (CCF B/SCI-IF:9.657) （**Papaer code was awarded as the most contributed code of 2020 by Github, the largest international open source code platform**） 
-- **Tian C** ,  Xu Y,   Li Z ,  Zuo W,   Fei L,  Liu H. Attention-guided CNN for Image Denoising [J]. Neural Networks,124, 117-129 , 2020.  [[pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019304241&sa=D&sntz=1&usg=AFQjCNFGl6briLBrVY6G2rlPfs9lmC8nsg)] [[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FADNet&sa=D&sntz=1&usg=AFQjCNHp0jPjk4NENToVuFvEzxtjIkiF5w)] (CCF B/SCI-IF:9.657) （**Papaer code was awarded as the most contributed code of 2020 by Github, the largest international open source code platform**）
-- **Tian C**, Fei L,  Zheng W, Xu Y,  Zuo W,  Lin C. Deep Learning on Image Denoising: An overview[J]. Neural Networks,131, 251-275, 2020.   [[pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608020302665%3Fvia%3Dihub&sa=D&sntz=1&usg=AFQjCNFLJOTu0vrkv7uGnPFyl6JJVIhRxQ)] (CCF B/SCI-IF:9.657) (**Papaer code was awarded as the most contributed code of 2020 by Github, the largest international open source code platform**)
+- C. Tian, Y. Xu, W. Zuo, B. Zhang, L. Fei, C. Lin. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia,23,1489-1502,2021. （Top international journal in multimedia field/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:8.182）(ESI highly cited papers)
+- C. Tian, Y. Xu, W. Zuo. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks,121:461-473,2020.(Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （ESI highly cited papers）
+- C. Tian, Y. Xu, Z. Li, W. Zuo, L. Fei, H. Liu. Attention-guided CNN for Image Denoising[J]. Neural Networks,124,117-129,2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （ESI highly cited papers）
+- C. Tian, L. Fei, W. Zheng, Y. Xu,  W. Zuo, C. Lin. Deep Learning on Image Denoising: An overview[J]. Neural Networks,131,251-275 2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （ESI highly cited papers）
+- C. Tian, M. Zheng , W. Zuo, B. Zhang , Y. Zhang, D. Zhang. Multi-stage image denoising with the wavelet transform[J]. Pattern Recognition. 134:109050, 2023. (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:8.518)  (Proceedings of the International Association for Pattern Recognition/Top Journal of Computer Science Recognized by the Chinese Academy of Sciences)
+- Q. Zhang, J. Xiao, C. Tian*, J. Lin, S. Zhang. A robust deformed CNN for image denoising [J]. CAAI Transactions on Intelligence Technology, 2022. (Journal of the Chinese Society of Artificial Intelligence/First district of JRC/SCI-IF:7.985) (2022 Q2 "Wiley China Open Science High Contribution Author") (ESI Highly Cited Paper)
 
-## Manifestation of paper techniques（论文落地技术）
-- **Tian C**,  Xu Y,  Zuo W. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks, 121:461-473, 2020.  [[pdf](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019302394&sa=D&sntz=1&usg=AFQjCNET0x3XV-DClPi7PYVfgOci4hcPuA)] [[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FADNet&sa=D&sntz=1&usg=AFQjCNHp0jPjk4NENToVuFvEzxtjIkiF5w)] (CCF B/SCI-IF:9.657) （**The paper technology is invited to be integrated and run on iHub, a Chinese high quality AI platform affiliated with the National Laboratory (Pengcheng Lab)**） 
-- **Tian C**, Xu Y, et al. Enhanced CNN for image denoising [J].  CAAI Transaction on Intelligence Technology, 4(1), 17– 23, 2019. (IF: 7.985) [[pdf](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F8674856&sa=D&sntz=1&usg=AFQjCNHBifA-RYT5fi_XEiZZdxNXl8zPRg)] [[code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FECNDNet&sa=D&sntz=1&usg=AFQjCNEnM3mVhlN1Ml6nhLf_gjO3xG2oiQ)] (EI) **（The paper technology is invited to integrate and run on Profillic, an internationally renowned machine learning platform）** 
-- **Tian C**, Y. Yuan, S. Zhang, C. Lin, W. Zuo, D. Zhang. Image Super-resolution with An Enhanced Group Convolutional Neural Network[J]. Neural Newworks, 2022. (CCF B/SCI-IF:9.657)[[pdf](https://arxiv.org/pdf/2205.14548.pdf)] \[[code](https://github.com/hellloxiaotian/ESRGCNN)] **(Open source security community OSCS collection)**
-- **Tian C**，Zhu G, Xu Y, Zuo W, Chen C, Lin C. Lightweight Image Super-Resolution with Enhanced CNN[J].Knowledge-based systems, 2020:106235. (CCF B/SCI-IF:8.139)[[pdf](https://www.sciencedirect.com/science/article/pii/S0950705120304391)] [[code](https://github.com/hellloxiaotian/LESRCNN)] **（CoreML code of Apple ios system adapted to mobile terminals by Japanese engineers）** 
-- **Tian C**，Xu Y, Li Z, Zuo W, Fei L, Liu H. Attention-guided CNN for Image Denoising[J]. Neural Networks, 124,117-129, 2020. (CCF B/SCI-IF:9.657)[[pdf](https://www.sciencedirect.com/science/article/pii/S0893608019304241)] [[code](https://github.com/hellloxiaotian/ADNet)] **（The technology was purchased for commercial use by an American medical imaging company）** 
+### Cover paper, Annual excellent paper（封面论文、年度优秀论文）
+
+- C. Tian, Y. Xu, W.  Zuo, B. Zhang, L. Fei, C.  Lin. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia,  23, 1489-1502, 2021. （Top international journal in multimedia field/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:8.182）(Cover paper/ Excellent scientific and technological academic papers of a city) 
+- C. Tian C, Y. Xu, W. Zuo. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks, 121:461-473, 2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （Cover paper）
+- C. Tian, Y. Xu, Z. Li, W. Zuo, L. Fei, H. Liu. Attention-guided CNN for Image Denoising[J]. Neural Networks, 124,117-129, 2020.  (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （Cover paper）
+- C. Tian, L. Fei, W. Zheng, Y. Xu,  W. Zuo C. Lin. Deep Learning on Image Denoising: An overview[J]. Neural Networks,131,251-275 2020.  (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （Cover paper）
+- C. Tian, Y. Xu, et al. Enhanced CNN for image denoising [J],CAAI Transaction on Intelligence Technology, 4(1), 17– 23, 2019. (Journal of Chinese Society for Artificial Intelligence/First district of JRC /SCI-IF:7.985) （Excellent paper of the Year in 2020，Top 10 cited papers of journals in 2021）
+- C. Tian, Y. Xu, W. Zuo, C. Lin, D. Zhang.  Asymmetric CNN for image super-resolution [J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022. (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:11.471) （Top international journal of automation and control systems and computer control）(Excellent Natural Science Paper of a City/Excellent Science and technology academic paper of a City in 2022)
+- Q. Zhang, J. Xiao, C. Tian, J. Lin, S. Zhang. A robust deformed CNN for image denoising [J]. CAAI Transactions on Intelligence Technology, 2022. （Journal of Chinese Society for Artificial Intelligence/First district of JRC/SCI-IF:7.985）（Second quarter 2022 "Wiley High Contribution Author of Open Science in China"）
+- C. Tian, M. Zheng , W. Zuo, B. Zhang , Y. Zhang, D. Zhang. Multi-stage image denoising with the wavelet transform[J]. Pattern Recognition. 134:109050, 2023. (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:8.518)  (Proceedings of the International Association for Pattern Recognition/Top Journal of Computer Science Recognized by the Chinese Academy of Sciences)
+
+
+### GitHub 2020 with contributed paper code（GitHub 2020年具有贡献论文代码）
+
+- C. Tian C, Y. Xu, W. Zuo. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks, 121:461-473, 2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （Paper code rated as the largest international open source code platform GitHub 2020 has contributed code）
+- C. Tian, Y. Xu, Z. Li, W. Zuo, L. Fei, H. Liu. Attention-guided CNN for Image Denoising[J]. Neural Networks, 124,117-129, 2020.  (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) (Paper code rated as the largest international open source code platform GitHub 2020 has contributed code)
+- C. Tian, L. Fei, W. Zheng, Y. Xu,  W. Zuo C. Lin. Deep Learning on Image Denoising: An overview[J]. Neural Networks,131,251-275 2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) (Paper code rated as the largest international open source code platform GitHub 2020 has contributed code)
+
+
+### Paper landing technique（论文落地技术）
+
+- C. Tian C, Y. Xu, W. Zuo. Image Denoising Using Deep CNN with Batch Renormalization [J]. Neural Networks, 121:461-473, 2020. (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) （The paper technology is invited to integrate and run on iHub, a high-quality artificial intelligence platform in China affiliated to National Laboratory (Pengcheng Laboratory)）
+- C Tian, Y. Xu, et al. Enhanced CNN for image denoising [J],CAAI Transaction on Intelligence Technology, 4(1), 17– 23, 2019. (Journal of Chinese Society for Artificial Intelligence /SCI-IF:7.985) （Paper technology is invited to integrate and run on Profillic, an internationally renowned machine learning platform）
+- C. Tian, Y. Yuan, S. Zhang, C. Lin, W. Zuo, D. Zhang. Image Super-resolution with An Enhanced Group Convolutional Neural Network[J]. Neural Networks, 2022.  (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) (Proceedings of the International Society for Neural Networks) （Open source security community OSCS included）
+- C. Tian, G. Zhu, Z. Wu, Y. Xu, W. Zuo, C. Chen, C. Lin. Lightweight Image Super-Resolution with Enhanced CNN[J].Knowledge-based systems, 2020:106235. (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:8.139 ) （Journal of Chinese Society for Artificial Intelligence）（CoreML code for Apple -ios system adapted for mobile terminals by Japanese engineers）
+- C. Tian, Y. Xu, Z. Li, W. Zuo, L. Fei, H. Liu. Attention-guided CNN for Image Denoising[J]. Neural Networks, 124,117-129, 2020.  (Proceedings of the International Society for Neural Networks/First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) (The paper technology was purchased commercially by an American medical imaging company)
+- C. Tian, Y. Xu, W.  Zuo, B. Zhang, L. Fei, C.  Lin. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia,  23, 1489-1502, 2021. (Top Journal in International Multimedia Field/District I of Chinese Academy of Sciences/District I of JCR /SCI-IF:8.182)（The open source security community OSCS collects and tests code as secure and reliable）
 
 ## Journal papers (期刊论文)
+
+
+* **Tian Chunwei**, Zheng Menghua, Zuo Wangmeng, Zhang Bob, Zhang Yanning, Zhang David. Multi-stage image denoising with the wavelet transform[J]. *Pattern Recognition*, 2023, 134: 109050. (Top journal in pattern recognition / CAS Q1 / Best Paper Award of PR / ESI Highly Cited Paper / ESI Hot Paper / SCI-IF: 8.182)
+
+* **Tian Chunwei**, Xu Yong, Zuo Wangmeng, Zhang Bob, Fei Lunke, Lin Chia-Wen. Coarse-to-fine CNN for image super-resolution[J]. *IEEE Transactions on Multimedia*, 2021, 23: 1489-1502. (Top journal in multimedia / CAS Q1 / ESI Highly Cited Paper / IEEE TMM Cover Paper / Benchmark paper in image super-resolution / SCI-IF: 8.182)
+
+* **Tian Chunwei**, Xu Yong, Li Zuoyong, Zuo Wangmeng, Fei Lunke, Liu Hong. Attention-guided CNN for image denoising[J]. *Neural Networks*, 2020, 124: 117-129. (Top journal in neural networks / CAS Q1 / ESI Highly Cited Paper / Neural Networks Cover Paper / Applied commercially in medical CT systems / SCI-IF: 9.657)
+
+* **Tian Chunwei**, Xu Yong, Zuo Wangmeng. Image denoising using deep CNN with batch renormalization[J]. *Neural Networks*, 2020, 121: 461-473. (Top journal in neural networks / CAS Q1 / ESI Highly Cited Paper / Neural Networks Cover Paper / SCI-IF: 9.657)
+
+* **Tian Chunwei**, Zheng Menghua, Zuo Wangmeng, Zhang Shichao, Zhang Yanning, Lin Chia-Wen. A cross Transformer for image denoising[J]. *Information Fusion*, 2024, 102: 102043. (Top AI journal / CAS Q1 / ESI Highly Cited Paper / SCI-IF: 18.6)
+
+* **Tian Chunwei**, Fei Lunke, Zheng Wenxian, Xu Yong, Zuo Wangmeng, Lin Chia-Wen. Deep learning on image denoising: An overview[J]. *Neural Networks*, 2020, 131: 251-275. (Top journal in neural networks / CAS Q1 / ESI Highly Cited Paper / ESI Hot Paper / Neural Networks Cover Paper / SCI-IF: 9.657)
+
+* **Tian Chunwei**, Zhang Yanning, Zuo Wangmeng, Lin Chia-Wen, Zhang David, Yuan Yixuan. A heterogeneous group CNN for image super-resolution[J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2024, 35(5): 6507–6519. (Top journal in machine learning / CAS Q1 / Benchmark paper in image super-resolution / SCI-IF: 10.4)
+
+* **Tian Chunwei**, Zheng Menghua, Lin Chia-Wen, Li Zhiwu, Zhang David. Heterogeneous window transformer for image denoising[J]. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2024, 54(11): 6621–6632. (Top journal in automation and control / CAS Q1 / SCI-IF: 8.7)
+
+* **Tian Chunwei**, Xu Yong, Zuo Wangmeng, Lin Chia-Wen, Zhang David. Asymmetric CNN for image super-resolution[J]. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2022, 52(6): 3718–3730. (Top journal in control theory and computing / CAS Q1 / Benchmark paper in super-resolution / SCI-IF: 8.7)
+
+* **Tian Chunwei**, Zheng Menghua, Li Bo, Zhang Yanning, Zhang Shichao, Zhang David. Perceptive self-supervised learning network for noisy image watermark removal[J]. *IEEE Transactions on Circuits and Systems for Video Technology*, 2024, 34(8): 7069–7079. (Top video journal / CAS Q1 / SCI-IF: 8.4)
+
+* **Tian Chunwei**, Zheng Menghua, Jiao Tiancai, Zuo Wangmeng, Zhang Yanning, Lin Chia-Wen. A Self-supervised CNN for image watermark removal[J]. *IEEE Transactions on Circuits and Systems for Video Technology*, 2024, 34(8): 7566–7576. (Top video journal / CAS Q1 / SCI-IF: 8.4)
+
+* **Tian Chunwei**, Zhang Xuanyu, Liang Xu, Li Bo, Sun Yougang, Zhang Shichao. Knowledge Distillation With Fast CNN for License Plate Detection[J]. *IEEE Transactions on Intelligent Vehicles*, 2023. (Top journal in transportation / CAS Q1 / SCI-IF: 8.2)
+
+* **Tian Chunwei**, Song Mingjian, Fan Xiaopeng, Zheng Xiangtao, Zhang Bob, Zhang David. A Tree-Guided CNN for Image Super-Resolution[J]. *IEEE Transactions on Consumer Electronics*, 2025. (Top journal in consumer electronics / CAS Q2 / SCI-IF: 4.3)
+
+* **Tian Chunwei**, Liu Kai, Zhang Bob, Lin Chia-Wen, Zhang David. A Dynamic Transformer Network for Vehicle Detection[J]. *IEEE Transactions on Consumer Electronics*, 2025. (Top journal in consumer electronics / CAS Q2 / SCI-IF: 4.3)
+
+* **Tian Chunwei**, Cheng Tongtong, Peng Zhe, Zuo Wangmeng, Tian Yonglin, Zhang Qingfu, Wang Fei-Yue, Zhang David. A Survey on Deep Learning Fundamentals[J]. *Artificial Intelligence Review*, 2025. (CAS Q1 / SCI-IF: 13.9)
+
+* Huang Kan, Gui Jie, Li Xiang, **Tian Chunwei***. Hierarchical Space-Channel Context Correlation for Salient Object Detection[J]. *IEEE Transactions on Instrumentation and Measurement*, 2025. (Top journal in measurement / CAS Q2 / SCI-IF: 5.6)
+
+* Huang Kan, Fang Leyuan, **Tian Chunwei***. Learning to Adapt Using Test-Time Images for Salient Object Detection in Optical Remote Sensing Images[J]. *IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62: 5651714. (Top journal in remote sensing / CAS Q1 / SCI-IF: 7.6)
+
+* Huang Kan, Li Nannan, Huang Jiarong, **Tian Chunwei***. Exploiting memory-based cross-image contexts for salient object detection in optical remote sensing images[J]. *IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62: 5614615. (Top journal in earth sciences / CAS Q1 / SCI-IF: 7.6)
+
+* Huang Kan, **Tian Chunwei***, Lin Chia-Wen. Progressive context-aware dynamic network for salient object detection in optical remote sensing images[J]. *IEEE Transactions on Geoscience and Remote Sensing*, 2023, 61: 4703816. (Top journal in remote sensing / CAS Q1 / SCI-IF: 7.5)
+
+* **Tian Chunwei**, Yuan Yixuan, Zhang Shichao, Lin Chia-Wen, Zuo Wangmeng, Zhang David. Image super-resolution with an enhanced group convolutional neural network[J]. *Neural Networks*, 2022, 153: 373-385. (Top journal in neural networks / CAS Q1 / Benchmark paper in super-resolution / SCI-IF: 9.657)
+
+* **Tian Chunwei**, Xiao Jingyu, Zhang Bob, Zuo Wangmeng, Zhang Yudong, Lin Chia-Wen. A self-supervised network for image denoising and watermark removal[J]. *Neural Networks*, 2024: 106218. (Top journal in neural networks / CAS Q1 / SCI-IF: 9.657)
+
+* **Tian Chunwei**, Zhuge Ruibin, Wu Zhihao, Xu Yong, Zuo Wangmeng, Chen Chen, Lin Chia-Wen. Lightweight image super-resolution with enhanced CNN[J]. *Knowledge-Based Systems*, 2020, 205: 106235. (Top AI journal / CAS Q1 / Applied in Apple iOS systems / SCI-IF: 8.8)
+
+* **Tian Chunwei**, Xu Yong, Zuo Wangmeng, Du Bo, Lin Chia-Wen, Zhang David. Designing and training of a dual CNN for image denoising[J]. *Knowledge-Based Systems*, 2021, 226: 106949. (Top AI journal / CAS Q1 / SCI-IF: 8.8)
+
+* **Tian Chunwei**, Zhang Xuanyu, Zhang Qi, Yang Mingming, Ju Zhaojie. Image super-resolution via dynamic network[J]. *CAAI Transactions on Intelligence Technology*, 2024. (Top Chinese AI journal / Official journal of CAAI / CAS Q1 / SCI-IF: 8.4)
+
+* **Tian Chunwei**, Xu Yong, Fei Lunke, Wang Junqian, Wen Jie, Luo Nan. [J]. *CAAI Transactions on Intelligence Technology*, 2019, 4(1): 17-23. (Top Chinese AI journal / Official journal of CAAI / CAS Q1 / 2020 Excellent Paper Award / Integrated in Profillic ML platform / SCI-IF: 8.4)
+
+* Zhang Qi, Xiao Jingyu, **Tian Chunwei***, Lin Jerry Chun‐Wei, Zhang Shichao. A robust deformed CNN for image denoising[J]. *CAAI Transactions on Intelligence Technology*, 2023, 8(2): 331-342. (Top computer science journal / CAS Q1 / ESI Highly Cited Paper / ESI Hot Paper / SCI-IF: 8.4)
+
+* 田春伟，宋明键，左旺孟，杜博，张艳宁，张师超. 卷积神经网络在图像超分辨上的应用[J]. *智能系统学报*, 2025. (A-class journal of Chinese Association for Artificial Intelligence)
+
+* Zhang Qi, Xiao Jingyu, **Tian Chunwei***, Xu Jiayu, Zhang Shichao, Lin Chia-Wen. A parallel and serial denoising network[J]. *Expert Systems with Applications*, 2023, 231: 120628. (Top computer science journal / CAS Q1 / SCI-IF: 7.5)
+
+* Huang Kan, **Tian Chunwei***, Xu Zhijing, Li Nannan, Lin Jerry Chun-Wei. Motion context guided edge-preserving network for video salient object detection[J]. *Expert Systems with Applications*, 2023, 233: 120739. (Top computer science journal / CAS Q1 / SCI-IF: 7.5)
+
+* Zhu Minling, Gong Yadong, **Tian Chunwei***. Improving 3D Object Detection in Neural Radiance Fields with Channel Attention[J]. *CAAI Transactions on Intelligence Technology*, 2025. (Accepted / Top Chinese AI journal / Official journal of CAAI / CAS Q1 / SCI-IF: 8.4)
+
+* Yuan Di, Liao Donghai, Huang Feng, Qiu Zhaobing, Shu Xiu, **Tian Chunwei**, Liu Qiao. Hierarchical Attention Siamese Network for Thermal Infrared Target Tracking[J]. *IEEE Transactions on Instrumentation and Measurement*, 2024. (CAS Q2 / SCI-IF: 5.6)
+
+* Yang Kai, Li Qun, **Tian Chunwei**, Zhang Haijun, Shi Aiwu, Li Jinkai. DeforT: Deformable transformer for visual tracking[J]. *Neural Networks*, 2024, 176: 106380. (Top journal in neural networks / CAS Q1 / SCI-IF: 9.657)
+
+* Fei Lunke, Zhang Bob, Xu Yong, **Tian Chunwei**, Rida Imad, Zhang David. Jointly heterogeneous palmprint discriminant feature learning[J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2021, 33(9): 4979-4990. (Top journal in machine learning / CAS Q1 / SCI-IF: 10.4)
+
+* Fei Lunke, Zhang Bob, **Tian Chunwei**, Teng Shaohua, Wen Jie. Jointly learning multi-instance hand-based biometric descriptor[J]. *Information Sciences*, 2021, 562: 1-12. (Top computer science journal / CAS Q1 / SCI-IF: 8.1)
+
+* Wen Jie, Fang Xiaozhao, Xu Yong, **Tian Chunwei**, Fei Lunke. Low-rank representation with adaptive graph regularization[J]. *Neural Networks*, 2018, 108: 83-96. (Top journal in neural networks / CAS Q1 / SCI-IF: 9.657)
+
+* Shu Xiu, Li Zhihui, **Tian Chunwei**, Chang Xiaojun, Yuan Di. An active learning model based on image similarity for skin lesion segmentation[J]. *Neurocomputing*, 2025, 630: 129690. (CAS Q2 / SCI-IF: 5.5)
+
+* Hu Yuxuan, **Tian Chunwei**, Zhang Jian, Zhang Shichao. Efficient image denoising with heterogeneous kernel-based CNN[J]. *Neurocomputing*, 2024, 592: 127799. (CAS Q2 / SCI-IF: 5.5)
+
+* Zhu Minling, Gong Yadong, **Tian Chunwei**, Zhu Zuyuan. A Systematic Survey of Transformer-Based 3D Object Detection for Autonomous Driving: Methods, Challenges and Trends[J]. *Drones*, 2024, 8(8): 412. (CAS Q2 / SCI-IF: 4.4)
+
+* Tian Yonglin, Lin Fei, Li Yiduo, Zhang Tengchao, Zhang Qiyao, Fu Xuan, Huang Jun, Dai Xingyuan, Wang Yutong, **Tian Chunwei**, Lie Bai, Lv Yisheng, Kovacs Levente, Wang Fei-Yue. UAVs Meet LLMs: Overviews and Perspectives Toward Agentic Low-Altitude Mobility[J]. *Information Fusion*, 2025, 122: 103158. (Top AI journal / CAS Q1 / SCI-IF: 18.6)
+
+* Li Shengrong, Zhu Qi, **Tian Chunwei**, Shao Wei, Zhang Daoqiang. Interpretable Dynamic Brain Network Analysis with Functional and Structural Priors[J]. *IEEE Transactions on Medical Imaging*, 2025. (Top journal in medical imaging / CAS Q1 / SCI-IF: 9.8)
+
+* Zhao Yang, Chen Ziyang, He Junling, Li Wenting, Xiao Yao, **Tian Chunwei**, Zhang Yongjun. GIP-Stereo: Geometry-Aware Information Propagation Network for Stereo Matching[J]. *Knowledge-Based Systems*, 2025: 114062. (CAS Q1 / SCI-IF: 7.2)
+
+* Song Chao, Li Hao, Li Bo, Wang Jiacun, **Tian Chunwei**. Distributed Robust Data-Driven Event-Triggered Control for QUAVs under Stochastic Disturbances[J]. *Defence Technology*, 2025. (CAS Q2 / SCI-IF: 4.035)
+
+* Zhu Qi, **Tian Chunwei**, Zhang Daoqiang. Spatio-Temporal Evolutionary Graph Learning for Brain Network Analysis using Medical Imaging[J]. *IEEE Transactions on Image Processing*, 2025. (CAS Q1 / SCI-IF: 13.7 / CCF A)
+
+* Zeng Kun, Wu Yuntao, Li Zuoyong, Hu Rong, **Tian Chunwei**. DSCIL: Dynamic Selected Contrastive Instance Learning for Weakly Supervised Video Anomaly Detection[J]. *Pattern Recognition*, 2025. (CAS Q1 / SCI-IF: 7.6)
+
+- 
+
 - **C. Tian**, M. Zheng , W. Zuo, B. Zhang , Y. Zhang, D. Zhang. Multi-stage image denoising with the wavelet transform[J]. Pattern Recognition. 2022. (JCR Q1/SCI-IF:8.518)（Accepted）
 - **C. Tian**, Y. Zhang, W. Zuo, C. Lin, D. Zhang, Y. Yuan. A heterogenous group CNN for image super-resolution [J]. IEEE Transactions on Neural Networks and Learning Systems. 2022.　(JCR Q1/ CCF B/SCI-IF:14.255）（reported by [AlWalker](https://mp.weixin.qq.com/s/3zjTZuHF2uJ-ihi07O8b5g)）
 - **Tian C**, Yuan Y, Zhang S, et al. Image Super-resolution with An Enhanced Group Convolutional Neural Network[J]. arXiv preprint arXiv:2205.14548, 2022. ( JCR Q1/CCF-B/SCI IF: 8.05)(Accepted )
@@ -65,6 +168,12 @@
 
 ## Conference papers (会议论文)
 
+* Li Shengrong, **Tian Chunwei**, Zhu Qi, Zhang Daoqiang. HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning[C]. *ACM MM*, 2025. (Top conference in multimedia / CCF A)
+
+* Li Shengrong, Zhu Qi, **Tian Chunwei**, Zhang Xinyang, Shao Wei, Wen Jie, Zhang Daoqiang. NeuroH-TGL: Neuro-Heterogeneity Guided Temporal Graph Learning Strategy for Brain Disease Diagnosis[C]. *NeurIPS*, 2025. (CCF A)
+
+- 
+
 - M. Zheng, K. Zhi, J. Zeng, **C. Tian\***, L. You. A hybrid CNN for image denoising [J]. Journal of Artificial Intelligence and Technology, 2022. (Accepted)
 - P. Wu, L. Fei, S. Li, **C. Tian**, B. Zhang, S. Teng. Towards pen-holding hand pose estimation a new benchmark and  a coarse-to-fine PHHP estimation network[C]. ICASSP 2022. (Accepted)
 - T. Wang, Y. Wang, Z. Shao, H. Yang, S. Peng, X. Yin, Y. Zhang, X. Shang, **C. Tian**. J. Peng. Discovering eQTL Regulatory Patterns in Human Frontal Cortex Through eQTMotif [C]. The 20th International Conference on Bioinformatics (INCOB 2021) (EI). (Accepted) 
@@ -81,61 +190,10 @@
 - **Tian C**, Zhang Q, Sun G. Multiple methods for wechat identification[C]//International Conference on Advanced Design and Manufacturing Engineering. 2016. (EI)
 - Zhang H, Zhao R, **Tian C**. Design and Implementation of the Music Player Based on Interface Chip CH378[C]//2015 Seventh International Conference on Advanced Communication and Networking (ACN). IEEE, 2015: 40-43.  (EI)
 
+### Invited by MSU's Graphics& Media Lab to participate in the production of international Super-resolution benchmark（受MSU’s Graphics& Media Lab邀请参加国际Super-resolution benchmark的制作）
 
-
-## Patents (专利)
-
-1. **Tian C**, Xu Y. A method and system based neural network for image denoising. Chinese invention patent. 2021. ZL201810063893.2(Authorized) 
-2. **Tian C**, Xu Y. Image restoration methodm, storage medium and system based on an enhanced neural network. Chinese invention patent. 2021. ZL201810803674.3 (Authorized) 
-3. **Tian C**, Yuan Y. A denoising model and its establishment method and device, image denoising method and device. Chinese invention patent, 2021. 202111112423.9. (Accepted)
-3. **Tian C**, Zheng M, Zhang X, A method and system based improved ** image blind denoising, 2021.
-3. **Tian C**, Ma Y, Zhang X, Zhang Y. A method based enhancement **blind image denoising, 2021.202210032943.7. (Accepted)
-3. **Tian C**, Xu Y. System based on ** fire risk assessment, 2021. 202210163285.5. (Accepted)
-4. Xiao J, **Tian C**, Zhang C, Zhang S.  Deformable Convolution Neural Network For Image Denoising. Chinese invention patent, 2021. 202111039510.6. (Accepted)
-4. Hu Y, **Tian C**, Zhang C, Zhang S. A **Image Denoising Method, 2022, Patent of Invention. (Applying)
-5. **Tian C,** Xu Y,  Wen J, Wu J, Liu C. Image denoising method, device, equipment and storagemedium basded on deep learning. Chinese invention patent. 2019. 201811338660.5.
-
-
-
-## Software Copyright (软著) 
-
-1.  Zhi K, **Tian C**, An Image denoising method based on Convolutional Neural Network, 2022. 
-2.  Jiao T, **Tian C**, A self-supervised convolutional neural network based image watermarking system, 2022.
-3.  Fu Y, **Tian C**. Dark light image enhancement algorithm based on Retinex model. Software Copyright. 2022.
-4.  Fu Y, **Tian C**. Dark light image enhancement algorithm based on residual dense network. Software Copyright. 2022.
-5.  Ma Y, Zhang X, Li J, **Tian C**. Intelligent tracking control system. Software Copyright. 2021. 
-6.  Ma Y, Zheng M, Yang D, **Tian C**. Intelligent vehicle control system. Software Copyright. 2021. 
-7.  Zheng M, Zhang X, Ma Y, **Tian C**. Cruise detection fruit mobile robot system . Software Copyright. 2021. 
-8.  Zhang X, Ma Y, Yang D, **Tian C**. Hotel background management system. Software copyright. 2021. 
-9.  Zhang X, Shi B, Zheng M, **Tian C**. Office-assistant system. Software copyright. 2021.
-10.  **Tian C**, Sun G. Face recognition system. Software Copyright.
-11.  **Tian C**, Sun G. Wechat identification software. Software Copyright.
-12.  **Tian C**, Sun G. Network traffic classification software. Software Copyright.
-13.  Sun G, **Tian C.** Network traffic monitoring system. Software Copyright.
-
-
-## Projects (项目)
-
-1.  2023.01- National Natural Science Foundation of China.
-2.  2022.09- **Provincial High-Level Talent Program.
-3.  2022.07- *\*Project.
-4.  2022.07- *\*Project.
-5.  2022.05- *\*Project.
-6.  2022.01-2023.12 \*\*Project.
-7.  2022.01-2022.12 **Young Science and Technology Talent Program.
-8.  2022.03-2022.12, \*\*Project.
-9.  2021.10-2023.09, Ministry of Education Industry-University-Research Cooperation Collaborative Education Program.
-10.  2021.10-2024.09 **Province Youth Fund Project.
-11.  2021- Shaanxi Virtual Teaching and Research Office construction project.
-12.  2021- Ministry of Education industry-University-Research Project.
-13.  2021.09-2024.08 The Fundamental Research Funds for the Central Universities.
-14.  2021.09- , Research on intelligent ** method.
-15.  2021.09-2023.08, ** Technology Project
-16.  2019.01-2022.12 National Nature ScienceFoundation of China Gant No. 61876051.
-17.  2020.01-2021.12 ShenzhenKey Laboratory of Visual Object Detection and Recognition under Grant No. ZDSYS20190902093015527. 
-18.  2019.08-2022.08 Shenzhen Science and technology innovation Commission  under Grant No. JSGG20190220153602271.
-19.  2016.1-2017.02 National Natural Science Foundation of China Youth Fund funded projects (61502123)—Research on Multi-core program complicating error elimination method.
-20.  2015.7-2015.12 Heilongjiang Science Foundation Project (QC2015084)—Research based on Multi-core processor fault  diagnosis method of deterministic repetition.
-21.  2013.12-2015.07 The Cooperation Project of Harbin University of Science and Technology and Beijing Aerospace System Engineering Research—The implementations and design of network flow classification.
-22.  2012.04-2013.10 The Innovative Project of Undergraduate of Heilongjiang Province—The implementations and design of  network down-hole monitoring system.
-
+- C. Tian, Y. Yuan, S. Zhang, C. Lin, W. Zuo, D. Zhang. Image Super-resolution with An Enhanced Group Convolutional Neural Network[J]. Neural Networks, 2022.  (First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:9.657) (Proceedings of the International Society for Neural Networks) （The production of international Super-Resolution Benchmark)
+- C. Tian, Y. Zhang, W. Zuo, C. Lin, D. Zhang, Y. Yuan. A heterogenous group CNN for image super-resolution [J].  IEEE Transactions on Neural Networks and Learning Systems. 2022.　(First district of Chinese Academy of Sciences/First district of JRC/SCI-IF:14.255) （The production of international Super-Resolution Benchmark)
+- C. Tian, Y. Xu, W. Zuo, B. Zhang, L. Fei, C. Lin. Coarse-to-fine CNN for image super-resolution [J]. IEEE Transactions on Multimedia, 23, 1489-1502, 2021. （The production of international Super-Resolution Benchmark)
+- C. Tian, Y. Xu, W. Zuo, C. Lin, D. Zhang.  Asymmetric CNN for image super-resolution [J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2021. （The production of international Super-Resolution Benchmark)
+- C. Tian, G. Zhu, Z. Wu, Y. Xu, W. Zuo, C. Chen, C. Lin. Lightweight Image Super-Resolution with Enhanced CNN[J].Knowledge-based systems, 2020:106235. （The production of international Super-Resolution Benchmark)

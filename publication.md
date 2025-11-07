@@ -40,95 +40,93 @@
 ## Journal papers (期刊论文)
 
 
-* **Tian Chunwei**, Zheng Menghua, Zuo Wangmeng, Zhang Bob, Zhang Yanning, Zhang David. Multi-stage image denoising with the wavelet transform[J]. *Pattern Recognition*, 2023, 134: 109050. (Top journal in pattern recognition / CAS Q1 / Best Paper Award of PR / ESI Highly Cited Paper / ESI Hot Paper / SCI-IF: 8.182)
+- **Tian Chunwei**, Zheng Menghua, Zuo Wangmeng, Zhang Bob, Zhang Yanning, Zhang David. Multi-stage image denoising with the wavelet transform[J]. *Pattern Recognition*, 2023, 134: 109050. (Top journal in pattern recognition / CAS Q1 / Best Paper Award of PR / ESI Highly Cited Paper / ESI Hot Paper / SCI-IF: 8.182)
 
-* **Tian Chunwei**, Xu Yong, Zuo Wangmeng, Zhang Bob, Fei Lunke, Lin Chia-Wen. Coarse-to-fine CNN for image super-resolution[J]. *IEEE Transactions on Multimedia*, 2021, 23: 1489-1502. (Top journal in multimedia / CAS Q1 / ESI Highly Cited Paper / IEEE TMM Cover Paper / Benchmark paper in image super-resolution / SCI-IF: 8.182)
+- **Tian Chunwei**, Xu Yong, Zuo Wangmeng, Zhang Bob, Fei Lunke, Lin Chia-Wen. Coarse-to-fine CNN for image super-resolution[J]. *IEEE Transactions on Multimedia*, 2021, 23: 1489-1502. (Top journal in multimedia / CAS Q1 / ESI Highly Cited Paper / IEEE TMM Cover Paper / Benchmark paper in image super-resolution / SCI-IF: 8.182)
 
-* **Tian Chunwei**, Xu Yong, Li Zuoyong, Zuo Wangmeng, Fei Lunke, Liu Hong. Attention-guided CNN for image denoising[J]. *Neural Networks*, 2020, 124: 117-129. (Top journal in neural networks / CAS Q1 / ESI Highly Cited Paper / Neural Networks Cover Paper / Applied commercially in medical CT systems / SCI-IF: 9.657)
+- **Tian Chunwei**, Xu Yong, Li Zuoyong, Zuo Wangmeng, Fei Lunke, Liu Hong. Attention-guided CNN for image denoising[J]. *Neural Networks*, 2020, 124: 117-129. (Top journal in neural networks / CAS Q1 / ESI Highly Cited Paper / Neural Networks Cover Paper / Applied commercially in medical CT systems / SCI-IF: 9.657)
 
-* **Tian Chunwei**, Xu Yong, Zuo Wangmeng. Image denoising using deep CNN with batch renormalization[J]. *Neural Networks*, 2020, 121: 461-473. (Top journal in neural networks / CAS Q1 / ESI Highly Cited Paper / Neural Networks Cover Paper / SCI-IF: 9.657)
+- **Tian Chunwei**, Xu Yong, Zuo Wangmeng. Image denoising using deep CNN with batch renormalization[J]. *Neural Networks*, 2020, 121: 461-473. (Top journal in neural networks / CAS Q1 / ESI Highly Cited Paper / Neural Networks Cover Paper / SCI-IF: 9.657)
 
-* **Tian Chunwei**, Zheng Menghua, Zuo Wangmeng, Zhang Shichao, Zhang Yanning, Lin Chia-Wen. A cross Transformer for image denoising[J]. *Information Fusion*, 2024, 102: 102043. (Top AI journal / CAS Q1 / ESI Highly Cited Paper / SCI-IF: 18.6)
+- **Tian Chunwei**, Zheng Menghua, Zuo Wangmeng, Zhang Shichao, Zhang Yanning, Lin Chia-Wen. A cross Transformer for image denoising[J]. *Information Fusion*, 2024, 102: 102043. (Top AI journal / CAS Q1 / ESI Highly Cited Paper / SCI-IF: 18.6)
 
-* **Tian Chunwei**, Fei Lunke, Zheng Wenxian, Xu Yong, Zuo Wangmeng, Lin Chia-Wen. Deep learning on image denoising: An overview[J]. *Neural Networks*, 2020, 131: 251-275. (Top journal in neural networks / CAS Q1 / ESI Highly Cited Paper / ESI Hot Paper / Neural Networks Cover Paper / SCI-IF: 9.657)
+- **Tian Chunwei**, Fei Lunke, Zheng Wenxian, Xu Yong, Zuo Wangmeng, Lin Chia-Wen. Deep learning on image denoising: An overview[J]. *Neural Networks*, 2020, 131: 251-275. (Top journal in neural networks / CAS Q1 / ESI Highly Cited Paper / ESI Hot Paper / Neural Networks Cover Paper / SCI-IF: 9.657)
 
-* **Tian Chunwei**, Zhang Yanning, Zuo Wangmeng, Lin Chia-Wen, Zhang David, Yuan Yixuan. A heterogeneous group CNN for image super-resolution[J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2024, 35(5): 6507–6519. (Top journal in machine learning / CAS Q1 / Benchmark paper in image super-resolution / SCI-IF: 10.4)
+- **Tian Chunwei**, Zhang Yanning, Zuo Wangmeng, Lin Chia-Wen, Zhang David, Yuan Yixuan. A heterogeneous group CNN for image super-resolution[J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2024, 35(5): 6507–6519. (Top journal in machine learning / CAS Q1 / Benchmark paper in image super-resolution / SCI-IF: 10.4)
 
-* **Tian Chunwei**, Zheng Menghua, Lin Chia-Wen, Li Zhiwu, Zhang David. Heterogeneous window transformer for image denoising[J]. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2024, 54(11): 6621–6632. (Top journal in automation and control / CAS Q1 / SCI-IF: 8.7)
+- **Tian Chunwei**, Zheng Menghua, Lin Chia-Wen, Li Zhiwu, Zhang David. Heterogeneous window transformer for image denoising[J]. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2024, 54(11): 6621–6632. (Top journal in automation and control / CAS Q1 / SCI-IF: 8.7)
 
-* **Tian Chunwei**, Xu Yong, Zuo Wangmeng, Lin Chia-Wen, Zhang David. Asymmetric CNN for image super-resolution[J]. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2022, 52(6): 3718–3730. (Top journal in control theory and computing / CAS Q1 / Benchmark paper in super-resolution / SCI-IF: 8.7)
+- **Tian Chunwei**, Xu Yong, Zuo Wangmeng, Lin Chia-Wen, Zhang David. Asymmetric CNN for image super-resolution[J]. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2022, 52(6): 3718–3730. (Top journal in control theory and computing / CAS Q1 / Benchmark paper in super-resolution / SCI-IF: 8.7)
 
-* **Tian Chunwei**, Zheng Menghua, Li Bo, Zhang Yanning, Zhang Shichao, Zhang David. Perceptive self-supervised learning network for noisy image watermark removal[J]. *IEEE Transactions on Circuits and Systems for Video Technology*, 2024, 34(8): 7069–7079. (Top video journal / CAS Q1 / SCI-IF: 8.4)
+- **Tian Chunwei**, Zheng Menghua, Li Bo, Zhang Yanning, Zhang Shichao, Zhang David. Perceptive self-supervised learning network for noisy image watermark removal[J]. *IEEE Transactions on Circuits and Systems for Video Technology*, 2024, 34(8): 7069–7079. (Top video journal / CAS Q1 / SCI-IF: 8.4)
 
-* **Tian Chunwei**, Zheng Menghua, Jiao Tiancai, Zuo Wangmeng, Zhang Yanning, Lin Chia-Wen. A Self-supervised CNN for image watermark removal[J]. *IEEE Transactions on Circuits and Systems for Video Technology*, 2024, 34(8): 7566–7576. (Top video journal / CAS Q1 / SCI-IF: 8.4)
+- **Tian Chunwei**, Zheng Menghua, Jiao Tiancai, Zuo Wangmeng, Zhang Yanning, Lin Chia-Wen. A Self-supervised CNN for image watermark removal[J]. *IEEE Transactions on Circuits and Systems for Video Technology*, 2024, 34(8): 7566–7576. (Top video journal / CAS Q1 / SCI-IF: 8.4)
 
-* **Tian Chunwei**, Zhang Xuanyu, Liang Xu, Li Bo, Sun Yougang, Zhang Shichao. Knowledge Distillation With Fast CNN for License Plate Detection[J]. *IEEE Transactions on Intelligent Vehicles*, 2023. (Top journal in transportation / CAS Q1 / SCI-IF: 8.2)
+- **Tian Chunwei**, Zhang Xuanyu, Liang Xu, Li Bo, Sun Yougang, Zhang Shichao. Knowledge Distillation With Fast CNN for License Plate Detection[J]. *IEEE Transactions on Intelligent Vehicles*, 2023. (Top journal in transportation / CAS Q1 / SCI-IF: 8.2)
 
-* **Tian Chunwei**, Song Mingjian, Fan Xiaopeng, Zheng Xiangtao, Zhang Bob, Zhang David. A Tree-Guided CNN for Image Super-Resolution[J]. *IEEE Transactions on Consumer Electronics*, 2025. (Top journal in consumer electronics / CAS Q2 / SCI-IF: 4.3)
+- **Tian Chunwei**, Song Mingjian, Fan Xiaopeng, Zheng Xiangtao, Zhang Bob, Zhang David. A Tree-Guided CNN for Image Super-Resolution[J]. *IEEE Transactions on Consumer Electronics*, 2025. (Top journal in consumer electronics / CAS Q2 / SCI-IF: 4.3)
 
-* **Tian Chunwei**, Liu Kai, Zhang Bob, Lin Chia-Wen, Zhang David. A Dynamic Transformer Network for Vehicle Detection[J]. *IEEE Transactions on Consumer Electronics*, 2025. (Top journal in consumer electronics / CAS Q2 / SCI-IF: 4.3)
+- **Tian Chunwei**, Liu Kai, Zhang Bob, Lin Chia-Wen, Zhang David. A Dynamic Transformer Network for Vehicle Detection[J]. *IEEE Transactions on Consumer Electronics*, 2025. (Top journal in consumer electronics / CAS Q2 / SCI-IF: 4.3)
 
-* **Tian Chunwei**, Cheng Tongtong, Peng Zhe, Zuo Wangmeng, Tian Yonglin, Zhang Qingfu, Wang Fei-Yue, Zhang David. A Survey on Deep Learning Fundamentals[J]. *Artificial Intelligence Review*, 2025. (CAS Q1 / SCI-IF: 13.9)
+- **Tian Chunwei**, Cheng Tongtong, Peng Zhe, Zuo Wangmeng, Tian Yonglin, Zhang Qingfu, Wang Fei-Yue, Zhang David. A Survey on Deep Learning Fundamentals[J]. *Artificial Intelligence Review*, 2025. (CAS Q1 / SCI-IF: 13.9)
 
-* Huang Kan, Gui Jie, Li Xiang, **Tian Chunwei***. Hierarchical Space-Channel Context Correlation for Salient Object Detection[J]. *IEEE Transactions on Instrumentation and Measurement*, 2025. (Top journal in measurement / CAS Q2 / SCI-IF: 5.6)
+- Huang Kan, Gui Jie, Li Xiang, **Tian Chunwei***. Hierarchical Space-Channel Context Correlation for Salient Object Detection[J]. *IEEE Transactions on Instrumentation and Measurement*, 2025. (Top journal in measurement / CAS Q2 / SCI-IF: 5.6)
 
-* Huang Kan, Fang Leyuan, **Tian Chunwei***. Learning to Adapt Using Test-Time Images for Salient Object Detection in Optical Remote Sensing Images[J]. *IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62: 5651714. (Top journal in remote sensing / CAS Q1 / SCI-IF: 7.6)
+- Huang Kan, Fang Leyuan, **Tian Chunwei***. Learning to Adapt Using Test-Time Images for Salient Object Detection in Optical Remote Sensing Images[J]. *IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62: 5651714. (Top journal in remote sensing / CAS Q1 / SCI-IF: 7.6)
 
-* Huang Kan, Li Nannan, Huang Jiarong, **Tian Chunwei***. Exploiting memory-based cross-image contexts for salient object detection in optical remote sensing images[J]. *IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62: 5614615. (Top journal in earth sciences / CAS Q1 / SCI-IF: 7.6)
+- Huang Kan, Li Nannan, Huang Jiarong, **Tian Chunwei***. Exploiting memory-based cross-image contexts for salient object detection in optical remote sensing images[J]. *IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62: 5614615. (Top journal in earth sciences / CAS Q1 / SCI-IF: 7.6)
 
-* Huang Kan, **Tian Chunwei***, Lin Chia-Wen. Progressive context-aware dynamic network for salient object detection in optical remote sensing images[J]. *IEEE Transactions on Geoscience and Remote Sensing*, 2023, 61: 4703816. (Top journal in remote sensing / CAS Q1 / SCI-IF: 7.5)
+- Huang Kan, **Tian Chunwei***, Lin Chia-Wen. Progressive context-aware dynamic network for salient object detection in optical remote sensing images[J]. *IEEE Transactions on Geoscience and Remote Sensing*, 2023, 61: 4703816. (Top journal in remote sensing / CAS Q1 / SCI-IF: 7.5)
 
-* **Tian Chunwei**, Yuan Yixuan, Zhang Shichao, Lin Chia-Wen, Zuo Wangmeng, Zhang David. Image super-resolution with an enhanced group convolutional neural network[J]. *Neural Networks*, 2022, 153: 373-385. (Top journal in neural networks / CAS Q1 / Benchmark paper in super-resolution / SCI-IF: 9.657)
+- **Tian Chunwei**, Yuan Yixuan, Zhang Shichao, Lin Chia-Wen, Zuo Wangmeng, Zhang David. Image super-resolution with an enhanced group convolutional neural network[J]. *Neural Networks*, 2022, 153: 373-385. (Top journal in neural networks / CAS Q1 / Benchmark paper in super-resolution / SCI-IF: 9.657)
 
-* **Tian Chunwei**, Xiao Jingyu, Zhang Bob, Zuo Wangmeng, Zhang Yudong, Lin Chia-Wen. A self-supervised network for image denoising and watermark removal[J]. *Neural Networks*, 2024: 106218. (Top journal in neural networks / CAS Q1 / SCI-IF: 9.657)
+- **Tian Chunwei**, Xiao Jingyu, Zhang Bob, Zuo Wangmeng, Zhang Yudong, Lin Chia-Wen. A self-supervised network for image denoising and watermark removal[J]. *Neural Networks*, 2024: 106218. (Top journal in neural networks / CAS Q1 / SCI-IF: 9.657)
 
-* **Tian Chunwei**, Zhuge Ruibin, Wu Zhihao, Xu Yong, Zuo Wangmeng, Chen Chen, Lin Chia-Wen. Lightweight image super-resolution with enhanced CNN[J]. *Knowledge-Based Systems*, 2020, 205: 106235. (Top AI journal / CAS Q1 / Applied in Apple iOS systems / SCI-IF: 8.8)
+- **Tian Chunwei**, Zhuge Ruibin, Wu Zhihao, Xu Yong, Zuo Wangmeng, Chen Chen, Lin Chia-Wen. Lightweight image super-resolution with enhanced CNN[J]. *Knowledge-Based Systems*, 2020, 205: 106235. (Top AI journal / CAS Q1 / Applied in Apple iOS systems / SCI-IF: 8.8)
 
-* **Tian Chunwei**, Xu Yong, Zuo Wangmeng, Du Bo, Lin Chia-Wen, Zhang David. Designing and training of a dual CNN for image denoising[J]. *Knowledge-Based Systems*, 2021, 226: 106949. (Top AI journal / CAS Q1 / SCI-IF: 8.8)
+- **Tian Chunwei**, Xu Yong, Zuo Wangmeng, Du Bo, Lin Chia-Wen, Zhang David. Designing and training of a dual CNN for image denoising[J]. *Knowledge-Based Systems*, 2021, 226: 106949. (Top AI journal / CAS Q1 / SCI-IF: 8.8)
 
-* **Tian Chunwei**, Zhang Xuanyu, Zhang Qi, Yang Mingming, Ju Zhaojie. Image super-resolution via dynamic network[J]. *CAAI Transactions on Intelligence Technology*, 2024. (Top Chinese AI journal / Official journal of CAAI / CAS Q1 / SCI-IF: 8.4)
+- **Tian Chunwei**, Zhang Xuanyu, Zhang Qi, Yang Mingming, Ju Zhaojie. Image super-resolution via dynamic network[J]. *CAAI Transactions on Intelligence Technology*, 2024. (Top Chinese AI journal / Official journal of CAAI / CAS Q1 / SCI-IF: 8.4)
 
-* **Tian Chunwei**, Xu Yong, Fei Lunke, Wang Junqian, Wen Jie, Luo Nan. [J]. *CAAI Transactions on Intelligence Technology*, 2019, 4(1): 17-23. (Top Chinese AI journal / Official journal of CAAI / CAS Q1 / 2020 Excellent Paper Award / Integrated in Profillic ML platform / SCI-IF: 8.4)
+- **Tian Chunwei**, Xu Yong, Fei Lunke, Wang Junqian, Wen Jie, Luo Nan. [J]. *CAAI Transactions on Intelligence Technology*, 2019, 4(1): 17-23. (Top Chinese AI journal / Official journal of CAAI / CAS Q1 / 2020 Excellent Paper Award / Integrated in Profillic ML platform / SCI-IF: 8.4)
 
-* Zhang Qi, Xiao Jingyu, **Tian Chunwei***, Lin Jerry Chun‐Wei, Zhang Shichao. A robust deformed CNN for image denoising[J]. *CAAI Transactions on Intelligence Technology*, 2023, 8(2): 331-342. (Top computer science journal / CAS Q1 / ESI Highly Cited Paper / ESI Hot Paper / SCI-IF: 8.4)
+- Zhang Qi, Xiao Jingyu, **Tian Chunwei***, Lin Jerry Chun‐Wei, Zhang Shichao. A robust deformed CNN for image denoising[J]. *CAAI Transactions on Intelligence Technology*, 2023, 8(2): 331-342. (Top computer science journal / CAS Q1 / ESI Highly Cited Paper / ESI Hot Paper / SCI-IF: 8.4)
 
-* 田春伟，宋明键，左旺孟，杜博，张艳宁，张师超. 卷积神经网络在图像超分辨上的应用[J]. *智能系统学报*, 2025. (A-class journal of Chinese Association for Artificial Intelligence)
+- 田春伟，宋明键，左旺孟，杜博，张艳宁，张师超. 卷积神经网络在图像超分辨上的应用[J]. *智能系统学报*, 2025. (A-class journal of Chinese Association for Artificial Intelligence)
 
-* Zhang Qi, Xiao Jingyu, **Tian Chunwei***, Xu Jiayu, Zhang Shichao, Lin Chia-Wen. A parallel and serial denoising network[J]. *Expert Systems with Applications*, 2023, 231: 120628. (Top computer science journal / CAS Q1 / SCI-IF: 7.5)
+- Zhang Qi, Xiao Jingyu, **Tian Chunwei***, Xu Jiayu, Zhang Shichao, Lin Chia-Wen. A parallel and serial denoising network[J]. *Expert Systems with Applications*, 2023, 231: 120628. (Top computer science journal / CAS Q1 / SCI-IF: 7.5)
 
-* Huang Kan, **Tian Chunwei***, Xu Zhijing, Li Nannan, Lin Jerry Chun-Wei. Motion context guided edge-preserving network for video salient object detection[J]. *Expert Systems with Applications*, 2023, 233: 120739. (Top computer science journal / CAS Q1 / SCI-IF: 7.5)
+- Huang Kan, **Tian Chunwei***, Xu Zhijing, Li Nannan, Lin Jerry Chun-Wei. Motion context guided edge-preserving network for video salient object detection[J]. *Expert Systems with Applications*, 2023, 233: 120739. (Top computer science journal / CAS Q1 / SCI-IF: 7.5)
 
-* Zhu Minling, Gong Yadong, **Tian Chunwei***. Improving 3D Object Detection in Neural Radiance Fields with Channel Attention[J]. *CAAI Transactions on Intelligence Technology*, 2025. (Accepted / Top Chinese AI journal / Official journal of CAAI / CAS Q1 / SCI-IF: 8.4)
+- Zhu Minling, Gong Yadong, **Tian Chunwei***. Improving 3D Object Detection in Neural Radiance Fields with Channel Attention[J]. *CAAI Transactions on Intelligence Technology*, 2025. (Accepted / Top Chinese AI journal / Official journal of CAAI / CAS Q1 / SCI-IF: 8.4)
 
-* Yuan Di, Liao Donghai, Huang Feng, Qiu Zhaobing, Shu Xiu, **Tian Chunwei**, Liu Qiao. Hierarchical Attention Siamese Network for Thermal Infrared Target Tracking[J]. *IEEE Transactions on Instrumentation and Measurement*, 2024. (CAS Q2 / SCI-IF: 5.6)
+- Yuan Di, Liao Donghai, Huang Feng, Qiu Zhaobing, Shu Xiu, **Tian Chunwei**, Liu Qiao. Hierarchical Attention Siamese Network for Thermal Infrared Target Tracking[J]. *IEEE Transactions on Instrumentation and Measurement*, 2024. (CAS Q2 / SCI-IF: 5.6)
 
-* Yang Kai, Li Qun, **Tian Chunwei**, Zhang Haijun, Shi Aiwu, Li Jinkai. DeforT: Deformable transformer for visual tracking[J]. *Neural Networks*, 2024, 176: 106380. (Top journal in neural networks / CAS Q1 / SCI-IF: 9.657)
+- Yang Kai, Li Qun, **Tian Chunwei**, Zhang Haijun, Shi Aiwu, Li Jinkai. DeforT: Deformable transformer for visual tracking[J]. *Neural Networks*, 2024, 176: 106380. (Top journal in neural networks / CAS Q1 / SCI-IF: 9.657)
 
-* Fei Lunke, Zhang Bob, Xu Yong, **Tian Chunwei**, Rida Imad, Zhang David. Jointly heterogeneous palmprint discriminant feature learning[J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2021, 33(9): 4979-4990. (Top journal in machine learning / CAS Q1 / SCI-IF: 10.4)
+- Fei Lunke, Zhang Bob, Xu Yong, **Tian Chunwei**, Rida Imad, Zhang David. Jointly heterogeneous palmprint discriminant feature learning[J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2021, 33(9): 4979-4990. (Top journal in machine learning / CAS Q1 / SCI-IF: 10.4)
 
-* Fei Lunke, Zhang Bob, **Tian Chunwei**, Teng Shaohua, Wen Jie. Jointly learning multi-instance hand-based biometric descriptor[J]. *Information Sciences*, 2021, 562: 1-12. (Top computer science journal / CAS Q1 / SCI-IF: 8.1)
+- Fei Lunke, Zhang Bob, **Tian Chunwei**, Teng Shaohua, Wen Jie. Jointly learning multi-instance hand-based biometric descriptor[J]. *Information Sciences*, 2021, 562: 1-12. (Top computer science journal / CAS Q1 / SCI-IF: 8.1)
 
-* Wen Jie, Fang Xiaozhao, Xu Yong, **Tian Chunwei**, Fei Lunke. Low-rank representation with adaptive graph regularization[J]. *Neural Networks*, 2018, 108: 83-96. (Top journal in neural networks / CAS Q1 / SCI-IF: 9.657)
+- Wen Jie, Fang Xiaozhao, Xu Yong, **Tian Chunwei**, Fei Lunke. Low-rank representation with adaptive graph regularization[J]. *Neural Networks*, 2018, 108: 83-96. (Top journal in neural networks / CAS Q1 / SCI-IF: 9.657)
 
-* Shu Xiu, Li Zhihui, **Tian Chunwei**, Chang Xiaojun, Yuan Di. An active learning model based on image similarity for skin lesion segmentation[J]. *Neurocomputing*, 2025, 630: 129690. (CAS Q2 / SCI-IF: 5.5)
+- Shu Xiu, Li Zhihui, **Tian Chunwei**, Chang Xiaojun, Yuan Di. An active learning model based on image similarity for skin lesion segmentation[J]. *Neurocomputing*, 2025, 630: 129690. (CAS Q2 / SCI-IF: 5.5)
 
-* Hu Yuxuan, **Tian Chunwei**, Zhang Jian, Zhang Shichao. Efficient image denoising with heterogeneous kernel-based CNN[J]. *Neurocomputing*, 2024, 592: 127799. (CAS Q2 / SCI-IF: 5.5)
+- Hu Yuxuan, **Tian Chunwei**, Zhang Jian, Zhang Shichao. Efficient image denoising with heterogeneous kernel-based CNN[J]. *Neurocomputing*, 2024, 592: 127799. (CAS Q2 / SCI-IF: 5.5)
 
-* Zhu Minling, Gong Yadong, **Tian Chunwei**, Zhu Zuyuan. A Systematic Survey of Transformer-Based 3D Object Detection for Autonomous Driving: Methods, Challenges and Trends[J]. *Drones*, 2024, 8(8): 412. (CAS Q2 / SCI-IF: 4.4)
+- Zhu Minling, Gong Yadong, **Tian Chunwei**, Zhu Zuyuan. A Systematic Survey of Transformer-Based 3D Object Detection for Autonomous Driving: Methods, Challenges and Trends[J]. *Drones*, 2024, 8(8): 412. (CAS Q2 / SCI-IF: 4.4)
 
-* Tian Yonglin, Lin Fei, Li Yiduo, Zhang Tengchao, Zhang Qiyao, Fu Xuan, Huang Jun, Dai Xingyuan, Wang Yutong, **Tian Chunwei**, Lie Bai, Lv Yisheng, Kovacs Levente, Wang Fei-Yue. UAVs Meet LLMs: Overviews and Perspectives Toward Agentic Low-Altitude Mobility[J]. *Information Fusion*, 2025, 122: 103158. (Top AI journal / CAS Q1 / SCI-IF: 18.6)
+- Tian Yonglin, Lin Fei, Li Yiduo, Zhang Tengchao, Zhang Qiyao, Fu Xuan, Huang Jun, Dai Xingyuan, Wang Yutong, **Tian Chunwei**, Lie Bai, Lv Yisheng, Kovacs Levente, Wang Fei-Yue. UAVs Meet LLMs: Overviews and Perspectives Toward Agentic Low-Altitude Mobility[J]. *Information Fusion*, 2025, 122: 103158. (Top AI journal / CAS Q1 / SCI-IF: 18.6)
 
-* Li Shengrong, Zhu Qi, **Tian Chunwei**, Shao Wei, Zhang Daoqiang. Interpretable Dynamic Brain Network Analysis with Functional and Structural Priors[J]. *IEEE Transactions on Medical Imaging*, 2025. (Top journal in medical imaging / CAS Q1 / SCI-IF: 9.8)
+- Li Shengrong, Zhu Qi, **Tian Chunwei**, Shao Wei, Zhang Daoqiang. Interpretable Dynamic Brain Network Analysis with Functional and Structural Priors[J]. *IEEE Transactions on Medical Imaging*, 2025. (Top journal in medical imaging / CAS Q1 / SCI-IF: 9.8)
 
-* Zhao Yang, Chen Ziyang, He Junling, Li Wenting, Xiao Yao, **Tian Chunwei**, Zhang Yongjun. GIP-Stereo: Geometry-Aware Information Propagation Network for Stereo Matching[J]. *Knowledge-Based Systems*, 2025: 114062. (CAS Q1 / SCI-IF: 7.2)
+- Zhao Yang, Chen Ziyang, He Junling, Li Wenting, Xiao Yao, **Tian Chunwei**, Zhang Yongjun. GIP-Stereo: Geometry-Aware Information Propagation Network for Stereo Matching[J]. *Knowledge-Based Systems*, 2025: 114062. (CAS Q1 / SCI-IF: 7.2)
 
-* Song Chao, Li Hao, Li Bo, Wang Jiacun, **Tian Chunwei**. Distributed Robust Data-Driven Event-Triggered Control for QUAVs under Stochastic Disturbances[J]. *Defence Technology*, 2025. (CAS Q2 / SCI-IF: 4.035)
+- Song Chao, Li Hao, Li Bo, Wang Jiacun, **Tian Chunwei**. Distributed Robust Data-Driven Event-Triggered Control for QUAVs under Stochastic Disturbances[J]. *Defence Technology*, 2025. (CAS Q2 / SCI-IF: 4.035)
 
-* Zhu Qi, **Tian Chunwei**, Zhang Daoqiang. Spatio-Temporal Evolutionary Graph Learning for Brain Network Analysis using Medical Imaging[J]. *IEEE Transactions on Image Processing*, 2025. (CAS Q1 / SCI-IF: 13.7 / CCF A)
+- Zhu Qi, **Tian Chunwei**, Zhang Daoqiang. Spatio-Temporal Evolutionary Graph Learning for Brain Network Analysis using Medical Imaging[J]. *IEEE Transactions on Image Processing*, 2025. (CAS Q1 / SCI-IF: 13.7 / CCF A)
 
-* Zeng Kun, Wu Yuntao, Li Zuoyong, Hu Rong, **Tian Chunwei**. DSCIL: Dynamic Selected Contrastive Instance Learning for Weakly Supervised Video Anomaly Detection[J]. *Pattern Recognition*, 2025. (CAS Q1 / SCI-IF: 7.6)
-
-- 
+- Zeng Kun, Wu Yuntao, Li Zuoyong, Hu Rong, **Tian Chunwei**. DSCIL: Dynamic Selected Contrastive Instance Learning for Weakly Supervised Video Anomaly Detection[J]. *Pattern Recognition*, 2025. (CAS Q1 / SCI-IF: 7.6)
 
 - **C. Tian**, M. Zheng , W. Zuo, B. Zhang , Y. Zhang, D. Zhang. Multi-stage image denoising with the wavelet transform[J]. Pattern Recognition. 2022. (JCR Q1/SCI-IF:8.518)（Accepted）
 - **C. Tian**, Y. Zhang, W. Zuo, C. Lin, D. Zhang, Y. Yuan. A heterogenous group CNN for image super-resolution [J]. IEEE Transactions on Neural Networks and Learning Systems. 2022.　(JCR Q1/ CCF B/SCI-IF:14.255）（reported by [AlWalker](https://mp.weixin.qq.com/s/3zjTZuHF2uJ-ihi07O8b5g)）
@@ -168,11 +166,9 @@
 
 ## Conference papers (会议论文)
 
-* Li Shengrong, **Tian Chunwei**, Zhu Qi, Zhang Daoqiang. HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning[C]. *ACM MM*, 2025. (Top conference in multimedia / CCF A)
+- Li Shengrong, **Tian Chunwei**, Zhu Qi, Zhang Daoqiang. HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning[C]. *ACM MM*, 2025. (Top conference in multimedia / CCF A)
 
-* Li Shengrong, Zhu Qi, **Tian Chunwei**, Zhang Xinyang, Shao Wei, Wen Jie, Zhang Daoqiang. NeuroH-TGL: Neuro-Heterogeneity Guided Temporal Graph Learning Strategy for Brain Disease Diagnosis[C]. *NeurIPS*, 2025. (CCF A)
-
-- 
+- Li Shengrong, Zhu Qi, **Tian Chunwei**, Zhang Xinyang, Shao Wei, Wen Jie, Zhang Daoqiang. NeuroH-TGL: Neuro-Heterogeneity Guided Temporal Graph Learning Strategy for Brain Disease Diagnosis[C]. *NeurIPS*, 2025. (CCF A)
 
 - M. Zheng, K. Zhi, J. Zeng, **C. Tian\***, L. You. A hybrid CNN for image denoising [J]. Journal of Artificial Intelligence and Technology, 2022. (Accepted)
 - P. Wu, L. Fei, S. Li, **C. Tian**, B. Zhang, S. Teng. Towards pen-holding hand pose estimation a new benchmark and  a coarse-to-fine PHHP estimation network[C]. ICASSP 2022. (Accepted)

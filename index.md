@@ -692,6 +692,28 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
    		<div class="desc">  Tongtong Cheng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
+	</div>
+        <div class="img">
+   		<img src="picture/Kaiwen Zha.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Kaiwen Zha, <a href = "https://www.szu.edu.cn/">Shenzhen University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+</div>
+
+<div class="box">
+    <div class="img">
+   		<img src="picture/Mingjian Song.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Mingjian Song, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+	<div class="img">
+   		<img src="picture/Binbin Zhang.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Binbin Zhang <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
 </div>
 
 ### Supervisor for Postgraduates (硕士生)
@@ -800,31 +822,15 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
   		<div class="desc_blank"> </div>
    		<div class="desc">  Yingbiao Hu, <a href = "https://www.mpu.edu.mo/research/zh/index.php#/">Macao Polytechnic University</a>, China</div>
   		<div class="desc_blank_2"> </div>
-  	</div>
-        <div class="img">
-   		<img src="picture/Kaiwen Zha.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Kaiwen Zha, <a href = "https://www.szu.edu.cn/">Shenzhen University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
+  	
 </div>
 	
 ### Supervisor for Undergraduates (本科生)
 
-<div class="box">
-    <div class="img">
-   		<img src="picture/Mingjian Song.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Mingjian Song, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-    <div class="img">
-   		<img src="picture/Yuchen Li.png" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Yuchen Li, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-</div>
+<!-- <div class="box">
+
+
+</div> -->
 
 <div class="box">
     <div class="img">
@@ -861,6 +867,12 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
    		<img src="picture/Qi Meng.png" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Qi Meng, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+	    <div class="img">
+   		<img src="picture/Yuchen Li.png" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Yuchen Li, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
 </div>
@@ -902,5 +914,3 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
 
 ### Supporter
 This homepage is supported by Mr. Menghua Zheng in June, 2021. 
-
-

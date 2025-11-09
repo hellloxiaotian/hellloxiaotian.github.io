@@ -692,8 +692,7 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
    		<div class="desc">  Tongtong Cheng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
-	</div>
-        <div class="img">
+    <div class="img">
    		<img src="picture/Kaiwen Zha.jpg" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Kaiwen Zha, <a href = "https://www.szu.edu.cn/">Shenzhen University</a>, China</div>

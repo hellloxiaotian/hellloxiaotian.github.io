@@ -61,16 +61,6 @@ Image/Video Restoration and Recognition, Video/Image Generation, Industrial Visi
 9. **It is recommended to exercise at least twice a week, with each session lasting no less than 40 minutes.**<br>
 Stand tall and firm, change the world; be rigorous and pragmatic, forge ahead. If you have the vision, drive, and ambition to change the world and contribute to the advancement of society and technology, please contact me!<br>
 Our research group is quite busy, but those who are dedicated to scientific research usually achieve good results. Please ensure you carefully read the basic admission requirements and application guidelines before contacting me to avoid unnecessary inefficiencies!<br>
-### Research Group Collaborating Faculty Members
-- **Shuai Wu**, Xidian University of Electronic Science and Technology  
-- **Di Yuan**, Xidian University of Electronic Science and Technology  
-- **Pengju Liu**, Harbin Institute of Technology  
-- **Yuzhu Ji**, Guangdong University of Technology  
-- **Weiqi Zhang**, Xi'an University of Architecture and Technology  
-- **Lingjun Li**, Zhengzhou University of Light Industry  
-- **Jing Fang**, Northwestern Polytechnical University (NPU)  
-- **Kan Huang**, Shanghai Maritime University  
-- **Fei Huang**, Shanghai University  
 
 ### 2. Application Requirements
 1. **Students majoring in Computer Science, Software Engineering, or Artificial intelligence** will be given priority, especially those with recommendation for direct admission.
@@ -80,7 +70,7 @@ Our research group is quite busy, but those who are dedicated to scientific rese
 5. **For Direct PhD degree applicants**,please ensure you have published at least one paper in a CAS Tier-2 (or higher) journal or a CCF-A conference before contacting me.
 **For applicants who already hold a master’s degree and wish to pursue a PhD**, please obtain CET-6 or IELTS/TOEFL /GRE scores before contacting me. The specific application requirements of the school department shall prevail. At the same time ,please have at least two publications prior to contacting me, in which you are either the first author or the second author (with your advisor as first author), and both papers must be in CAS Tier-2 (or higher) journals—including one in a CAS Tier-1 journal—or in CCF-A conferences.
 
-6. **For PhD degree applicants**,Ph.D. candidates take the exam in September and March each year. Admission to the Ph.D. program is in March or September of the following year.Candidates are also encouraged to apply through the HIT "Kuai Xiang“ Program(Please refer to the admission information of the Graduate School of HIT.)
+6. **For PhD degree applicants**,Ph.D. candidates take the exam in September and March each year. Admission to the Ph.D. program is in March or September of the following year.Candidates are also encouraged to apply through the HIT "快响“ Program(Please refer to the admission information of the Graduate School of HIT.)
 
 
 Multiple PhD students are planned to be admitted annually across both HIT’s main campus and the HIT Zhengzhou Research Institute, with preference given to applicants from Henan province.
@@ -425,218 +415,37 @@ Please send this document along with your resume to my email. After the review, 
 
 ## SOCIAL APPOINTMENTS（社会兼职）
 
-1. Youth Editorial Board: CAAI Transactions on Intelligence Technology, Journal of Chinese Society of Artificial Intelligence (Zone 1/SCI-IF: 7.985)
-
-2. Young Editorial Board: Denfence Technology (SCI-IF: 4.035/JCR Zone 1/CAS Zone 2)
-
-3. Guest Editor: Guest Editor of IEEE Transactions on Fuzzy Systems (TFS);
-
-4. Guest Editor Special Issue of Drones (SCI-IF: 5.532).
-
-Reviewer：
-
-《IEEE Transactions on Pattern Analysis and Machine Intelligence》
-
-《IEEE Transactions on Image Processing》
-
-《IEEE Transactions on Neural Networks and Learning Systems》
-
-《IEEE Transactions on Cybernetics》
-
-《IEEE Transaction on Knowledge and Data Engineering》
-
-《IEEE  Transactions on Industrial Informatics》
-
-《IEEE Transactions on Systems, Man, and Cybernetics: Systems》
-
-《IEEE Transactions on Multimedia》
-
-《IEEE Intelligent Transportation Systems Transactions and Magazine》
-
-《IEEE Transactions on Dependable and Secure Computing》
-
-《IEEE Transactions on Cognitive and Developmental Systems》
-
-《IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems》
-
-《IEEE Transactions on Geoscience and Remote Sensing》
-
-《IEEE Transactions on Circuits and Systems for Video Technology》
-
- 《Neural  Networks》
-
-《Computer Vision and Image Understanding》
-
-《Information Fusion》
-
-《Information Sciences》
-
-《Expert Sytems With Applications》
-
-《Neurocomputing》
-
-《IEEE Journal of Biomedical and Health Informatics》
-
-
-《ACM Transaction on Knowledge Discovery from Data》
-
-《Frontiers of Optoelectronics》
-
-《CAAI Transactions on Intelligence Technology》
-
-《Pattern Recognition Letters》
-
-《IEEE Signal Processing Letters》
-
-《AAAI 2023》
-
-《ICASSP 2023》
-
-《ICASSP 2022》
-
+1. Associate Editor for CAAI Transactions on Intelligence Technology, Computational Intelligence, Drones, International Journal of Image and Graphics
+2. Guest Editor for IEEE TCE, Mathematics 
+3. SI Chair ACAIT 2022
+4. Special Session Co-Chair, Workshop Chair: ICCSI 2022
+5. PC Chair for International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)
+6. Workshop Chair for International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)
+7. Workshop Chair for International Conference on Computer, Big Data and Artificial Intelligence 2021 (ICCBDAI 2021)
 <br/>
 
 ## I serve as a reviewer for the following journals and conferences (审稿人) 
 
-IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI) (SCI)
 
-International Journal of Computer Vision (IJCV) (SCI)
+1. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)  
+2. IEEE Transactions on Image Processing (TIP)  
+3. IEEE Transactions on Neural Networks and Learning Systems (TNNLS)  
+4. IEEE Transactions on Multimedia (TMM)  
+5. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
+6. IEEE Transactions on Intelligent Vehicles (TIV)  
+7. IEEE Transactions on Systems, Man, and Cybernetics (TSMC)  
+8. IEEE Transactions on Cybernetics (TCYB)  
+9. IEEE Transactions on Consumer Electronics (TCE)  
+10. IEEE Transactions on Instrumentation and Measurement (TIM)  
+11. IEEE Transactions on Medical Imaging (TMI)  
+12. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  
+13. International Conference on Computer Vision (ICCV)  
+14. Association for the Advancement of Artificial Intelligence Conference (AAAI)  
+15. International Joint Conference on Artificial Intelligence (IJCAI)  
+16. ACM International Conference on Multimedia (ACM MM)  
+17. International Journal of Computer Vision (IJCV)  
+18. Artificial Intelligence (AI)
 
-Computer Vision and Pattern Recongnition (CVPR)
-
-International Conference on Computer Vision (ICCV)
-
-AAAI Conference on Artificial Intelligence (AAAI)
-
-ACM International Conference on Multimedia (ACM MM)
-
-International Joint Conference on Artificial Intelligence (IJCAI)
-
-IEEE Transactions on Image Processing (IEEE TIP) (SCI)
-
-IEEE Transactions on Neural Networks and Learning Systems (SCI)
-
-IEEE Transactions on Cybernetics (SCI)
-
-European Conference on Computer Vision  (ECCV)（EI）
-
-IEEE Transactions on Industrial Informatics  (IEEE TII)（SCI）
-
-IEEE Transactions on Systems, Man and Cybernetics:  Systems (IEEE TSMC) (SCI）
-
-IEEE Transactions on Multimedia (IEEE TMM) (SCI)
-
-IEEE Intelligent Transportation Systems Transactions and Magazine (SCI)
-
-IEEE Transactions on Dependable and Secure Computing(SCI)
-
-IEEE Transactions on Asian and Low-Resource Language Information Processing (SCI)
-
-Neural Networks (SCI)
-
-Information Fusion (SCI)
-
-Computer Vision and Image Understanding (SCI）
-
-Pattern Recognition Letters (SCI）
-
-The Visual Computer (SCI）
-
-Nerocomputing (SCI）
-
-IEEE Journal of Biomedical and Health Informatics
-
-Frontiers of Optoelectronics
-
-Expert Sytems With Applications (SCI)
-
-IEEE Signal Processing Letters （SCI）
-
-Artificial Intelligence In Medicine (SCI)
-
-Biomedical Signal Processing and Control (SCI)
-
-BMC Medical Research Methodology (SCI)
-
-ACM Transactions on Asian and Low-Resource Language Information Processing
-
-Journal of Ambient Intelligence and Humanized Computing
-
-Applied Intelligence
-
-Chinese Journal of Electronics
-
-Journal of Visual Communication and Image Representation (SCI)
-
-Journal of Central South University （SCI）
-
-IEEE Access （SCI）
-
-Neuro computing (SCI)
-
-Journal of Modern Optics  （SCI）
-
-Multimedia Systems（SCI）
-
-Journal of Internet Technology  (SCI)
-
-Mathematical Biosciences and Engineering （SCI）
-
-CAAI Transactions on Intelligence Technology (EI）
-
-Journal of Visual Comunication
-
-International Journal of Biometrics (IJBM)
-
-International Journal of Biometrics
-
-International Journal of Image and Graphics
-
-Bulletin of Electrical Engineering and Informatics
-
-IEA/AIE 2022: International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems
-
-International Conference on Multimedia Information Processing and Retrieval (MIPR)
-
-International Journal of Data Science and Analytics
-
-Scientific Programming
-
-International Journal of Distributed Sensor Networks
-
-The 35th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems
-
-Optics and Laser Technology
-
-Expert Systems
-
-SN Applied Sciences
-
-Asian Journal of Control
-
-International Journal of Speech Technology
-
-Progress in Artificial Intelligence
-
-Evolutionary Intelligence
-
-Scientific Reports
-
-ARR 2022
-
-ICASSP 2022
-
-ISCAS 2021: International Symposium on Circuits and Systems (EI)
-		18th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2021) (EI)
-		The 4th International Conference on Computer Science and Application Engineering (CSAE 2020) （EI）
-
-18th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2020)  (EI)
-
-ACAIT 2019 (EI)
-
-2019 International Conference on Artificial Intelligence, Information Processing and Cloud Computing (AIIPC 2019) (EI)
-
-ACAIT 2018 (EI)
 
 <br/>
 
@@ -646,7 +455,7 @@ Second Prize of the Natural Science Award from the China Society of Image and Gr
 
 Best Paper Award from the top journal Pattern Recognition in the field of international pattern recognition. 2024. (Ranked 1st)
 
-2022-2024: Ranked among the Top 2% of Global Scientists for three consecutive years. (Ranked 1st)
+2022-2025: Ranked among the Top 2% of Global Scientists for three consecutive years. (Ranked 1st)
 
 4 Benchmark Papers in the field of international image super-resolution.
 
@@ -654,15 +463,6 @@ Best Paper Award from the top journal Pattern Recognition in the field of intern
 
 One paper applied in the purchase and application of CT machines by a U.S. medical imaging company.
 
-Three Excellent Doctoral Dissertations from the Heilongjiang Artificial Intelligence Society, CCF Shenzhen Chapter, and Harbin Institute of Technology.
-
-Huawei Genius Special Interview Invitation.
-
-Outstanding Graduate of Harbin Institute of Technology.
-
-Four National Scholarships during undergraduate, master's, and doctoral studies.
-
-Three "Outstanding Student" awards from Heilongjiang Province during undergraduate, master's, and doctoral studies.
 
 <div id="h.a4d1eb0f3c9c05f_23" class="hJDwNd-AhqUyc-uQSCkd jXK9ad D2fZ2 OjCsFc wHaque"><div class="jXK9ad-SmKAyb"><div class="tyJCtd baZpAe"><div class="iwQgFb" role="presentation"></div></div></div></div>
 
@@ -820,6 +620,36 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
    		<div class="desc">  Zihao Zhao, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
+	<div class="box">
+    <div class="img">
+   		<img src="picture/Xueyou Lu.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Xueyou Lu, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+  	<div class="img">
+   		<img src="picture/Yuelei Wang.JPG" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Yuelei Wang, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+</div>
+
+
+<div class="box">
+        <div class="img">
+   		<img src="picture/Qi Meng.png" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Qi Meng, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+	    <div class="img">
+   		<img src="picture/Yuchen Li.png" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  Yuchen Li, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+</div>
 </div> 
 
 ### Supervisor for Visiting students (交换生)
@@ -839,57 +669,14 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
   	
 </div>
 	
-### Supervisor for Undergraduates (本科生)
+<!-- ### Supervisor for Undergraduates (本科生) -->
 
 <!-- <div class="box">
 
 
 </div> -->
 
-<div class="box">
-    <div class="img">
-   		<img src="picture/Xueyou Lu.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Xueyou Lu, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-  	<div class="img">
-   		<img src="picture/Yuelei Wang.JPG" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Yuelei Wang, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-</div>
 
-<!-- <div class="box">
-        <div class="img">
-   		<img src="picture/Haobo Yang.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Haobo Yang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-        <div class="img">
-   		<img src="picture/Zhuoqun Fu.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Zhuoqun Fu, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-</div> -->
-
-<div class="box">
-        <div class="img">
-   		<img src="picture/Qi Meng.png" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Qi Meng, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-	    <div class="img">
-   		<img src="picture/Yuchen Li.png" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Yuchen Li, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-</div>
 
 
 <!--
@@ -926,7 +713,6 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
 </div>
 -->
 
-### Supporter
-This homepage is supported by Mr. Menghua Zheng in June, 2021. 
-
+<!-- ### Supporter
+This homepage is supported by Mr. Menghua Zheng in June, 2021.  -->
 

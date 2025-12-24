@@ -2,11 +2,11 @@
 
 ## Biography (简介)
 
-<wbr>Chunwei Tian, a Professor at the School of Computer Science and Technology, Harbin Institute of Technology, a doctoral supervisor, and a Shenzhou Scholar. He received his Ph.D. degree in Computer Application Technology from Harbin Institute of Technology in March 2021, under the supervision of Prof. Xu Yong, a national distinguished scholar. His postdoctoral co-advisor was Prof. Zhang Yanning  (IEEE Fellow), Vice President of Northwestern Polytechnical University and a nationally recognized expert. He is currently with the Machine Learning Center at Harbin Institute of Technology, led by Prof. Zuo Wangmeng , a globally Highly Cited Researcher.From 2022 to 2025, he was listed among the World’s Top 2% Scientists by Stanford University. He was also invited to the Huawei “Genius Youth” interview program. His research interests include Image/Video Restoration and Recognition, Image Generation, Speech Processing ,Intelligent Transportation, Multimodal and Large Models.
+<wbr>Chunwei Tian, a Professor at the School of Computer Science and Technology, Harbin Institute of Technology, a doctoral supervisor, and a Shenzhou Scholar.  He received his Ph.D. degree in Computer Application Technology from Harbin Institute of Technology in March 2021, under the supervision of Prof. Xu Yong, a national distinguished scholar.  His postdoctoral co-advisor was Prof. Zhang Yanning  (IEEE Fellow), Vice President of Northwestern Polytechnical University and a nationally recognized expert.  He is currently with the Machine Learning Center at Harbin Institute of Technology, led by Prof. Zuo Wangmeng , a globally Highly Cited Researcher. From 2022 to 2025, he was listed among the World’s Top 2% Scientists by Stanford University.  He was also invited to the Huawei “Genius Youth” interview program.  His research interests include Image/Video Restoration and Recognition, Image Generation, Speech Processing ,Intelligent Transportation, Multimodal and Large Models.
 
-He has published more than 100 papers in leading international journals such as the IEEE Transactions series, Pattern Recognition, Neural Networks, and Information Fusion. He has authored one monograph and one textbook. His publications include seven ESI Highly Cited Papers (including three Hot Papers), four cover papers in top-tier journals, and four benchmark papers in the international field of image super-resolution. One of his research achievements has been applied in CT imaging systems of a U.S. medical imaging company, and another has been adopted in Apple’s iOS camera system.
+He has published more than 100 papers in leading international journals such as the IEEE Transactions series, Pattern Recognition, Neural Networks, and Information Fusion.  He has authored one monograph and one textbook.  His publications include eight ESI Highly Cited Papers (including three Hot Papers), four cover papers in top-tier journals, and four benchmark papers in the international field of image super-resolution.  One of his research achievements has been applied in CT imaging systems of a U.S. medical imaging company, and another has been adopted in Apple’s iOS camera system.
 
-He received the Best Paper Award from Pattern Recognition, one of the top international journals in pattern recognition (ranked first author). He also serves as an editorial board member or guest editor for several international SCI journals, including CAAI Transactions on Intelligence Technology, IEEE Transactions on Fuzzy Systems (TFS), and IEEE Transactions on Consumer Electronics (TCE), among others. <wbr>
+He received the Best Paper Award from Pattern Recognition, one of the top international journals in pattern recognition (ranked first author), the International Signal Processing Association Blog Paper(ranked first author),the Second Prize of the Natural Science Award of the Chinese Society for Image and Graphics(ranked first author),and the First Prize of the Guangdong Province Natural Science Award.  He also served as a member of the editorial board or guest editor of SCI journals such as CAAI Transaction on Intelligence Technology, IEEE TFS, IEEE TCE.  He managed several projects including the National Natural Science Foundation of China (Young) Fund, Provincial General (Young) Fund, China Postdoctoral Special Funding (General) Project, TCL Fund, CAAI-Huawei Fund, etc.<wbr>
 
 ### Work Experience
 
@@ -73,17 +73,32 @@ Our research group is quite busy, but those who are dedicated to scientific rese
 - **Fei Huang**, Shanghai University  
 
 ### 2. Application Requirements
-1. **Students majoring in Computer Science, Software Engineering, or Cybersecurity** will be given priority, especially those with recommendation for direct admission.
-2. **Undergraduate students who have performed well in the research group** will be given preference. Undergraduates who perform well in our research group will be given priority. 
+1. **Students majoring in Computer Science, Software Engineering, or Artificial intelligence** will be given priority, especially those with recommendation for direct admission.
+2. **Undergraduate students who have performed well in our research group** will be given preference. 
 3. **For Master's degree applicants**, Be self-driven and focus on setting clear goals. It is recommended to conduct good research during your master's program, publish high-quality papers, and develop independent problem-solving thinking, which will be beneficial for both employment and further studies.
-4. **For PhD degree applicants**,Meet the requirements for the school’s application/Direct PhD admission, with a strong academic background. Before applying to the school, please select a recent paper from top journals such as TPAMI/TIP or conferences like CVPR/ICCV/ECCV/IJCAI/ACM MM/AAAI, or journals like PR/NN/Information Fusion, and prepare a document summarizing your reading insights, research interests, research foundation, and proposed PhD research plan. 
-5. For Direct PhD degree applicants,please ensure you have published at least one paper in a CAS Tier-2 (or higher) journal or a CCF-A conference before contacting me.
-For applicants who already hold a master’s degree and wish to pursue a PhD, please have at least two publications prior to contacting me, in which you are either the first author or the second author (with your advisor as first author), and both papers must be in CAS Tier-2 (or higher) journals—including one in a CAS Tier-1 journal—or in CCF-A conferences.
+4. **For PhD degree applicants**,Meet the requirements for the school’s application/Direct PhD admission, with a strong academic background. Before applying to the school, please select a recent paper from IEEE Transactions such as TPAMI/TIP or conferences like CVPR/ICCV/ECCV/IJCAI/ACM MM/AAAI, or journals like PR/NN/Information Fusion, and prepare a document summarizing your reading insights, research interests, research foundation, and proposed PhD research plan. Please compile this document along with your CV and send them to my email.
+5. **For Direct PhD degree applicants**,please ensure you have published at least one paper in a CAS Tier-2 (or higher) journal or a CCF-A conference before contacting me.
+**For applicants who already hold a master’s degree and wish to pursue a PhD**, please obtain CET-6 or IELTS/TOEFL /GRE scores before contacting me. The specific application requirements of the school department shall prevail. At the same time ,please have at least two publications prior to contacting me, in which you are either the first author or the second author (with your advisor as first author), and both papers must be in CAS Tier-2 (or higher) journals—including one in a CAS Tier-1 journal—or in CCF-A conferences.
+
+6. **For PhD degree applicants**,Ph.D. candidates take the exam in September and March each year. Admission to the Ph.D. program is in March or September of the following year.Candidates are also encouraged to apply through the HIT "快响“ Program(Please refer to the admission information of the Graduate School of HIT.)
+
+
+Multiple PhD students are planned to be admitted annually across both HIT’s main campus and the HIT Zhengzhou Research Institute, with preference given to applicants from Henan province.
+
+Additionally, 5 Master’s students will be admitted each year, including master's students in the engineering class.
+
+
 Please send this document along with your resume to my email. After the review, I will arrange the next steps. You can also refer to the official faculty page at [https://homepage.hit.edu.cn/tianchunwei](https://homepage.hit.edu.cn/tianchunwei). My emails are [chunweitian@hit.edu.cn and chunweitian@163.com](chunweitian@hit.edu.cn and chunweitian@163.com).
    
 
 ## News (消息)
-
+- **2025-12:** Master's student Chen Muhan (Class of 2023) signed with Baidu, and Yang Junjian signed with China National Petroleum Corporation.
+- **2025-12:** A paper from the research group was accepted by IEEE TRPMS.
+- **2025-12:** A paper from the research group was accepted by IEEE TIP (a CCF-A/Chinese Academy of Sciences Zone 1 journal).
+- **2025-11:** The research group added a new ESI Highly Cited Paper.
+- **2025-11:** A paper from the research group was accepted by IEEE TIP (a CCF-A/Chinese Academy of Sciences Zone 1 journal).
+- **2025-11:** An invention patent was granted to the research group.
+- **2025-10:** A paper from the research group was accepted by Pattern 
 - **2025-10:** A paper from the research group was accepted by Pattern Recognition.  
 - **2025-10:** A paper from the research group was accepted by IEEE TSMC. 
 - **2025-09:** Three group members—Xin Weiqiang, Chen Xi, and Meng Qi—were awarded the National Scholarship.  
@@ -754,13 +769,13 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
   	<div class="img">
    		<img src="picture/Junjian Yang.jpg" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Junjian Yang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc">  Junjian Yang(signed with China National Petroleum), <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
    	<div class="img">
    		<img src="picture/Muhan Chen.jpg" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Muhan Chen, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+   		<div class="desc">  Muhan Chen(signed with Baidu), <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
    	<div class="img">

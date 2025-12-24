@@ -80,7 +80,7 @@ Our research group is quite busy, but those who are dedicated to scientific rese
 5. **For Direct PhD degree applicants**,please ensure you have published at least one paper in a CAS Tier-2 (or higher) journal or a CCF-A conference before contacting me.
 **For applicants who already hold a master’s degree and wish to pursue a PhD**, please obtain CET-6 or IELTS/TOEFL /GRE scores before contacting me. The specific application requirements of the school department shall prevail. At the same time ,please have at least two publications prior to contacting me, in which you are either the first author or the second author (with your advisor as first author), and both papers must be in CAS Tier-2 (or higher) journals—including one in a CAS Tier-1 journal—or in CCF-A conferences.
 
-6. **For PhD degree applicants**,Ph.D. candidates take the exam in September and March each year. Admission to the Ph.D. program is in March or September of the following year.Candidates are also encouraged to apply through the HIT "快响“ Program(Please refer to the admission information of the Graduate School of HIT.)
+6. **For PhD degree applicants**,Ph.D. candidates take the exam in September and March each year. Admission to the Ph.D. program is in March or September of the following year.Candidates are also encouraged to apply through the HIT "Kuai Xiang“ Program(Please refer to the admission information of the Graduate School of HIT.)
 
 
 Multiple PhD students are planned to be admitted annually across both HIT’s main campus and the HIT Zhengzhou Research Institute, with preference given to applicants from Henan province.
@@ -928,4 +928,5 @@ Three "Outstanding Student" awards from Heilongjiang Province during undergradua
 
 ### Supporter
 This homepage is supported by Mr. Menghua Zheng in June, 2021. 
+
 

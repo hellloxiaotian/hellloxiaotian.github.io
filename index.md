@@ -73,11 +73,11 @@ Our research group is quite busy, but those who are dedicated to scientific rese
 5. **For Direct PhD degree applicants**,please ensure you have published at least one paper in a CAS Tier-2 (or higher) journal or a CCF-A conference before contacting me.
 **For applicants who already hold a master’s degree and wish to pursue a PhD**, please obtain CET-6 or IELTS/TOEFL /GRE scores before contacting me. The specific application requirements of the school department shall prevail. At the same time ,please have at least two publications prior to contacting me, in which you are either the first author or the second author (with your advisor as first author), and both papers must be in CAS Tier-2 (or higher) journals—including one in a CAS Tier-1 journal—or in CCF-A conferences.
 
-6. **PhD Admissions:** Ph.D. candidates take the exam in September and March each year. Admission to the Ph.D. program is in March or September of the following year.Candidates are also encouraged to apply through the HIT "快响“ Program(Please refer to the admission information of the Graduate School of HIT).Multiple PhD students are planned to be admitted annually (including 1 student at HIT's main campus and the HIT Zhengzhou Research Institute, with preference given to applicants from Henan province), and 1 student in joint training with an enterprise in Chengdu (Qinglan Leadership Class).
+**PhD Admissions:** Ph.D. candidates take the exam in September and March each year. Admission to the Ph.D. program is in March or September of the following year.Candidates are also encouraged to apply through the HIT "快响“ Program(Please refer to the admission information of the Graduate School of HIT).Multiple PhD students are planned to be admitted annually (including 1 student at HIT's main campus and the HIT Zhengzhou Research Institute, with preference given to applicants from Henan province), and 1 student in joint training with an enterprise in Chengdu (Qinglan Leadership Class).
 
 **For March 2026 application (September 2026 enrollment): 1 student at the main campus, and 1 student in joint training with an enterprise in Chengdu (Qinglan Leadership Class). Integrity comes first, ability second.**
 
-7. **Master's Admissions:** 5 Master's students will be admitted each year, along with master's students in the Engineering Doctoral/Master's Special Program, joint training master's students with enterprises through the Future Industry College, and 1 student at the Zhengzhou Research Institute.
+**Master's Admissions:** 5 Master's students will be admitted each year, along with master's students in the Engineering Doctoral/Master's Special Program, joint training master's students with enterprises through the Future Industry College, and 1 student at the Zhengzhou Research Institute.
 
 
 Please send this document along with your resume to my email. After the review, I will arrange the next steps. You can also refer to the official faculty page at [https://homepage.hit.edu.cn/tianchunwei](https://homepage.hit.edu.cn/tianchunwei). My emails are [chunweitian@hit.edu.cn and chunweitian@163.com](chunweitian@hit.edu.cn and chunweitian@163.com).
@@ -541,7 +541,7 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 
 <div class="box">
 	<div class="img">
-		<img src="" >
+		<!-- <img src="" > -->
 		<div class="desc_blank"> </div>
 		<div class="desc">Huinian Li,  <a href = "https://www.nwpu.edu.cn">Macau University of Science and Technology</a>, China</div>
 		<div class="desc_blank_2"> </div>
@@ -724,7 +724,7 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 	</div>
 </div> 
 
-### Visiting students (访问生)
+### Visiting students (访问生)·
 
 <div class="box">
     <!-- <div class="img">

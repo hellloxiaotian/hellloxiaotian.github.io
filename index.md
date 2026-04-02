@@ -721,36 +721,60 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
     		<div class="desc">  Yang Haoyan (M.S., The Chinese University of Hong Kong), China</div>
     		<div class="desc_blank_2"> </div>
 		</div>
+		<div class="img">
+		    <!-- <img src="picture/Zhou Tianle.png" > -->
+		    <div class="desc_blank"> </div>
+		    <div class="desc">  Zhou Tianle, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a> (M.S.), <a href = "https://www.hitsz.edu.cn/		">Harbin Institute of Technology, Shenzhen</a> (B.S.), China</div>
+		    <div class="desc_blank_2"> </div>
+		</div>
+		<div class="img">
+		    <!-- <img src="picture/Zheng Dingning.png" > -->
+		    <div class="desc_blank"> </div>
+		    <div class="desc">  Zheng Dingning, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a> (B.S., M.S.), China</div>
+		    <div class="desc_blank_2"> </div>
+		</div>
+		<div class="img">
+		    <!-- <img src="picture/Du Yazhuo.png" > -->
+		    <div class="desc_blank"> </div>
+		    <div class="desc">  Du Yazhuo, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a> (M.S.), <a href = "https://www.seu.edu.cn/		">Southeast University</a> (B.S.), China</div>
+		    <div class="desc_blank_2"> </div>
+		</div>
 	</div>
 </div> 
 
 ### Visiting students (访问生)·
 
 <div class="box">
-    <!-- <div class="img">
-   		<img src="picture/Huinian Li.png" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Huinian Li, <a href = "https://www.must.edu.mo/#/">Macau University of Science and Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div> -->
-   <!-- <div class="img">
-   		<img src="picture/Yingbiao Hu.png" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Yingbiao Hu, <a href = "https://www.mpu.edu.mo/research/zh/index.php#/">Macao Polytechnic University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-	  	<div class="img"> -->
-		<div class="img">
-	    <!-- <img src="picture/Huang Dejun.png" > -->
-	    	<div class="desc_blank"> </div>
-	    	<div class="desc">  Huang Dejun (M.S., Shenzhen University, Visiting Student), China</div>
-	    	<div class="desc_blank_2"> </div>
-		</div>
-		<div class="img">
-		    <!-- <img src="picture/Su Peixian.png" > -->
-		    <div class="desc_blank"> </div>
-		    <div class="desc">  Su Peixian (Class of 2023, M.S., Shenzhen University, Visiting Student), China</div>
-		    <div class="desc_blank_2"> </div>
-		</div>
+	<div class="img">
+	    <!-- <img src="picture/Song Wenqin.png" > -->
+	    <div class="desc_blank"> </div>
+	    <div class="desc">  Song Wenqin, <a href = "https://www.hrbust.edu.cn/	">Harbin University of Science and Technology</a> (M.S., Visiting Student), 	China</div>
+	    <div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+	    <!-- <img src="picture/Cao Wenlong.png" > -->
+	    <div class="desc_blank"> </div>
+	    <div class="desc">  Cao Wenlong, <a href = "https://www.hrbust.edu.cn/	">Harbin University of Science and Technology</a> (M.S., Visiting Student), 	China</div>
+	    <div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+	    <!-- <img src="picture/Sun Guoxin.png" > -->
+	    <div class="desc_blank"> </div>
+	    <div class="desc">  Sun Guoxin, <a href = "https://www.hrbust.edu.cn/">Harbin 	University of Science and Technology</a> (M.S., Visiting Student), China</div>
+	    <div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+	    <!-- <img src="picture/Chen Liqing.png" > -->
+	    <div class="desc_blank"> </div>
+	    <div class="desc">  Chen Liqing, <a href = "https://www.hlju.edu.cn/	">Heilongjiang University</a> (M.S., Visiting Student), China</div>
+	    <div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+	    <!-- <img src="picture/Zhang Jinglong.png" > -->
+	    <div class="desc_blank"> </div>
+	    <div class="desc">  Zhang Jinglong, <a href = "https://www.hlju.edu.cn/	">Heilongjiang University</a> (M.S., Visiting Student), China</div>
+	    <div class="desc_blank_2"> </div>
+	</div>
 </div>
 	
 ### Supervisor for Undergraduates (本科生)

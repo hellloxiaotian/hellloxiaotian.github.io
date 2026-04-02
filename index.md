@@ -63,25 +63,37 @@ Stand tall and firm, change the world; be rigorous and pragmatic, forge ahead. I
 Our research group is quite busy, but those who are dedicated to scientific research usually achieve good results. Please ensure you carefully read the basic admission requirements and application guidelines before contacting me to avoid unnecessary inefficiencies!<br>
 
 ### 2. Application Requirements
-1. **Students majoring in Computer Science, Software Engineering, or Artificial intelligence** will be given priority, especially those with recommendation for direct admission.
-2. **Undergraduate students who have performed well in our research group** will be given preference. 
+
+1. **Basic Requirements for Graduate (Master's/PhD) Applicants:**  1) Recommended students in Computer Science/Software Engineering/Artificial Intelligence are preferred. 2) Undergraduate and master's students who have demonstrated strong performance in the research group are preferred. 3) Applicants with the ability to solve engineering problems are preferred.
+
+2. **Deeper Requirements for Graduate (Master's/PhD) Applicants:** **Self-motivation is essential, and applicants are advised to have firm goals.** It is recommended that master's students conduct solid research, publish high-quality papers, and develop independent problem-solving skills during their studies, which will benefit both employment and further academic pursuits.
+
 3. **For Master's degree applicants**, Be self-driven and focus on setting clear goals. It is recommended to conduct good research during your master's program, publish high-quality papers, and develop independent problem-solving thinking, which will be beneficial for both employment and further studies.
-4. **For PhD degree applicants**,Meet the requirements for the school’s application/Direct PhD admission, with a strong academic background. Before applying to the school, please select a recent paper from IEEE Transactions such as TPAMI/TIP or conferences like CVPR/ICCV/ECCV/IJCAI/ACM MM/AAAI, or journals like PR/NN/Information Fusion, and prepare a document summarizing your reading insights, research interests, research foundation, and proposed PhD research plan. Please compile this document along with your CV and send them to my email.
+4. **For PhD degree applicants**,Meet the requirements for the school’s application/Direct PhD admission, with a strong academic background. Before applying to the school, please select a recent paper from IEEE Transactions such as TPAMI/TIP or conferences like CVPR/ICCV/ECCV/IJCAI/ACM MM/AAAI, or journals like PR/NN/Information Fusion, and prepare a document summarizing your *reading insights*, **research interests, research foundation, and proposed PhD research plan**. Please compile this document along with your CV and send them to my email.
 5. **For Direct PhD degree applicants**,please ensure you have published at least one paper in a CAS Tier-2 (or higher) journal or a CCF-A conference before contacting me.
 **For applicants who already hold a master’s degree and wish to pursue a PhD**, please obtain CET-6 or IELTS/TOEFL /GRE scores before contacting me. The specific application requirements of the school department shall prevail. At the same time ,please have at least two publications prior to contacting me, in which you are either the first author or the second author (with your advisor as first author), and both papers must be in CAS Tier-2 (or higher) journals—including one in a CAS Tier-1 journal—or in CCF-A conferences.
 
-6. **For PhD degree applicants**,Ph.D. candidates take the exam in September and March each year. Admission to the Ph.D. program is in March or September of the following year.Candidates are also encouraged to apply through the HIT "快响“ Program(Please refer to the admission information of the Graduate School of HIT.)
+6. **PhD Admissions:** Ph.D. candidates take the exam in September and March each year. Admission to the Ph.D. program is in March or September of the following year.Candidates are also encouraged to apply through the HIT "快响“ Program(Please refer to the admission information of the Graduate School of HIT).Multiple PhD students are planned to be admitted annually (including 1 student at HIT's main campus and the HIT Zhengzhou Research Institute, with preference given to applicants from Henan province), and 1 student in joint training with an enterprise in Chengdu (Qinglan Leadership Class).
 
+**For March 2026 application (September 2026 enrollment): 1 student at the main campus, and 1 student in joint training with an enterprise in Chengdu (Qinglan Leadership Class). Integrity comes first, ability second.**
 
-Multiple PhD students are planned to be admitted annually across both HIT’s main campus and the HIT Zhengzhou Research Institute, with preference given to applicants from Henan province.
-
-Additionally, 5 Master’s students will be admitted each year, including master's students in the engineering class.
+7. **Master's Admissions:** 5 Master's students will be admitted each year, along with master's students in the Engineering Doctoral/Master's Special Program, joint training master's students with enterprises through the Future Industry College, and 1 student at the Zhengzhou Research Institute.
 
 
 Please send this document along with your resume to my email. After the review, I will arrange the next steps. You can also refer to the official faculty page at [https://homepage.hit.edu.cn/tianchunwei](https://homepage.hit.edu.cn/tianchunwei). My emails are [chunweitian@hit.edu.cn and chunweitian@163.com](chunweitian@hit.edu.cn and chunweitian@163.com).
    
 
 ## News (消息)
+- **2026-03:** A paper from the research group was accepted by IEEE TGRS (SCI-IF: 8.6, a Chinese Academy of Sciences Zone 1 journal).  
+- **2026-03:** A paper from the research group was accepted by an SCI-indexed journal.  
+- **2026-02:** I was appointed as an Associate Editor of IEEE TCE.  
+- **2026-02:** A paper from the research group was accepted by IEEE TIP (a CCF-A/Chinese Academy of Sciences Zone 1 journal).  
+- **2026-02:** A group member was appointed as an Associate Editor of Pattern Recognition.  
+- **2026-02:** A paper from the research group was accepted by IEEE Access.  
+- **2026-02:** A paper from the research group was accepted by a CCF-C/SCI-indexed journal.  
+- **2026-02:** A paper from the research group was accepted by IEEE TCE (SCI-IF: 10.9).  
+- **2026-01:** Group members Xin Weiqiang and Chen Xi were awarded the University Outstanding Graduate Student title.  
+- **2026-01:** I was appointed as an Associate Editor of TIP.
 - **2025-12:** Master's student Chen Muhan (Class of 2023) signed with Baidu, and Yang Junjian signed with China National Petroleum Corporation.
 - **2025-12:** A paper from the research group was accepted by IEEE TRPMS.
 - **2025-12:** A paper from the research group was accepted by IEEE TIP (a CCF-A/Chinese Academy of Sciences Zone 1 journal).
@@ -451,7 +463,33 @@ Please send this document along with your resume to my email. After the review, 
 
 ## Awards (奖励)
 
-Second Prize of the Natural Science Award from the China Society of Image and Graphics. 2024. (Ranked 1st, Provincial-Level)
+Wu Wenjun Artificial Intelligence Youth Science Award. (Ranked 1st, Provincial-Level)
+
+Second Prize of the Natural Science Award from the China Society of Image and Graphics. (Ranked 1st, Provincial-Level)
+
+First Prize of the Natural Science Award of Guangdong Province. (Provincial-Level)
+
+Best Paper Award from the top journal Pattern Recognition in the field of international pattern recognition. 2024. (Ranked 1st)
+
+Ranked among the Top 2% of Global Scientists for four consecutive years (2022–2025). (Ranked 1st)
+
+Shenzhou Scholar of Harbin Institute of Technology.
+
+Outstanding Youth Science Foundation Award of Heilongjiang Province.
+
+Jiangsu Provincial Young Talent Support Program.
+
+4 Benchmark Papers in the field of international image super-resolution.
+
+4 Cover Papers in top international journals.
+
+One paper applied in the purchase and application of CT machines by a U.S. medical imaging company.
+
+One paper applied in Apple mobile applications.
+
+Three Outstanding Doctoral Dissertation Awards from the Heilongjiang Society of Artificial Intelligence, Shenzhen CCF Chapter, and Harbin Institute of Technology.
+
+<!-- Second Prize of the Natural Science Award from the China Society of Image and Graphics. 2024. (Ranked 1st, Provincial-Level)
 
 Best Paper Award from the top journal Pattern Recognition in the field of international pattern recognition. 2024. (Ranked 1st)
 
@@ -461,7 +499,26 @@ Best Paper Award from the top journal Pattern Recognition in the field of intern
 
 4 Cover Papers in top international journals.
 
-One paper applied in the purchase and application of CT machines by a U.S. medical imaging company.
+One paper applied in the purchase and application of CT machines by a U.S. medical imaging company. -->
+
+## Student Awards (学生获奖)
+Xin Weiqiang, Chen Xi, Meng Qi, Xia Yinghao, Yang Zhuowei, and Wang Yansong received the National Scholarship.
+
+Ma Yingpeng, Wang Pengwei, Xin Weiqiang, and Wu Zi'ang received the University Outstanding Undergraduate Thesis Award.
+
+Xin Weiqiang, Chen Xi, Chen Muhan, and Yang Junjian received the University Outstanding Graduate Student Award.
+
+Song Mingjian, Cheng Tongtong, Xie Jingyuan, and Meng Qi received the Provincial Bronze Award in the China International College Students' Innovation Competition.
+
+Song Mingjian and Meng Qi received the National Third Prize in the 13th "China Software Cup" College Student Software Design Competition.
+
+Song Mingjian, Meng Qi, and Li Yuxuan received the First Prize in the Provincial Selection of the 6th Global Campus AI Algorithm Elite Competition.
+
+Ma Yukun, Feng Kairui, and Meng Qi received the National Third Prize in the 14th "China Software Cup" College Student Software Design Competition.
+
+Li Yuxuan, Yang Zhuowei, and Cheng Tongtong received the Second Prize in the Seed Group of the National AI Application Scenario Innovation Challenge.
+
+Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Prize in the Software Design Innovation Track (Northwest Division) of the 18th College Student Software Innovation Competition.
 
 
 <div id="h.a4d1eb0f3c9c05f_23" class="hJDwNd-AhqUyc-uQSCkd jXK9ad D2fZ2 OjCsFc wHaque"><div class="jXK9ad-SmKAyb"><div class="tyJCtd baZpAe"><div class="iwQgFb" role="presentation"></div></div></div></div>
@@ -473,11 +530,20 @@ One paper applied in the purchase and application of CT machines by a U.S. medic
 
 ### Supervisor for postdoc（博士后）
 
-<div class="box">
+<!-- <div class="box">
 	<div class="img">
 		<img src="picture/Jing Fang.jpg" >
 		<div class="desc_blank"> </div>
 		<div class="desc">Jing Fang,  <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div> -->
+
+<div class="box">
+	<div class="img">
+		<img src="" >
+		<div class="desc_blank"> </div>
+		<div class="desc">Huinian Li,  <a href = "https://www.nwpu.edu.cn">Macau University of Science and Technology</a>, China</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 </div>
@@ -638,49 +704,146 @@ One paper applied in the purchase and application of CT machines by a U.S. medic
 
 <div class="box">
         <div class="img">
-   		<img src="picture/Qi Meng.png" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Qi Meng, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
+   			<img src="picture/Qi Meng.png" >
+  			<div class="desc_blank"> </div>
+   			<div class="desc">  Qi Meng, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+  			<div class="desc_blank_2"> </div>
+  		</div>
 	    <div class="img">
-   		<img src="picture/Yuchen Li.png" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Yuchen Li, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-</div>
+   			<img src="picture/Yuchen Li.png" >
+  			<div class="desc_blank"> </div>
+   			<div class="desc">  Yuchen Li, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+  			<div class="desc_blank_2"> </div>
+  		</div>
+		<div class="img">
+    		<img src="picture/Yang Haoyan.png" >	
+    		<div class="desc_blank"> </div>
+    		<div class="desc">  Yang Haoyan (M.S., The Chinese University of Hong Kong), China</div>
+    		<div class="desc_blank_2"> </div>
+		</div>
+	</div>
 </div> 
 
-### Supervisor for Visiting students (交换生)
+### Visiting students (访问生)
 
 <div class="box">
-    <div class="img">
+    <!-- <div class="img">
    		<img src="picture/Huinian Li.png" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Huinian Li, <a href = "https://www.must.edu.mo/#/">Macau University of Science and Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
-  	</div>
-   <div class="img">
+  	</div> -->
+   <!-- <div class="img">
    		<img src="picture/Yingbiao Hu.png" >
   		<div class="desc_blank"> </div>
    		<div class="desc">  Yingbiao Hu, <a href = "https://www.mpu.edu.mo/research/zh/index.php#/">Macao Polytechnic University</a>, China</div>
   		<div class="desc_blank_2"> </div>
-  	
+	  	<div class="img"> -->
+		<div class="img">
+	    <!-- <img src="picture/Huang Dejun.png" > -->
+	    	<div class="desc_blank"> </div>
+	    	<div class="desc">  Huang Dejun (M.S., Shenzhen University, Visiting Student), China</div>
+	    	<div class="desc_blank_2"> </div>
+		</div>
+		<div class="img">
+		    <!-- <img src="picture/Su Peixian.png" > -->
+		    <div class="desc_blank"> </div>
+		    <div class="desc">  Su Peixian (Class of 2023, M.S., Shenzhen University, Visiting Student), China</div>
+		    <div class="desc_blank_2"> </div>
+		</div>
 </div>
 	
-<!-- ### Supervisor for Undergraduates (本科生) -->
-
-<!-- <div class="box">
+### Supervisor for Undergraduates (本科生)
 
 
-</div> -->
+<div class="box">
+<div class="img">
+    <!-- <img src="picture/Ma Yukun.png" > -->
+    <div class="desc_blank"> </div>
+    <div class="desc">  Ma Yukun (Class of 2024, B.S., Northwestern Polytechnical University, Top-notch Program), China</div>
+    <div class="desc_blank_2"> </div>
+</div>
+<div class="img">
+    <!-- <img src="picture/Wang Yansong.png" > -->
+    <div class="desc_blank"> </div>
+    <div class="desc">  Wang Yansong (Class of 2024, B.S., Northwestern Polytechnical University, Top-notch Program, National Scholarship), China</div>
+    <div class="desc_blank_2"> </div>
+</div>
+<div class="img">
+    <!-- <img src="picture/Feng Kairui.png" > -->
+    <div class="desc_blank"> </div>
+    <div class="desc">  Feng Kairui (Class of 2024, B.S., Northwestern Polytechnical University, Top-notch Program), China</div>
+    <div class="desc_blank_2"> </div>
+</div>
+<div class="img">
+    <!-- <img src="picture/Dai Shuai.png" > -->
+    <div class="desc_blank"> </div>
+    <div class="desc">  Dai Shuai (Class of 2025, B.S., Harbin Institute of Technology, Academician Class), China</div>
+    <div class="desc_blank_2"> </div>
+</div>
+<div class="img">
+    <!-- <img src="picture/Gong Chaoyi.png" > -->
+    <div class="desc_blank"> </div>
+    <div class="desc">  Gong Chaoyi (Class of 2025, B.S., Harbin Institute of Technology, Academician Class), China</div>
+    <div class="desc_blank_2"> </div>
+</div>
+
+</div>
 
 
 
+### Graduated postgraduate (postdoctoral fellow / doctor / master)
 
-<!--
-### Supervisor for Graduate students (已毕业学生)
+- Postdoctoral Fellow Fang Jing: Postdoctoral Fellow at Northwestern Polytechnical University; Ph.D. from Wuhan University (Planned to sign with Jiangsu Police College (a priority admission institution)/civil servant)
+- Ph.D. Hu Yingbiao: Ph.D. from Macao Polytechnic University (Visiting Student; planned to sign with Jinan University)
+- Ph.D. Li Huinian: Ph.D. from Macau University of Science and Technology (Visiting Student; planned to sign with Harbin Institute of Technology Chongqing Research Institute)
+- Ph.D. Yu Wei: Ph.D. from Northwestern Polytechnical University; Northwestern Polytechnical University
+- Ph.D. Tian Bo: Ph.D. from Northwestern Polytechnical University; Northwestern Polytechnical University
+- Ph.D. Ying Hao: Ph.D. from Northwestern Polytechnical University; Northwestern Polytechnical University
+- Class of 2023 M.S. Chen Muhan: M.S. from Northwestern Polytechnical University (Signed with Baidu; University Outstanding Graduate Student)
+- Class of 2023 M.S. Yang Junjian: M.S. from Northwestern Polytechnical University; B.S. from Northwestern Polytechnical University (Signed with China National Petroleum Corporation (Xinjiang); University Outstanding Graduate Student)
+- Class of 2022 M.S. Xu Zhixin: M.S. from Beijing Information Science and Technology University (Visiting Student); Beijing Naiya Information Technology Co., Ltd.
+- Class of 2019 Ph.D. Hu Yuxuan: Ph.D. from Central South University (Co-supervised); Hunan Agricultural University
+- Class of 2022 M.S. Gao Xi: M.S. from Northwestern Polytechnical University; Hikvision
+- Class of 2021 M.S. Gong Ran: M.S. from Northwestern Polytechnical University; Ph.D. from Northwestern Polytechnical University (University Outstanding Graduate)
+- Class of 2021 M.S. Guan Lin: M.S. from Northwestern Polytechnical University; A company in Shanghai (University Outstanding Graduate; National Scholarship)
+- Class of 2021 M.S. Zhao Hui: M.S. from Hunan University (Co-supervised); JD.com
+- Class of 2021 M.S. Li Chao: M.S. from Central South University (Co-supervised); A company in Hunan
+- Class of 2021 M.S. Xie Shaodong: M.S. from Central South University (Co-supervised); A company in Hunan
+- Class of 2020 M.S. Guan Yu: M.S. from Central South University (Co-supervised); Ph.D. from Central South University
+- Class of 2019 M.S. Song Qiang: M.S. from Guangxi Normal University (Co-supervised); Ph.D. from Central South University
+- Class of 2019 M.S. Zeng Jia: Teacher at Guangzhou College of Commerce
+
+### Graduated undergraduate student
+
+- Class of 2022 B.S. Song Mingjian: B.S. from Northwestern Polytechnical University → Direct Ph.D. at Harbin Institute of Technology
+- Class of 2022 B.S. Wang Yuelei: B.S. from Harbin Institute of Technology → M.S. at Harbin Institute of Technology
+- Class of 2022 B.S. Meng Qi: B.S. from Northwestern Polytechnical University → M.S. at The University of Hong Kong (National Scholarship)
+- Class of 2022 B.S. Pang Qixing: B.S. from Harbin Institute of Technology → M.S. at Harbin Institute of Technology
+- Class of 2022 B.S. Yang Haoyan: B.S. from Harbin Institute of Technology → M.S. at The Chinese University of Hong Kong
+- Class of 2022 B.S. Yang Zhuowei: B.S. from Northwestern Polytechnical University → Direct Ph.D. at Zhongguancun College (National Scholarship ×2)
+- Class of 2021 B.S. Wu Zi'ang: Northwestern Polytechnical University (University Outstanding Undergraduate Thesis Award, University Outstanding Graduate) → M.S. at The Hong Kong University of Science and Technology, Ph.D. at Harbin Institute of Technology
+- Class of 2021 B.S. Liang Yunfeng: B.S. from Northwestern Polytechnical University → M.S. at Northwestern Polytechnical University
+- Class of 2021 B.S. Xia Yinghao: B.S. from Northwestern Polytechnical University → M.S. at Northwestern Polytechnical University
+- Class of 2021 B.S. Shi Boxuan: B.S. from Harbin Institute of Technology, M.S. from Carnegie Mellon University, USA
+- Class of 2020 B.S. Xin Weiqiang: B.S. from Northwestern Polytechnical University (University Outstanding Undergraduate Thesis Award) → M.S. at Northwestern Polytechnical University
+- Class of 2020 B.S. Chen Xi: B.S. from Northwestern Polytechnical University → M.S. at Northwestern Polytechnical University
+- Class of 2020 B.S. Bai Tianyou: B.S. from Northwestern Polytechnical University → Xi'an Huawei Research Institute
+- Class of 2020 B.S. Hong Bo: B.S. from Northwestern Polytechnical University → China General Nuclear Power Group
+- Class of 2020 B.S. Zhang Xuanhua: B.S. from Northwestern Polytechnical University → China Mobile (Zhuhai)
+- Class of 2019 B.S. Wang Pengwei: B.S. from Northwestern Polytechnical University (University Outstanding Undergraduate Thesis Award) → M.S. at National University of Singapore, Ph.D. at Medical University of Vienna
+- Class of 2019 B.S. Ding Ren: B.S. from Northwestern Polytechnical University → M.S. at The University of Melbourne, Australia
+- Class of 2019 B.S. Wang Hanting: B.S. from Northwestern Polytechnical University → M.S. at Zhejiang University
+- Class of 2019 B.S. Shen Jiajun: B.S. from Northwestern Polytechnical University → M.S. at Zhejiang University
+- Class of 2020 B.S. Zou Jialiang: B.S. from Northwestern Polytechnical University → Further studies at the University of Bristol, UK
+- Class of 2019 B.S. Tufahel Ahmed: B.S. from Northwestern Polytechnical University → Employment abroad
+- Class of 2019 B.S. Ma Yingpeng: B.S. from Northwestern Polytechnical University (University Outstanding Undergraduate Thesis Award) → M.S. at University of Macau, Ph.D. at University of Macau
+- Class of 2018 B.S. Li Zheyuan: B.S. from Northwestern Polytechnical University → M.S. at University of Macau, Ph.D. at University of Macau
+- Class of 2018 B.S. Zhi Keyan: B.S. from Northwestern Polytechnical University → Further studies at Northwestern Polytechnical University
+- Class of 2018 B.S. Jiao Tiancai: B.S. from Northwestern Polytechnical University → Further studies at Xi'an Jiaotong University
+- Class of 2018 B.S. Fu Yuwei: B.S. from Northwestern Polytechnical University → Further studies at Northwestern Polytechnical University
+- Class of 2018 B.S. Liu Zirui: B.S. from Northwestern Polytechnical University → Further studies at Central China Normal University
+<!-- ### Supervisor for Graduate students (已毕业学生)
 <div class="box">
 
  <div class="box">
@@ -710,8 +873,8 @@ One paper applied in the purchase and application of CT machines by a U.S. medic
      		<div class="desc_blank_2"> </div>
 	</div>
 
-</div>
--->
+</div> -->
+
 
 <!-- ### Supporter
 This homepage is supported by Mr. Menghua Zheng in June, 2021.  -->

@@ -578,15 +578,6 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 </div>
 
 <div class="box">
-    <div class="img">
-   		<img src="picture/Binbin Zhang.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  张彬彬, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-</div>
-
-<div class="box">
 	<div class="img">
 		<img src="picture/Yiwei Wang.jpg" >
 		<div class="desc_blank"> </div>
@@ -600,6 +591,16 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 		<div class="desc_blank_2"> </div>
 	</div>
 </div>
+<div class="box">
+    <div class="img">
+   		<img src="picture/Binbin Zhang.jpg" >
+  		<div class="desc_blank"> </div>
+   		<div class="desc">  张彬彬, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+  		<div class="desc_blank_2"> </div>
+  	</div>
+</div>
+
+
 
 <div class="box">
 	<div class="img">
@@ -954,37 +955,7 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 - 18级 焦天才 西北工业大学(本)->西安交通大学深造
 - 18级 符育玮 西北工业大学(本)->西北工业大学深造
 - 18级 刘子瑞 西北工业大学(本)->华中师范大学深造
-<!-- ### Supervisor for Graduate students (已毕业学生)
-<div class="box">
 
- <div class="box">
-	<div class="img">
-      		<img src="picture/Menghua Zheng.jpg" >
-      		<div class="desc_blank"> </div>
-      		<div class="desc"> <a href = "https://scholar.google.com/citations?hl=en&user=ocy7acsAAAAJ&view_op=list_works&gmla=AJsN-			 F68U1UklGZDjmuesBv3yirregvxFAaTTQ7hGPTAoi4DYMZOz3PlkvLD0nTzGEafqkd7HOWADzBTkTIKNG93iO0b1QjuRF1DtBp434i9Eea6kCNQPg4">Menghua Zheng</a>, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-      		<div class="desc_blank_2"> </div>
-     	</div>
-  	<div class="img">
-   		<img src="picture/Xuanyu Zhang.png" >
-   		<div class="desc_blank"> </div>
-   		<div class="desc">  Xuanyu Zhang, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
- 	 </div>
-</div>
-  	 <div class="img" width = "50%">
-   		<img src="picture/Jiawen Zeng.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc"> Jiawen Zeng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-   		<div class="desc_blank_2"> </div>
-  	 </div>
-   	<div class="img" width = "50%">
-     		<img src="picture/Yingpeng Ma.jpg" >
-    		<div class="desc_blank"> </div>
-     		<div class="desc"> Yingpeng Ma, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a> , China</div>
-     		<div class="desc_blank_2"> </div>
-	</div>
-
-</div> -->
 
 
 <!-- ### Supporter

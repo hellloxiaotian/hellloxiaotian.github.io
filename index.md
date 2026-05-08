@@ -84,6 +84,13 @@ Please send this document along with your resume to my email. After the review, 
    
 
 ## News (消息)
+- **2026-05-01:** A paper from the research group was accepted to ICML (CCF-A).  
+- **2026-05-01:** A paper from the research group was accepted to IJCAI (top conference).  
+- **2026-04-17:** Master's student Jingyuan Xie from the research group had a paper accepted by IEEE TIP (CCF-A/Chinese Academy of Sciences Zone 1).  
+- **2026-04-14:** Sophomore undergraduate students Yukun Ma, Yansong Wang, and Kairui Feng from the research group had a paper accepted by a CVPR Workshop.  
+- **2026-03-16:** A paper from the research group was accepted by IEEE Internet of Things Journal (Chinese Academy of Sciences Zone 1, SCI-IF: 8.9).  
+- **2026-03-16:** A paper from the research group was accepted by Pattern Recognition (Chinese Academy of Sciences Zone 1, SCI-IF: 7.3).  
+- **2026-03-15:** A paper from the research group was accepted by ACM TASS (CCF-B).  
 - **2026-03:** A paper from the research group was accepted by IEEE TGRS (SCI-IF: 8.6, a Chinese Academy of Sciences Zone 1 journal).  
 - **2026-03:** A paper from the research group was accepted by an SCI-indexed journal.  
 - **2026-02:** I was appointed as an Associate Editor of IEEE TCE.  
@@ -528,7 +535,7 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 
 ## Team Members (团队成员)
 
-### Supervisor for postdoc（博士后）
+### Postdoctoral Fellows and PhD Students（在读博后/博士生）
 
 <!-- <div class="box">
 	<div class="img">
@@ -541,26 +548,15 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 
 <div class="box">
 	<div class="img">
-		<!-- <img src="" > -->
-		<div class="desc_blank"> </div>
-		<div class="desc">Huinian Li,  <a href = "https://www.nwpu.edu.cn">Macau University of Science and Technology</a>, China</div>
-		<div class="desc_blank_2"> </div>
-	</div>
-</div>
-
-### Supervisor for doctorate（博士生）
-
-<div class="box">
-	<div class="img">
 		<img src="picture/Chen Shi.png" >
 		<div class="desc_blank"> </div>
-		<div class="desc">Chen Shi,  <a href = "https://www.hrbmu.edu.cn/">Harbin Medical University</a>, China</div>
+		<div class="desc">施晨（访问生）, China</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
           	<img src="picture/Ziang Wu.png" >
           	<div class="desc_blank"> </div>
-          	<div class="desc">Ziang Wu,  <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
+          	<div class="desc">吴子昂,  <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
           	<div class="desc_blank_2"> </div>
    	</div>
 </div>
@@ -568,179 +564,269 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 
 <div class="box">
 	<div class="img">
-   		<img src="picture/Tongtong Cheng.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Tongtong Cheng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-    <div class="img">
    		<img src="picture/Kaiwen Zha.jpg" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Kaiwen Zha, <a href = "https://www.szu.edu.cn/">Shenzhen University</a>, China</div>
+   		<div class="desc">  查凯文, <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
-</div>
-
-<div class="box">
     <div class="img">
    		<img src="picture/Mingjian Song.jpg" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Mingjian Song, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+   		<div class="desc">  宋明键, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
-	<div class="img">
+</div>
+
+<div class="box">
+    <div class="img">
    		<img src="picture/Binbin Zhang.jpg" >
   		<div class="desc_blank"> </div>
-   		<div class="desc">  Binbin Zhang <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-</div>
-
-### Supervisor for Postgraduates (硕士生)
-
-<div class="box">
-  	<div class="img">
-   		<img src="picture/Yu Deng.png" >
-   		<div class="desc_blank"> </div>
-  		<div class="desc">  Yu Deng, <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
- 	</div>
-  	<div class="img">
-   		<img src="picture/Le Hu.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Le Hu, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+   		<div class="desc">  张彬彬, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
   		<div class="desc_blank_2"> </div>
   	</div>
 </div>
 
 <div class="box">
-    <div class="img">
-   		<img src="picture/Wenjie Liu.png" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Wenjie Liu , <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-   	<div class="img">
-   		<img src="picture/Ruichen Zeng.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Ruichen Zeng, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-   	<div class="img">
-   		<img src="picture/Yaozehua Yuan.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Yaozehua Yuan, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-  	<div class="img">
-   		<img src="picture/Junjian Yang.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Junjian Yang(signed with China National Petroleum), <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-   	<div class="img">
-   		<img src="picture/Muhan Chen.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Muhan Chen(signed with Baidu), <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-   	<div class="img">
-   		<img src="picture/Weiqiang Xin.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Weiqiang Xin, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
 	<div class="img">
-   		<img src="picture/Yang Xiao.png" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Yang Xiao, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-	<div class="img">
-   		<img src="picture/Jingyuan Xie.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Jingyuan Xie, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-	<div class="img">
-   		<img src="picture/Mengyuan Wei.png" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Mengyuan Wei, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-	<div class="img">
-   		<img src="picture/Xi Chen.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Xi Chen, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-	<div class="img">
-   		<img src="picture/Kun Wen.png" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Kun Wen, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-		<div class="img">
-   		<img src="picture/Zihao Zhao.png" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Zihao Zhao, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-	<div class="box">
-    <div class="img">
-   		<img src="picture/Xueyou Lu.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Xueyou Lu, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-  	<div class="img">
-   		<img src="picture/Yuelei Wang.JPG" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  Yuelei Wang, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-</div>
-
-
-<div class="box">
-        <div class="img">
-   			<img src="picture/Qi Meng.png" >
-  			<div class="desc_blank"> </div>
-   			<div class="desc">  Qi Meng, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  			<div class="desc_blank_2"> </div>
-  		</div>
-	    <div class="img">
-   			<img src="picture/Yuchen Li.png" >
-  			<div class="desc_blank"> </div>
-   			<div class="desc">  Yuchen Li, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  			<div class="desc_blank_2"> </div>
-  		</div>
-		<div class="img">
-    		<img src="picture/Yang Haoyan.png" >	
-    		<div class="desc_blank"> </div>
-    		<div class="desc">  Yang Haoyan (M.S., The Chinese University of Hong Kong), China</div>
-    		<div class="desc_blank_2"> </div>
-		</div>
-		<div class="img">
-		    <!-- <img src="picture/Zhou Tianle.png" > -->
-		    <div class="desc_blank"> </div>
-		    <div class="desc">  Zhou Tianle, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a> (M.S.), <a href = "https://www.hitsz.edu.cn/		">Harbin Institute of Technology, Shenzhen</a> (B.S.), China</div>
-		    <div class="desc_blank_2"> </div>
-		</div>
-		<div class="img">
-		    <!-- <img src="picture/Zheng Dingning.png" > -->
-		    <div class="desc_blank"> </div>
-		    <div class="desc">  Zheng Dingning, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a> (B.S., M.S.), China</div>
-		    <div class="desc_blank_2"> </div>
-		</div>
-		<div class="img">
-		    <!-- <img src="picture/Du Yazhuo.png" > -->
-		    <div class="desc_blank"> </div>
-		    <div class="desc">  Du Yazhuo, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a> (M.S.), <a href = "https://www.seu.edu.cn/		">Southeast University</a> (B.S.), China</div>
-		    <div class="desc_blank_2"> </div>
-		</div>
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">王金斌,  <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
 	</div>
-</div> 
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">李辉年,  <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">王奕为,  <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">缪林一（访问生）, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+### Current Master's Students（在读硕士生）
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Weiqiang Xin.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">辛维强, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Xi Chen.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">陈曦, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Jingyuan Xie.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">谢静远, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Tongtong Cheng.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">程童桐, <a href = "https://www.cuhk.edu.hk">The Chinese University of Hong Kong</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Qi Meng.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">孟琦, <a href = "https://www.hku.hk">The University of Hong Kong</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Yang Xiao.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">肖扬, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Mengyuan Wei.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">卫梦源, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Zihao Zhao.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">赵梓豪, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Yu Deng.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">邓寓, <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Le Hu.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">胡乐, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Wenjie Liu.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">刘文杰, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Kun Wen.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">温坤, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Yuelei Wang.JPG" >
+		<div class="desc_blank"> </div>
+		<div class="desc">王悦雷, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Xueyou Lu.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">陆学优, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Yuchen Li.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">李禹辰, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Yang Haoyan.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">杨昊岩, <a href = "https://www.cuhk.edu.hk">The Chinese University of Hong Kong</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">杜亚酌, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">周天乐, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">郑丁宁, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">徐畅, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">陈丽晴, 硕士生, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">张景龙, 硕士生, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">曹翔, 硕士生, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">吕博梁, 硕士生, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">宋黎明, 硕士生, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">赵霆旭, 硕士生, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">曹玉航, 硕士生, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">陈靖彪, 硕士生, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
 
 ### Visiting students (访问生)·
 
@@ -816,57 +902,58 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 
 
 
-### Graduated postgraduate (postdoctoral fellow / doctor / master)
+### 毕业研究生（博后/博/硕）
 
-- Postdoctoral Fellow Fang Jing: Postdoctoral Fellow at Northwestern Polytechnical University; Ph.D. from Wuhan University (Planned to sign with Jiangsu Police College (a priority admission institution)/civil servant)
-- Ph.D. Hu Yingbiao: Ph.D. from Macao Polytechnic University (Visiting Student; planned to sign with Jinan University)
-- Ph.D. Li Huinian: Ph.D. from Macau University of Science and Technology (Visiting Student; planned to sign with Harbin Institute of Technology Chongqing Research Institute)
-- Ph.D. Yu Wei: Ph.D. from Northwestern Polytechnical University; Northwestern Polytechnical University
-- Ph.D. Tian Bo: Ph.D. from Northwestern Polytechnical University; Northwestern Polytechnical University
-- Ph.D. Ying Hao: Ph.D. from Northwestern Polytechnical University; Northwestern Polytechnical University
-- Class of 2023 M.S. Chen Muhan: M.S. from Northwestern Polytechnical University (Signed with Baidu; University Outstanding Graduate Student)
-- Class of 2023 M.S. Yang Junjian: M.S. from Northwestern Polytechnical University; B.S. from Northwestern Polytechnical University (Signed with China National Petroleum Corporation (Xinjiang); University Outstanding Graduate Student)
-- Class of 2022 M.S. Xu Zhixin: M.S. from Beijing Information Science and Technology University (Visiting Student); Beijing Naiya Information Technology Co., Ltd.
-- Class of 2019 Ph.D. Hu Yuxuan: Ph.D. from Central South University (Co-supervised); Hunan Agricultural University
-- Class of 2022 M.S. Gao Xi: M.S. from Northwestern Polytechnical University; Hikvision
-- Class of 2021 M.S. Gong Ran: M.S. from Northwestern Polytechnical University; Ph.D. from Northwestern Polytechnical University (University Outstanding Graduate)
-- Class of 2021 M.S. Guan Lin: M.S. from Northwestern Polytechnical University; A company in Shanghai (University Outstanding Graduate; National Scholarship)
-- Class of 2021 M.S. Zhao Hui: M.S. from Hunan University (Co-supervised); JD.com
-- Class of 2021 M.S. Li Chao: M.S. from Central South University (Co-supervised); A company in Hunan
-- Class of 2021 M.S. Xie Shaodong: M.S. from Central South University (Co-supervised); A company in Hunan
-- Class of 2020 M.S. Guan Yu: M.S. from Central South University (Co-supervised); Ph.D. from Central South University
-- Class of 2019 M.S. Song Qiang: M.S. from Guangxi Normal University (Co-supervised); Ph.D. from Central South University
-- Class of 2019 M.S. Zeng Jia: Teacher at Guangzhou College of Commerce
+- 博士后 方婧 西北工业大学博士后 武汉大学博士 (拟签约江苏省警官学院(提前批招生院校)/公务员)
+- 博 胡英彪 澳门理工大学(博) (访问生，拟签约暨南大学)
+- 博 李辉年 澳门科技大学(博) (访问生，哈尔滨工业大学博后）
+- 博 俞为 西北工业大学（博） 西北工业大学
+- 博 天博 西北工业大学 （博）西北工业大学
+- 博 英豪 西北工业大学 （博）西北工业大学
+- 23级硕 苏沛贤 深圳大学 （硕）（访问生）
+- 23级硕 陈慕晗 西北工业大学 （硕）签约百度 （校优秀研究生）(年薪70W+)
+- 23级硕 杨俊健 西北工业大学（硕）、西北工业大学（本）签约中国石油（新疆）（校优秀研究生）
+- 22级硕 许治新 北京信息科技大学（硕） （访问生） 北京奈亚信息技术有限公司
+- 19级博 胡雨轩 中南大学（博） （协助指导） 长沙理工大学
+- 22级硕 高西 西北工业大学（硕）海康威视
+- 21级硕 弓然 西北工业大学（硕）西北工业大学（博） （校优秀毕业生）
+- 21级硕 关林 西北工业大学（硕）上海**公司 （校优秀毕业生、国奖）
+- 21级硕 赵慧 湖南大学（硕）（协助指导）京东
+- 21级硕 李超 中南大学（硕）（协助指导）湖南**公司
+- 21级硕 谢少东 中南大学 （硕）（协助指导）湖南**公司
+- 20级硕 关玉 中南大学 （硕）（协助指导）中南大学（博）
+- 19级硕 宋强 广西师范大学（硕）（协助指导）中南大学（博）
+- 19级硕 曾加 广州商学院（教师）
 
-### Graduated undergraduate student
+### 毕业本科生
 
-- Class of 2022 B.S. Song Mingjian: B.S. from Northwestern Polytechnical University → Direct Ph.D. at Harbin Institute of Technology
-- Class of 2022 B.S. Wang Yuelei: B.S. from Harbin Institute of Technology → M.S. at Harbin Institute of Technology
-- Class of 2022 B.S. Meng Qi: B.S. from Northwestern Polytechnical University → M.S. at The University of Hong Kong (National Scholarship)
-- Class of 2022 B.S. Pang Qixing: B.S. from Harbin Institute of Technology → M.S. at Harbin Institute of Technology
-- Class of 2022 B.S. Yang Haoyan: B.S. from Harbin Institute of Technology → M.S. at The Chinese University of Hong Kong
-- Class of 2022 B.S. Yang Zhuowei: B.S. from Northwestern Polytechnical University → Direct Ph.D. at Zhongguancun College (National Scholarship ×2)
-- Class of 2021 B.S. Wu Zi'ang: Northwestern Polytechnical University (University Outstanding Undergraduate Thesis Award, University Outstanding Graduate) → M.S. at The Hong Kong University of Science and Technology, Ph.D. at Harbin Institute of Technology
-- Class of 2021 B.S. Liang Yunfeng: B.S. from Northwestern Polytechnical University → M.S. at Northwestern Polytechnical University
-- Class of 2021 B.S. Xia Yinghao: B.S. from Northwestern Polytechnical University → M.S. at Northwestern Polytechnical University
-- Class of 2021 B.S. Shi Boxuan: B.S. from Harbin Institute of Technology, M.S. from Carnegie Mellon University, USA
-- Class of 2020 B.S. Xin Weiqiang: B.S. from Northwestern Polytechnical University (University Outstanding Undergraduate Thesis Award) → M.S. at Northwestern Polytechnical University
-- Class of 2020 B.S. Chen Xi: B.S. from Northwestern Polytechnical University → M.S. at Northwestern Polytechnical University
-- Class of 2020 B.S. Bai Tianyou: B.S. from Northwestern Polytechnical University → Xi'an Huawei Research Institute
-- Class of 2020 B.S. Hong Bo: B.S. from Northwestern Polytechnical University → China General Nuclear Power Group
-- Class of 2020 B.S. Zhang Xuanhua: B.S. from Northwestern Polytechnical University → China Mobile (Zhuhai)
-- Class of 2019 B.S. Wang Pengwei: B.S. from Northwestern Polytechnical University (University Outstanding Undergraduate Thesis Award) → M.S. at National University of Singapore, Ph.D. at Medical University of Vienna
-- Class of 2019 B.S. Ding Ren: B.S. from Northwestern Polytechnical University → M.S. at The University of Melbourne, Australia
-- Class of 2019 B.S. Wang Hanting: B.S. from Northwestern Polytechnical University → M.S. at Zhejiang University
-- Class of 2019 B.S. Shen Jiajun: B.S. from Northwestern Polytechnical University → M.S. at Zhejiang University
-- Class of 2020 B.S. Zou Jialiang: B.S. from Northwestern Polytechnical University → Further studies at the University of Bristol, UK
-- Class of 2019 B.S. Tufahel Ahmed: B.S. from Northwestern Polytechnical University → Employment abroad
-- Class of 2019 B.S. Ma Yingpeng: B.S. from Northwestern Polytechnical University (University Outstanding Undergraduate Thesis Award) → M.S. at University of Macau, Ph.D. at University of Macau
-- Class of 2018 B.S. Li Zheyuan: B.S. from Northwestern Polytechnical University → M.S. at University of Macau, Ph.D. at University of Macau
-- Class of 2018 B.S. Zhi Keyan: B.S. from Northwestern Polytechnical University → Further studies at Northwestern Polytechnical University
-- Class of 2018 B.S. Jiao Tiancai: B.S. from Northwestern Polytechnical University → Further studies at Xi'an Jiaotong University
-- Class of 2018 B.S. Fu Yuwei: B.S. from Northwestern Polytechnical University → Further studies at Northwestern Polytechnical University
-- Class of 2018 B.S. Liu Zirui: B.S. from Northwestern Polytechnical University → Further studies at Central China Normal University
+- 22级本宋明键 西北工业大学(本)->哈尔滨工业大学(直博)
+- 22级本王悦雷 哈尔滨工业大学(本)->哈尔滨工业大学(硕)
+- 22级本孟琦 西北工业大学(本)->香港大学(硕、国奖)
+- 22级本庞啟兴 哈尔滨工业大学(本)->哈尔滨工业大学(硕)
+- 22级本杨昊岩 哈尔滨工业大学(本)->香港中文大学(硕)
+- 22级本杨卓威 西北工业大学(本)->中关村学院(直博)(国奖x2)
+- 21级本吴子昂 （西北工业大学校优秀本科生毕业论文、西工大校优秀毕业生）香港科大（硕）、哈工大（博）
+- 21级本梁云峰 西北工业大学(本)->西北工业大学（硕）
+- 21级本夏英豪 西北工业大学(本)->西北工业大学（硕）
+- 21级本 施博轩 哈尔滨工业大学（本）、美国卡内基梅隆大学（硕）
+- 20级本辛维强 西北工业大学(本)->（西北工业大学校优秀本科生毕业论文）西北工业大学（硕）
+- 20级本陈曦 西北工业大学(本)->西北工业大学 （硕）
+- 20级本白天佑 西北工业大学(本)-> 西安华为研究所
+- 20级洪博 西北工业大学(本)->中广核
+- 20级 张烜华 西北工业大学(本)->中国移动（珠海）
+- 19级 王鹏维 西北工业大学(本)->（西北工业大学校优秀本科生毕业论文） 新加坡国立大学（硕）、维也纳医科大学（博）
+- 19级 丁任 西北工业大学(本)->澳大利亚墨尔本大学（硕）
+- 19级 王瀚霆 西北工业大学(本)->浙江大学（硕）
+- 19级 沈佳军 西北工业大学(本)->浙江大学 （硕）
+- 20级 邹佳梁 西北工业大学(本)->英国布里斯托大学深造
+- 19级 Tufahel Ahmed 西北工业大学(本)->国外就业
+- 19级 马英鹏 西北工业大学(本)->（西北工业大学校优秀本科生毕业论文）澳门大学（硕）、澳门大学（博）
+- 18级 李哲远 西北工业大学(本)->澳门大学（硕）、澳门大学（博）
+- 18级 智珂岩 西北工业大学(本)->西北工业大学深造
+- 18级 焦天才 西北工业大学(本)->西安交通大学深造
+- 18级 符育玮 西北工业大学(本)->西北工业大学深造
+- 18级 刘子瑞 西北工业大学(本)->华中师范大学深造
 <!-- ### Supervisor for Graduate students (已毕业学生)
 <div class="box">
 

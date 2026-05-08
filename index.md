@@ -588,6 +588,21 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 
 <div class="box">
 	<div class="img">
+		<img src="picture/Yiwei Wang.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">王奕为,  <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Lingyi Mu.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">缪林一（访问生）, China</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
 		<!-- <img src="" > -->
 		<div class="desc_blank"> </div>
 		<div class="desc">王金斌,  <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
@@ -597,21 +612,6 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 		<!-- <img src="" > -->
 		<div class="desc_blank"> </div>
 		<div class="desc">李辉年,  <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
-		<div class="desc_blank_2"> </div>
-	</div>
-</div>
-
-<div class="box">
-	<div class="img">
-		<!-- <img src="" > -->
-		<div class="desc_blank"> </div>
-		<div class="desc">王奕为,  <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
-		<div class="desc_blank_2"> </div>
-	</div>
-	<div class="img">
-		<!-- <img src="" > -->
-		<div class="desc_blank"> </div>
-		<div class="desc">缪林一（访问生）, China</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 </div>
@@ -740,13 +740,13 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 
 <div class="box">
 	<div class="img">
-		<!-- <img src="" > -->
+		<img src="picture/Yachun Du.jpg" >
 		<div class="desc_blank"> </div>
 		<div class="desc">杜亚酌, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
-		<!-- <img src="" > -->
+		<img src="picture/Tianle Zhou.jpg" >
 		<div class="desc_blank"> </div>
 		<div class="desc">周天乐, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
 		<div class="desc_blank_2"> </div>
@@ -755,13 +755,13 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 
 <div class="box">
 	<div class="img">
-		<!-- <img src="" > -->
+		<img src="picture/Dingning Zheng.jpg" >
 		<div class="desc_blank"> </div>
 		<div class="desc">郑丁宁, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
-		<!-- <img src="" > -->
+		<img src="picture/Chang Xu.jpg" >
 		<div class="desc_blank"> </div>
 		<div class="desc">徐畅, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
 		<div class="desc_blank_2"> </div>
@@ -770,13 +770,13 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 
 <div class="box">
 	<div class="img">
-		<!-- <img src="" > -->
+		<img src="picture/Liqing Chen.jpg" >
 		<div class="desc_blank"> </div>
 		<div class="desc">陈丽晴, 硕士生, China</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
-		<!-- <img src="" > -->
+		<img src="picture/Jinglong Zhang.jpg" >
 		<div class="desc_blank"> </div>
 		<div class="desc">张景龙, 硕士生, China</div>
 		<div class="desc_blank_2"> </div>
@@ -785,13 +785,13 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 
 <div class="box">
 	<div class="img">
-		<!-- <img src="" > -->
+		<img src="picture/Xiang Cao.jpg" >
 		<div class="desc_blank"> </div>
 		<div class="desc">曹翔, 硕士生, China</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
-		<!-- <img src="" > -->
+		<img src="picture/Liangbo Lv.jpg" >
 		<div class="desc_blank"> </div>
 		<div class="desc">吕博梁, 硕士生, China</div>
 		<div class="desc_blank_2"> </div>
@@ -800,13 +800,13 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 
 <div class="box">
 	<div class="img">
-		<!-- <img src="" > -->
+		<img src="picture/Liming Song.jpg" >
 		<div class="desc_blank"> </div>
 		<div class="desc">宋黎明, 硕士生, China</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
-		<!-- <img src="" > -->
+		<img src="picture/Tingxu Zhao.jpg" >
 		<div class="desc_blank"> </div>
 		<div class="desc">赵霆旭, 硕士生, China</div>
 		<div class="desc_blank_2"> </div>
@@ -815,54 +815,54 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 
 <div class="box">
 	<div class="img">
-		<!-- <img src="" > -->
+		<img src="picture/Yuhang Cao.jpg" >
 		<div class="desc_blank"> </div>
 		<div class="desc">曹玉航, 硕士生, China</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
-		<!-- <img src="" > -->
+		<img src="picture/Jingbiao Chen.jpg" >
 		<div class="desc_blank"> </div>
 		<div class="desc">陈靖彪, 硕士生, China</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 </div>
 
-### Visiting students (访问生)·
+<!-- ### Visiting students (访问生)· -->
 
-<div class="box">
+<!-- <div class="box">
 	<div class="img">
-	    <!-- <img src="picture/Song Wenqin.png" > -->
+
 	    <div class="desc_blank"> </div>
 	    <div class="desc">  Song Wenqin, <a href = "https://www.hrbust.edu.cn/	">Harbin University of Science and Technology</a> (M.S., Visiting Student), 	China</div>
 	    <div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
-	    <!-- <img src="picture/Cao Wenlong.png" > -->
+
 	    <div class="desc_blank"> </div>
 	    <div class="desc">  Cao Wenlong, <a href = "https://www.hrbust.edu.cn/	">Harbin University of Science and Technology</a> (M.S., Visiting Student), 	China</div>
 	    <div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
-	    <!-- <img src="picture/Sun Guoxin.png" > -->
+
 	    <div class="desc_blank"> </div>
 	    <div class="desc">  Sun Guoxin, <a href = "https://www.hrbust.edu.cn/">Harbin 	University of Science and Technology</a> (M.S., Visiting Student), China</div>
 	    <div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
-	    <!-- <img src="picture/Chen Liqing.png" > -->
+
 	    <div class="desc_blank"> </div>
 	    <div class="desc">  Chen Liqing, <a href = "https://www.hlju.edu.cn/	">Heilongjiang University</a> (M.S., Visiting Student), China</div>
 	    <div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
-	    <!-- <img src="picture/Zhang Jinglong.png" > -->
+
 	    <div class="desc_blank"> </div>
 	    <div class="desc">  Zhang Jinglong, <a href = "https://www.hlju.edu.cn/	">Heilongjiang University</a> (M.S., Visiting Student), China</div>
 	    <div class="desc_blank_2"> </div>
 	</div>
 </div>
-	
+	 -->
 ### Supervisor for Undergraduates (本科生)
 
 

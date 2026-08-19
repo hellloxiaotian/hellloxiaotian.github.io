@@ -22,11 +22,6 @@ He received the Best Paper Award from Pattern Recognition, one of the top intern
 - **Position/Title**: Associate Professor / Doctoral Supervisor
 - **Duration**: July 2021 - 2025
 
-#### City University of Hong Kong
-- **Position/Title**: Research Fellow
-- **Duration**: February 2021 - July 2021
-
-
 ## Research Interests (研究兴趣) 
 
 Image/Video Restoration and Recognition, Video/Image Generation, Industrial Vision Defect Detection, Intelligent Transportation, Multimodal and Large Models.

@@ -105,6 +105,19 @@
 - Xu Yong, Li Zhengming, **Tian Chunwei**, Yang Jian. Multiple vector representations of images and robust dictionary learning[J]. Pattern Recognition Letters, 2019, 128:131-136. (JCR Q1/SCI-IF:3.756)
 - Shu Xiu, Huang Feng, Qiu Zhaobing, **Tian Chunwei**, Liu Qiao, Yuan Di. Search region updating with hierarchical feature fusion for accurate thermal infrared tracking. Journal of the Franklin Institute, 2024, 361(18), 107332.( JCR Q1/SCI-IF:4.2)
 - Huang Kan, **Tian Chunwei***, Li Ge. Bidirectional mutual guidance transformer for salient object detection in optical remote sensing images[J]. International Journal of Remote Sensing, 2023, 44(13): 4016-4033. (JCR Q1/SCI-IF:3.4)
+- **Tian Chunwei**, Xie Jingyuan, Zhang Qi, Li Chao, Zuo Wangmeng, Zhang Shichao. A cross-modal network for facial expression recognition[J]. IEEE Transactions on Image Processing. 2026. (JCR Q1/SCI-IF:13.7)
+- Wu Shuai, Wei Hang, Quan Yinning, Xu Yong, **Tian Chunwei***, Miao Qiguang. ITDRCNN: An interactive task-decoupled RCNN for enhanced object detection[J]. Pattern Recognition. 2026. (JCR Q1/SCI-IF:7.6)
+- **Tian Chunwei**, Song Mingjian, Zuo Wangmeng, Du Bo, Zhang Yanning, Zhang Shichao. Application of convolutional neural networks in image super-resolution[J]. CAAI Transactions on Intelligent Systems. 2025. (A-class journal of the Chinese Association for Artificial Intelligence)
+- **Tian Chunwei**, Cheng Tongtong, Ma Yingpeng, Zhu Qi, Zhang Bob, Zhang David. A heterogeneous CNN with Transformers for image denoising[J]. IEEE Transactions on Consumer Electronics. 2026. (JCR Q1/SCI-IF:10.9)
+- Li Chaojun, Gong Peiliang, Li Shengrong, **Tian Chunwei**, Yu Yinbo, Wang Ran, Zhang Daoqiang. Spatio-temporal hypergraph attention networks for brain disease analysis[J]. IEEE Transactions on Image Processing. 2026. (JCR Q1/SCI-IF:13.7)
+- Lin Jiayu, Zheng Xiangtao, **Tian Chunwei**, Lu Xiaoqiang. A wavelength-dependent haze distribution prior network for remote sensing RGB image dehazing[J]. IEEE Transactions on Geoscience and Remote Sensing. 2026. (Accepted/JCR Q1/SCI-IF:7.6)
+- Zhao Yue, Song Mingjian, Zhang Qi, Yang Jiawei, Yoshigoe Kenji, **Tian Chunwei**. A generative multimodal network for facial expression recognition[J]. Pattern Recognition. 2026. (Accepted/JCR Q1/SCI-IF:7.6)
+- Fang Jing, Yu Yinbo, **Tian Chunwei**, He Liang, Liu Jiajia. SafaSR: An arbitrary-scale image super-resolution network based on multi-domain feature fusion for enhancing diverse IoT vision[J]. IEEE Internet of Things Journal. 2026. (JCR Q1/SCI-IF:8.9)
+- Chen Xueling, Li Xingyu, Sun Wei, Zhang Wuxia, **Tian Chunwei**, Liu Wei. Asymmetric Invertible Disentanglement for Image Deraining[J]. IEEE Transactions on Image Processing. 2026. (JCR Q1/SCI-IF:13.7)
+- Fang Jing, Yan Saihao, Yin Xueyu, Yu Yinbo, **Tian Chunwei**, Liu Jiajia. BLAST: A Stealthy Backdoor Leverage Attack against Cooperative Multi-Agent Deep Reinforcement Learning based Systems[J]. IEEE Transactions on Cognitive Communications and Networking. 2026. (JCR Q1/SCI-IF:8.4)
+- Zhao Lin, Ding Cheng, Li Shengrong, **Tian Chunwei**, Huang Chao, Guan Donghai, Zhang Daoqiang, Zhu Qi. A Unified Graph Domain Adaptation Framework for Cross-Site Brain Network Analysis[J]. IEEE Transactions on Medical Imaging. 2026. (JCR Q1/SCI-IF:9.8)
+- Zhang Xiao, Zhang Yuqing, Jin Ning, Li Jiayun, Ren Zhanbing, **Tian Chunwei**, Zhou Yu. Multimodal Deep Learning Approaches in Sports Analytics: A Survey[J]. IEEE Transactions on Consumer Electronics. 2026. (JCR Q1/SCI-IF:10.9)
+- Wu Ziang, Zhang Qi, Sun Xiaoli, Tian Yonglin, Zhu Qi, **Tian Chunwei***. A unified framework for noisy image super-resolution[J]. ACM Transactions on Autonomous and Adaptive Systems. 2026. (Accepted/CCF B/SCI-IF:2.1)
 
 
 ## Conference papers (会议论文)
@@ -122,6 +135,10 @@
 - Fei Lunke, Zhang Bob, Wen Jie, **Tian Chunwei**, et al. Joint Learning Multiple Curvature Descriptor for 3D Palmprint Recognition. ICPR 2020 (International Conference on Pattern Recognition). (CCF C / Mainstream conference in pattern recognition / EI)
 
 - Fei Lunke, Teng Shaohua, Wen Jie, **Tian Chunwei**, et al. Jointly Learning Compact Multi-instance FKP Descriptor. IJCB 2020 (International Joint Conference on Biometrics). (CCF C / Specialized conference in biometrics / EI)
+
+- Liu Minxu, Guan Donghai, Zheng Chuhang, **Tian Chunwei**, Wen Jie, Zhu Qi. ViEEG: Hierarchical visual neural representation for EEG brain decoding. International Conference on Machine Learning (ICML), 2026. (CCF A / Accepted)
+
+- Yu Yinbo, Fang Jing, **Tian Chunwei***, Liu Jiajia, Zhu Qi, Zhang Daoqiang. BehaviorGuard: Online Backdoor Defense for Deep Reinforcement Learning. International Joint Conference on Artificial Intelligence (IJCAI), 2026. (CCF A / Accepted)
 
 
 

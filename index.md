@@ -75,8 +75,16 @@ During master's and PhD study, those who work steadily and focus on research usu
 
 Please send this document along with your resume to my email. After the review, I will arrange the next steps. You can also refer to the official faculty page at [https://homepage.hit.edu.cn/tianchunwei](https://homepage.hit.edu.cn/tianchunwei). My emails are [chunweitian@hit.edu.cn and chunweitian@163.com](chunweitian@hit.edu.cn and chunweitian@163.com).
    
-
 ## News (消息)
+- **2026-08-30:** A paper from the research group was accepted to ACAIT.  
+- **2026-08-22:** A paper from the research group was accepted by IEEE TIP (CCF-A/Chinese Academy of Sciences Zone 1).  
+- **2026-08-19:** A paper from the research group was accepted by IEEE TMI (Chinese Academy of Sciences Zone 1).  
+- **2026-08-09:** A paper from the research group was accepted by IEEE TIP (CCF-A/Chinese Academy of Sciences Zone 1).  
+- **2026-06-16:** A paper from the research group was accepted by IEEE Transactions on Cognitive Communications and Networking (Chinese Academy of Sciences Zone 1, SCI-IF: 8.4).  
+- **2026-06-10:** An invention patent was granted to the research group.  
+- **2026-06-05:** A paper from the research group was accepted by Computer Engineering (CCF T2).  
+- **2026-06-01:** A paper from the research group was accepted by Pattern Recognition.  
+- **2026-05-25:** A paper from the research group was accepted by IEEE TCE (SCI-IF: 10.9).  
 - **2026-05-01:** A paper from the research group was accepted to ICML (CCF-A).  
 - **2026-05-01:** A paper from the research group was accepted to IJCAI (top conference).  
 - **2026-04-17:** Master's student Jingyuan Xie from the research group had a paper accepted by IEEE TIP (CCF-A/Chinese Academy of Sciences Zone 1).  

@@ -37,7 +37,7 @@ span.head{
 
 div.img {
     float:left; display:inline;
-    width:50%;
+    width:33.33%;
     height:auto;
     border: 0px solid #ccc;
     margin-top:15px;
@@ -53,8 +53,10 @@ div.box {
 }
 
 div.img img {
-    width: 240.31px;
-    height: 321.19px;
+    width: 100%;
+    max-width: 240.31px;
+    height: auto;
+    aspect-ratio: 240.31 / 321.19;
     object-fit: cover;
 }
 
@@ -100,4 +102,49 @@ border:0px solid #ccc;
 padding-left:30px;
 float: left;
 box-sizing: border-box;
+}
+
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: start;
+    column-gap: 12px;
+}
+
+.team-grid .desc {
+    font-size: 13px;
+    line-height: 1.45;
+}
+
+.team-grid .desc_blank {
+    padding: 16px;
+}
+
+.team-grid .desc_blank_2 {
+    padding: 8px;
+}
+
+.team-grid > h3 {
+    grid-column: 1 / -1;
+}
+
+.team-grid .box {
+    display: contents;
+}
+
+.team-grid .img {
+    width: 100%;
+    float: none;
+}
+
+@media print, screen and (max-width: 720px) {
+    .team-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media print, screen and (max-width: 480px) {
+    .team-grid {
+        grid-template-columns: 1fr;
+    }
 }

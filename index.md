@@ -1,42 +1,39 @@
-
-
 ## Biography (简介)
 
-<wbr>Chunwei Tian, a Professor at the School of Computer Science and Technology, Harbin Institute of Technology, a doctoral supervisor, and a Shenzhou Scholar.  He received his Ph.D. degree in Computer Application Technology from Harbin Institute of Technology in March 2021, under the supervision of Prof. Xu Yong, a national distinguished scholar.  His postdoctoral co-advisor was Prof. Zhang Yanning  (IEEE Fellow), Vice President of Northwestern Polytechnical University and a nationally recognized expert.  He is currently with the Machine Learning Center at Harbin Institute of Technology, led by Prof. Zuo Wangmeng , a globally Highly Cited Researcher. From 2022 to 2025, he was listed among the World’s Top 2% Scientists by Stanford University.  He was also invited to the Huawei “Genius Youth” interview program.  His research interests include Image/Video Restoration and Recognition, Image Generation, Speech Processing ,Intelligent Transportation, Multimodal and Large Models.
-
-He has published more than 100 papers in leading international journals such as the IEEE Transactions series, Pattern Recognition, Neural Networks, and Information Fusion.  He has authored one monograph and one textbook.  His publications include eight ESI Highly Cited Papers (including three Hot Papers), four cover papers in top-tier journals, and four benchmark papers in the international field of image super-resolution.  One of his research achievements has been applied in CT imaging systems of a U.S. medical imaging company, and another has been adopted in Apple’s iOS camera system.
-
-He received the Best Paper Award from Pattern Recognition, one of the top international journals in pattern recognition (ranked first author), the International Signal Processing Association Blog Paper(ranked first author),the Second Prize of the Natural Science Award of the Chinese Society for Image and Graphics(ranked first author),and the First Prize of the Guangdong Province Natural Science Award.  He also served as a member of the editorial board or guest editor of SCI journals such as CAAI Transaction on Intelligence Technology, IEEE TFS, IEEE TCE.  He managed several projects including the National Natural Science Foundation of China (Young) Fund, Provincial General (Young) Fund, China Postdoctoral Special Funding (General) Project, TCL Fund, CAAI-Huawei Fund, etc.<wbr>
+Chunwei Tian, a Professor at the School of Computer Science and Technology, Harbin Institute of Technology, a doctoral supervisor.  He received his Ph.D. degree in Computer Application Technology from Harbin Institute of Technology in March 2021, under the supervision of Prof. Xu Yong, a national distinguished scholar.  His postdoctoral co-advisor was Prof. Zhang Yanning  (IEEE Fellow), Vice President of Northwestern Polytechnical University and a nationally recognized expert.  He is currently with the Machine Learning Center at Harbin Institute of Technology, led by Prof. Zuo Wangmeng , a globally Highly Cited Researcher. From 2022 to 2026, he was listed among the World’s Top 2% Scientists by Stanford University, and he is also listed in Stanford University’s career-long ranking of the World’s Top 2% Scientists.  He was also invited to the Huawei “Genius Youth” interview program.  His research interests include Image/Video Restoration and Recognition, Image Generation and Understanding, Speech Processing, Intelligent Transportation, Multimodal and Large Models.He has published more than 120 papers in leading international journals and conferences such as the IEEE Transactions series, Pattern Recognition, Neural Networks, Information Fusion, ICML, ACM MM, IJCAI, and NeurIPS.  He has authored one monograph and one textbook.  His publications include 11 ESI Highly Cited Papers (including three Hot Papers), four cover papers in top-tier journals, and four benchmark papers in the international field of image super-resolution.  One of his research achievements has been applied in CT imaging systems of a U.S. medical imaging company, and another has been adopted in Apple’s iOS camera system.He received the Best Paper Award from Pattern Recognition, one of the top international journals in pattern recognition (ranked first author), the International Signal Processing Association Blog Paper (ranked first author), the Premium Award for Best Paper in IET (ranked first author), the Second Prize of the Natural Science Award of the Chinese Society for Image and Graphics (ranked first author), and the First Prize of the Guangdong Province Natural Science Award.  He also served as a member of the editorial board or guest editor of SCI journals such as IEEE TIP, Pattern Recognition, CAAI Transaction on Intelligence Technology, IEEE TFS, IEEE TCE.  He managed several projects including the National Natural Science Foundation of China (General and Young) Funds, Provincial General (Young) Fund, China Postdoctoral Special Funding (Pre-station and General) Projects, TCL Fund, CAAI-Huawei Fund, etc.
 
 ### Work Experience
 
 #### Harbin Institute of Technology, School of Computing
+
 - **Position/Title**: Professor / Doctoral Supervisor
 - **Duration**: 2025 - Present
 
 #### Northwestern Polytechnical University, School of Computer Science
+
 - **Position/Title**: Postdoctoral Researcher (Co-supervised by Professor Yan Ning Zhang)
 - **Duration**: June 2022 - December 2024
 
 #### Northwestern Polytechnical University
+
 - **Position/Title**: Associate Professor / Doctoral Supervisor
 - **Duration**: July 2021 - 2025
 
-## Research Interests (研究兴趣) 
+## Research Interests (研究兴趣)
 
-Image/Video Restoration and Recognition, Video/Image Generation, Industrial Vision Defect Detection, Intelligent Transportation, Multimodal and Large Models.
+Image/Video Restoration and Recognition, Video/Image Generation and Understanding, Industrial Vision Defect Detection, Intelligent Transportation, Multimodal and Large Models.
 
-**Email Address**: [chunweitian@163.com](mailto:chunweitian@163.com) or [chunweitian@hit.edu.cn](mailto:chunweitian@hit.edu.cn) &nbsp; &nbsp;&nbsp; &nbsp;   [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F6Z9paElRVrB57ZE6jnc1sux0rOfl5ysETTVs5VvLqZc5FF-Gm_3ARkrv5EJVY9rb7jb5nIL_QosJ4fRH_yADHx6aEJvmJtaAHLlgwndKsuFIAJGVI&user=XGDP6QwAAAAJ)/ [GitHub](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian&sa=D&sntz=1&usg=AFQjCNHNxUH6jjCswBQHRvflSJS7687TIg)/ [ResearchGate](https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FChunwei_Tian%3Fev%3Dhdr_xprf%26_sg%3DI19Smn8Fj7YcKeCtPZJ9f4Q3ttDzpqWpqz-fn_2AvvBGcIigq2wlIt2rDW96FBtI1bHBptRVZgEEZII8TU3jJzly&sa=D&sntz=1&usg=AFQjCNFljCUnvWlIx42EZTjjFe5Fl9K3mg) / [中文主页](https://homepage.hit.edu.cn/tianchunwei?lang=zh#/)<br>
-**English homepage**: [https://hellloxiaotian.github.io](https://hellloxiaotian.github.io)<br>
-**Personal Code Homepage**:[https://github.com/hellloxiaotian](https://github.com/hellloxiaotian)<br>
+**Email Address**: [chunweitian@163.com](mailto:chunweitian@163.com) or [chunweitian@hit.edu.cn](mailto:chunweitian@hit.edu.cn) &nbsp; &nbsp;&nbsp; &nbsp;   [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F6Z9paElRVrB57ZE6jnc1sux0rOfl5ysETTVs5VvLqZc5FF-Gm_3ARkrv5EJVY9rb7jb5nIL_QosJ4fRH_yADHx6aEJvmJtaAHLlgwndKsuFIAJGVI&user=XGDP6QwAAAAJ)/ [GitHub](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian&sa=D&sntz=1&usg=AFQjCNHNxUH6jjCswBQHRvflSJS7687TIg)/ [ResearchGate](https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FChunwei_Tian%3Fev%3Dhdr_xprf%26_sg%3DI19Smn8Fj7YcKeCtPZJ9f4Q3ttDzpqWpqz-fn_2AvvBGcIigq2wlIt2rDW96FBtI1bHBptRVZgEEZII8TU3jJzly&sa=D&sntz=1&usg=AFQjCNFljCUnvWlIx42EZTjjFe5Fl9K3mg) / [中文主页](https://homepage.hit.edu.cn/tianchunwei?lang=zh#/)
+**English homepage**: [https://hellloxiaotian.github.io](https://hellloxiaotian.github.io)
+**Personal Code Homepage**:[https://github.com/hellloxiaotian](https://github.com/hellloxiaotian)
 
 <br/>
 
-## Main Contributions for Computer Vision (主要贡献) 
+## Main Contributions for Computer Vision (主要贡献)
 
 - '[BRDNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FBRDNet&sa=D&sntz=1&usg=AFQjCNGouHF2aNT8uC45jr97xNBXeuO8GQ)'  extented the network width by dual networks to address image denoising. Also, it can resolve the problem of uneven distribution of samples in the training processing of CNNs on resource-constrained platform. ([That](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fabs%2Fpii%2FS0893608019302394&sa=D&sntz=1&usg=AFQjCNG8wJ73e33gngz-zr1-LnX8L8nwMg) is published on the Neural Networks)
 - '[ADNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FADNet&sa=D&sntz=1&usg=AFQjCNHp0jPjk4NENToVuFvEzxtjIkiF5w)'  (Neural Networks, 2020) used singnal processing, perception  theory and  human brain mechanism to guide CNN for dealing with image denoising with complex background noisy images, such as blind denoising. ([That](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019304241&sa=D&sntz=1&usg=AFQjCNFGl6briLBrVY6G2rlPfs9lmC8nsg) is published on the Neural Networks)
-- [A short survey ](https://www.google.com/url?q=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-981-13-5841-8_59&sa=D&sntz=1&usg=AFQjCNGtxWXzl9ajxgU2vomzPVW6gF6jow) summaried deep learning techniques for image denoising. 
+- [A short survey ](https://www.google.com/url?q=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-981-13-5841-8_59&sa=D&sntz=1&usg=AFQjCNGtxWXzl9ajxgU2vomzPVW6gF6jow) summaried deep learning techniques for image denoising.
 - [A long suvey](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FDeep-Learning-on-Image-Denoising-An-overview&sa=D&sntz=1&usg=AFQjCNG-9lHc97oO40fbk5Oe_ed3jipkNw)  systematically and comprehensively summaried deep learning techniques for image denoising. ([That](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302665?via%3Dihub) is published on the Neural Networks,2020.)
 - '[CFSRCNN](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9105085&sa=D&sntz=1&usg=AFQjCNHwF_ajw6cyVFSOXuPi36HzR4A1Kg)' uses obtained low-frequency from heterogeneous convolutional architecture and  high-frequency features to enhance the stability of training a SR model. ( That is published on the IEEE TMM, 2020.)
 - '[ACNet](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2103.13634&sa=D&sntz=1&usg=AFQjCNH1a719RoneuRvLf6NYx5qBcbL5lA)' uses a model for SISR task of a certain scale, blind SR and blind SR with blind noise. Also, it enhances  the effect of local key features to accelerate the training speed and improve the SR performance.  (That is accepted by the IEEE TSMC, 2021)
@@ -44,7 +41,9 @@ Image/Video Restoration and Recognition, Video/Image Generation, Industrial Visi
 <br/>
 
 ## Recruitment (招生)
+
 ### 1. Basic Admission Requirements
+
 1. **Have a strong sense of national and social responsibility.**
 2. **Be honest and trustworthy.**
 3. **Be punctual and value time.**
@@ -54,16 +53,14 @@ Image/Video Restoration and Recognition, Video/Image Generation, Industrial Visi
 7. **Have strong interest in research, scientific exploration, and academic belief.** Priority will be given to like-minded applicants who share common research goals and are interested in pursuing a PhD.
 8. **Have stress resilience and good psychological quality.**
 9. **If your goal is only to obtain a degree, to "try and see" in the group, or if you are in severe self-internal-friction mode, please do not contact me.**
-10. **It is recommended to exercise at least twice a week, with each session lasting no less than 40 minutes.**<br>
-Stand tall and firm, change the world; be rigorous and pragmatic, forge ahead. If you have the vision, drive, and ambition to change the world and contribute to social and technological progress, please contact me!<br>
-During master's and PhD study, those who work steadily and focus on research usually achieve strong outcomes. Please carefully read the basic admission requirements and application requirements before contacting me, so as to avoid unnecessary self-internal-friction after joining the group.<br>
+10. **It is recommended to exercise at least twice a week, with each session lasting no less than 40 minutes.**
+    Stand tall and firm, change the world; be rigorous and pragmatic, forge ahead. If you have the vision, drive, and ambition to change the world and contribute to social and technological progress, please contact me!
+    During master's and PhD study, those who work steadily and focus on research usually achieve strong outcomes. Please carefully read the basic admission requirements and application requirements before contacting me, so as to avoid unnecessary self-internal-friction after joining the group.
 
 ### 2. Application Requirements
 
 1. **Basic Requirements for Graduate (Master's/PhD) Applicants:**  1) Recommended students in Computer Science/Software Engineering/Artificial Intelligence are preferred. 2) Undergraduate and master's students who have demonstrated strong performance in the research group are preferred. 3) Applicants with the ability to solve engineering problems are preferred.
-
 2. **Deeper Requirements for Graduate (Master's/PhD) Applicants:** **Self-motivation is essential, and applicants are advised to maintain firm goals.** It is recommended that master's students focus on solid research, publish high-quality papers, and develop independent problem-solving ability, which is beneficial for both employment and further academic study.
-
 3. **For PhD applicants**, please meet the school requirements for PhD application/direct PhD admission. Before formal school application, please select one recent top paper from IEEE Transactions (e.g., TPAMI/TIP), top journals (e.g., PR/NN/Information Fusion), or top conferences (e.g., CVPR/ICCV/ECCV/IJCAI/ACM MM/AAAI), and prepare one document including your *reading insights*, **research interests, research foundation, and proposed PhD research plan**, then send it to my email with your CV.
 4. **For Direct-PhD applicants**, before contacting me, please publish at least one paper in a CAS Tier-2 (or above) journal or a CCF A/B conference.
 5. **For applicants who already hold a master's degree and plan to apply for a PhD**, before contacting me, please obtain valid language scores (CET-6 or IELTS/TOEFL/GRE; final requirements follow school rules). In research output, please have at least one paper as student first author (or student second author with advisor first author) in CAS Tier-1 or above (including at least one Tier-1 paper), or one CCF-A conference paper, or two CAS Tier-2-or-above ACM/IEEE Transactions papers.
@@ -72,35 +69,37 @@ During master's and PhD study, those who work steadily and focus on research usu
 
 **Master's Admissions:** Multiple master's students are recruited, including channels at HIT main campus, Engineering Master-Doctor integrated tracks, Zhengzhou Research Institute, Suzhou Research Institute, Chongqing Research Institute, Future Industry College, and Zhongguancun.
 
-
 Please send this document along with your resume to my email. After the review, I will arrange the next steps. You can also refer to the official faculty page at [https://homepage.hit.edu.cn/tianchunwei](https://homepage.hit.edu.cn/tianchunwei). My emails are [chunweitian@hit.edu.cn and chunweitian@163.com](chunweitian@hit.edu.cn and chunweitian@163.com).
-   
+
 ## News (消息)
-- **2026-08-30:** A paper from the research group was accepted to ACAIT.  
-- **2026-08-22:** A paper from the research group was accepted by IEEE TIP (CCF-A/Chinese Academy of Sciences Zone 1).  
-- **2026-08-19:** A paper from the research group was accepted by IEEE TMI (Chinese Academy of Sciences Zone 1).  
-- **2026-08-09:** A paper from the research group was accepted by IEEE TIP (CCF-A/Chinese Academy of Sciences Zone 1).  
-- **2026-06-16:** A paper from the research group was accepted by IEEE Transactions on Cognitive Communications and Networking (Chinese Academy of Sciences Zone 1, SCI-IF: 8.4).  
-- **2026-06-10:** An invention patent was granted to the research group.  
-- **2026-06-05:** A paper from the research group was accepted by Computer Engineering (CCF T2).  
-- **2026-06-01:** A paper from the research group was accepted by Pattern Recognition.  
-- **2026-05-25:** A paper from the research group was accepted by IEEE TCE (SCI-IF: 10.9).  
-- **2026-05-01:** A paper from the research group was accepted to ICML (CCF-A).  
-- **2026-05-01:** A paper from the research group was accepted to IJCAI (top conference).  
-- **2026-04-17:** Master's student Jingyuan Xie from the research group had a paper accepted by IEEE TIP (CCF-A/Chinese Academy of Sciences Zone 1).  
-- **2026-04-14:** Sophomore undergraduate students Yukun Ma, Yansong Wang, and Kairui Feng from the research group had a paper accepted by a CVPR Workshop.  
-- **2026-03-16:** A paper from the research group was accepted by IEEE Internet of Things Journal (Chinese Academy of Sciences Zone 1, SCI-IF: 8.9).  
-- **2026-03-16:** A paper from the research group was accepted by Pattern Recognition (Chinese Academy of Sciences Zone 1, SCI-IF: 7.3).  
-- **2026-03-15:** A paper from the research group was accepted by ACM TASS (CCF-B).  
-- **2026-03:** A paper from the research group was accepted by IEEE TGRS (SCI-IF: 8.6, a Chinese Academy of Sciences Zone 1 journal).  
-- **2026-03:** A paper from the research group was accepted by an SCI-indexed journal.  
-- **2026-02:** I was appointed as an Associate Editor of IEEE TCE.  
-- **2026-02:** A paper from the research group was accepted by IEEE TIP (a CCF-A/Chinese Academy of Sciences Zone 1 journal).  
-- **2026-02:** A group member was appointed as an Associate Editor of Pattern Recognition.  
-- **2026-02:** A paper from the research group was accepted by IEEE Access.  
-- **2026-02:** A paper from the research group was accepted by a CCF-C/SCI-indexed journal.  
-- **2026-02:** A paper from the research group was accepted by IEEE TCE (SCI-IF: 10.9).  
-- **2026-01:** Group members Xin Weiqiang and Chen Xi were awarded the University Outstanding Graduate Student title.  
+
+- **2026-10-08:** Master's student Jingyuan Xie from the research group received the National Scholarship.
+- **2026-10-08:** PhD student Ziang Wu from the research group had a paper accepted by Journal of Image and Graphics (CCF T2).
+- **2026-08-30:** A paper from the research group was accepted to ACAIT.
+- **2026-08-22:** A paper from the research group was accepted by IEEE TIP (CCF-A/Chinese Academy of Sciences Zone 1).
+- **2026-08-19:** A paper from the research group was accepted by IEEE TMI (Chinese Academy of Sciences Zone 1).
+- **2026-08-09:** A paper from the research group was accepted by IEEE TIP (CCF-A/Chinese Academy of Sciences Zone 1).
+- **2026-06-16:** A paper from the research group was accepted by IEEE Transactions on Cognitive Communications and Networking (Chinese Academy of Sciences Zone 1, SCI-IF: 8.4).
+- **2026-06-10:** An invention patent was granted to the research group.
+- **2026-06-05:** A paper from the research group was accepted by Computer Engineering (CCF T2).
+- **2026-06-01:** A paper from the research group was accepted by Pattern Recognition.
+- **2026-05-25:** A paper from the research group was accepted by IEEE TCE (SCI-IF: 10.9).
+- **2026-05-01:** A paper from the research group was accepted to ICML (CCF-A).
+- **2026-05-01:** A paper from the research group was accepted to IJCAI (top conference).
+- **2026-04-17:** Master's student Jingyuan Xie from the research group had a paper accepted by IEEE TIP (CCF-A/Chinese Academy of Sciences Zone 1).
+- **2026-04-14:** Sophomore undergraduate students Yukun Ma, Yansong Wang, and Kairui Feng from the research group had a paper accepted by a CVPR Workshop.
+- **2026-03-16:** A paper from the research group was accepted by IEEE Internet of Things Journal (Chinese Academy of Sciences Zone 1, SCI-IF: 8.9).
+- **2026-03-16:** A paper from the research group was accepted by Pattern Recognition (Chinese Academy of Sciences Zone 1, SCI-IF: 7.3).
+- **2026-03-15:** A paper from the research group was accepted by ACM TASS (CCF-B).
+- **2026-03:** A paper from the research group was accepted by IEEE TGRS (SCI-IF: 8.6, a Chinese Academy of Sciences Zone 1 journal).
+- **2026-03:** A paper from the research group was accepted by an SCI-indexed journal.
+- **2026-02:** I was appointed as an Associate Editor of IEEE TCE.
+- **2026-02:** A paper from the research group was accepted by IEEE TIP (a CCF-A/Chinese Academy of Sciences Zone 1 journal).
+- **2026-02:** A group member was appointed as an Associate Editor of Pattern Recognition.
+- **2026-02:** A paper from the research group was accepted by IEEE Access.
+- **2026-02:** A paper from the research group was accepted by a CCF-C/SCI-indexed journal.
+- **2026-02:** A paper from the research group was accepted by IEEE TCE (SCI-IF: 10.9).
+- **2026-01:** Group members Xin Weiqiang and Chen Xi were awarded the University Outstanding Graduate Student title.
 - **2026-01:** I was appointed as an Associate Editor of TIP.
 - **2025-12:** Master's student Chen Muhan (Class of 2023) signed with Baidu, and Yang Junjian signed with China National Petroleum Corporation.
 - **2025-12:** A paper from the research group was accepted by IEEE TRPMS.
@@ -108,36 +107,36 @@ Please send this document along with your resume to my email. After the review, 
 - **2025-11:** The research group added a new ESI Highly Cited Paper.
 - **2025-11:** A paper from the research group was accepted by IEEE TIP (a CCF-A/Chinese Academy of Sciences Zone 1 journal).
 - **2025-11:** An invention patent was granted to the research group.
-- **2025-10:** A paper from the research group was accepted by Pattern 
-- **2025-10:** A paper from the research group was accepted by Pattern Recognition.  
-- **2025-10:** A paper from the research group was accepted by IEEE TSMC. 
-- **2025-09:** Three group members—Xin Weiqiang, Chen Xi, and Meng Qi—were awarded the National Scholarship.  
-- **2025-09:** Two invention patents were granted to the research group.  
-- **2025-09:** Undergraduate students Song Mingjian and Kai Wen were admitted to the direct Ph.D. program at Harbin Institute of Technology (HIT).  
-- **2025-09:** A paper from the research group was accepted to NeurIPS(a CCF-A conference).  
-- **2025-09:** An invention patent was granted to the research group.  
-- **2025-08:** A paper from the research group was accepted by IEEE TIP (a CCF-A journal).  
-- **2025-08:** An invention patent was granted to the research group.  
-- **2025-08:** Undergraduate students mentored by the research group were awarded the Third Prize in the National Final of the China Software Cup.  
-- **2025-08:** A paper from the research group was accepted by an SCI-indexed journal with an impact factor of 13.9.  
-- **2025-08:** A paper from the research group with a graduate student as first author was accepted by an SCI-indexed journal.  
-- **2025-08:** Two papers from the research group with graduate students as first authors were accepted by SCI-indexed journals.  
-- **2025-07:** An invention patent was granted to the research group.  
-- **2025-07:** A paper from the research group was accepted to ACM MM,a CCF-A conference.  
-- **2025-07:** The research work of Dr. Jing Fang, a postdoctoral fellow in our group, was featured by a WeChat public account.  
-- **2025-07:** Graduate students from universities in Hong Kong, Macau, Beijing, Shenzhen, Shanghai, Xi’an, and Harbin are undertaking in-person research assistantships with the HIT research group.  
-- **2025-07:** Appointed Chair of the Youth Working Committee of the Heilongjiang Artificial Intelligence Society.  
+- **2025-10:** A paper from the research group was accepted by Pattern
+- **2025-10:** A paper from the research group was accepted by Pattern Recognition.
+- **2025-10:** A paper from the research group was accepted by IEEE TSMC.
+- **2025-09:** Three group members—Xin Weiqiang, Chen Xi, and Meng Qi—were awarded the National Scholarship.
+- **2025-09:** Two invention patents were granted to the research group.
+- **2025-09:** Undergraduate students Song Mingjian and Kai Wen were admitted to the direct Ph.D. program at Harbin Institute of Technology (HIT).
+- **2025-09:** A paper from the research group was accepted to NeurIPS(a CCF-A conference).
+- **2025-09:** An invention patent was granted to the research group.
+- **2025-08:** A paper from the research group was accepted by IEEE TIP (a CCF-A journal).
+- **2025-08:** An invention patent was granted to the research group.
+- **2025-08:** Undergraduate students mentored by the research group were awarded the Third Prize in the National Final of the China Software Cup.
+- **2025-08:** A paper from the research group was accepted by an SCI-indexed journal with an impact factor of 13.9.
+- **2025-08:** A paper from the research group with a graduate student as first author was accepted by an SCI-indexed journal.
+- **2025-08:** Two papers from the research group with graduate students as first authors were accepted by SCI-indexed journals.
+- **2025-07:** An invention patent was granted to the research group.
+- **2025-07:** A paper from the research group was accepted to ACM MM,a CCF-A conference.
+- **2025-07:** The research work of Dr. Jing Fang, a postdoctoral fellow in our group, was featured by a WeChat public account.
+- **2025-07:** Graduate students from universities in Hong Kong, Macau, Beijing, Shenzhen, Shanghai, Xi’an, and Harbin are undertaking in-person research assistantships with the HIT research group.
+- **2025-07:** Appointed Chair of the Youth Working Committee of the Heilongjiang Artificial Intelligence Society.
 - **2025-06:** A paper from the research group, authored by a junior undergraduate, was accepted by IJIG.
-- **2025-06:** A paper from the research group was accepted by IEEE TMI.  
-- **2025-06:** Congratulations to Ziang Wu on receiving the Outstanding Undergraduate Thesis Award! Since its establishment, the research group has produced four outstanding thesis awardees:  
-  - Yingpeng Ma (Class of 2022): pursuing an integrated master's degree/Ph.D. at the University of Macau  
-  - Pengwei Wang (Class of 2023): master's degree at the National University of Singapore; Ph.D. at the Medical University of Vienna  
-  - Weiqiang Xin (Class of 2024): master's degree at Harbin Institute of Technology  
-  - Ziang Wu (Class of 2025): master's degree at The Hong Kong University of Science and Technology  
-  Additionally, Tongtong Cheng (Class of 2025) will pursue a master's degree. at The Chinese University of Hong Kong, and Yunfeng Liang (Class of 2025) will continue his master’s studies at HIT. Best wishes to all graduates—may your futures be as vast as the stars and seas, and may your hard work lead to brilliant achievements!  
-- **2025-05:** Congratulations to Ziang Wu, a 2025 undergraduate from our group, on being named an Outstanding Graduate of Northwestern Polytechnical University (NPU). He will pursue a master's degree at The Hong Kong University of Science and Technology.  
-- **2025-05:** A CCF-C-ranked SCI paper with Peixian Su, a visiting student from Shenzhen University, as first author was accepted.  
-- **2025-05:** A first-author paper by a visiting student from Beijing Information Science & Technology University was accepted by Expert Systems with Applications, an SCI-indexed journal in CAS Tier 1.  
+- **2025-06:** A paper from the research group was accepted by IEEE TMI.
+- **2025-06:** Congratulations to Ziang Wu on receiving the Outstanding Undergraduate Thesis Award! Since its establishment, the research group has produced four outstanding thesis awardees:
+  - Yingpeng Ma (Class of 2022): pursuing an integrated master's degree/Ph.D. at the University of Macau
+  - Pengwei Wang (Class of 2023): master's degree at the National University of Singapore; Ph.D. at the Medical University of Vienna
+  - Weiqiang Xin (Class of 2024): master's degree at Harbin Institute of Technology
+  - Ziang Wu (Class of 2025): master's degree at The Hong Kong University of Science and Technology
+    Additionally, Tongtong Cheng (Class of 2025) will pursue a master's degree. at The Chinese University of Hong Kong, and Yunfeng Liang (Class of 2025) will continue his master’s studies at HIT. Best wishes to all graduates—may your futures be as vast as the stars and seas, and may your hard work lead to brilliant achievements!
+- **2025-05:** Congratulations to Ziang Wu, a 2025 undergraduate from our group, on being named an Outstanding Graduate of Northwestern Polytechnical University (NPU). He will pursue a master's degree at The Hong Kong University of Science and Technology.
+- **2025-05:** A CCF-C-ranked SCI paper with Peixian Su, a visiting student from Shenzhen University, as first author was accepted.
+- **2025-05:** A first-author paper by a visiting student from Beijing Information Science & Technology University was accepted by Expert Systems with Applications, an SCI-indexed journal in CAS Tier 1.
 - **2025-05:** A CCF-C-ranked SCI paper with an undergraduate from the research group as first author was accepted.
 - **2025-05:** Delivered a presentation at CSIG 2025 in Changsha.
 - **2025-05:** A paper from the research group has been accepted in IEEE TCE.
@@ -256,7 +255,7 @@ Please send this document along with your resume to my email. After the review, 
 - **2022-12:** Guide 4 master/PhD students to be invited to give English Oral at ICCBDAI 2022
 - **2022-12:** Two of my papers were awarded the second Excellent Scientific and Technological Academic Papers of Shenzhen
 - **2022-11:** Hongpeng CAI, postgraduate student of Grade 23 (Master's offer/ TOEFL 107 from National University of Singapore/Jilin University/National University of Singapore) was invited to host ICCSI 2022 Workshop
-- **2022-11:** Get the Chinese * 
+- **2022-11:** Get the Chinese *
 - **2022-11:** Invited to become the second Chinese Academy of Sciences /JCR first area SCI international journal AE
 - **2022-11:** A paper has been accepted by the international journal Electronics
 - **2022-11:** Named to Stanford University's 2022 ranking of the world's top 2% of leading scientists
@@ -283,8 +282,8 @@ Please send this document along with your resume to my email. After the review, 
   - Electronics (SI: [Advances in Image Enhancement](https://www.mdpi.com/journal/electronics/special_issues/Image_Enhancement_1)) Deadline: 2022-08-01, SCI-IF: 2.690
   - Drones (SI: [Intelligent Recognition and Detection for Unmanned Systems](https://www.mdpi.com/journal/drones/special_issues/6BHXE2FU7K)) Deadline: 2023-04-30, SCI-IF: 5.532
   - Frontiers in Robotics and AI （SI: [Visual Human-Robot Interaction and Applications](https://www.frontiersin.org/research-topics/38210/visual-human-robot-interaction-and-applications)） Abstract Submission Deadline 13 August 2022 Manuscript Submission Deadline 12 October 2022
-  - Mathematical Biosciences and Engineering (SI: [Deep Learning techniques for corrupted image recognition](https://www.aimspress.com/mbe/article/6202/special-articles)) Deadline: 2022-12-31, SCI-IF: 2.194 
-  - International Journal of Distributed Sensor Networks (SI: [Designing Lightweight Networks for Image Restoration](https://journals.sagepub.com/page/dsn/collections/special-issues/designing-lightweight-networks-for-image-restoration)) Deadline: 2022-12-31，SCI-IF: 1.938. 
+  - Mathematical Biosciences and Engineering (SI: [Deep Learning techniques for corrupted image recognition](https://www.aimspress.com/mbe/article/6202/special-articles)) Deadline: 2022-12-31, SCI-IF: 2.194
+  - International Journal of Distributed Sensor Networks (SI: [Designing Lightweight Networks for Image Restoration](https://journals.sagepub.com/page/dsn/collections/special-issues/designing-lightweight-networks-for-image-restoration)) Deadline: 2022-12-31，SCI-IF: 1.938.
 - **2022-07:** A paper code was converted by Japanese engineers from python format to CoreML format suitable for mobile ios system.
 - **2022-07:** A paper became the cover paper of CAAI Transaction on Intelligence Technology, the journal of the Chinese Society for Artificial Intelligence.
 - **2022-07:**  A paper became one of the top 10 highly cited papers in the Journal of the Chinese Society for Artificial Intelligence in 2021.
@@ -307,7 +306,7 @@ Please send this document along with your resume to my email. After the review, 
 - **2022-06:** A paper was tweeted and reported by [AIWalker](https://mp.weixin.qq.com/s/pinf8xr_Ha_jhrpP-56XoA), a well-known computer vision public website in China.
 - **2022-06:** A paper was tweeted and reported by  [52CV](https://mp.weixin.qq.com/s/VLH57qUJLYgA8FvDdBccZQ), a well-known computer vision public website in China.
 - **2022-06:** A paper was accepted by Neural Networks, the journal of the International Society for Neural Networks.
-- **2022-06:** I am invited to share technical presentation at The NPU 9th AoXiang Forum for Distinguished Young Scholars School of Software Sub-Forum. 
+- **2022-06:** I am invited to share technical presentation at The NPU 9th AoXiang Forum for Distinguished Young Scholars School of Software Sub-Forum.
 - **2022-05:** A paper was accepted by CAAI Transactions on Intelligence Technology, the journal of the Chinese Society for Artificial Intelligence.
 - **2022-05:** I am invited Guest Editor of International Journal of Distributed Sensor Networks (SCI-IF:1.640).
 - **2022-05:** I am invited as an editorial board member of the journal Computer**
@@ -320,7 +319,7 @@ Please send this document along with your resume to my email. After the review, 
 - **2022-04:** I am awarded the outstanding PhD thesis of Shenzhen CCF.
 - **2022-04:** I am invited to be a guest editor for the international journal *Mathematical Biosciences and Engineering*.
 - **2022-04:** I am awarded as a contributing reviewer for the international journal Frontiers of *Optoelectronics (FOE)* 2021.
-- **2022-04:** A paper was accepted by *Journal of Artificial Intelligence and Technology*. 
+- **2022-04:** A paper was accepted by *Journal of Artificial Intelligence and Technology*.
 - **2022-04:** Invited to be the Publicity Chair of the international conference *2022 International Conference on Applied Mathmatics and Digital Simulation(AMDS 2022)*.
 - **2022-04:** Apple for a Computer Software Intellectual Property Right Certificate of Registration.
 - **2022-03:** A paper was published in the international journal *Briefings in bioinformatics*.
@@ -351,82 +350,79 @@ Please send this document along with your resume to my email. After the review, 
 - **2021-11:** A conference paper was accepted by the international conference *InCoB 2021*.
 - **2021-10:** A journal paper was published on the [Wiley Institute of Technology]([IET编辑精选文章：一种高效神经网络的图像去噪方法 (qq.com)](https://mp.weixin.qq.com/s/UX4wjLk9Im7Nl_AdQZfQuQ)).
 - **2021-10:** A conference paper is accepted to ICASSP.
-- **2021-10:** I am invited as a guest edtor of a special journal of Frontiers in Signal Processing. 
+- **2021-10:** I am invited as a guest edtor of a special journal of Frontiers in Signal Processing.
 - **2021-10:** A [jounral paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9105085) becomes a homepage paper of the [IEEE TMM](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6046&isnumber=9296985).
 - **2021-09:** I am invited as a workshop chair of 'International Conference on Computer, Big Data and Artificial Intelligence 2021' (ICCBDAI 2021).
 - **2021-09:** I am invited as a guest editor of the special journal of Mathematics about the special issue on method and application of machine learning.
-- **2021-09:** I am rated as a contribution reviewer of internal journal of Bulletin of Electrical Engineering and Informatics (BEEI). 
-- **2021-09:** I am invited as a technical expert of Shanghai. 
-- **2021-09:** Jian Li joins my group. 
+- **2021-09:** I am rated as a contribution reviewer of internal journal of Bulletin of Electrical Engineering and Informatics (BEEI).
+- **2021-09:** I am invited as a technical expert of Shanghai.
+- **2021-09:** Jian Li joins my group.
 - **2021-08:** A journal paper is accepted by *Briefings in Bioinformatics*.
 - **2021-08:** I am invited to join a project, Video Super Resolution Benchmark.
 - **2021-08:** I am invited to be the associate editor of important international image processing journals, *International Journal of Image and Graphics*.
 - **2021-08:** An invention patent is authorized.
-- **2021-08:** Yingpeng joins my group. 
+- **2021-08:** Yingpeng joins my group.
 - **2021-08:** A journal paper is accepted by Briefing in bioinformatics (IF:11.622).
 - **2021-08:** I am invited to join the project of Video Super Resolution Benchmark.
 - **2021-08:** I am invited as an associate editor （AE） by the *International Journal of Image and Graphics*.
-- **2021-08:** An invention patent is authorized by China.  
-- **2021-08:** I am invited as a PC by the ACAIT 2021. 
+- **2021-08:** An invention patent is authorized by China.
+- **2021-08:** I am invited as a PC by the ACAIT 2021.
 - **2021-07:** [Attention-guided CNN for image denoising](https://www.sciencedirect.com/science/article/abs/pii/S0893608019304241) is rated as the most cited paper on the homepage by the [Neural Networks](https://www.journals.elsevier.com/neural-networks/most-cited-articles).
 - **2021-07:** Codes of [DudeNet](https://github.com/hellloxiaotian/DudeNet) and [ACNet](https://github.com/hellloxiaotian/ACNet) are released by the [GitHub](https://github.com/hellloxiaotian).
-- **2021-06:** [CFSRCNN](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9105085&sa=D&sntz=1&usg=AFQjCNHwF_ajw6cyVFSOXuPi36HzR4A1Kg) is reported by the  [CCF MM](https://mp.weixin.qq.com/s/-rUmRDFbPvKMjU0EIYV3Rg).  
-- **2021-06:** A journal paper is accepted to  Multimedia Tools and Applications.  
+- **2021-06:** [CFSRCNN](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9105085&sa=D&sntz=1&usg=AFQjCNHwF_ajw6cyVFSOXuPi36HzR4A1Kg) is reported by the  [CCF MM](https://mp.weixin.qq.com/s/-rUmRDFbPvKMjU0EIYV3Rg).
+- **2021-06:** A journal paper is accepted to  Multimedia Tools and Applications.
 - **2021-06:** Interview invitation of global talents acquisition specialist of HUAWEI.
-- **2021-06:** An invention patent is authorized by China. 
-- **2021-05:** I am invited as an online reporter at the City University of Hong Kong (CityU), China. 
-- **2021-05:** [ A journal paper](https://www.google.com/url?q=https%3A%2F%2Fwww.journals.elsevier.com%2Fneural-networks%2Fmost-downloaded-articles&sa=D&sntz=1&usg=AFQjCNHi2NET0ceNhKMrg4yHea34kx_UNQ) becomes top five papers on the homepage of the Neural Networks. 
-- **2021-05:** Xuanyu joins my group. 
-- **2021-05:** Menghua joins my group. 
-- **2021-05:** Attention-guided CNN for image denoising [(ADNet)](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fabs%2Fpii%2FS0893608019304241&sa=D&sntz=1&usg=AFQjCNFyaeYjBhOvtfck-FBnoaCY3WaVxw) becomes a highly cited paper. 
-- **2021-05:** Codes of two papers ([DudeNet ](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FDudeNet&sa=D&sntz=1&usg=AFQjCNFZQCr3RALWLVzISQC0yBjzQsgL5A)and [ACNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FACNet&sa=D&sntz=1&usg=AFQjCNF4RjRqPzshJRDjuAViMT9981FpQw)) will be released. 
+- **2021-06:** An invention patent is authorized by China.
+- **2021-05:** I am invited as an online reporter at the City University of Hong Kong (CityU), China.
+- **2021-05:** [ A journal paper](https://www.google.com/url?q=https%3A%2F%2Fwww.journals.elsevier.com%2Fneural-networks%2Fmost-downloaded-articles&sa=D&sntz=1&usg=AFQjCNHi2NET0ceNhKMrg4yHea34kx_UNQ) becomes top five papers on the homepage of the Neural Networks.
+- **2021-05:** Xuanyu joins my group.
+- **2021-05:** Menghua joins my group.
+- **2021-05:** Attention-guided CNN for image denoising [(ADNet)](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fabs%2Fpii%2FS0893608019304241&sa=D&sntz=1&usg=AFQjCNFyaeYjBhOvtfck-FBnoaCY3WaVxw) becomes a highly cited paper.
+- **2021-05:** Codes of two papers ([DudeNet ](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FDudeNet&sa=D&sntz=1&usg=AFQjCNFZQCr3RALWLVzISQC0yBjzQsgL5A)and [ACNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FACNet&sa=D&sntz=1&usg=AFQjCNF4RjRqPzshJRDjuAViMT9981FpQw)) will be released.
 - **2021-05:** I am reported by the [extrememart](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FN-MY6ahFJTmw5Y9sPRHViA&sa=D&sntz=1&usg=AFQjCNFjPnoW014RXoIXgbPxS7Rjg0CaUA).
-- **2021-05:** I am invited as a reporter at Center South University, China. 
-- **2021-04:** I am invited as a speaker by the HITSZ. 
+- **2021-05:** I am invited as a reporter at Center South University, China.
+- **2021-04:** I am invited as a speaker by the HITSZ.
 - **2021-04:** I am invited as a speaker to conduct a report by [extrememart](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyZyiSkmpTMIdBEJUiUF3jw&sa=D&sntz=1&usg=AFQjCNHRCPW3osJL_5NTa5s6yLo_A_NjTw).
-- **2021-04:** [A jounal paper](https://www.google.com/url?q=https%3A%2F%2Fwww.journals.elsevier.com%2Fneural-networks%2Fmost-cited-articles&sa=D&sntz=1&usg=AFQjCNEu5BPFUFk9i3FTvWCenAlafYLuDA) is rated  as the most cited paper and pushed on the home page of the Neural Networks, which is one of 25 papers on homepage of the NN. 
-- **2021-04:** [A paper](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fpdf%2F2103.13634.pdf&sa=D&sntz=1&usg=AFQjCNFcc99FVpskvfnSmgJJV-n2H5Z3bQ) is reported by [52CV ](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtpG663ZfUTTAe_Wm4YmcPQ&sa=D&sntz=1&usg=AFQjCNHVZ3j6LZbaZ8H3CTraUB2GH5PFzQ), [Cver](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFNpurdPInb_trvgDNYpjwQ&sa=D&sntz=1&usg=AFQjCNHegDsUI9oobwZaidQOGlwc6JFBXw), [AI technique](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwBMaU1QCkwL2-3EHETryvw&sa=D&sntz=1&usg=AFQjCNEbJ3c7dB9YUSdUNX0f0AtNX6PFIw), [HappyAIWalker](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzzS16Zxc4WXbXtnH70uBnQ&sa=D&sntz=1&usg=AFQjCNGlrmvWONUIznMmXV8sH71HyYl0sQ)  and [extrememart](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmJaJfsBxO4uUaTdu01r7XA&sa=D&sntz=1&usg=AFQjCNHGUoWwR9nOvQT0Tgc4RbVZlIHTEA).  
-- **2021-03:** [One journal paper](https://www.google.com/url?q=https%3A%2F%2Fwww.theiet.org%2Fpublishing%2Fsubscribe-or-buy-our-content%2Fjournals%2Fiet-premium-awards%2F&sa=D&sntz=1&usg=AFQjCNHj6BGzAJwKyC0lmUcodrPRgjCIpg) is rated as the best paper for all the papers in 2018 and 2019 in the CAAI Transactions on Intelligence Technology. 
-- **2021-03:** One journal paper  is accepted to IEEE Transactions on Neural Networks and Learning Systems. 
+- **2021-04:** [A jounal paper](https://www.google.com/url?q=https%3A%2F%2Fwww.journals.elsevier.com%2Fneural-networks%2Fmost-cited-articles&sa=D&sntz=1&usg=AFQjCNEu5BPFUFk9i3FTvWCenAlafYLuDA) is rated  as the most cited paper and pushed on the home page of the Neural Networks, which is one of 25 papers on homepage of the NN.
+- **2021-04:** [A paper](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fpdf%2F2103.13634.pdf&sa=D&sntz=1&usg=AFQjCNFcc99FVpskvfnSmgJJV-n2H5Z3bQ) is reported by [52CV ](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtpG663ZfUTTAe_Wm4YmcPQ&sa=D&sntz=1&usg=AFQjCNHVZ3j6LZbaZ8H3CTraUB2GH5PFzQ), [Cver](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFNpurdPInb_trvgDNYpjwQ&sa=D&sntz=1&usg=AFQjCNHegDsUI9oobwZaidQOGlwc6JFBXw), [AI technique](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwBMaU1QCkwL2-3EHETryvw&sa=D&sntz=1&usg=AFQjCNEbJ3c7dB9YUSdUNX0f0AtNX6PFIw), [HappyAIWalker](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzzS16Zxc4WXbXtnH70uBnQ&sa=D&sntz=1&usg=AFQjCNGlrmvWONUIznMmXV8sH71HyYl0sQ)  and [extrememart](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmJaJfsBxO4uUaTdu01r7XA&sa=D&sntz=1&usg=AFQjCNHGUoWwR9nOvQT0Tgc4RbVZlIHTEA).
+- **2021-03:** [One journal paper](https://www.google.com/url?q=https%3A%2F%2Fwww.theiet.org%2Fpublishing%2Fsubscribe-or-buy-our-content%2Fjournals%2Fiet-premium-awards%2F&sa=D&sntz=1&usg=AFQjCNHj6BGzAJwKyC0lmUcodrPRgjCIpg) is rated as the best paper for all the papers in 2018 and 2019 in the CAAI Transactions on Intelligence Technology.
+- **2021-03:** One journal paper  is accepted to IEEE Transactions on Neural Networks and Learning Systems.
 - **2021-03:** One journal  paper is accepted to Knowledge-Based Systems.
 - **2021-03:** I am invited as an action editor by the *Journal of Electrical and Electronic Engineering*.
-- **2021-03:** Jingyu join my group. 
+- **2021-03:** Jingyu join my group.
 - **2021-02:** One journal paper  is accepted to IEEE Transactions on Systmes, Man, and  Cybernetics: Systems (IEEE TSMC). (Acceptance rate of 10%)
 - **2021-02:** I am invited as a program committee member of IEEE DASC 2021.
-- **2021-01:** One journal paper is accepted to information sciences. 
+- **2021-01:** One journal paper is accepted to information sciences.
 - **2021-01:** One conference paper is accepted to ICASSP.
-- **2021-01:** Tianchen joins my group. 
-- **2021-01:** I am  invited by Prof. [Bob Fisher](https://www.google.com/url?q=https%3A%2F%2Fwww.research.ed.ac.uk%2Fportal%2Fen%2Fpersons%2Fbob-fisher(670f7376-cd3d-4eb5-8a57-736d6c988f42).html&sa=D&sntz=1&usg=AFQjCNHf55kfK9WEvZXmu5_fgpblqQEwLA), IAPR FELLOW  as a  member and contributor to join the international famous platform of '[Cvonline: Image Databases](http://www.google.com/url?q=http%3A%2F%2Fhomepages.inf.ed.ac.uk%2Frbf%2FCVonline%2FImagedbase.htm&sa=D&sntz=1&usg=AFQjCNH5AAFtizBhkJY2IpQ1pUGErx_c7Q)' on image and video datasets for computer vision. 
+- **2021-01:** Tianchen joins my group.
+- **2021-01:** I am  invited by Prof. [Bob Fisher](https://www.google.com/url?q=https%3A%2F%2Fwww.research.ed.ac.uk%2Fportal%2Fen%2Fpersons%2Fbob-fisher(670f7376-cd3d-4eb5-8a57-736d6c988f42).html&sa=D&sntz=1&usg=AFQjCNHf55kfK9WEvZXmu5_fgpblqQEwLA), IAPR FELLOW  as a  member and contributor to join the international famous platform of '[Cvonline: Image Databases](http://www.google.com/url?q=http%3A%2F%2Fhomepages.inf.ed.ac.uk%2Frbf%2FCVonline%2FImagedbase.htm&sa=D&sntz=1&usg=AFQjCNH5AAFtizBhkJY2IpQ1pUGErx_c7Q)' on image and video datasets for computer vision.
 - **2021-01:** I am  reported by Harbin Institute of Technology, Shenzhen.  The news is from [https://mp.weixin.qq.com/s/edP7cWFfPYHAfxC6Y9f99Q](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FedP7cWFfPYHAfxC6Y9f99Q&sa=D&sntz=1&usg=AFQjCNF1RseIhitDF2iCLw-35xx0QdayHA).
 - **2020-12:** 2021 Prize graduate student of Harbin Institute of Technology.
-- **2020-12:** '[Coarse-to-fine CNN for image super-resolution](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9105085&sa=D&sntz=1&usg=AFQjCNHwF_ajw6cyVFSOXuPi36HzR4A1Kg)'  is  ranked  11 top 312 (11/312)  in high cite  on[ the early access of IEEE TMM](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fxpl%2Ftocresult.jsp%3Fisnumber%3D4456689%26sortType%3Dpaper-citations&sa=D&sntz=1&usg=AFQjCNHXPmngkMO155SJo7l3O4JOcRcghQ).  
+- **2020-12:** '[Coarse-to-fine CNN for image super-resolution](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9105085&sa=D&sntz=1&usg=AFQjCNHwF_ajw6cyVFSOXuPi36HzR4A1Kg)'  is  ranked  11 top 312 (11/312)  in high cite  on[ the early access of IEEE TMM](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fxpl%2Ftocresult.jsp%3Fisnumber%3D4456689%26sortType%3Dpaper-citations&sa=D&sntz=1&usg=AFQjCNHXPmngkMO155SJo7l3O4JOcRcghQ).
 - **2020-11:** Outstanding student of Harbin Institute of Technology.
-- **2020-11:** '[Lightweight Image Super-Resolution with Enhanced CNN](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fsubmit%2F3264342&sa=D&sntz=1&usg=AFQjCNGdUAMoOC34c6ku_uxMk4BeBYkoUA)' is reported by [52CV](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnjlAEQXxjXKqFcxM7KYiqA&sa=D&sntz=1&usg=AFQjCNHdZhU9ApQZWJ0iACmKV3tUuSantA).  
-- **2020-10:** [Deep Learning on Image Denoising: An overview](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fpdf%2F1912.13171.pdf&sa=D&sntz=1&usg=AFQjCNHnPbWu9-HEdLT-PJId0dYjmy4vTw)   is pushed on home page of the Neural Networks, which is one of 25 papers on home page of the NN.  
-  ( Rank:11/25, 25 is  the number of papers on home page of the NN)
+- **2020-11:** '[Lightweight Image Super-Resolution with Enhanced CNN](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fsubmit%2F3264342&sa=D&sntz=1&usg=AFQjCNGdUAMoOC34c6ku_uxMk4BeBYkoUA)' is reported by [52CV](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnjlAEQXxjXKqFcxM7KYiqA&sa=D&sntz=1&usg=AFQjCNHdZhU9ApQZWJ0iACmKV3tUuSantA).
+- **2020-10:** [Deep Learning on Image Denoising: An overview](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fpdf%2F1912.13171.pdf&sa=D&sntz=1&usg=AFQjCNHnPbWu9-HEdLT-PJId0dYjmy4vTw)   is pushed on home page of the Neural Networks, which is one of 25 papers on home page of the NN.( Rank:11/25, 25 is  the number of papers on home page of the NN)
 - **2020-09:** [Image denoising using deep CNN with batch renormalization ](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019302394&sa=D&sntz=1&usg=AFQjCNET0x3XV-DClPi7PYVfgOci4hcPuA)becomes a **highly cited paper**.
 - **2020-07:** One conference paper is accepted to IJCB.
 - **2020-07:** One journal paper paper is accepted to  Neural Networks.  ( Top Journal in Neural Network)
-- **2020-07:** '[BRDNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FBRDNet&sa=D&sntz=1&usg=AFQjCNGouHF2aNT8uC45jr97xNBXeuO8GQ)', '[ADNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FADNet&sa=D&sntz=1&usg=AFQjCNHp0jPjk4NENToVuFvEzxtjIkiF5w)' and '[ECNDNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FECNDNet&sa=D&sntz=1&usg=AFQjCNEnM3mVhlN1Ml6nhLf_gjO3xG2oiQ)' have been rated as the contributing codes by the GitHub in 2020.   
-  (GitHub is the largest code platform in the world)
-- **2020-07:** '[Lightweight Image Super-Resolution with Enhanced CNN](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fsubmit%2F3264342&sa=D&sntz=1&usg=AFQjCNGdUAMoOC34c6ku_uxMk4BeBYkoUA)' is reported by [Cver](https://www.google.com/url?q=https%3A%2F%2Fwx.zsxq.com%2Fmweb%2Fviews%2Ftopicdetail%2Ftopicdetail.html%3Ftopic_id%3D548844222215284%26group_id%3D142181451122%26user_id%3D28514284588581%26from%3Dtimeline&sa=D&sntz=1&usg=AFQjCNGaO3Tbwjgbk9DG_k_Ek7GEwSmd_Q).  
-- **2020-07:** '[Coarse-to-fine CNN for image super-resolution](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9105085&sa=D&sntz=1&usg=AFQjCNHwF_ajw6cyVFSOXuPi36HzR4A1Kg)' is reported by [52CV](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FN5SXUFmqYMN0XQJbVvBPEg&sa=D&sntz=1&usg=AFQjCNFhFeVOQajfqa7U-7ZqXX03DhiNRA).  
+- **2020-07:** '[BRDNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FBRDNet&sa=D&sntz=1&usg=AFQjCNGouHF2aNT8uC45jr97xNBXeuO8GQ)', '[ADNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FADNet&sa=D&sntz=1&usg=AFQjCNHp0jPjk4NENToVuFvEzxtjIkiF5w)' and '[ECNDNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FECNDNet&sa=D&sntz=1&usg=AFQjCNEnM3mVhlN1Ml6nhLf_gjO3xG2oiQ)' have been rated as the contributing codes by the GitHub in 2020.(GitHub is the largest code platform in the world)
+- **2020-07:** '[Lightweight Image Super-Resolution with Enhanced CNN](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fsubmit%2F3264342&sa=D&sntz=1&usg=AFQjCNGdUAMoOC34c6ku_uxMk4BeBYkoUA)' is reported by [Cver](https://www.google.com/url?q=https%3A%2F%2Fwx.zsxq.com%2Fmweb%2Fviews%2Ftopicdetail%2Ftopicdetail.html%3Ftopic_id%3D548844222215284%26group_id%3D142181451122%26user_id%3D28514284588581%26from%3Dtimeline&sa=D&sntz=1&usg=AFQjCNGaO3Tbwjgbk9DG_k_Ek7GEwSmd_Q).
+- **2020-07:** '[Coarse-to-fine CNN for image super-resolution](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9105085&sa=D&sntz=1&usg=AFQjCNHwF_ajw6cyVFSOXuPi36HzR4A1Kg)' is reported by [52CV](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FN5SXUFmqYMN0XQJbVvBPEg&sa=D&sntz=1&usg=AFQjCNFhFeVOQajfqa7U-7ZqXX03DhiNRA).
 - **2020-07:** '[Designing and training of a dual CNN for image denoising](http://www.google.com/url?q=http%3A%2F%2Farxiv.org%2Fabs%2F2007.03951&sa=D&sntz=1&usg=AFQjCNGmY38pFGKWcaGlRyYMIIHWevsB0A)' is reported by [Cver](https://www.google.com/url?q=https%3A%2F%2Fwx.zsxq.com%2Fmweb%2Fviews%2Ftopicdetail%2Ftopicdetail.html%3Ftopic_id%3D841142121551482%26group_id%3D142181451122%26user_id%3D28514284588581%26from%3Dtimeline&sa=D&sntz=1&usg=AFQjCNEaamgyTWTjuwx9EJoQzIr8wiUVuQ).
-- **2020-07:** One  paper is published to pre-published to arXiv. 
+- **2020-07:** One  paper is published to pre-published to arXiv.
 - **2020-07:** One journal paper is accepted to Knowledge-Based Systems. ( Known Journal in AI)
 - **2020-06:** One conference paper is accepted to ICPR.  ( Known Conference in Pattern Recognition )
 - **2020-05:** One journal paper is accepted to IEEE Transactions on Multimedia (IEEE T-MM). (Top Journal in Multimedia )
-- **2020-04:** '[Attention-guided CNN for Image Denoising](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019304241&sa=D&sntz=1&usg=AFQjCNFGl6briLBrVY6G2rlPfs9lmC8nsg)'  is pushed on home page of the Neural Networks, which is one of 25 papers on homepage of the NN.  
-  (Rank:18/25, 25 is  the number of papers on home page of the NN)
+- **2020-04:** '[Attention-guided CNN for Image Denoising](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019304241&sa=D&sntz=1&usg=AFQjCNFGl6briLBrVY6G2rlPfs9lmC8nsg)'  is pushed on home page of the Neural Networks, which is one of 25 papers on homepage of the NN.(Rank:18/25, 25 is  the number of papers on home page of the NN)
 - **2020-03:** [BRDNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FBRDNet&sa=D&sntz=1&usg=AFQjCNGouHF2aNT8uC45jr97xNBXeuO8GQ) technique is collected by the [iHub](https://www.google.com/url?q=https%3A%2F%2Fihub.co.ke%2F&sa=D&sntz=1&usg=AFQjCNEyZDXsop2-D8SJ_WxtlorShH7g1g). （iHub is the largest AI platform in China）
 - **2020-03:** [ECNDNet](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fhellloxiaotian%2FECNDNet&sa=D&sntz=1&usg=AFQjCNEnM3mVhlN1Ml6nhLf_gjO3xG2oiQ) technique is collected by the [Profillic](https://www.google.com/url?q=https%3A%2F%2Fwww.catalyzex.com%2Fpaper%2Farxiv%3A1810.11834&sa=D&sntz=1&usg=AFQjCNH0_9oV0njqqIo3O-bP6k4lO_tfKQ).  （[Profillic](https://www.google.com/url?q=https%3A%2F%2Fwww.catalyzex.com%2Fpaper%2Farxiv%3A1810.11834&sa=D&sntz=1&usg=AFQjCNH0_9oV0njqqIo3O-bP6k4lO_tfKQ) is the  the largest collection of machine learning models, papers in the world）
-- **2020-02:** '[Image Denoising Using Deep CNN with Batch Renormalization](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019302394&sa=D&sntz=1&usg=AFQjCNET0x3XV-DClPi7PYVfgOci4hcPuA)'  is pushed on home page of the Neural Networks.  （Rank:6/25, 25 is  the number of papers on home page of the NN)  
+- **2020-02:** '[Image Denoising Using Deep CNN with Batch Renormalization](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019302394&sa=D&sntz=1&usg=AFQjCNET0x3XV-DClPi7PYVfgOci4hcPuA)'  is pushed on home page of the Neural Networks.  （Rank:6/25, 25 is  the number of papers on home page of the NN)
 - **2020-02:** [Image Denoising Using Deep CNN with Batch Renormalization](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019302394&sa=D&sntz=1&usg=AFQjCNET0x3XV-DClPi7PYVfgOci4hcPuA) is reported by [52CV](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdSCRx-6QW9bFDYQkDBGdLw&sa=D&sntz=1&usg=AFQjCNE3oAd8l8HYyMvW1h6F3S0Ir7lQAw) and [extrememart](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJk6PlRBYorLI5FSa5xxOkw&sa=D&sntz=1&usg=AFQjCNHcVbsBA4LdGSkXXnRL1OV9jUgRwA).  (Known Wechat Account in China)
-- **2020-02:** [Attention-guided CNN for image denoising](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019304241&sa=D&sntz=1&usg=AFQjCNFGl6briLBrVY6G2rlPfs9lmC8nsg) is reported by the [52CV](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDebh7PZSFTBtOVxpFh9yfQ&sa=D&sntz=1&usg=AFQjCNEbGL7GLAEbAaqUHA31yBAMFxahgA) and  [Cver](https://www.google.com/url?q=https%3A%2F%2Fwx.zsxq.com%2Fdweb2%2Flogin&sa=D&sntz=1&usg=AFQjCNG8gmsTmdIzlmuTTezg8DEt-DLxxA).  
+- **2020-02:** [Attention-guided CNN for image denoising](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0893608019304241&sa=D&sntz=1&usg=AFQjCNFGl6briLBrVY6G2rlPfs9lmC8nsg) is reported by the [52CV](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDebh7PZSFTBtOVxpFh9yfQ&sa=D&sntz=1&usg=AFQjCNEbGL7GLAEbAaqUHA31yBAMFxahgA) and  [Cver](https://www.google.com/url?q=https%3A%2F%2Fwx.zsxq.com%2Fdweb2%2Flogin&sa=D&sntz=1&usg=AFQjCNG8gmsTmdIzlmuTTezg8DEt-DLxxA).
 - **2020-01:** [Deep Learning on Image Denoising: An overview](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fpdf%2F1912.13171.pdf&sa=D&sntz=1&usg=AFQjCNHnPbWu9-HEdLT-PJId0dYjmy4vTw) is  reported by several wechat pubic accounts, such as [AI Frontier lecture](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaaaaG5LkyWcJ9dhZ74Cp6A&sa=D&sntz=1&usg=AFQjCNH107bAsLpSJ_maz1_DdT41pKiKPQ)，[Cver](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnmKWJPbedGo1J8-oeIKm2w&sa=D&sntz=1&usg=AFQjCNExScWx5ryfpo9VyhKX0TLT7vDqmA) and  [extrememart](https://www.google.com/url?q=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhPaJssohwTIPx6kzGvp70g&sa=D&sntz=1&usg=AFQjCNGhryvLRHHmIDcFVUx3IuuYityK4w).  (Known Wechat Account in China)
 - **2019-10:** Doctoral National Scholarship
 - **2019-10:** One journal paper is accepted to Neural Networks.  ( Top Journal in Neural Network)
-- **2019-08:** One journal paper is accepted to Pattern Recognition Letters. 
+- **2019-08:** One journal paper is accepted to Pattern Recognition Letters.
 - **2019-08:** One journal paper is accepted to Neural Networks.  ( Top Journal in Neural Network)
 - **2019-05:** 2019 Merit Student of Heilongjiang Province.
 - **2019-04:** 2019 Outstanding student of Harbin Institute of Technology.
@@ -436,36 +432,34 @@ Please send this document along with your resume to my email. After the review, 
 ## SOCIAL APPOINTMENTS（社会兼职）
 
 1. Associate Editor for CAAI Transactions on Intelligence Technology, Computational Intelligence, Drones, International Journal of Image and Graphics
-2. Guest Editor for IEEE TCE, Mathematics 
-3. SI Chair ACAIT 2022
-4. Special Session Co-Chair, Workshop Chair: ICCSI 2022
-5. PC Chair for International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)
-6. Workshop Chair for International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)
-7. Workshop Chair for International Conference on Computer, Big Data and Artificial Intelligence 2021 (ICCBDAI 2021)
-<br/>
+2. Editorial board member for IEEE TIP, Pattern Recognition, IEEE TCE
+3. Guest Editor for IEEE TCE, Mathematics
+4. SI Chair ACAIT 2022
+5. Special Session Co-Chair, Workshop Chair: ICCSI 2022
+6. PC Chair for International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)
+7. Workshop Chair for International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM 2022)
+8. Workshop Chair for International Conference on Computer, Big Data and Artificial Intelligence 2021 (ICCBDAI 2021)
 
-## I serve as a reviewer for the following journals and conferences (审稿人) 
+## I serve as a reviewer for the following journals and conferences (审稿人)
 
-
-1. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)  
-2. IEEE Transactions on Image Processing (TIP)  
-3. IEEE Transactions on Neural Networks and Learning Systems (TNNLS)  
-4. IEEE Transactions on Multimedia (TMM)  
-5. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
-6. IEEE Transactions on Intelligent Vehicles (TIV)  
-7. IEEE Transactions on Systems, Man, and Cybernetics (TSMC)  
-8. IEEE Transactions on Cybernetics (TCYB)  
-9. IEEE Transactions on Consumer Electronics (TCE)  
-10. IEEE Transactions on Instrumentation and Measurement (TIM)  
-11. IEEE Transactions on Medical Imaging (TMI)  
-12. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  
-13. International Conference on Computer Vision (ICCV)  
-14. Association for the Advancement of Artificial Intelligence Conference (AAAI)  
-15. International Joint Conference on Artificial Intelligence (IJCAI)  
-16. ACM International Conference on Multimedia (ACM MM)  
-17. International Journal of Computer Vision (IJCV)  
+1. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+2. IEEE Transactions on Image Processing (TIP)
+3. IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+4. IEEE Transactions on Multimedia (TMM)
+5. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+6. IEEE Transactions on Intelligent Vehicles (TIV)
+7. IEEE Transactions on Systems, Man, and Cybernetics (TSMC)
+8. IEEE Transactions on Cybernetics (TCYB)
+9. IEEE Transactions on Consumer Electronics (TCE)
+10. IEEE Transactions on Instrumentation and Measurement (TIM)
+11. IEEE Transactions on Medical Imaging (TMI)
+12. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+13. International Conference on Computer Vision (ICCV)
+14. Association for the Advancement of Artificial Intelligence Conference (AAAI)
+15. International Joint Conference on Artificial Intelligence (IJCAI)
+16. ACM International Conference on Multimedia (ACM MM)
+17. International Journal of Computer Vision (IJCV)
 18. Artificial Intelligence (AI)
-
 
 <br/>
 
@@ -479,7 +473,9 @@ First Prize of the Natural Science Award of Guangdong Province. (Provincial-Leve
 
 Best Paper Award from the top journal Pattern Recognition in the field of international pattern recognition. 2024. (Ranked 1st)
 
-Ranked among the Top 2% of Global Scientists for four consecutive years (2022–2025). (Ranked 1st)
+Premium Award for Best Paper in IET. (Ranked 1st)
+
+Ranked among the Top 2% of Global Scientists for five consecutive years (2022–2026), including the career-long ranking. (Ranked 1st)
 
 Shenzhou Scholar of Harbin Institute of Technology.
 
@@ -510,7 +506,8 @@ Best Paper Award from the top journal Pattern Recognition in the field of intern
 One paper applied in the purchase and application of CT machines by a U.S. medical imaging company. -->
 
 ## Student Awards (学生获奖)
-Xin Weiqiang, Chen Xi, Meng Qi, Xia Yinghao, Yang Zhuowei, and Wang Yansong received the National Scholarship.
+
+Xin Weiqiang, Chen Xi, Xie Jingyuan, Meng Qi, Xia Yinghao, Yang Zhuowei, and Wang Yansong received the National Scholarship.
 
 Ma Yingpeng, Wang Pengwei, Xin Weiqiang, and Wu Zi'ang received the University Outstanding Undergraduate Thesis Award.
 
@@ -528,169 +525,180 @@ Li Yuxuan, Yang Zhuowei, and Cheng Tongtong received the Second Prize in the See
 
 Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Prize in the Software Design Innovation Track (Northwest Division) of the 18th College Student Software Innovation Competition.
 
-
 <div id="h.a4d1eb0f3c9c05f_23" class="hJDwNd-AhqUyc-uQSCkd jXK9ad D2fZ2 OjCsFc wHaque"><div class="jXK9ad-SmKAyb"><div class="tyJCtd baZpAe"><div class="iwQgFb" role="presentation"></div></div></div></div>
 
 <br/>
 <br/>
 
+## Outstanding Undergraduate Thesis Award (优秀本科生毕业论文获得者)
+
+- 2026: Meng Qi -> The University of Hong Kong (joint M.S. program; plans to pursue a Ph.D. in the group)
+- 2025: Wu Zi'ang -> The Hong Kong University of Science and Technology (joint M.S. program; Ph.D. in the group)
+- 2024: Xin Weiqiang -> Northwestern Polytechnical University (M.S. in the group; plans to pursue a Ph.D. in the group)
+- 2023: Wang Pengwei -> National University of Singapore
+- 2022: Ma Yingpeng -> University of Macau (plans to work in the group)
+
 ## Team Members (团队成员)
 
-### Postdoctoral Fellows and PhD Students（在读博后/博士生）
-
-<!-- <div class="box">
-	<div class="img">
-		<img src="picture/Jing Fang.jpg" >
-		<div class="desc_blank"> </div>
-		<div class="desc">Jing Fang,  <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-		<div class="desc_blank_2"> </div>
-	</div>
-</div> -->
-
-<div class="box">
-	<div class="img">
-		<img src="picture/Chen Shi.png" >
-		<div class="desc_blank"> </div>
-		<div class="desc">施晨（访问生）, China</div>
-		<div class="desc_blank_2"> </div>
-	</div>
-	<div class="img">
-          	<img src="picture/Ziang Wu.png" >
-          	<div class="desc_blank"> </div>
-          	<div class="desc">吴子昂,  <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
-          	<div class="desc_blank_2"> </div>
-   	</div>
-</div>
-		
-
-<div class="box">
-	<div class="img">
-   		<img src="picture/Kaiwen Zha.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  查凯文, <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-    <div class="img">
-   		<img src="picture/Mingjian Song.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  宋明键, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-</div>
-
-<div class="box">
-	<div class="img">
-		<img src="picture/Yiwei Wang.jpg" >
-		<div class="desc_blank"> </div>
-		<div class="desc">王奕为,  <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
-		<div class="desc_blank_2"> </div>
-	</div>
-	<div class="img">
-		<img src="picture/Lingyi Mu.png" >
-		<div class="desc_blank"> </div>
-		<div class="desc">缪林一（访问生）, China</div>
-		<div class="desc_blank_2"> </div>
-	</div>
-</div>
-<div class="box">
-    <div class="img">
-   		<img src="picture/Binbin Zhang.jpg" >
-  		<div class="desc_blank"> </div>
-   		<div class="desc">  张彬彬, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-  		<div class="desc_blank_2"> </div>
-  	</div>
-</div>
+<div class="team-grid">
 
 
-
-<div class="box">
-	<div class="img">
-		<!-- <img src="" > -->
-		<div class="desc_blank"> </div>
-		<div class="desc">王金斌,  <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
-		<div class="desc_blank_2"> </div>
-	</div>
-	<div class="img">
-		<!-- <img src="" > -->
-		<div class="desc_blank"> </div>
-		<div class="desc">李辉年,  <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
-		<div class="desc_blank_2"> </div>
-	</div>
-</div>
-
-### Current Master's Students（在读硕士生）
-
-<div class="box">
-	<div class="img">
-		<img src="picture/Weiqiang Xin.jpg" >
-		<div class="desc_blank"> </div>
-		<div class="desc">辛维强, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-		<div class="desc_blank_2"> </div>
-	</div>
-	<div class="img">
-		<img src="picture/Xi Chen.jpg" >
-		<div class="desc_blank"> </div>
-		<div class="desc">陈曦, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
-		<div class="desc_blank_2"> </div>
-	</div>
-</div>
+<h3>Postdoctoral Fellows and PhD Students（在读博后/博士生）</h3>
 
 <div class="box">
 	<div class="img">
 		<img src="picture/Jingyuan Xie.jpg" >
 		<div class="desc_blank"> </div>
-		<div class="desc">谢静远, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China</div>
+		<div class="desc">谢静远, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （27级博士生；西北工业大学（硕）、西北工业大学（本）（国奖、研一上进组，2篇IEEE TIP，1篇CCF T2，1篇CVPR Workshop，授权1项发明专利））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Weiqiang Xin.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">辛维强, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （27级博士生；西北工业大学（硕）、西北工业大学（本）（国奖、校优秀研究生）（大四开始进组，1篇IEEE TCE，2篇SCI，1项发明专利受理））</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
 		<img src="picture/Tongtong Cheng.jpg" >
 		<div class="desc_blank"> </div>
-		<div class="desc">程童桐, <a href = "https://www.cuhk.edu.hk">The Chinese University of Hong Kong</a>, China</div>
+		<div class="desc">程童桐, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （27级博士生；香港中文大学（硕）、西北工业大学（本）（大四开始进组，联合培养硕士，推荐阿里实习ing）（1篇IEEE TCE，1篇AI Review，1篇SCI，1篇ACAIT会议论文））</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 </div>
 
 <div class="box">
 	<div class="img">
-		<img src="picture/Qi Meng.png" >
+		<img src="picture/Ao Li.png" >
 		<div class="desc_blank"> </div>
-		<div class="desc">孟琦, <a href = "https://www.hku.hk">The University of Hong Kong</a>, China</div>
+		<div class="desc">李澳, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （27级博士生；美国纽约大学（硕）、英国华威大学（硕）、英国诺丁汉大学（本））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Ziang Wu.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">吴子昂, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （26级博士生；香港科技大学（硕）、西北工业大学（本）（大四进组，1篇ACM Trans，2篇CCF C SCI，2篇SCI，1篇CCF T2 中国图象图形学报））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Yiwei Wang.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">王奕为, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （26级博士生；中国农业大学（硕）、中国农业大学（本）（1篇中科院一区SCI论文））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Binbin Zhang.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">张彬彬, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （26级博士生）</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Kaiwen Zha.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">查凯文, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （26级博士生；（直博生）（1项受理发明专利））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Yukun Cao.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">曹煜坤, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （26级博士生；（直博生，本科亦为哈尔滨工业大学））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Mingjian Song.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">宋明键, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （26级博士生；西北工业大学（本）（直博生）（大一开始进组，1篇PR，1篇IEEE TCE，1篇CAAI A，1篇SCI））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Yang Liu.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">刘洋（访问生）, China （26级博士生；哈尔滨工程大学，2026.09-至今）</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Chen Shi.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">施晨（访问生）, China （25级博士生；哈尔滨医科大学，2025.09-至今）</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Gen Li.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">李根（访问生）, China （22级博士生；西北工业大学，2026.08-至今（受理1项发明专利））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<h3>Current Master's Students（在读硕士生）</h3>
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Jingyuan Xie.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">谢静远, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China （24级硕士生；西北工业大学（本）（国奖、研一上进组，2篇IEEE TIP，1篇CCF T2，1篇CVPR Workshop，授权1项发明专利，拟在课题组读博））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Weiqiang Xin.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">辛维强, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China （24级硕士生；西北工业大学（本）（国奖、校优秀研究生）（大四开始进组，1篇IEEE TCE，2篇SCI，1项发明专利受理，拟在课题组读博））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Xi Chen.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">陈曦, <a href = "https://www.nwpu.edu.cn">Northwestern Polytechnical University</a>, China （24级硕士生；西北工业大学（本）（国奖、校优秀研究生）（大四开始进组，腾讯实习）（2篇SCI））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Tongtong Cheng.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">程童桐, <a href = "https://www.cuhk.edu.hk">The Chinese University of Hong Kong</a>, China （25级硕士生；西北工业大学（本）（大四开始进组，联合培养硕士，推荐阿里实习ing）（1篇IEEE TCE，1篇AI Review，1篇SCI，1篇ACAIT会议论文，拟在课题组读博））</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
 		<img src="picture/Yang Xiao.png" >
 		<div class="desc_blank"> </div>
-		<div class="desc">肖扬, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc">肖扬, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （25级硕士生；哈尔滨工业大学（威海）（本）（公司实习ing））</div>
 		<div class="desc_blank_2"> </div>
 	</div>
-</div>
-
-<div class="box">
 	<div class="img">
 		<img src="picture/Mengyuan Wei.png" >
 		<div class="desc_blank"> </div>
-		<div class="desc">卫梦源, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-		<div class="desc_blank_2"> </div>
-	</div>
-	<div class="img">
-		<img src="picture/Zihao Zhao.png" >
-		<div class="desc_blank"> </div>
-		<div class="desc">赵梓豪, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc">卫梦源, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （25级硕士生；哈尔滨工业大学（威海）（本）（1篇EI，1项发明专利受理）（公司实习ing））</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 </div>
 
 <div class="box">
 	<div class="img">
-		<img src="picture/Yu Deng.png" >
+		<img src="picture/Zihao Zhao.png" >
 		<div class="desc_blank"> </div>
-		<div class="desc">邓寓, <a href = "https://www.hit.edu.cn/#/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc">赵梓豪, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （25级硕士生；哈尔滨工业大学（本）（公司实习ing））</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
 		<img src="picture/Le Hu.jpg" >
 		<div class="desc_blank"> </div>
-		<div class="desc">胡乐, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc">胡乐, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （25级硕士生；武汉大学（本）（1项发明专利受理）（公司实习ing））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Yu Deng.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">邓寓, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （25级硕士生；天津大学（本）（1篇EI））</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 </div>
@@ -699,266 +707,345 @@ Yang Zhuowei, Fu Zhuoqun, Yang Haobo, and Cheng Tongtong received the Third Priz
 	<div class="img">
 		<img src="picture/Wenjie Liu.png" >
 		<div class="desc_blank"> </div>
-		<div class="desc">刘文杰, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc">刘文杰, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （25级硕士生）</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
 		<img src="picture/Kun Wen.png" >
 		<div class="desc_blank"> </div>
-		<div class="desc">温坤, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc">温坤, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （25级硕士生；（2项发明专利受理））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Qi Meng.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">孟琦, <a href = "https://www.hku.hk">The University of Hong Kong</a>, China （26级硕士生；西北工业大学（本）（国奖）（大二开始进组，3篇SCI，联合培养硕士）（拟在课题组读博））</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 </div>
 
 <div class="box">
-	<div class="img">
-		<img src="picture/Yuelei Wang.JPG" >
-		<div class="desc_blank"> </div>
-		<div class="desc">王悦雷, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-		<div class="desc_blank_2"> </div>
-	</div>
-	<div class="img">
-		<img src="picture/Xueyou Lu.jpg" >
-		<div class="desc_blank"> </div>
-		<div class="desc">陆学优, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-		<div class="desc_blank_2"> </div>
-	</div>
-</div>
-
-<div class="box">
-	<div class="img">
-		<img src="picture/Yuchen Li.png" >
-		<div class="desc_blank"> </div>
-		<div class="desc">李禹辰, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
-		<div class="desc_blank_2"> </div>
-	</div>
 	<div class="img">
 		<img src="picture/Yang Haoyan.png" >
 		<div class="desc_blank"> </div>
-		<div class="desc">杨昊岩, <a href = "https://www.cuhk.edu.hk">The Chinese University of Hong Kong</a>, China</div>
+		<div class="desc">杨昊岩, <a href = "https://www.cuhk.edu.hk">The Chinese University of Hong Kong</a>, China （26级硕士生；哈尔滨工业大学（本）（拟在课题组读博））</div>
 		<div class="desc_blank_2"> </div>
 	</div>
-</div>
-
-<div class="box">
 	<div class="img">
 		<img src="picture/Yachun Du.jpg" >
 		<div class="desc_blank"> </div>
-		<div class="desc">杜亚酌, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc">杜亚酌, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （26级硕士生；东南大学（本））</div>
 		<div class="desc_blank_2"> </div>
 	</div>
+	<div class="img">
+		<img src="picture/Ruojie Ran.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">冉若杰, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （26级硕士生；哈尔滨工业大学（威海）（本））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
 	<div class="img">
 		<img src="picture/Tianle Zhou.jpg" >
 		<div class="desc_blank"> </div>
-		<div class="desc">周天乐, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc">周天乐, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （26级硕士生；哈尔滨工业大学（深圳）（本）（拟在课题组读博））</div>
 		<div class="desc_blank_2"> </div>
 	</div>
-</div>
-
-<div class="box">
 	<div class="img">
 		<img src="picture/Dingning Zheng.jpg" >
 		<div class="desc_blank"> </div>
-		<div class="desc">郑丁宁, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc">郑丁宁, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （26级硕士生；哈尔滨工业大学（威海）（本）（拟在课题组读博））</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
-		<img src="picture/Chang Xu.jpg" >
+		<img src="picture/Hangshuo Zhang.png" >
 		<div class="desc_blank"> </div>
-		<div class="desc">徐畅, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China</div>
+		<div class="desc">张航朔, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （26级硕士生；大连理工大学（本））</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 </div>
 
 <div class="box">
+	<div class="img">
+		<img src="picture/Qipeng Ma.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">马琦鹏, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （26级硕士生；西北农林大学（本））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Dechen Li.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">李德辰, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （26级硕士生）</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Ziyi Wu.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">吴子熠, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （26级硕士生）</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Jing Lin.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">林箐, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （26级硕士生）</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Jiyu Chen.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">陈际羽, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （27级硕士生；（读硕/硕转博））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Xiaowen Chen.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">陈小文, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （27级硕士生；（读硕/硕转博））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Qiushuo Wang.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">王秋硕, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （27级硕士生；（读硕/硕转博））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Yiming Li.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">李易明, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （27级硕士生；（读硕））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Songxin He.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">何松鑫, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （27级硕士生；（读硕））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Yanyu Qiu.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">邱岩宇, <a href = "https://www.cuhk.edu.hk">The Chinese University of Hong Kong</a>, China （27级硕士生；哈尔滨工业大学（本）（读硕/课题组读博））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Mingjie Zhang.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">张茗杰, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （27级硕士生；哈尔滨工业大学（威海）（本）（读硕/已发表一作CCF A/IEEE TKDE））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
 	<div class="img">
 		<img src="picture/Liqing Chen.jpg" >
 		<div class="desc_blank"> </div>
-		<div class="desc">陈丽晴, 硕士生, China</div>
-		<div class="desc_blank_2"> </div>
-	</div>
-	<div class="img">
-		<img src="picture/Jinglong Zhang.jpg" >
-		<div class="desc_blank"> </div>
-		<div class="desc">张景龙, 硕士生, China</div>
+		<div class="desc">陈丽晴（访问生）, China （24级硕士生）</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 </div>
 
 <div class="box">
 	<div class="img">
-		<img src="picture/Xiang Cao.jpg" >
+		<img src="picture/Jinglong Zhang.jpg" >
 		<div class="desc_blank"> </div>
-		<div class="desc">曹翔, 硕士生, China</div>
+		<div class="desc">张景龙（访问生）, China （24级硕士生；1篇中文核心）</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Haoyang Zhuang.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">庄皓阳（访问生）, China （25级硕士生）</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Yuhang Cao.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">曹玉航（访问生）, China （25级硕士生）</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<div class="box">
+	<div class="img">
+		<img src="picture/Jingbiao Chen.jpg" >
+		<div class="desc_blank"> </div>
+		<div class="desc">陈靖彪（访问生）, China （25级硕士生）</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
 		<img src="picture/Liangbo Lv.jpg" >
 		<div class="desc_blank"> </div>
-		<div class="desc">吕博梁, 硕士生, China</div>
+		<div class="desc">吕博梁（访问生）, China （26级硕士生）</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<img src="picture/Zhenyan Zhang.png" >
+		<div class="desc_blank"> </div>
+		<div class="desc">张振岩（访问生）, China （26级硕士生）</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 </div>
 
 <div class="box">
 	<div class="img">
-		<img src="picture/Liming Song.jpg" >
+		<img src="picture/Hai Zhang.png" >
 		<div class="desc_blank"> </div>
-		<div class="desc">宋黎明, 硕士生, China</div>
+		<div class="desc">张海（访问生）, China （26级硕士生）</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
-		<img src="picture/Tingxu Zhao.jpg" >
+		<img src="picture/Juncheng Ye.png" >
 		<div class="desc_blank"> </div>
-		<div class="desc">赵霆旭, 硕士生, China</div>
+		<div class="desc">叶俊呈（访问生）, China （26级硕士生）</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+</div>
+
+<h3>Current Undergraduate Students（在读本科生）</h3>
+
+<div class="box">
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">陈际羽, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （23级本科生；拟在课题组攻读27级硕士研究生/硕转博）</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">陈小文, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （23级本科生；拟在课题组攻读27级硕士研究生/硕转博）</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">王秋硕, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （23级本科生；拟在课题组攻读27级硕士研究生/硕转博）</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 </div>
 
 <div class="box">
 	<div class="img">
-		<img src="picture/Yuhang Cao.jpg" >
+		<!-- <img src="" > -->
 		<div class="desc_blank"> </div>
-		<div class="desc">曹玉航, 硕士生, China</div>
+		<div class="desc">李易明, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （23级本科生；拟在课题组攻读27级硕士研究生）</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 	<div class="img">
-		<img src="picture/Jingbiao Chen.jpg" >
+		<!-- <img src="" > -->
 		<div class="desc_blank"> </div>
-		<div class="desc">陈靖彪, 硕士生, China</div>
+		<div class="desc">何松鑫, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （23级本科生；拟在课题组攻读27级硕士研究生/硕转博）</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">邱岩宇, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （23级本科生；拟在课题组攻读27级硕士研究生，香港中文大学与哈工大联合培养/拟在组内攻读博士）</div>
 		<div class="desc_blank_2"> </div>
 	</div>
 </div>
-
-<!-- ### Visiting students (访问生)· -->
-
-<!-- <div class="box">
-	<div class="img">
-
-	    <div class="desc_blank"> </div>
-	    <div class="desc">  Song Wenqin, <a href = "https://www.hrbust.edu.cn/	">Harbin University of Science and Technology</a> (M.S., Visiting Student), 	China</div>
-	    <div class="desc_blank_2"> </div>
-	</div>
-	<div class="img">
-
-	    <div class="desc_blank"> </div>
-	    <div class="desc">  Cao Wenlong, <a href = "https://www.hrbust.edu.cn/	">Harbin University of Science and Technology</a> (M.S., Visiting Student), 	China</div>
-	    <div class="desc_blank_2"> </div>
-	</div>
-	<div class="img">
-
-	    <div class="desc_blank"> </div>
-	    <div class="desc">  Sun Guoxin, <a href = "https://www.hrbust.edu.cn/">Harbin 	University of Science and Technology</a> (M.S., Visiting Student), China</div>
-	    <div class="desc_blank_2"> </div>
-	</div>
-	<div class="img">
-
-	    <div class="desc_blank"> </div>
-	    <div class="desc">  Chen Liqing, <a href = "https://www.hlju.edu.cn/	">Heilongjiang University</a> (M.S., Visiting Student), China</div>
-	    <div class="desc_blank_2"> </div>
-	</div>
-	<div class="img">
-
-	    <div class="desc_blank"> </div>
-	    <div class="desc">  Zhang Jinglong, <a href = "https://www.hlju.edu.cn/	">Heilongjiang University</a> (M.S., Visiting Student), China</div>
-	    <div class="desc_blank_2"> </div>
-	</div>
-</div>
-	 -->
-### Supervisor for Undergraduates (本科生)
-
 
 <div class="box">
-<div class="img">
-    <!-- <img src="picture/Ma Yukun.png" > -->
-    <div class="desc_blank"> </div>
-    <div class="desc">  Ma Yukun (Class of 2024, B.S., Northwestern Polytechnical University, Top-notch Program), China</div>
-    <div class="desc_blank_2"> </div>
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">张茗杰, <a href = "https://www.hitwh.edu.cn/">Harbin Institute of Technology, Weihai</a>, China （23级本科生；发表1篇一作IEEE TKDE/CCF A（拟在课题组攻读27级硕士研究生））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">王朝, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （24级本科生）</div>
+		<div class="desc_blank_2"> </div>
+	</div>
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">代帅, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （25级本科生；院士班（考察ing）（大一开始进组，拟在课题组攻读29级硕士研究生））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
 </div>
-<div class="img">
-    <!-- <img src="picture/Wang Yansong.png" > -->
-    <div class="desc_blank"> </div>
-    <div class="desc">  Wang Yansong (Class of 2024, B.S., Northwestern Polytechnical University, Top-notch Program, National Scholarship), China</div>
-    <div class="desc_blank_2"> </div>
-</div>
-<div class="img">
-    <!-- <img src="picture/Feng Kairui.png" > -->
-    <div class="desc_blank"> </div>
-    <div class="desc">  Feng Kairui (Class of 2024, B.S., Northwestern Polytechnical University, Top-notch Program), China</div>
-    <div class="desc_blank_2"> </div>
-</div>
-<div class="img">
-    <!-- <img src="picture/Dai Shuai.png" > -->
-    <div class="desc_blank"> </div>
-    <div class="desc">  Dai Shuai (Class of 2025, B.S., Harbin Institute of Technology, Academician Class), China</div>
-    <div class="desc_blank_2"> </div>
-</div>
-<div class="img">
-    <!-- <img src="picture/Gong Chaoyi.png" > -->
-    <div class="desc_blank"> </div>
-    <div class="desc">  Gong Chaoyi (Class of 2025, B.S., Harbin Institute of Technology, Academician Class), China</div>
-    <div class="desc_blank_2"> </div>
+
+<div class="box">
+	<div class="img">
+		<!-- <img src="" > -->
+		<div class="desc_blank"> </div>
+		<div class="desc">公超艺, <a href = "https://www.hit.edu.cn/">Harbin Institute of Technology</a>, China （25级本科生；院士班（考察ing）（大一开始进组，拟在课题组攻读29级硕士研究生））</div>
+		<div class="desc_blank_2"> </div>
+	</div>
 </div>
 
 </div>
-
-
 
 ### 毕业研究生（博后/博/硕）
 
-- 博士后 方婧 西北工业大学博士后 武汉大学博士 (拟签约江苏省警官学院(提前批招生院校)/公务员)
-- 博 胡英彪 澳门理工大学(博) (访问生，拟签约暨南大学)
-- 博 李辉年 澳门科技大学(博) (访问生，哈尔滨工业大学博后）
-- 博 俞为 西北工业大学（博） 西北工业大学
-- 博 天博 西北工业大学 （博）西北工业大学
-- 博 英豪 西北工业大学 （博）西北工业大学
-- 23级硕 苏沛贤 深圳大学 （硕）（访问生）
-- 23级硕 陈慕晗 西北工业大学 （硕）签约百度 （校优秀研究生）(年薪70W+)
-- 23级硕 杨俊健 西北工业大学（硕）、西北工业大学（本）签约中国石油（新疆）（校优秀研究生）
-- 22级硕 许治新 北京信息科技大学（硕） （访问生） 北京奈亚信息技术有限公司
-- 19级博 胡雨轩 中南大学（博） （协助指导） 长沙理工大学
-- 22级硕 高西 西北工业大学（硕）海康威视
-- 21级硕 弓然 西北工业大学（硕）西北工业大学（博） （校优秀毕业生）
-- 21级硕 关林 西北工业大学（硕）上海**公司 （校优秀毕业生、国奖）
-- 21级硕 赵慧 湖南大学（硕）（协助指导）京东
-- 21级硕 李超 中南大学（硕）（协助指导）湖南**公司
-- 21级硕 谢少东 中南大学 （硕）（协助指导）湖南**公司
-- 20级硕 关玉 中南大学 （硕）（协助指导）中南大学（博）
-- 19级硕 宋强 广西师范大学（硕）（协助指导）中南大学（博）
-- 19级硕 曾加 广州商学院（教师）
+- 博士后 方婧 西北工业大学博士后 武汉大学博士 -> 江苏省警官学院（提前批招生院校）/公务员
+- 博 胡英彪 澳门理工大学（博）（访问生）-> 暨南大学
+- 博 李辉年 澳门科技大学（博）（访问生）-> 哈尔滨工业大学博后
+- 博 俞为 西北工业大学（博）-> 西北工业大学
+- 博 天博 西北工业大学（博）-> 西北工业大学
+- 博 英豪 西北工业大学（博）-> 西北工业大学
+- 24级硕 谢静远 西北工业大学（硕）、西北工业大学（本）（国奖、研一上进组，2篇IEEE TIP，1篇CCF T2，1篇CVPR Workshop，授权1项发明专利）-> 哈尔滨工业大学（博）
+- 24级硕 辛维强 西北工业大学（硕）、西北工业大学（本）（国奖、校优秀研究生）（大四开始进组，1篇IEEE TCE，2篇SCI，1项发明专利受理）-> 哈尔滨工业大学（博）
+- 25级硕 程童桐 香港中文大学（硕）、西北工业大学（本）（大四开始进组，联合培养硕士，推荐阿里实习ing）（1篇IEEE TCE，1篇AI Review，1篇SCI，1篇ACAIT会议论文）-> 哈尔滨工业大学（博）
+- 25级硕 吴子昂 香港科技大学（硕，课题组联合培养）-> 哈尔滨工业大学（博）
+- 23级硕 苏沛贤 深圳大学（硕）（访问生）
+- 23级硕 陈慕晗 西北工业大学（硕）-> 百度（校优秀研究生）（年薪70W+）
+- 23级硕 杨俊健 西北工业大学（硕）、西北工业大学（本）-> 中国石油（新疆）（校优秀研究生）
+- 22级硕 许治新 北京信息科技大学（硕）（访问生）-> 北京奈亚信息技术有限公司
+- 19级博 胡雨轩 中南大学（博）（协助指导）-> 长沙理工大学
+- 22级硕 高西 西北工业大学（硕）-> 海康威视
+- 21级硕 弓然 西北工业大学（硕）-> 西北工业大学（博）（校优秀毕业生）
+- 21级硕 关林 西北工业大学（硕）-> 上海**公司（校优秀毕业生、国奖）
+- 21级硕 赵慧 湖南大学（硕）（协助指导）-> 京东
+- 21级硕 李超 中南大学（硕）（协助指导）-> 湖南**公司
+- 21级硕 谢少东 中南大学（硕）（协助指导）-> 湖南**公司
+- 20级硕 关玉 中南大学（硕）（协助指导）-> 中南大学（博）
+- 19级硕 宋强 广西师范大学（硕）（协助指导）-> 中南大学（博）
+- 19级硕 曾加 西北工业大学（硕）-> 广州商学院（教师）
 
 ### 毕业本科生
 
-- 22级本宋明键 西北工业大学(本)->哈尔滨工业大学(直博)
-- 22级本王悦雷 哈尔滨工业大学(本)->哈尔滨工业大学(硕)
-- 22级本孟琦 西北工业大学(本)->香港大学(硕、国奖)
-- 22级本庞啟兴 哈尔滨工业大学(本)->哈尔滨工业大学(硕)
-- 22级本杨昊岩 哈尔滨工业大学(本)->香港中文大学(硕)
-- 22级本杨卓威 西北工业大学(本)->中关村学院(直博)(国奖x2)
-- 21级本吴子昂 （西北工业大学校优秀本科生毕业论文、西工大校优秀毕业生）香港科大（硕）、哈工大（博）
-- 21级本梁云峰 西北工业大学(本)->西北工业大学（硕）
-- 21级本夏英豪 西北工业大学(本)->西北工业大学（硕）
+- 23级本 陈际羽 哈尔滨工业大学（本）-> 哈尔滨工业大学（拟课题组读硕/硕转博）
+- 23级本 陈小文 哈尔滨工业大学（本）-> 哈尔滨工业大学（拟课题组读硕/硕转博）
+- 23级本 王秋硕 哈尔滨工业大学（本）-> 哈尔滨工业大学（拟课题组读硕/硕转博）
+- 23级本 李易明 哈尔滨工业大学（本）-> 哈尔滨工业大学（拟课题组读硕）
+- 23级本 邱岩宇 哈尔滨工业大学（本）-> 香港中文大学（拟课题组读硕/博）
+- 23级本 何松鑫 哈尔滨工业大学（本）（拟在课题组攻读27级硕士研究生）
+- 23级本 张茗杰 哈尔滨工业大学（威海）（本）-> 哈尔滨工业大学（拟课题组读硕）
+- 22级本 宋明键 西北工业大学（本）-> 哈尔滨工业大学（直博）
+- 22级本 王悦雷 哈尔滨工业大学（本）-> 哈尔滨工业大学（硕）
+- 22级本 孟琦 西北工业大学（本）-> 香港大学（硕、国奖）
+- 22级本 庞啟兴 哈尔滨工业大学（本）-> 哈尔滨工业大学（硕）
+- 22级本 杨昊岩 哈尔滨工业大学（本）-> 香港中文大学（硕）
+- 22级本 杨卓威 西北工业大学（本）-> 中关村学院（直博）（国奖x2）
+- 21级本 吴子昂 （西北工业大学校优秀本科生毕业论文、西工大校优秀毕业生）香港科技大学（硕）、哈尔滨工业大学（博）
+- 21级本 梁云峰 西北工业大学（本）-> 西北工业大学（硕）
+- 21级本 夏英豪 西北工业大学（本）-> 西北工业大学（硕）
 - 21级本 施博轩 哈尔滨工业大学（本）、美国卡内基梅隆大学（硕）
-- 20级本辛维强 西北工业大学(本)->（西北工业大学校优秀本科生毕业论文）西北工业大学（硕）
-- 20级本陈曦 西北工业大学(本)->西北工业大学 （硕）
-- 20级本白天佑 西北工业大学(本)-> 西安华为研究所
-- 20级洪博 西北工业大学(本)->中广核
-- 20级 张烜华 西北工业大学(本)->中国移动（珠海）
-- 19级 王鹏维 西北工业大学(本)->（西北工业大学校优秀本科生毕业论文） 新加坡国立大学（硕）、维也纳医科大学（博）
-- 19级 丁任 西北工业大学(本)->澳大利亚墨尔本大学（硕）
-- 19级 王瀚霆 西北工业大学(本)->浙江大学（硕）
-- 19级 沈佳军 西北工业大学(本)->浙江大学 （硕）
-- 20级 邹佳梁 西北工业大学(本)->英国布里斯托大学深造
-- 19级 Tufahel Ahmed 西北工业大学(本)->国外就业
-- 19级 马英鹏 西北工业大学(本)->（西北工业大学校优秀本科生毕业论文）澳门大学（硕）、澳门大学（博）
-- 18级 李哲远 西北工业大学(本)->澳门大学（硕）、澳门大学（博）
-- 18级 智珂岩 西北工业大学(本)->西北工业大学深造
-- 18级 焦天才 西北工业大学(本)->西安交通大学深造
-- 18级 符育玮 西北工业大学(本)->西北工业大学深造
-- 18级 刘子瑞 西北工业大学(本)->华中师范大学深造
-
-
+- 20级本 辛维强 西北工业大学（本）->（西北工业大学校优秀本科生毕业论文）西北工业大学（硕）
+- 20级本 陈曦 西北工业大学（本）-> 西北工业大学（硕）
+- 20级本 白天佑 西北工业大学（本）-> 西安华为研究所
+- 20级 洪博 西北工业大学（本）-> 中广核
+- 20级 张烜华 西北工业大学（本）-> 中国移动（珠海）
+- 19级 王鹏维 西北工业大学（本）->（西北工业大学校优秀本科生毕业论文）新加坡国立大学（硕）、维也纳医科大学（博）
+- 19级 丁任 西北工业大学（本）-> 澳大利亚墨尔本大学（硕）
+- 19级 王瀚霆 西北工业大学（本）-> 浙江大学（硕）
+- 19级 沈佳军 西北工业大学（本）-> 浙江大学（硕）
+- 20级 邹佳梁 西北工业大学（本）-> 英国布里斯托大学深造
+- 19级 Tufahel Ahmed 西北工业大学（本）-> 国外就业
+- 19级 马英鹏 西北工业大学（本）->（西北工业大学校优秀本科生毕业论文）澳门大学（硕）、澳门大学（博）
+- 18级 李哲远 西北工业大学（本）-> 澳门大学（硕）、澳门大学（博）
+- 18级 智珂岩 西北工业大学（本）-> 西北工业大学深造
+- 18级 焦天才 西北工业大学（本）-> 西安交通大学深造
+- 18级 符育玮 西北工业大学（本）-> 西北工业大学深造
+- 18级 刘子瑞 西北工业大学（本）-> 华中师范大学深造
 
 <!-- ### Supporter
 This homepage is supported by Mr. Menghua Zheng in June, 2021.  -->
-
